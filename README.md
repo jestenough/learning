@@ -1,7 +1,7 @@
 # Learning
 ## Languages
-- [ ] [Python](/python)
-- [ ] [Bash](/bash)
+- [ ] [Python](/Python)
+- [ ] [Bash](/Bash)
 - [ ] [Vimscript](/vimscript)
 
 ## License
