@@ -1,0 +1,3 @@
+# Learning
+## Languages
+- [ ] [Python](/python)
