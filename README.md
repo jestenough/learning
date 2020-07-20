@@ -22,10 +22,10 @@
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=Grokking)
 
 ### Python
-- [ ] [Программирование на Python, том 1, 4-е издание. Марк Лутц]
-- [ ] [Чистый питон]
-- [ ] [Serious_Python]
-- [ ] [Прикладной анализ текстовых данных на Python]
+- [ ] Программирование на Python, том 1, 4-е издание. Марк Лутц
+- [ ] Чистый питон](Learning/Python/books/D_Beyder_-_Chisty_Python_-_2018.pdf
+- [ ] Serious_Python
+- [ ] Прикладной анализ текстовых данных на Python
 
 ### Tasks and puzzles
 
