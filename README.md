@@ -3,6 +3,7 @@
 ## Languages
 
 - [ ] [Bash](/Bash)
+- [ ] [C++](/C++)
 <!--- 
   [ ] [C#](/C#)
 - [ ] [Go](/Go) 
