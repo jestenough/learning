@@ -61,8 +61,8 @@
 
 ### Lectures on YouTube
 
-- [Лекторий ФПМИ] (https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
-- [Computer Science Center] (https://www.youtube.com/c/CompscicenterRu/featured)
-- [Лекториум] (https://www.youtube.com/user/OpenLektorium/featured)
-- [Igor Krylov] (https://www.youtube.com/c/IgorKrylov/featured)
-- [Deep Learning School] (https://www.youtube.com/c/DeepLearningSchool/featured)
+- [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
+- [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured)
+- [Лекториум](https://www.youtube.com/user/OpenLektorium/featured)
+- [Igor Krylov](https://www.youtube.com/c/IgorKrylov/featured)
+- [Deep Learning School](https://www.youtube.com/c/DeepLearningSchool/featured)
