@@ -5,8 +5,8 @@
 - [ ] [Bash](/Bash)
 - [ ] [C++](/C++)
 <!--- 
-  [ ] [C#](/C#)
-- [ ] [Go](/Go) 
+- [ ] [C#](/C#)
+- [ ] [Go](/Go)
 -->
 - [ ] [Python](/Python)
 <!---
@@ -31,7 +31,7 @@
 ### Tasks and puzzles
 
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)
-- [ ] Классические головоломки мартин гарднер
+- [ ]  Классические головоломки мартин гарднер
 - [ ] [Программирование: теоремы и задачи](https://hal.archives-ouvertes.fr/hal-01480636/document)
 
 ### Mathematics
@@ -58,3 +58,11 @@
 - [ ] [Вечность. В поисках окончательной теории времени](http://loveread.me/view_global.php?id=71317)
 - [ ] Квантовая механика теоретический минимум
 - [ ] Теоретический минимум по Computer Science
+
+### Lectures on YouTube
+
+- [Лекторий ФПМИ] (https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
+- [Computer Science Center] (https://www.youtube.com/c/CompscicenterRu/featured)
+- [Лекториум] (https://www.youtube.com/user/OpenLektorium/featured)
+- [Igor Krylov] (https://www.youtube.com/c/IgorKrylov/featured)
+- [Deep Learning School] (https://www.youtube.com/c/DeepLearningSchool/featured)
