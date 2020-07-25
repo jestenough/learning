@@ -27,15 +27,14 @@
 - [ ] Чистый питон
 - [ ] Serious_Python
 - [ ] Прикладной анализ текстовых данных на Python
+- [ ] A Byte oof Python (Russian)
 
 ### Tasks and puzzles
-
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)
 - [ ]  Классические головоломки мартин гарднер
 - [ ] [Программирование: теоремы и задачи](https://hal.archives-ouvertes.fr/hal-01480636/document)
 
 ### Mathematics
-
 - [ ] [Линейная алгебра для чайников](http://alik-abdulin.com/matrixes/matrixes.html#opred)
 - [ ] [Алгоритмы. Просто как дважды два](https://1lib.eu/book/2881801/bdf9dc?regionChanged=&redirect=537745)
 - [ ] [Курсы Мат. анализа 3 тома](https://may.alleng.org/d/math/math98.htm)
@@ -46,21 +45,21 @@
 - [ ] [живая математика](https://math.ru/lib/book/djvu/perelman/alive_math.djvu)
 
 ### Linux 
-
 - [ ] [Ядро Linux. Описание процесса разработки (м)](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)
 - [ ] [Внутреннее устройство Linux](https://itsecforu.ru/wp-content/uploads/2018/01/uord_brayan_vnutrennee_ustroystvo_linux.pdf)
 
-### Science
+- [ ]  Командная строка Linux (полное руководство)
 
+### Science
 - [ ] [Электроника для начинающих, Аливерти П., 2018](https://www.radiosovet.ru/book/elektronik/10405-elektronika-dlya-nachinayuschih.html)
 - [ ] [Радиоэлектроника для чайников](http://www.dialektika.com/books/978-5-8459-1055-4.html)
 - [ ] Майкл Файер: Абсолютный минимум. Как квантовая теория объясняет наш мир
 - [ ] [Вечность. В поисках окончательной теории времени](http://loveread.me/view_global.php?id=71317)
 - [ ] Квантовая механика теоретический минимум
 - [x] Теоретический минимум по Computer Science
+- [ ] Компьютерные науки.Базовый курс
 
 ### Lectures on YouTube
-
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
 - [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured)
 - [Лекториум](https://www.youtube.com/user/OpenLektorium/featured)
