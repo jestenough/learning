@@ -58,6 +58,8 @@
 - [ ] Квантовая механика теоретический минимум
 - [x] Теоретический минимум по Computer Science
 - [ ] Компьютерные науки.Базовый курс
+- [ ] Теоретический минимум по  Big Data
+- [ ] C A Software Engineering Approach 3rd Edition
 
 ### Lectures on YouTube
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
