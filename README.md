@@ -4,11 +4,13 @@
 
 - [ ] [Bash](/Bash)
 - [ ] [C++](/C++)
+- [ ] [NASM] (/NASM)
 <!--- 
 - [ ] [C#](/C#)
 - [ ] [Go](/Go)
 -->
 - [ ] [Python](/Python)
+- [ ] [SQL] (/SQL)
 <!---
 - [ ] [Ruby](/Ruby)
 - [ ] [Swift](/Swift)
@@ -25,9 +27,9 @@
 ### Python
 - [ ] Программирование на Python, том 1, 4-е издание. Марк Лутц
 - [ ] Чистый питон
-- [ ] Serious_Python
+- [ ] Serious-Python
 - [ ] Прикладной анализ текстовых данных на Python
-- [ ] A Byte oof Python (Russian)
+- [ ] A Byte of Python (Russian)
 
 ### Tasks and puzzles
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)
