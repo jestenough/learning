@@ -15,6 +15,7 @@
 - [ ] [Ruby](/Ruby)
 - [ ] [Swift](/Swift)
 -->
+- [ ] [TeX](/TeX)
 
 ## Books
 
