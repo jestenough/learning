@@ -4,13 +4,13 @@
 
 - [ ] [Bash](/Bash)
 - [ ] [C++](/C++)
-- [ ] [NASM] (/NASM)
+- [ ] [NASM](/NASM)
 <!--- 
 - [ ] [C#](/C#)
 - [ ] [Go](/Go)
 -->
 - [ ] [Python](/Python)
-- [ ] [SQL] (/SQL)
+- [ ] [SQL](/SQL)
 <!---
 - [ ] [Ruby](/Ruby)
 - [ ] [Swift](/Swift)
