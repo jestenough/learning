@@ -25,18 +25,23 @@
 - [ ] [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning?query=Grokking)
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=Grokking)
 
-### Python
+### Programming language
 - [ ] Программирование на Python, том 1, 4-е издание. Марк Лутц
 - [ ] Чистый питон
 - [ ] Serious-Python
 - [ ] Прикладной анализ текстовых данных на Python
 - [ ] A Byte of Python (Russian)
+- [ ] C A Software Engineering Approach 3rd Edition
+- [ ] Системное программирование на языке Си
+- [ ] Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.)
+- [ ] Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)
+- [ ] Программирование на языке ассемблера NASM для ОС Unix, 2011 г. (Столяров А.)
 
 ### Tasks and puzzles
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)
 - [ ]  Классические головоломки мартин гарднер
 - [ ] [Программирование: теоремы и задачи](https://hal.archives-ouvertes.fr/hal-01480636/document)
-
+- [ ]  Комбинаторные задачи: Олимпиады по программированию (Ю.В.Корженевич)
 ### Mathematics
 - [ ] [Линейная алгебра для чайников](http://alik-abdulin.com/matrixes/matrixes.html#opred)
 - [ ] [Алгоритмы. Просто как дважды два](https://1lib.eu/book/2881801/bdf9dc?regionChanged=&redirect=537745)
@@ -56,13 +61,14 @@
 ### Science
 - [ ] [Электроника для начинающих, Аливерти П., 2018](https://www.radiosovet.ru/book/elektronik/10405-elektronika-dlya-nachinayuschih.html)
 - [ ] [Радиоэлектроника для чайников](http://www.dialektika.com/books/978-5-8459-1055-4.html)
-- [ ] Майкл Файер: Абсолютный минимум. Как квантовая теория объясняет наш мир
+- [ ]  Майкл Файер: Абсолютный минимум. Как квантовая теория объясняет наш мир
 - [ ] [Вечность. В поисках окончательной теории времени](http://loveread.me/view_global.php?id=71317)
 - [ ] Квантовая механика теоретический минимум
 - [x] Теоретический минимум по Computer Science
 - [ ] Компьютерные науки.Базовый курс
 - [ ] Теоретический минимум по  Big Data
-- [ ] C A Software Engineering Approach 3rd Edition
+- [x] Самое главное...Электронная почта (А.Орлов)
+- [ ] IBM PS/2 Справочник пользователя
 
 ### Lectures on YouTube
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
