@@ -1,3 +1,0 @@
-# Learning Bash
-
-- [Lessons](/Lessons)

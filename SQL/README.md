@@ -1,3 +1,3 @@
 # Learning SQL
 
-- [Lessons](/Lessons)
+- [Lessons](/SQL/Lessons/)

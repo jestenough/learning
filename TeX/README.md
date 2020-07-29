@@ -1,4 +1,4 @@
 # Learning TeX
 
-- [Documents](/Documents)
+- [Documents](/TeX/Documents)
 

@@ -1,3 +1,3 @@
 # Learning Ci plus plus
 
-- [Lessons](/Lessons)
+- [Lessons](/C++/Lessons/)
