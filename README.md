@@ -76,6 +76,7 @@
 - [ ] IBM PS/2 Справочник пользователя
 
 ### Lectures on YouTube
+- [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
 - [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured)
 - [Лекториум](https://www.youtube.com/user/OpenLektorium/featured)
