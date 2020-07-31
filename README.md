@@ -56,6 +56,7 @@
   - [ ] Том 3.
 - [ ] [50 идей о которых нужно знать.Математика](https://www.labirint.ru/books/435729/)
 - [ ] [живая математика](https://math.ru/lib/book/djvu/perelman/alive_math.djvu)
+- [ ]  Конкретная математика. Математические основы информатики (Дональд Кнут, Рональд Л. Грэхем, Орен Паташник)
 
 ### Linux 
 - [ ] [Ядро Linux. Описание процесса разработки (м)](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)
@@ -81,6 +82,8 @@
   - [ ] Том 2: низкоуровневое программирования (2016)
   - [ ] Том 3: системы и сети (2017)
   - [ ] Том 4: парадигмы (2020)
+- [ ] Все про TeX (Дональд Э. Кнут)
+- [ ] Компьютерная типография (Дональд Э. Кнут)
 
 ### Lectures on YouTube
 - [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
