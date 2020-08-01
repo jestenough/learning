@@ -85,6 +85,25 @@
 - [ ] Все про TeX (Дональд Э. Кнут)
 - [ ] Компьютерная типография (Дональд Э. Кнут)
 
+### Other
+- [ ] Великий дух (Перси Биш Шелли)
+- [ ] Спящий бог. 018 секс, блокчейн и новый мир
+- [ ] Нейромант. Трилогия "Киберпространство" (Уильям Гибсон)
+- [ ] Мартин Иден (Джек Лондон)
+- [ ] Бесконечная шутка (Уоллес Д.Ф.)
+- [ ] Sword of Truth
+  - [x] Wizard's First Rule
+  - [x] Wizard's Second Rule  or Stone of Tears
+  - [ ] Wizard's Third  Rule or Blood of the Fold
+  - [ ] Wizard's Fourth Rule or Temple of the Winds
+  - [ ] Wizard's Fifth Rule or Soul of the Fire
+  - [ ] Wizard's Sixth Rule or Faith of the Fallen
+  - [ ] Wizard's Seventh Rule or Pillars of Creation
+  - [ ] Wizard's Eighth Rule or Naked Empire
+  - [ ] Wizard's Ninth Rule or Chainfire
+  - [ ] Wizard's Tenth Rule or Phantom
+  - [ ] Wizard's Last Rule or Confessor
+
 ### Lectures on YouTube
 - [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
