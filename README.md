@@ -6,10 +6,10 @@
 
 ## Languages
 - [ ] [Bash](/Bash)
+- [ ] [C#](/C#) 
 - [ ] [C++](/C++)
 - [ ] [NASM](/NASM)
 <!--- 
-- [ ] [C#](/C#)
 - [ ] [Go](/Go)
 -->
 - [ ] [Python](/Python)
