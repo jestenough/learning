@@ -4,6 +4,6 @@
 
 - [ ] Tasks
   - [x] Task 1-8
-  - [ ] Task 9-17
-  - [ ] Task 18-26
+  - [x] Task 9-17
+  - [x] Task 18-26
   - [ ] Task 27-32
