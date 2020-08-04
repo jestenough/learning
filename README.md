@@ -113,6 +113,10 @@
 ### Lectures on YouTube
 - [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
+- [Станет проще](https://www.youtube.com/playlist?list=PLFg1XD1ytVo01rGekO4dg4fiQiIyqDHWh)
+- [Заметки Ардуинщика](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA/featured)
+- [Маткульт-привет! :: Алексей Савватеев и Ко](https://www.youtube.com/channel/UCWk8OxsylgmZ_VgY7jC9pjQ)
+- [Pingvinus](https://www.youtube.com/channel/UCnxk5BzZxRN7y3a1IqHhVlA/featured)
 - [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured)
 - [Лекториум](https://www.youtube.com/user/OpenLektorium/featured)
 - [Igor Krylov](https://www.youtube.com/c/IgorKrylov/featured)
