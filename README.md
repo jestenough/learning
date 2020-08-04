@@ -6,7 +6,7 @@
 
 ## Languages
 - [ ] [Bash](/Bash)
-- [ ] [C#](/C#) 
+- [ ] [C#](/C%23)
 - [ ] [C++](/C++)
 - [ ] [NASM](/NASM)
 <!--- 
