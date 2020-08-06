@@ -16,8 +16,8 @@
 - [ ] [SQL](/SQL)
 <!---
 - [ ] [Ruby](/Ruby)
-- [ ] [Swift](/Swift)
 -->
+- [ ] [Swift](/Swift)
 ---
 - [ ] [TeX](/TeX)
 
