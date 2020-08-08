@@ -3,7 +3,7 @@
 ### [Lab Code](/Python/Lessons/Labs/Lab-2-Turtle])
 
 - [ ] Tasks
-  - [ ] 1-5
+  - [x] 1-5
   - [ ] 6-9
   - [ ] 10-12
 
