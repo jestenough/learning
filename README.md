@@ -30,6 +30,7 @@
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=Grokking)
 
 ### Programming language
+- [ ] PEP 8 - руководство по написанию кода на Python
 - [ ] Программирование на Python, том 1, 4-е издание. Марк Лутц
 - [ ] Чистый питон
 - [ ] Serious-Python
