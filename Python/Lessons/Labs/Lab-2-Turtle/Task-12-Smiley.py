@@ -15,9 +15,9 @@ EYE_RIDIUS = 0.15
 EYE_OFFSET = 0.65
 
 def main():
-    r0 = int(input("Введите радиус: "))
-    x0 = int(input("Введите x центра: "))
-    y0 = int(input("Введите y центра: "))
+    r0 = int(input("Enter the radius"))
+    x0 = int(input("Enter the x of the center: "))
+    y0 = int(input("Enter the y of the center: ")))
     t.penup
     morda_draw(x0, y0, r0)
     draw_yeies(x0, y0, r0)
