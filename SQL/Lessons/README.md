@@ -8,5 +8,6 @@
   - [x] - [SQL Lesson 5: Review: Simple SELECT Queries](https://sqlbolt.com/lesson/select_queries_review)
   - [x] - [SQL Lesson 6: Multi-table queries with JOINs](https://sqlbolt.com/lesson/select_queries_with_joins)
   - [x] - [SQL Lesson 7: OUTER JOINs](https://sqlbolt.com/lesson/select_queries_with_outer_joins)
+  - [x] - [SQL Lesson 8: A short note on NULLs](https://sqlbolt.com/lesson/select_queries_with_nulls)
 
 
