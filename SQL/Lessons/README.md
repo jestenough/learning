@@ -13,5 +13,6 @@
   - [x] - [SQL Lesson 10: Queries with aggregates (Pt. 1)](https://sqlbolt.com/lesson/select_queries_with_aggregates)
   - [x] - [SQL Lesson 11: Queries with aggregates (Pt. 2)](https://sqlbolt.com/lesson/select_queries_with_aggregates_pt_2)
   - [x] - [SQL Lesson 12: Order of execution of a Query](https://sqlbolt.com/lesson/select_queries_order_of_execution)
+  - [x] - [SQL Lesson 13: Inserting rows](https://sqlbolt.com/lesson/inserting_rows)
 
 
