@@ -13,16 +13,9 @@
 - [ ] [C#](/C%23)
 - [ ] [C++](/C++)
 - [ ] [NASM](/NASM)
-<!--- 
-- [ ] [Go](/Go)
--->
 - [ ] [Python](/Python)
 - [ ] [SQL](/SQL)
-<!---
-- [ ] [Ruby](/Ruby)
--->
 - [ ] [Swift](/Swift)
----
 - [ ] [TeX](/TeX)
 
 </details>
@@ -34,7 +27,7 @@
 <details>
   <summary>View Books</summary>
 
-### Grokking series
+#### Grokking series
 
   <details>
     <summary>View Details</summary>
@@ -48,12 +41,12 @@
 
 ---
 
-### Programming language
+#### Programming language
 
  <details>
    <summary>View Languages</summary>
 
-#### Python 
+##### Python 
 
    <details>
           <summary>View Books</summary>
@@ -68,7 +61,7 @@
 
    </details>
 
-#### C/C++
+##### C/C++
 
    <details>
           <summary>View Books</summary>
@@ -79,7 +72,7 @@
 
    </details>
 
-#### Assembler
+##### Assembler
 
    <details>
         <summary>View Books</summary>
@@ -94,14 +87,26 @@
 
 ---
 
-### Tasks and puzzles
+#### Tasks and puzzles
+
+  <details>
+        <summary>View Tasks</summary>
+
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)
 - [ ]  Классические головоломки мартин гарднер
 - [ ] [Программирование: теоремы и задачи](https://hal.archives-ouvertes.fr/hal-01480636/document)
 - [ ]  Комбинаторные задачи: Олимпиады по программированию (Ю.В.Корженевич)
 - [ ]  Сборник задач по теории алгоритмов
 
-### Mathematics
+  </details>
+
+---
+
+#### Mathematics
+
+  <details>
+        <summary>View math books</summary>
+
 - [ ] [Линейная алгебра для чайников](http://alik-abdulin.com/matrixes/matrixes.html#opred)
 - [ ] [Алгоритмы. Просто как дважды два](https://1lib.eu/book/2881801/bdf9dc?regionChanged=&redirect=537745)
 - [ ]  Курсы Математического анализа, 3 тома (Л.Д. Кудрявцев)
@@ -118,12 +123,28 @@
 - [ ] Теория вероятностей и математичнская статистика (В.И.Турчин)
 - [ ] Математические трюки для быстрого счёта (Ингве Фогт)
 
-### Linux 
+  </details>
+
+---
+
+#### Linux 
+
+  <details>
+        <summary>View Linux books</summary>
+
 - [ ] [Ядро Linux. Описание процесса разработки (м)](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)
 - [ ]  Внутреннее устройство Linux
 - [ ]  Командная строка Linux (полное руководство)
 
-### Science
+  </details>
+
+---
+
+#### Science
+
+  <details>
+    <summary>View Science books</summary>
+
 - [ ] Электроника для начинающих, Аливерти П., 2018
 - [ ] Радиоэлектроника для чайников
 - [ ] Майкл Файер: Абсолютный минимум. Как квантовая теория объясняет наш мир
@@ -149,7 +170,16 @@
 - [ ] Код: тайный язык информатики (Чарльз Петцольд)
 - [ ] Модельное мышление (Скотт Пейдж)
 
-### Other
+  </details>
+
+---
+
+
+#### Other
+
+  <details>
+      <summary>View other books</summary>
+
 - [x] Великий дух (Перси Биш Шелли)
 - [x] Английский язык. 14 текстов о США
 - [ ] Спящий бог. 018 секс, блокчейн и новый мир
@@ -168,6 +198,8 @@
   - [ ] Wizard's Ninth Rule or Chainfire
   - [ ] Wizard's Tenth Rule or Phantom
   - [ ] Wizard's Last Rule or Confessor
+
+    </details>
 
 </details>
 
