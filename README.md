@@ -5,6 +5,10 @@
 </p>
 
 ## Languages
+
+<details>
+  <summary>View languages</summary>
+
 - [ ] [Bash](/Bash)
 - [ ] [C#](/C%23)
 - [ ] [C++](/C++)
@@ -21,15 +25,39 @@
 ---
 - [ ] [TeX](/TeX)
 
+</details>
+
+---
+
 ## Books
 
+<details>
+  <summary>View Books</summary>
+
 ### Grokking series
+
+  <details>
+    <summary>View Details</summary>
+
 - [ ] [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms?a_aid=gaia&a_bid=6a1b836a)
 - [ ] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - [ ] [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning?query=Grokking)
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=Grokking)
+  
+  </details>
+
+---
 
 ### Programming language
+
+ <details>
+   <summary>View Languages</summary>
+
+#### Python 
+
+   <details>
+          <summary>View Books</summary>
+
 - [ ] PEP 8 - руководство по написанию кода на Python
 - [ ] Программирование на Python, том 1, 4-е издание. Марк Лутц
 - [ ] Чистый питон
@@ -37,14 +65,34 @@
 - [ ] Serious-Python
 - [ ] Прикладной анализ текстовых данных на Python
 - [ ] A Byte of Python (Russian)
+
+   </details>
+
+#### C/C++
+
+   <details>
+          <summary>View Books</summary>
+
 - [ ] C A Software Engineering Approach 3rd Edition
 - [ ] Системное программирование на языке Си
+- [ ] C++ для инженерных и научных расчетов (Питер Готтшлинг)
+
+   </details>
+
+#### Assembler
+
+   <details>
+        <summary>View Books</summary>
+
 - [ ] Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.)
 - [ ] Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)
 - [ ] Программирование на языке ассемблера NASM для ОС Unix, 2011 г. (Столяров А.)
-- [ ] C++ для инженерных и научных расчетов (Питер Готтшлинг)
-- [ ] MySQL по максимуму, опитимизация, репликация, резервное копирование (Бэрон Шварц,Петр Зайцев,Вадим Ткаченко)
+   
+   </details>
 
+ </details> 
+
+---
 
 ### Tasks and puzzles
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)
@@ -121,7 +169,15 @@
   - [ ] Wizard's Tenth Rule or Phantom
   - [ ] Wizard's Last Rule or Confessor
 
+</details>
+
+---
+
 ### Lectures on YouTube
+
+<details>
+  <summary>View Details</summary>
+
 - [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
 - [Станет проще](https://www.youtube.com/playlist?list=PLFg1XD1ytVo01rGekO4dg4fiQiIyqDHWh)
@@ -132,3 +188,5 @@
 - [Лекториум](https://www.youtube.com/user/OpenLektorium/featured)
 - [Igor Krylov](https://www.youtube.com/c/IgorKrylov/featured)
 - [Deep Learning School](https://www.youtube.com/c/DeepLearningSchool/featured)
+
+</details>
