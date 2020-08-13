@@ -1,6 +1,5 @@
 # Learning SQL
 
-> using a database **MySQL** + **phpMyAdmin**
+Using a database **MySQL** + **phpMyAdmin**
 
-> [Lessons](/SQL/Lessons/)
 
