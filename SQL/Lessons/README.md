@@ -15,5 +15,6 @@
   - [x] - [SQL Lesson 12: Order of execution of a Query](https://sqlbolt.com/lesson/select_queries_order_of_execution)
   - [x] - [SQL Lesson 13: Inserting rows](https://sqlbolt.com/lesson/inserting_rows)
   - [x] - [SQL Lesson 14: Updating rows](https://sqlbolt.com/lesson/updating_rows)
+  - [x] - [SQL Lesson 15: Deleting rows](https://sqlbolt.com/lesson/deleting_rows)
 
 
