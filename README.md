@@ -7,7 +7,7 @@
 ## Languages
 
 <details>
-  <summary>View languages</summary>
+    <summary>View languages</summary>
 
 - [ ] [Bash](/Bash)
 - [ ] [C#](/C%23)
@@ -18,7 +18,7 @@
 - [ ] [Swift](/Swift)
 - [ ] [TeX](/TeX)
 
-</details>
+    </details>
 
 ---
 
@@ -27,7 +27,7 @@
 <details>
   <summary>View Books</summary>
 
-#### Grokking series
+### Grokking series
 
   <details>
     <summary>View Details</summary>
@@ -37,16 +37,16 @@
 - [ ] [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning?query=Grokking)
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=Grokking)
   
-  </details>
+    </details>
 
 ---
 
-#### Programming language
+### Programming language
 
  <details>
-   <summary>View Languages</summary>
+    <summary>View Languages</summary>
 
-##### Python 
+#### Python 
 
    <details>
           <summary>View Books</summary>
@@ -59,9 +59,9 @@
 - [ ] Прикладной анализ текстовых данных на Python
 - [ ] A Byte of Python (Russian)
 
-   </details>
+    </details>
 
-##### C/C++
+#### C/C++
 
    <details>
           <summary>View Books</summary>
@@ -70,9 +70,9 @@
 - [ ] Системное программирование на языке Си
 - [ ] C++ для инженерных и научных расчетов (Питер Готтшлинг)
 
-   </details>
+    </details>
 
-##### Assembler
+#### Assembler
 
    <details>
         <summary>View Books</summary>
@@ -81,13 +81,13 @@
 - [ ] Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)
 - [ ] Программирование на языке ассемблера NASM для ОС Unix, 2011 г. (Столяров А.)
    
-   </details>
+    </details>
 
- </details> 
+  </details> 
 
 ---
 
-#### Tasks and puzzles
+### Tasks and puzzles
 
   <details>
         <summary>View Tasks</summary>
@@ -98,11 +98,11 @@
 - [ ]  Комбинаторные задачи: Олимпиады по программированию (Ю.В.Корженевич)
 - [ ]  Сборник задач по теории алгоритмов
 
-  </details>
+    </details>
 
 ---
 
-#### Mathematics
+### Mathematics
 
   <details>
         <summary>View math books</summary>
@@ -123,11 +123,11 @@
 - [ ] Теория вероятностей и математичнская статистика (В.И.Турчин)
 - [ ] Математические трюки для быстрого счёта (Ингве Фогт)
 
-  </details>
+    </details>
 
 ---
 
-#### Linux 
+### Linux 
 
   <details>
         <summary>View Linux books</summary>
@@ -136,11 +136,11 @@
 - [ ]  Внутреннее устройство Linux
 - [ ]  Командная строка Linux (полное руководство)
 
-  </details>
+    </details>
 
 ---
 
-#### Science
+### Science
 
   <details>
     <summary>View Science books</summary>
@@ -170,12 +170,12 @@
 - [ ] Код: тайный язык информатики (Чарльз Петцольд)
 - [ ] Модельное мышление (Скотт Пейдж)
 
-  </details>
+    </details>
 
 ---
 
 
-#### Other
+### Other
 
   <details>
       <summary>View other books</summary>
@@ -199,17 +199,18 @@
   - [ ] Wizard's Tenth Rule or Phantom
   - [ ] Wizard's Last Rule or Confessor
 
-    </details>
+      </details>
 
-</details>
+  </details>
 
 ---
 
-### Lectures on YouTube
+## Lectures on YouTube
 
 <details>
   <summary>View Details</summary>
 
+- [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
 - [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
 - [Станет проще](https://www.youtube.com/playlist?list=PLFg1XD1ytVo01rGekO4dg4fiQiIyqDHWh)
@@ -221,4 +222,4 @@
 - [Igor Krylov](https://www.youtube.com/c/IgorKrylov/featured)
 - [Deep Learning School](https://www.youtube.com/c/DeepLearningSchool/featured)
 
-</details>
+    </details>
