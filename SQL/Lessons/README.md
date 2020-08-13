@@ -11,5 +11,6 @@
   - [x] - [SQL Lesson 8: A short note on NULLs](https://sqlbolt.com/lesson/select_queries_with_nulls)
   - [x] - [SQL Lesson 9: Queries with expressions](https://sqlbolt.com/lesson/select_queries_with_expressions)
   - [x] - [SQL Lesson 10: Queries with aggregates (Pt. 1)](https://sqlbolt.com/lesson/select_queries_with_aggregates)
+  - [x] - [SQL Lesson 11: Queries with aggregates (Pt. 2)](https://sqlbolt.com/lesson/select_queries_with_aggregates_pt_2)
 
 
