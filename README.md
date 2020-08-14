@@ -93,6 +93,17 @@
 
     </details>
 
+#### SQL 
+
+  <details>                                                                                                                      
+        <summary>View Books</summary>
+
+- [ ] [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) 
+- [ ] [Руководство по SQL](http://proselyte.net/tutorials/sql)
+- [ ] [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer)
+
+  </details>
+
   </details> 
 
 ---
