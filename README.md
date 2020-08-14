@@ -41,6 +41,19 @@
 
 ---
 
+### Working with the network
+
+  <details>
+    <summary>View Details</summary>
+
+- [ ] [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book)
+- [ ] [Наука о Сетях](http://networksciencebook.com)
+- [ ] [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true)
+
+  </details>
+
+---
+
 ### Programming language
 
  <details>
