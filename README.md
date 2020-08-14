@@ -9,10 +9,17 @@
 <details>
     <summary>View languages</summary>
 
+- [ ] [Assembly](/Assembly)
+  - [ ] FASM
+  - [ ] GAS
+  - [ ] HLA
+  - [ ] MASM
+  - [ ] NASM
+  - [ ] RosAsm
+  - [ ] TASM
 - [ ] [Bash](/Bash)
 - [ ] [C#](/C%23)
 - [ ] [C++](/C++)
-- [ ] [NASM](/NASM)
 - [ ] [Python](/Python)
 - [ ] [SQL](/SQL)
 - [ ] [Swift](/Swift)
