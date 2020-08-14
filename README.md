@@ -62,21 +62,17 @@
  <details>
     <summary>View Languages</summary>
 
-#### Python 
+#### Assembly
 
    <details>
-          <summary>View Books</summary>
+        <summary>View Books</summary>
 
-- [ ]  PEP 8 - руководство по написанию кода на Python
-- [ ]  Программирование на Python, том 1, 4-е издание. Марк Лутц
-- [ ]  Чистый питон
-- [ ]  Программируем на Python (Майкл Доусон)
-- [ ]  Serious-Python
-- [ ]  Прикладной анализ текстовых данных на Python
-- [ ]  A Byte of Python (Russian)
-- [ ] [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php)
-- [ ] [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
-- [ ] [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
+- [ ]  Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.)
+- [ ]  Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)
+- [ ] [Программирование на языке ассемблера NASM для ОС Unix, 2011 г.](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
+- [ ] [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
+- [ ] [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
+
 
     </details>
 
@@ -95,17 +91,21 @@
 
     </details>
 
-#### Assembly
+#### Python 
 
    <details>
-        <summary>View Books</summary>
+          <summary>View Books</summary>
 
-- [ ]  Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.)
-- [ ]  Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)
-- [ ] [Программирование на языке ассемблера NASM для ОС Unix, 2011 г.](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
-- [ ] [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
-- [ ] [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
-
+- [ ]  PEP 8 - руководство по написанию кода на Python
+- [ ]  Программирование на Python, том 1, 4-е издание. Марк Лутц
+- [ ]  Чистый питон
+- [ ]  Программируем на Python (Майкл Доусон)
+- [ ]  Serious-Python
+- [ ]  Прикладной анализ текстовых данных на Python
+- [ ]  A Byte of Python (Russian)
+- [ ] [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php)
+- [ ] [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
+- [ ] [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 
     </details>
 
