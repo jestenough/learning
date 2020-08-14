@@ -179,6 +179,10 @@
         <summary>View Linux books</summary>
 
 - [ ] [Ядро Linux. Описание процесса разработки (м)](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)
+- [ ] [Архитектура операционной системы Unix](http://lib.ru/BACH)
+- [ ] [Введение в Linux. Руководство по работе](https://younglinux.info/linuxintro)
+- [ ] [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg)
+- [ ] [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg)
 - [ ]  Внутреннее устройство Linux
 - [ ]  Командная строка Linux (полное руководство)
 
