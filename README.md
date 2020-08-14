@@ -72,15 +72,18 @@
 
     </details>
 
-#### Assembler
+#### Assembly
 
    <details>
         <summary>View Books</summary>
 
-- [ ] Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.)
-- [ ] Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)
-- [ ] Программирование на языке ассемблера NASM для ОС Unix, 2011 г. (Столяров А.)
-   
+- [ ]  Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.)
+- [ ]  Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)
+- [ ] [Программирование на языке ассемблера NASM для ОС Unix, 2011 г.](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
+- [ ] [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
+- [ ] [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
+
+
     </details>
 
   </details> 
@@ -208,7 +211,7 @@
 ## Lectures on YouTube
 
 <details>
-  <summary>View Details</summary>
+  <summary>View lectures</summary>
 
 - [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
 - [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
