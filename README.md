@@ -108,14 +108,26 @@
 
 #### SQL 
 
-  <details>                                                                                                                      
-        <summary>View Books</summary>
+  <details>
+      <summary>View Books</summary>
 
 - [ ] [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) 
 - [ ] [Руководство по SQL](http://proselyte.net/tutorials/sql)
 - [ ] [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer)
 
   </details>
+
+#### TeX/LaTeX
+
+  <details> 
+      <summary>View Books</summary>
+
+- [ ] [Сверстай диплом красиво: LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf)
+- [ ]  Все про TeX (Дональд Э. Кнут)
+- [ ]  Компьютерная типография (Дональд Э. Кнут)
+- [ ] [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
+
+   </details>
 
   </details> 
 
@@ -174,7 +186,7 @@
 
 ---
 
-### Computer Science
+### Science
 
   <details>
     <summary>View Science books</summary>
@@ -190,15 +202,12 @@
 - [ ] Теоретический минимум по Big Data
 - [x] Самое главное...Электронная почта (А.Орлов)
 - [ ] IBM PS/2 Справочник пользователя (Гилберт Хелд)
-- [ ] Сверстай диплом красиво: LaTeX за три дня (Столяров А.)
 - [ ] Оформление программного кода. Методическое пособие (Столяров А.)
 - [ ] Программирование: введение в профессию (Столяров А.)
   - [ ] Том 1: азы программирования (2016)
   - [ ] Том 2: низкоуровневое программирования (2016)
   - [ ] Том 3: системы и сети (2017)
   - [ ] Том 4: парадигмы (2020)
-- [ ] Все про TeX (Дональд Э. Кнут)
-- [ ] Компьютерная типография (Дональд Э. Кнут)
 - [ ] Сети предприяти на основе Windows NT (М.Стерн, Г.Монти, В.Бэчманн)
 - [ ] Работа с Big Data в облаках (Александр Сенько)
 - [ ] Код: тайный язык информатики (Чарльз Петцольд)
