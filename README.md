@@ -51,13 +51,16 @@
    <details>
           <summary>View Books</summary>
 
-- [ ] PEP 8 - руководство по написанию кода на Python
-- [ ] Программирование на Python, том 1, 4-е издание. Марк Лутц
-- [ ] Чистый питон
-- [ ] Программируем на Python (Майкл Доусон)
-- [ ] Serious-Python
-- [ ] Прикладной анализ текстовых данных на Python
-- [ ] A Byte of Python (Russian)
+- [ ]  PEP 8 - руководство по написанию кода на Python
+- [ ]  Программирование на Python, том 1, 4-е издание. Марк Лутц
+- [ ]  Чистый питон
+- [ ]  Программируем на Python (Майкл Доусон)
+- [ ]  Serious-Python
+- [ ]  Прикладной анализ текстовых данных на Python
+- [ ]  A Byte of Python (Russian)
+- [ ] [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php)
+- [ ] [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
+- [ ] [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 
     </details>
 
