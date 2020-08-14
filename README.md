@@ -12,11 +12,7 @@
 - [ ] [Assembly](/Assembly)
   - [ ] FASM
   - [ ] GAS
-  - [ ] HLA
-  - [ ] MASM
   - [ ] NASM
-  - [ ] RosAsm
-  - [ ] TASM
 - [ ] [Bash](/Bash)
 - [ ] [C#](/C%23)
 - [ ] [C++](/C++)
@@ -25,7 +21,7 @@
 - [ ] [Swift](/Swift)
 - [ ] [TeX](/TeX)
 
-    </details>
+  </details>
 
 ---
 
