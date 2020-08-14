@@ -21,7 +21,7 @@
 - [ ] [Swift](/Swift)
 - [ ] [TeX](/TeX)
 
-  </details>
+</details>
 
 ---
 
@@ -40,7 +40,7 @@
 - [ ] [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning?query=Grokking)
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=Grokking)
   
-    </details>
+</details>
 
 ---
 
@@ -53,7 +53,7 @@
 - [ ] [Наука о Сетях](http://networksciencebook.com)
 - [ ] [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true)
 
-  </details>
+</details>
 
 ---
 
@@ -73,8 +73,7 @@
 - [ ] [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 - [ ] [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 
-
-    </details>
+</details>
 
 #### C/C++
 
@@ -88,8 +87,7 @@
 - [ ] [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
 - [ ] [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf)
 
-
-    </details>
+</details>
 
 #### Python 
 
@@ -107,7 +105,7 @@
 - [ ] [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
 - [ ] [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 
-    </details>
+</details>
 
 #### SQL 
 
@@ -118,7 +116,7 @@
 - [ ] [Руководство по SQL](http://proselyte.net/tutorials/sql)
 - [ ] [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer)
 
-  </details>
+</details>
 
 #### TeX/LaTeX
 
@@ -130,9 +128,9 @@
 - [ ]  Компьютерная типография (Дональд Э. Кнут)
 - [ ] [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
 
-   </details>
+</details>
 
-  </details> 
+</details> 
 
 ---
 
@@ -147,7 +145,7 @@
 - [ ]  Комбинаторные задачи: Олимпиады по программированию (Ю.В.Корженевич)
 - [ ]  Сборник задач по теории алгоритмов
 
-    </details>
+</details>
 
 ---
 
@@ -172,7 +170,7 @@
 - [ ] Теория вероятностей и математичнская статистика (В.И.Турчин)
 - [ ] Математические трюки для быстрого счёта (Ингве Фогт)
 
-    </details>
+</details>
 
 ---
 
@@ -189,7 +187,7 @@
 - [ ]  Внутреннее устройство Linux
 - [ ]  Командная строка Linux (полное руководство)
 
-    </details>
+</details>
 
 ---
 
@@ -220,7 +218,7 @@
 - [ ] Код: тайный язык информатики (Чарльз Петцольд)
 - [ ] Модельное мышление (Скотт Пейдж)
 
-    </details>
+</details>
 
 ---
 
@@ -249,9 +247,9 @@
   - [ ] Wizard's Tenth Rule or Phantom
   - [ ] Wizard's Last Rule or Confessor
 
-      </details>
+</details>
 
-  </details>
+</details>
 
 ---
 
@@ -272,4 +270,4 @@
 - [Igor Krylov](https://www.youtube.com/c/IgorKrylov/featured)
 - [Deep Learning School](https://www.youtube.com/c/DeepLearningSchool/featured)
 
-    </details>
+</details>
