@@ -66,9 +66,13 @@
    <details>
           <summary>View Books</summary>
 
-- [ ] C A Software Engineering Approach 3rd Edition
-- [ ] Системное программирование на языке Си
-- [ ] C++ для инженерных и научных расчетов (Питер Готтшлинг)
+- [ ] [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf)
+- [ ]  C A Software Engineering Approach 3rd Edition
+- [ ]  Системное программирование на языке Си
+- [ ]  C++ для инженерных и научных расчетов (Питер Готтшлинг)
+- [ ] [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
+- [ ] [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf)
+
 
     </details>
 
@@ -143,7 +147,7 @@
 
 ---
 
-### Science
+### Computer Science
 
   <details>
     <summary>View Science books</summary>
@@ -156,7 +160,7 @@
 - [x] Теоретический минимум по Computer Science
 - [ ] Structure  and  Interpretationof  Computer  Programs (Harold Abelson,Gerald Jay Sussman,Julie Sussman)
 - [ ] Компьютерные науки.Базовый курс
-- [ ] Теоретический минимум по  Big Data
+- [ ] Теоретический минимум по Big Data
 - [x] Самое главное...Электронная почта (А.Орлов)
 - [ ] IBM PS/2 Справочник пользователя (Гилберт Хелд)
 - [ ] Сверстай диплом красиво: LaTeX за три дня (Столяров А.)
