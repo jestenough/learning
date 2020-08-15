@@ -16,5 +16,6 @@
   - [x] - [SQL Lesson 13: Inserting rows](https://sqlbolt.com/lesson/inserting_rows)
   - [x] - [SQL Lesson 14: Updating rows](https://sqlbolt.com/lesson/updating_rows)
   - [x] - [SQL Lesson 15: Deleting rows](https://sqlbolt.com/lesson/deleting_rows)
+  - [x] - [SQL Lesson 16: Creating tables](https://sqlbolt.com/lesson/creating_tables)
 
 
