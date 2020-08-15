@@ -195,6 +195,18 @@
 
 ---
 
+### Vim
+
+  <details>
+      <summary>View Linux books</summary>
+
+- [ ] [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook)
+- [ ] [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
+
+</details>
+
+---
+
 ### Science
 
   <details>
