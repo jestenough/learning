@@ -275,6 +275,7 @@
   <summary>View lectures</summary>
 
 - [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
+- [НОУ ИНТУИТ](https://www.youtube.com/user/Intuitube/featured)
 - [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
 - [Станет проще](https://www.youtube.com/playlist?list=PLFg1XD1ytVo01rGekO4dg4fiQiIyqDHWh)
