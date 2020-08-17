@@ -7,7 +7,7 @@
 ## Languages
 
 <details>
-    <summary>View languages</summary>
+    <summary>View</summary>
 
 - [ ] [Assembly](/Assembly)
   - [ ] FASM
@@ -28,7 +28,7 @@
 ## Books
 
 <details>
-  <summary>View Books</summary>
+  <summary>View</summary>
 
 ### Grokking series
 
@@ -281,6 +281,8 @@
 
 ## YouTube
 
+<details>
+ <summary>View</summary>
 
 #### Educational channels
 
@@ -299,5 +301,7 @@
 - [Лекториум](https://www.youtube.com/user/OpenLektorium/featured)
 - [Igor Krylov](https://www.youtube.com/c/IgorKrylov/featured)
 - [Deep Learning School](https://www.youtube.com/c/DeepLearningSchool/featured)
+
+</details>
 
 </details>
