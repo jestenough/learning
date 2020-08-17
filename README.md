@@ -279,10 +279,13 @@
 
 ---
 
-## Lectures on YouTube
+## YouTube
+
+
+#### Educational channels
 
 <details>
-  <summary>View lectures</summary>
+  <summary>View channels</summary>
 
 - [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
 - [НОУ ИНТУИТ](https://www.youtube.com/user/Intuitube/featured)
