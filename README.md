@@ -7,7 +7,7 @@
   <img src="https://imgur.com/xkpzam7.png" />
 </a></p>
   
-<h1 align="center">Languages</h1>
+<h2 align="center">Languages</h2>
 
 <details>
     <summary>View languages</summary>
@@ -27,7 +27,7 @@
 </details>
 
 ---
-<h1 align="center">Books</h1>
+<h2 align="center">Books</h2>
 
 <details>
   <summary>View books</summary>
@@ -287,7 +287,7 @@
 
 ---
 
-<h1 align="center">YouTube</h1>
+<h2 align="center">YouTube</h2>
 
 <details>
  <summary>View</summary>
