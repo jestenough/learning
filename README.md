@@ -4,7 +4,7 @@
   <img src="https://cdn1.savepice.ru/uploads/2020/7/29/997cbb6969f9300285a01f8b9c61e991-full.jpg" width="315" height="215"/>
 </p>
 
-## Languages
+<h2 align="center">Languages</h2>
 
 <details>
     <summary>View</summary>
@@ -24,16 +24,15 @@
 </details>
 
 ---
-
-## Books
+<h2 align="center">Books</h2>
 
 <details>
   <summary>View</summary>
 
-### Grokking series
+#### Grokking series
 
   <details>
-    <summary>View Details</summary>
+    <summary>View</summary>
 
 - [ ] [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms?a_aid=gaia&a_bid=6a1b836a)
 - [ ] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
@@ -44,10 +43,10 @@
 
 ---
 
-### Working with the network
+#### Network
 
   <details>
-    <summary>View Details</summary>
+    <summary>View</summary>
 
 - [ ] [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book)
 - [ ] [Наука о Сетях](http://networksciencebook.com)
@@ -57,15 +56,15 @@
 
 ---
 
-### Programming language
+<h4 align="center">Programming languages</h4>
 
  <details>
-    <summary>View Languages</summary>
+    <summary>View</summary>
 
-#### Assembly
+##### Assembly
 
    <details>
-        <summary>View Books</summary>
+        <summary>View</summary>
 
 - [ ]  Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.)
 - [ ]  Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)
@@ -75,10 +74,10 @@
 
 </details>
 
-#### C/C++
+##### C/C++
 
    <details>
-          <summary>View Books</summary>
+          <summary>View</summary>
 
 - [ ] [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf)
 - [ ]  C A Software Engineering Approach 3rd Edition
@@ -92,10 +91,10 @@
 
 </details>
 
-#### Python 
+##### Python 
 
    <details>
-          <summary>View Books</summary>
+          <summary>View</summary>
 
 - [ ]  PEP 8 - руководство по написанию кода на Python
 - [ ]  Программирование на Python, том 1, 4-е издание. Марк Лутц
@@ -110,10 +109,10 @@
 
 </details>
 
-#### SQL 
+##### SQL 
 
   <details>
-      <summary>View Books</summary>
+      <summary>View</summary>
 
 - [ ] [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) 
 - [ ] [Руководство по SQL](http://proselyte.net/tutorials/sql)
@@ -122,10 +121,10 @@
 
 </details>
 
-#### TeX/LaTeX
+##### TeX/LaTeX
 
   <details> 
-      <summary>View Books</summary>
+      <summary>View</summary>
 
 - [ ] [Сверстай диплом красиво: LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf)
 - [ ]  Все про TeX (Дональд Э. Кнут)
@@ -141,7 +140,7 @@
 ### Tasks and puzzles
 
   <details>
-        <summary>View Tasks</summary>
+        <summary>View</summary>
 
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)
 - [ ]  Классические головоломки мартин гарднер
@@ -159,7 +158,7 @@
 ### Mathematics
 
   <details>
-        <summary>View math books</summary>
+        <summary>View</summary>
 
 - [ ] [Линейная алгебра для чайников](http://alik-abdulin.com/matrixes/matrixes.html#opred)
 - [ ] [Алгоритмы. Просто как дважды два](https://1lib.eu/book/2881801/bdf9dc?regionChanged=&redirect=537745)
@@ -185,7 +184,7 @@
 ### Linux 
 
   <details>
-        <summary>View Linux books</summary>
+        <summary>View</summary>
 
 - [ ] [Ядро Linux. Описание процесса разработки (м)](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)
 - [ ] [Архитектура операционной системы Unix](http://lib.ru/BACH)
@@ -202,7 +201,7 @@
 ### Vim
 
   <details>
-      <summary>View Linux books</summary>
+      <summary>View</summary>
 
 - [ ] [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook)
 - [ ] [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
@@ -214,7 +213,7 @@
 ### Science
 
   <details>
-    <summary>View Science books</summary>
+    <summary>View</summary>
 
 - [ ] Электроника для начинающих, Аливерти П., 2018
 - [ ] Радиоэлектроника для чайников
@@ -247,10 +246,11 @@
 ### Other
 
   <details>
-      <summary>View other books</summary>
+      <summary>View</summary>
 
-- [x] Великий дух (Перси Биш Шелли)
-- [x] Сонеты (Шекспир)
+- [ ] Poetry
+  - [x] Великий дух (Перси Биш Шелли)
+  - [x] Сонеты (Шекспир)
 - [x] Английский язык. 14 текстов о США
 - [ ] Политика (Аристотель)
 - [ ] Маркетинг. Вопросы и ответы. (Г.П. Абрамова)
@@ -284,7 +284,7 @@
 
 ---
 
-## YouTube
+<h2 align="center">YouTube</h2>
 
 <details>
  <summary>View</summary>
@@ -292,7 +292,7 @@
 #### Educational channels
 
 <details>
-  <summary>View channels</summary>
+  <summary>View</summary>
 
 - [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
 - [НОУ ИНТУИТ](https://www.youtube.com/user/Intuitube/featured)
