@@ -7,10 +7,10 @@
   <img src="https://imgur.com/xkpzam7.png" />
 </a></p>
   
-<h2 align="center">Languages</h2>
+<h1 align="center">Languages</h1>
 
 <details>
-    <summary>View</summary>
+    <summary>View languages</summary>
 
 - [ ] [Assembly](/Assembly)
   - [ ] FASM
@@ -27,12 +27,12 @@
 </details>
 
 ---
-<h2 align="center">Books</h2>
+<h1 align="center">Books</h1>
 
 <details>
-  <summary>View</summary>
+  <summary>View books</summary>
 
-#### Grokking series
+##### Grokking series
 
   <details>
     <summary>View</summary>
@@ -46,7 +46,7 @@
 
 ---
 
-#### Network
+##### Network
 
   <details>
     <summary>View</summary>
@@ -59,7 +59,7 @@
 
 ---
 
-<h4 align="center">Programming languages</h4>
+<h3 align="center">Programming languages</h3>
 
  <details>
     <summary>View</summary>
@@ -140,7 +140,7 @@
 
 ---
 
-### Tasks and puzzles
+##### Tasks and puzzles
 
   <details>
         <summary>View</summary>
@@ -158,7 +158,7 @@
 
 ---
 
-### Mathematics
+##### Mathematics
 
   <details>
         <summary>View</summary>
@@ -184,7 +184,7 @@
 
 ---
 
-### Linux 
+##### Linux 
 
   <details>
         <summary>View</summary>
@@ -201,7 +201,7 @@
 
 ---
 
-### Vim
+##### Vim
 
   <details>
       <summary>View</summary>
@@ -213,7 +213,7 @@
 
 ---
 
-### Science
+##### Science
 
   <details>
     <summary>View</summary>
@@ -246,7 +246,7 @@
 ---
 
 
-### Other
+##### Other
 
   <details>
       <summary>View</summary>
@@ -287,12 +287,12 @@
 
 ---
 
-<h2 align="center">YouTube</h2>
+<h1 align="center">YouTube</h1>
 
 <details>
  <summary>View</summary>
 
-#### Educational channels
+##### Educational channels
 
 <details>
   <summary>View</summary>
