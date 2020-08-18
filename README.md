@@ -7,7 +7,7 @@
   <img src="https://imgur.com/xkpzam7.png" />
 </a></p>
   
-<h2 align="center">Languages :atm::</h2>
+<h2 align="center">Languages :atm:</h2>
 
 <details>
     <summary>View</summary>
