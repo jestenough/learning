@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn1.savepice.ru/uploads/2020/7/29/997cbb6969f9300285a01f8b9c61e991-full.jpg" width="315" height="215"/>
-</p>
+<a href="https://imgur.com/xkpzam7.png">
+  <img src="https://imgur.com/xkpzam7.png" />
+</a></p>
   
 <h2 align="center">Languages</h2>
 
