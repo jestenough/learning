@@ -10,7 +10,7 @@
 <h2 align="center">Languages</h2>
 
 <details>
-    <summary>View languages</summary>
+    <summary>View</summary>
 
 - [ ] [Assembly](/Assembly)
   - [ ] FASM
@@ -30,7 +30,7 @@
 <h2 align="center">Books</h2>
 
 <details>
-  <summary>View books</summary>
+  <summary>View</summary>
 
 ##### Grokking series
 
