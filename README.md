@@ -74,7 +74,7 @@
 
 - [ ]  Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.) `[0/325]`
 - [ ]  Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)`[0/305]`
-- [ ] [Программирование на языке ассемблера NASM для ОС Unix, 2011 г.](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)`[0/656]`
+- [ ] [Программирование на языке ассемблера NASM для ОС Unix, 2011 г.](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)`[0/190]`
 - [ ] [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 - [ ] [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 
@@ -103,13 +103,12 @@
           <summary>View</summary>
 
 - [ ]  PEP 8 - руководство по написанию кода на Python
-- [ ]  Программирование на Python, том 1, 4-е издание. Марк Лутц
-- [ ]  Чистый питон
-- [ ]  Программируем на Python (Майкл Доусон)
-- [ ]  Serious-Python
-- [ ]  Прикладной анализ текстовых данных на Python
-- [ ]  A Byte of Python (Russian)
-- [ ] [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php)
+- [ ]  Программирование на Python, том 1, 4-е издание. Марк Лутц`[0/992]`
+- [ ]  Чистый питон`[0/288]`
+- [ ]  Программируем на Python (Майкл Доусон)`[0/416]`
+- [ ]  Прикладной анализ текстовых данных на Python`[0/368]`
+- [ ]  A Byte of Python (Russian)`[0/164]`
+- [ ] [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) 
 - [ ] [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
 - [ ] [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 
