@@ -255,35 +255,35 @@
       <summary>View</summary>
 
 - [ ] Poetry
-  - [x] Великий дух (Перси Биш Шелли)
-  - [x] Сонеты (Шекспир)
-- [x] Английский язык. 14 текстов о США
-- [ ] Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)
-- [ ] Политика (Аристотель)
-- [ ] Маркетинг. Вопросы и ответы. (Г.П. Абрамова)
-- [x] Игра престолов (Джордж Р.Р. Мартин) 
+  - [x] Великий дух (Перси Биш Шелли)`[416/416]`
+  - [x] Сонеты (Шекспир)`[154/154]`
+- [x] Английский язык. 14 текстов о США`[87/87]`
+- [ ] Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
+- [ ] Политика (Аристотель)`[0/352]`
+- [ ] Маркетинг. Вопросы и ответы. (Г.П. Абрамова)`[0/159]`
+- [x] Игра престолов (Джордж Р.Р. Мартин)`[864/864]`
 - [ ] S.T.A.L.K.E.R
-  - [x] Зона поражения (В.Орехов)
-  - [x] Линия огня (В. Орехов)
-  - [x] Дезертир (А.Степанов)
-- [ ] Cвободу мозгу! (Идрисс Аберкан)
-- [ ] Еда и мозг (Дэвид Перлмуттер, Кристин Люберг)
-- [ ] Спящий бог. 018 секс, блокчейн и новый мир
-- [ ] Нейромант. Трилогия "Киберпространство" (Уильям Гибсон)
-- [ ] Мартин Иден (Джек Лондон)
-- [ ] Бесконечная шутка (Уоллес Д.Ф.) `1:10:22`
+  - [x] Зона поражения (В.Орехов)`[416/416]`
+  - [x] Линия огня (В. Орехов)`[416/416]`
+  - [x] Дезертир (А.Степанов)`[320/320]`
+- [ ] Cвободу мозгу! (Идрисс Аберкан)`[00:00:00/09:14:48]`
+- [ ] Еда и мозг (Дэвид Перлмуттер, Кристин Люберг)`[00:00:00/14:05:50]`
+- [ ] Спящий бог. 018 секс, блокчейн и новый мир`[0/620]`
+- [ ] Нейромант. Трилогия "Киберпространство" (Уильям Гибсон)`[0/960]`
+- [ ] Мартин Иден (Джек Лондон)`[0/416]`
+- [ ] Бесконечная шутка (Уоллес Д.Ф.)`[01:10:22/61:27:41]`
 - [ ] Sword of Truth
-  - [x] Wizard's First Rule
-  - [x] Wizard's Second Rule  or Stone of Tears
-  - [ ] Wizard's Third  Rule or Blood of the Fold
-  - [ ] Wizard's Fourth Rule or Temple of the Winds
-  - [ ] Wizard's Fifth Rule or Soul of the Fire
-  - [ ] Wizard's Sixth Rule or Faith of the Fallen
-  - [ ] Wizard's Seventh Rule or Pillars of Creation
-  - [ ] Wizard's Eighth Rule or Naked Empire
-  - [ ] Wizard's Ninth Rule or Chainfire
-  - [ ] Wizard's Tenth Rule or Phantom
-  - [ ] Wizard's Last Rule or Confessor
+  - [x] Wizard's First Rule`[836/836]`
+  - [x] Wizard's Second Rule  or Stone of Tears`[982/982]`
+  - [ ] Wizard's Third  Rule or Blood of the Fold`[0/623]`
+  - [ ] Wizard's Fourth Rule or Temple of the Winds`[0/528]`
+  - [ ] Wizard's Fifth Rule or Soul of the Fire`[0/512]`
+  - [ ] Wizard's Sixth Rule or Faith of the Fallen`[0/800]`
+  - [ ] Wizard's Seventh Rule or Pillars of Creation`[0/557]`
+  - [ ] Wizard's Eighth Rule or Naked Empire`[0/608]`
+  - [ ] Wizard's Ninth Rule or Chainfire`[0/672]`
+  - [ ] Wizard's Tenth Rule or Phantom`[0/672]`
+  - [ ] Wizard's Last Rule or Confessor`[0/673]`
 
 </details>
 
