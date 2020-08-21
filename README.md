@@ -192,14 +192,13 @@
   <details>
         <summary>View</summary>
 
-- [ ] [Ядро Linux. Описание процесса разработки (м)](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)
-- [ ] [Архитектура операционной системы Unix](http://lib.ru/BACH)
-- [ ] [Введение в Linux. Руководство по работе](https://younglinux.info/linuxintro)
+- [ ] [Ядро Linux](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)`[0/496]`
+- [ ] [Архитектура операционной системы Unix](http://lib.ru/BACH)`[0/420]`
 - [ ] [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg)
 - [ ] [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg)
-- [ ]  Внутреннее устройство Linux
-- [ ]  Командная строка Linux (полное руководство)
-- [ ]  Linux. Установка, настройка, администрирование (Кофлер)
+- [ ]  Внутреннее устройство Linux`[0/384]`
+- [ ]  Командная строка Linux (полное руководство)`[0/480]`
+- [ ]  Linux. Установка, настройка, администрирование (Кофлер)`[0/768]`
 
 </details>
 
