@@ -13,9 +13,9 @@
     <summary>View</summary>
 
 - [ ] [Assembly](/Assembly)
-  - [ ] FASM
-  - [ ] GAS
-  - [ ] NASM
+  - [ ] [FASM](/Assembly/FASM/)
+  - [ ] [GAS](/Assembly/GAS/)
+  - [ ] [NASM](/Assembly/NASM/)
 - [ ] [Bash](/Bash)
 - [ ] [C#](/C%23)
 - [ ] [C++](/C++)
