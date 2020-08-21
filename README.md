@@ -41,8 +41,8 @@
 - [ ] [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms?a_aid=gaia&a_bid=6a1b836a)
 - [ ] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - [ ] [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning?query=Grokking)
-- [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=Grokking)
-  
+- [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=Grokking) 
+
 </details>
 
 ---
@@ -54,9 +54,9 @@
 
 - [ ] [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book)
 - [ ] [Наука о Сетях](http://networksciencebook.com)
-- [ ] [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true)
-- [ ]  Компьютерные сети (Таненбаум)
-- [ ] Сети предприяти на основе Windows NT (М.Стерн, Г.Монти, В.Бэчманн)
+- [ ] [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) `[0/36]`
+- [ ]  Компьютерные сети (Таненбаум) `[0/947]`
+- [ ]  Сети предприяти на основе Windows NT (М.Стерн, Г.Монти, В.Бэчманн) `[0/442]`
 
 </details>
 
