@@ -121,7 +121,7 @@
 
 - [ ] [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) 
 - [ ] [Руководство по SQL](http://proselyte.net/tutorials/sql)
-- [ ] [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer)
+- [ ] [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer)`[0/336]`
 - [ ] [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver)
 
 </details>
