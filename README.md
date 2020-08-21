@@ -210,7 +210,7 @@
       <summary>View</summary>
 
 - [ ] [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook)
-- [ ] [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
+- [ ] [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)`[0/72]`
 
 </details>
 
