@@ -38,10 +38,10 @@
   <details>
     <summary>View</summary>
 
-- [ ] [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms?a_aid=gaia&a_bid=6a1b836a)
-- [ ] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
-- [ ] [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning?query=Grokking)
-- [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=Grokking) 
+- [ ]  Grokking Artificial Intelligence Algorithms`[0/392]`
+- [ ]  Grokking Algorithms`[59/288]`
+- [ ]  Grokking Machine Learning`[0/350]`
+- [ ]  Grokking Deep Learning`[0/336]`
 
 </details>
 
