@@ -1,11 +1,14 @@
-<p align="left">
-    <img src="https://img.shields.io/badge/Learning-in%20progress-informational"
+<p align="center">
+    <a href="https://imgur.com/bWS0zEy.png">
+        <img src="https://imgur.com/bWS0zEyl.png" />
+    </a>
 </p>
 
-<p align="center">
-<a href="https://imgur.com/xkpzam7.png">
-  <img src="https://imgur.com/xkpzam7.png" />
-</a></p>
+<h1 align="center">Learning</h1>
+
+<p align="center">"<i>I am learning all the time. The tombstone will be my diploma</i>"</p>
+
+
 
 <h2 align="center">Languages</h2>
 
