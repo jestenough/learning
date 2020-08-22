@@ -1,3 +1,3 @@
 # Learning Python
 
-- [Lessons](/Python/Lessons/)
+- [Lessons](/Languages/Python/Lessons/)
