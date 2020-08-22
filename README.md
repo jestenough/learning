@@ -14,22 +14,22 @@
 
 ***
 
-<h2 align="center">Languages</h2>
+## Languages
 
 <details>
     <summary>View</summary>
 
-- [ ] [Assembly](/Assembly)
-  - [ ] [FASM](/Assembly/FASM/)
-  - [ ] [GAS](/Assembly/GAS/)
-  - [ ] [NASM](/Assembly/NASM/)
-- [ ] [Bash](/Bash)
-- [ ] [C#](/C%23)
-- [ ] [C++](/C++)
-- [ ] [Python](/Python)
-- [ ] [SQL](/SQL)
-- [ ] [Swift](/Swift)
-- [ ] [TeX](/TeX)
+- [ ] [Assembly](/Languages/Assembly)
+  - [ ] [FASM](/Languages/Assembly/FASM/)
+  - [ ] [GAS](/Languages/Assembly/GAS/)
+  - [ ] [NASM](/Languages/Assembly/NASM/)
+- [ ] [Bash](/Languages/Bash)
+- [ ] [C#](/Languages/C%23)
+- [ ] [C++](/Languages/C++)
+- [ ] [Python](/Languages/Python)
+- [ ] [SQL](/Languages/SQL)
+- [ ] [Swift](/Languages/Swift)
+- [ ] [TeX](/Languages/TeX)
 
 </details>
 
