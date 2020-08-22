@@ -8,7 +8,11 @@
 
 <p align="center">"<i>I am learning all the time. The tombstone will be my diploma</i>"</p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Learning-in%20progress-informational"
+</p>
 
+***
 
 <h2 align="center">Languages</h2>
 
