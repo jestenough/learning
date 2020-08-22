@@ -1,3 +1,4 @@
 # Learning Bash
 
-- [Lessons](/Bash/Lessons/)
+- [Lessons] (/Languages/Bash/Lessons/)
+
