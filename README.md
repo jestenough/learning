@@ -17,7 +17,7 @@
 ## Languages
 
 <details>
-    <summary>View</summary>
+    <summary>View links</summary>
 
 - [ ] [Assembly](/Languages/Assembly)
   - [ ] [FASM](/Languages/Assembly/FASM/)
@@ -35,8 +35,20 @@
 
 ---
 
-<h2 align="center">Books :books:</h2>
+<h2 align="left">Literature :books:</h2>
+<details>
+  <summary>Types of literature</summary>
 
+<h3 align="center">Fiction</h3>
+<details>
+  <summary>View</summary>
+
+
+</details>
+
+---
+
+<h3 align="center">Educational</h3>
 <details>
   <summary>View</summary>
 
@@ -113,67 +125,13 @@
 
 ---
 
-##### Other
-
-  <details>
-      <summary>View</summary>
-
-- [x] Английский язык. 14 текстов о США`[87/87]`
-- [ ] Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
-- [ ] Политика (Аристотель)`[0/352]`
-- [ ] Маркетинг. Вопросы и ответы. (Г.П. Абрамова)`[0/159]`
-- [x] Игра престолов (Джордж Р.Р. Мартин)`[864/864]`
-- [ ] S.T.A.L.K.E.R
-  - [x] Зона поражения (В.Орехов)`[416/416]`
-  - [x] Линия огня (В. Орехов)`[416/416]`
-  - [x] Дезертир (А.Степанов)`[320/320]`
-- [ ] Cвободу мозгу! (Идрисс Аберкан)`[00:00:00/09:14:48]`
-- [ ] Еда и мозг (Дэвид Перлмуттер, Кристин Люберг)`[00:00:00/14:05:50]`
-- [ ] Спящий бог. 018 секс, блокчейн и новый мир`[0/620]`
-- [ ] Нейромант. Трилогия "Киберпространство" (Уильям Гибсон)`[0/960]`
-- [ ] Мартин Иден (Джек Лондон)`[0/416]`
-- [ ] Бесконечная шутка (Уоллес Д.Ф.)`[01:10:22/61:27:41]`
-- [ ] Улисс (Джеймс Джойс)`[0/730]`
-- [ ] Поминки по Финнегану (Джеймс Джойс)`[0/600]`
-- [ ] Радуга земного тяготения (Томас Пинчон)`[0/760]`
-- [ ] Sword of Truth
-  - [x] Wizard's First Rule`[836/836]`
-  - [x] Wizard's Second Rule  or Stone of Tears`[982/982]`
-  - [ ] Wizard's Third  Rule or Blood of the Fold`[0/623]`
-  - [ ] Wizard's Fourth Rule or Temple of the Winds`[0/528]`
-  - [ ] Wizard's Fifth Rule or Soul of the Fire`[0/512]`
-  - [ ] Wizard's Sixth Rule or Faith of the Fallen`[0/800]`
-  - [ ] Wizard's Seventh Rule or Pillars of Creation`[0/557]`
-  - [ ] Wizard's Eighth Rule or Naked Empire`[0/608]`
-  - [ ] Wizard's Ninth Rule or Chainfire`[0/672]`
-  - [ ] Wizard's Tenth Rule or Phantom`[0/672]`
-  - [ ] Wizard's Last Rule or Confessor`[0/673]`
-
-</details>
-
----
-
-##### Poetry
-
-<details>
-    <summary>View</summary>
-
-- [x] Великий дух (Перси Биш Шелли)`[416/416]`
-- [x] Сонеты (Шекспир)`[154/154]`
-
-</details>
-
----
-
 <h3 align="center">Programming languages</h3>
-
  <details>
     <summary>View</summary>
 
 ##### Assembly
-
    <details>
-        <summary>View</summary>
+     <summary>View</summary>
 
 - [ ]  Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.) `[0/325]`
 - [ ]  Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)`[0/305]`
@@ -184,9 +142,8 @@
 </details>
 
 ##### C/C++
-
    <details>
-          <summary>View</summary>
+      <summary>View</summary>
 
 - [ ] [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf)`[0/70]`
 - [ ]  C A Software Engineering Approach 3rd Edition`[0/498]`
@@ -201,9 +158,8 @@
 </details>
 
 ##### Python 
-
-   <details>
-          <summary>View</summary>
+  <details>
+       <summary>View</summary>
 
 - [ ]  PEP 8 - руководство по написанию кода на Python
 - [ ]  Программирование на Python, том 1, 4-е издание. Марк Лутц`[0/992]`
@@ -218,7 +174,6 @@
 </details>
 
 ##### SQL 
-
   <details>
       <summary>View</summary>
 
@@ -230,7 +185,6 @@
 </details>
 
 ##### TeX/LaTeX
-
   <details> 
       <summary>View</summary>
 
@@ -241,14 +195,14 @@
 
 </details>
 
+
 </details> 
 
 ---
 
 ##### Science
-
-  <details>
-    <summary>View</summary>
+<details>
+  <summary>View</summary>
 
 - [ ] Электроника для начинающих, Аливерти П., 2018`[0/368]`
 - [ ] Радиоэлектроника для чайников`[0/400]`
@@ -278,9 +232,8 @@
 ---
 
 ##### Tasks and puzzles
-
-  <details>
-        <summary>View</summary>
+ <details>
+      <summary>View</summary>
 
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)`[0/142]`
 - [ ]  Классические головоломки (Мартин Гарднер)`[0/96]`
@@ -296,12 +249,15 @@
 ---
 
 ##### Vim
-
-  <details>
-      <summary>View</summary>
+<details>
+    <summary>View</summary>
 
 - [ ] [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook)
 - [ ] [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)`[0/72]`
+
+</details>
+
+
 
 </details>
 
@@ -309,7 +265,7 @@
 
 ---
 
-<h2 align="center">YouTube :cinema:</h2>
+<h2 align="left">YouTube :cinema:</h2>
 
 <details>
  <summary>View</summary>
