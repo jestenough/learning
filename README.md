@@ -39,11 +39,34 @@
 <details>
   <summary>Types of literature</summary>
 
+<h3 align="center">Publicism</h3>
+ <details>
+   <summary>View</summary>
+
+- [ ] Спящий бог. 018 секс, блокчейн и новый мир`[0/620]`
+- [ ] No Logo. Люди против брэндов`[0/624]`
+- [ ] Время секонд хэнд`[0/512]`
+- [ ] Не надейтесь избавиться от книг!`[0/336]`
+- [ ] Скотный двор`[0/128]`
+
+</details>
+
+<h3 align="center">Treatise</h3>
+ <details>
+   <summary>View</summary>
+
+- [ ] Политика (Аристотель)`[0/352]`
+- [ ] Поэтика (Аристотель)`[0/224]`
+- [ ] Метафизика (Аристотель)`[0/448]`
+
+</details>
+
+---
+
+
 <h3 align="center">Fiction</h3>
 <details>
   <summary>View</summary>
-
-
 
 
 </details>
