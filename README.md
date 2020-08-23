@@ -51,6 +51,8 @@
 
 </details>
 
+---
+
 <h3 align="center">Treatise</h3>
  <details>
    <summary>View</summary>
@@ -63,10 +65,63 @@
 
 ---
 
-
 <h3 align="center">Fiction</h3>
 <details>
   <summary>View</summary>
+
+<h4 align="left">Poetry</h4>
+<details>
+    <summary>View</summary>
+
+- [x] Великий дух (Перси Биш Шелли)`[416/416]`
+- [x] Сонеты (Шекспир)`[154/154]`
+
+</details>
+
+---
+
+<h4 align="left">Fantasy</h4>
+<details>
+    <summary>View</summary>
+
+##### Sword of Truth
+<details>
+  <summary>View</summary>
+    
+  - [x] Wizard's First Rule`[836/836]`
+  - [x] Wizard's Second Rule  or Stone of Tears`[982/982]`
+  - [ ] Wizard's Third  Rule or Blood of the Fold`[0/623]`
+  - [ ] Wizard's Fourth Rule or Temple of the Winds`[0/528]`
+  - [ ] Wizard's Fifth Rule or Soul of the Fire`[0/512]`
+  - [ ] Wizard's Sixth Rule or Faith of the Fallen`[0/800]`
+  - [ ] Wizard's Seventh Rule or Pillars of Creation`[0/557]`
+  - [ ] Wizard's Eighth Rule or Naked Empire`[0/608]`
+  - [ ] Wizard's Ninth Rule or Chainfire`[0/672]`
+  - [ ] Wizard's Tenth Rule or Phantom`[0/672]`
+  - [ ] Wizard's Last Rule or Confessor`[0/673]`
+
+</details>
+
+
+</details>
+
+---
+
+<h4 align="left">Fantastic</h4>
+<details>
+    <summary>View</summary>
+    
+##### S.T.A.L.K.E.R
+<details>
+    <summary>View</summary>
+
+- [x] Зона поражения (В.Орехов)`[416/416]`
+- [x] Линия огня (В. Орехов)`[416/416]`
+- [x] Дезертир (А.Степанов)`[320/320]`
+
+</details>
+
+</details>
 
 
 </details>
@@ -77,7 +132,8 @@
 <details>
   <summary>View</summary>
 
-##### Grokking series
+
+<h4 align="left">Grokking series</h4>
   <details>
     <summary>View</summary>
 
@@ -90,7 +146,7 @@
 
 ---
 
-##### Mathematics
+<h4 align="left">Mathematics</h4>
   <details>
         <summary>View</summary>
 
@@ -116,7 +172,7 @@
 
 ---
 
-##### Network
+<h4 align="left">Network</h4>
   <details>
     <summary>View</summary>
 
@@ -130,7 +186,7 @@
 
 ---
 
-<h3 align="center">OS</h3>
+<h4 align="left">OS</h4>
  <details>
     <summary>View</summary>
 
@@ -152,7 +208,7 @@
 
 ---
 
-##### Other
+<h4 align="left">Other</h4>
 <details>
     <summary>View</summary>
     
@@ -162,7 +218,7 @@
 </details>
 
 ---
-<h3 align="center">Programming languages</h3>
+<h4 align="left">Programming languages</h4>
  <details>
     <summary>View</summary>
 
@@ -237,7 +293,8 @@
 
 ---
 
-##### Science
+
+<h4 align="left">Science</h4>
 <details>
   <summary>View</summary>
 
@@ -268,7 +325,7 @@
 
 ---
 
-##### Tasks and puzzles
+<h4 align="left">Tasks and puzzles</h4>
  <details>
       <summary>View</summary>
 
@@ -285,7 +342,7 @@
 
 ---
 
-##### Vim
+<h4 align="left">Vim</h4>
 <details>
     <summary>View</summary>
 
@@ -303,12 +360,10 @@
 ---
 
 <h2 align="left">YouTube :cinema:</h2>
-
 <details>
  <summary>View</summary>
 
 ##### Educational channels
-
 <details>
   <summary>View</summary>
 
