@@ -8,8 +8,6 @@
 
 <p align="center">"<i>I am learning all the time. The tombstone will be my diploma</i>"</p>
 
-<br>
-
 <p align="center">
     <a href="README.md">
         <img src="https://img.shields.io/badge/Learning-in%20progress-informational"
@@ -18,8 +16,6 @@
         <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true">
     </a>
 </p>
-
-<br>
 
 ***
 
