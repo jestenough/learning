@@ -44,6 +44,8 @@
   <summary>View</summary>
 
 
+
+
 </details>
 
 ---
@@ -53,7 +55,6 @@
   <summary>View</summary>
 
 ##### Grokking series
-
   <details>
     <summary>View</summary>
 
@@ -67,7 +68,6 @@
 ---
 
 ##### Mathematics
-
   <details>
         <summary>View</summary>
 
@@ -94,7 +94,6 @@
 ---
 
 ##### Network
-
   <details>
     <summary>View</summary>
 
@@ -130,7 +129,16 @@
 
 ---
 
+##### Other
+<details>
+    <summary>View</summary>
+    
+- [x] Английский язык. 14 текстов о США`[87/87]`
+- [ ] Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
+- [ ] Маркетинг. Вопросы и ответы. (Г.П. Абрамова)`[0/159]`
+</details>
 
+---
 <h3 align="center">Programming languages</h3>
  <details>
     <summary>View</summary>
