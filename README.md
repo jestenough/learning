@@ -66,23 +66,6 @@
 
 ---
 
-##### Linux 
-
-  <details>
-        <summary>View</summary>
-
-- [ ] [Ядро Linux](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)`[0/496]`
-- [ ] [Архитектура операционной системы Unix](http://lib.ru/BACH)`[0/420]`
-- [ ] [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg)
-- [ ] [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg)
-- [ ]  Внутреннее устройство Linux`[0/384]`
-- [ ]  Командная строка Linux (полное руководство)`[0/480]`
-- [ ]  Linux. Установка, настройка, администрирование (Кофлер)`[0/768]`
-
-</details>
-
----
-
 ##### Mathematics
 
   <details>
@@ -124,6 +107,29 @@
 </details>
 
 ---
+
+<h3 align="center">OS</h3>
+ <details>
+    <summary>View</summary>
+
+##### Linux 
+  <details>
+      <summary>View</summary>
+
+- [ ] [Ядро Linux](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)`[0/496]`
+- [ ] [Архитектура операционной системы Unix](http://lib.ru/BACH)`[0/420]`
+- [ ] [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg)
+- [ ] [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg)
+- [ ]  Внутреннее устройство Linux`[0/384]`
+- [ ]  Командная строка Linux (полное руководство)`[0/480]`
+- [ ]  Linux. Установка, настройка, администрирование (Кофлер)`[0/768]`
+
+</details>
+
+</details>
+
+---
+
 
 <h3 align="center">Programming languages</h3>
  <details>
