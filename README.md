@@ -10,7 +10,11 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Learning-in%20progress-informational"
+    <a href="LICENSE.md">
+        <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true">
+    </a>
 </p>
+
 
 ***
 
