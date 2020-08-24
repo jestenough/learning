@@ -398,7 +398,7 @@
 <details>
  <summary>View</summary>
 
-##### Educational channels
+<h4 align="left">Educational channels</h4>
 <details>
   <summary>View</summary>
 
