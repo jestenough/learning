@@ -46,7 +46,7 @@
 
 <h3 align="center">Publicism</h3>
  <details>
-   <summary>View</summary>
+   <summary>View books</summary>
 
 - [ ] Спящий бог. 018 секс, блокчейн и новый мир`[0/620]`
 - [ ] No Logo. Люди против брэндов`[0/624]`
@@ -60,7 +60,7 @@
 
 <h3 align="center">Treatise</h3>
  <details>
-   <summary>View</summary>
+   <summary>View books</summary>
 
 - [ ] Политика (Аристотель)`[0/352]`
 - [ ] Поэтика (Аристотель)`[0/224]`
@@ -72,7 +72,7 @@
 
 <h3 align="center">Fiction</h3>
 <details>
-  <summary>View</summary>
+  <summary>View books</summary>
 
 <h4 align="left">Poetry</h4>
 <details>
@@ -151,7 +151,7 @@
 
 <h3 align="center">Educational</h3>
 <details>
-  <summary>View</summary>
+  <summary>View books</summary>
 
 
 <h4 align="left">Grokking series</h4>
@@ -169,7 +169,7 @@
 
 <h4 align="left">Languages</h4>
  <details>
-    <summary>View</summary>
+    <summary>View languages</summary>
 
 ##### English 
   <details>
@@ -225,7 +225,7 @@
 
 <h4 align="left">OS</h4>
  <details>
-    <summary>View</summary>
+    <summary>View OS</summary>
 
 ##### Linux 
   <details>
@@ -255,7 +255,7 @@
 ---
 <h4 align="left">Programming languages</h4>
  <details>
-    <summary>View</summary>
+    <summary>View programming languages</summary>
 
 ##### Assembly
    <details>
@@ -394,7 +394,7 @@
 
 ---
 
-<h2 align="left">YouTube :cinema:</h2>
+<h2 align="left">Video :cinema:</h2>
 <details>
  <summary>View</summary>
 
