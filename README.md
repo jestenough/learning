@@ -167,6 +167,22 @@
 
 ---
 
+<h4 align="left">Languages</h4>
+ <details>
+    <summary>View</summary>
+
+##### English 
+  <details>
+      <summary>View</summary>
+    
+- [x] Английский язык. 14 текстов о США`[87/87]`
+- [ ] Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
+
+</details>
+</details>
+
+---
+
 <h4 align="left">Mathematics</h4>
   <details>
         <summary>View</summary>
@@ -232,9 +248,7 @@
 <h4 align="left">Other</h4>
 <details>
     <summary>View</summary>
-    
-- [x] Английский язык. 14 текстов о США`[87/87]`
-- [ ] Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
+
 - [ ] Маркетинг. Вопросы и ответы. (Г.П. Абрамова)`[0/159]`
 </details>
 
