@@ -396,7 +396,7 @@
 
 <h2 align="left">Video :cinema:</h2>
 <details>
- <summary>View</summary>
+ <summary>View video content</summary>
 
 <h4 align="left">Educational channels</h4>
 <details>
