@@ -330,7 +330,6 @@
 - [ ]  Программируем на Python (Майкл Доусон)`[0/416]`
 - [ ]  Прикладной анализ текстовых данных на Python`[0/368]`
 - [ ]  A Byte of Python (Russian)`[0/164]`
-- [ ] [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) 
 - [ ] [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
 - [ ] [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 
@@ -340,7 +339,6 @@
   <details>
       <summary>View</summary>
 
-- [ ] [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) 
 - [ ] [Руководство по SQL](http://proselyte.net/tutorials/sql)
 - [ ] [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer)`[0/336]`
 - [ ] [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver)
@@ -446,7 +444,6 @@
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
 - [Станет проще](https://www.youtube.com/playlist?list=PLFg1XD1ytVo01rGekO4dg4fiQiIyqDHWh)
 - [Заметки Ардуинщика](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA/featured)
-- [Маткульт-привет! :: Алексей Савватеев и Ко](https://www.youtube.com/channel/UCWk8OxsylgmZ_VgY7jC9pjQ)
 - [Pingvinus](https://www.youtube.com/channel/UCnxk5BzZxRN7y3a1IqHhVlA/featured)
 - [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured)
 - [Лекториум](https://www.youtube.com/user/OpenLektorium/featured)
