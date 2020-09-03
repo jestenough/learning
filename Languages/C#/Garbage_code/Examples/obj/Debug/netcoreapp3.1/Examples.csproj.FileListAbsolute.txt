@@ -1,0 +1,13 @@
+/home/rteff/Desktop/Новый каталог/Examples/obj/Debug/netcoreapp3.1/Examples.csprojAssemblyReference.cache
+/home/rteff/Desktop/Новый каталог/Examples/obj/Debug/netcoreapp3.1/Examples.AssemblyInfoInputs.cache
+/home/rteff/Desktop/Новый каталог/Examples/obj/Debug/netcoreapp3.1/Examples.AssemblyInfo.cs
+/home/rteff/Desktop/Новый каталог/Examples/obj/Debug/netcoreapp3.1/Examples.csproj.CoreCompileInputs.cache
+/home/rteff/Desktop/Новый каталог/Examples/bin/Debug/netcoreapp3.1/Examples
+/home/rteff/Desktop/Новый каталог/Examples/bin/Debug/netcoreapp3.1/Examples.deps.json
+/home/rteff/Desktop/Новый каталог/Examples/bin/Debug/netcoreapp3.1/Examples.runtimeconfig.json
+/home/rteff/Desktop/Новый каталог/Examples/bin/Debug/netcoreapp3.1/Examples.runtimeconfig.dev.json
+/home/rteff/Desktop/Новый каталог/Examples/bin/Debug/netcoreapp3.1/Examples.dll
+/home/rteff/Desktop/Новый каталог/Examples/bin/Debug/netcoreapp3.1/Examples.pdb
+/home/rteff/Desktop/Новый каталог/Examples/obj/Debug/netcoreapp3.1/Examples.dll
+/home/rteff/Desktop/Новый каталог/Examples/obj/Debug/netcoreapp3.1/Examples.pdb
+/home/rteff/Desktop/Новый каталог/Examples/obj/Debug/netcoreapp3.1/Examples.genruntimeconfig.cache
