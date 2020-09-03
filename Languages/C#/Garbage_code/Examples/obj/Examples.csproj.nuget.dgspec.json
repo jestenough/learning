@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rteff/Desktop/Новый каталог/Examples/Examples.csproj": {}
+    "/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Examples/Examples.csproj": {}
   },
   "projects": {
-    "/home/rteff/Desktop/Новый каталог/Examples/Examples.csproj": {
+    "/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Examples/Examples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rteff/Desktop/Новый каталог/Examples/Examples.csproj",
+        "projectUniqueName": "/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Examples/Examples.csproj",
         "projectName": "Examples",
-        "projectPath": "/home/rteff/Desktop/Новый каталог/Examples/Examples.csproj",
+        "projectPath": "/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Examples/Examples.csproj",
         "packagesPath": "/home/rteff/.nuget/packages/",
-        "outputPath": "/home/rteff/Desktop/Новый каталог/Examples/obj/",
+        "outputPath": "/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Examples/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rteff/.nuget/NuGet/NuGet.Config"

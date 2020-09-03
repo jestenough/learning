@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gfyzapK5ua4EkgUzHS42ohx+/EU99cgsUc67KSH1+Tx6l7z0WgkL9rUKrNXgTZCK5dhVrvZx5CV9DOzMk1pGYQ==",
+  "dgSpecHash": "xJTSPvdjK+G7WjgUnHXz3wXenX2x9d9hSus7m4Ijlf2FvYSnAhjrGLyw73mI8Dx4VcgQKq2zJgcWaFfGYBdB6A==",
   "success": true,
-  "projectFilePath": "/home/rteff/Desktop/Новый каталог/Examples/Examples.csproj",
+  "projectFilePath": "/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Examples/Examples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
