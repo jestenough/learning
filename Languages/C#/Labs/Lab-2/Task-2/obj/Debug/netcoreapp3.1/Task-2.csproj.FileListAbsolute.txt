@@ -1,0 +1,13 @@
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/obj/Debug/netcoreapp3.1/Task-2.csprojAssemblyReference.cache
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/obj/Debug/netcoreapp3.1/Task-2.AssemblyInfoInputs.cache
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/obj/Debug/netcoreapp3.1/Task-2.AssemblyInfo.cs
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/obj/Debug/netcoreapp3.1/Task-2.csproj.CoreCompileInputs.cache
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/bin/Debug/netcoreapp3.1/Task-2
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/bin/Debug/netcoreapp3.1/Task-2.deps.json
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/bin/Debug/netcoreapp3.1/Task-2.runtimeconfig.json
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/bin/Debug/netcoreapp3.1/Task-2.runtimeconfig.dev.json
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/bin/Debug/netcoreapp3.1/Task-2.dll
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/bin/Debug/netcoreapp3.1/Task-2.pdb
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/obj/Debug/netcoreapp3.1/Task-2.dll
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/obj/Debug/netcoreapp3.1/Task-2.pdb
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-2/Task-2/obj/Debug/netcoreapp3.1/Task-2.genruntimeconfig.cache
