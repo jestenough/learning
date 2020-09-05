@@ -1,0 +1,13 @@
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/bin/Debug/netcoreapp3.1/Task-4
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/bin/Debug/netcoreapp3.1/Task-4.deps.json
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/bin/Debug/netcoreapp3.1/Task-4.runtimeconfig.json
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/bin/Debug/netcoreapp3.1/Task-4.runtimeconfig.dev.json
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/bin/Debug/netcoreapp3.1/Task-4.dll
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/bin/Debug/netcoreapp3.1/Task-4.pdb
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/obj/Debug/netcoreapp3.1/Task-4.csprojAssemblyReference.cache
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/obj/Debug/netcoreapp3.1/Task-4.AssemblyInfoInputs.cache
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/obj/Debug/netcoreapp3.1/Task-4.AssemblyInfo.cs
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/obj/Debug/netcoreapp3.1/Task-4.csproj.CoreCompileInputs.cache
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/obj/Debug/netcoreapp3.1/Task-4.dll
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/obj/Debug/netcoreapp3.1/Task-4.pdb
+/home/rteff/GitHub/Learning/Languages/C#/Labs/Lab-1/Task-4/obj/Debug/netcoreapp3.1/Task-4.genruntimeconfig.cache
