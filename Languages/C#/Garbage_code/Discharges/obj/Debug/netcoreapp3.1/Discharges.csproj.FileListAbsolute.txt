@@ -11,3 +11,16 @@
 /home/rteff/Desktop/Новый каталог/Discharges/obj/Debug/netcoreapp3.1/Discharges.dll
 /home/rteff/Desktop/Новый каталог/Discharges/obj/Debug/netcoreapp3.1/Discharges.pdb
 /home/rteff/Desktop/Новый каталог/Discharges/obj/Debug/netcoreapp3.1/Discharges.genruntimeconfig.cache
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/bin/Debug/netcoreapp3.1/Discharges
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/bin/Debug/netcoreapp3.1/Discharges.deps.json
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/bin/Debug/netcoreapp3.1/Discharges.runtimeconfig.json
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/bin/Debug/netcoreapp3.1/Discharges.runtimeconfig.dev.json
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/bin/Debug/netcoreapp3.1/Discharges.dll
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/bin/Debug/netcoreapp3.1/Discharges.pdb
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/obj/Debug/netcoreapp3.1/Discharges.csprojAssemblyReference.cache
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/obj/Debug/netcoreapp3.1/Discharges.AssemblyInfoInputs.cache
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/obj/Debug/netcoreapp3.1/Discharges.AssemblyInfo.cs
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/obj/Debug/netcoreapp3.1/Discharges.csproj.CoreCompileInputs.cache
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/obj/Debug/netcoreapp3.1/Discharges.dll
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/obj/Debug/netcoreapp3.1/Discharges.pdb
+/home/rteff/GitHub/Learning/Languages/C#/Garbage_code/Discharges/obj/Debug/netcoreapp3.1/Discharges.genruntimeconfig.cache
