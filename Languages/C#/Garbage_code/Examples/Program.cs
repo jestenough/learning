@@ -180,6 +180,8 @@ namespace Examples_types
             object c_5 = "hello code";
 
 
+            Console.WriteLine($"{Alive} {IsDead}", bit1 + bit2 + bit_1 + bit_2 + n1 + n2 + n_1 + n_2 + a + b + c);
+            Console.WriteLine($"{a_1},{b_1},{c_1},{a_2},{b_2},{c_2}", a_3 + b_3 + c_3 + a_4 + b_4 + c_4 + hello + word);
 
         }
     }
