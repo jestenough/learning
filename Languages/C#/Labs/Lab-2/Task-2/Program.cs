@@ -11,11 +11,14 @@ namespace Task_2
             Console.Write("Введите y: ");
             double y = Convert.ToDouble(Console.ReadLine());
 
-            double d1 = 1 + x + y + x * y;
-            double d2 = Math.Pow(x,2) + (Math.Pow(y,3));
-            double d3 = d1 / d2;
-            double d = d3 * (2.0 / 3.0);
-            Console.WriteLine(d);
+            // double d1 = 1 + x + y + x * y;
+            // double d2 = Math.Pow(x,2) + (Math.Pow(y,3));
+            // double d3 = d1 / d2;
+            // double d = d3 * (2.0 / 3.0);
+
+            double d = ((1 + x + y + x * y) / (Math.Pow(x,2) + Math.Pow(y,3)) * 2.0 / 3.0);
+
+            Console.WriteLine("Результат: {0:0.###}",d);
         }
     }
 }

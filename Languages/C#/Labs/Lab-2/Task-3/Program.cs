@@ -12,7 +12,7 @@ namespace Task_3
             double V = Math.Pow(x,3);
             double S = 6 * Math.Pow(x,2);
             
-            Console.WriteLine($"\nОбъем поверхности куба = {V}\nПлощадь поверхности куба = {S}");
+            Console.WriteLine("\nОбъем поверхности куба = {0:0.##}\nПлощадь поверхности куба = {1:0.##}",V,S);
         }
     }
 }
