@@ -20,7 +20,7 @@ namespace Chet_1_Nechet_0_HAHA
 
             // Способ 2
             Console.Write("> ");
-            int number = Convert.ToInt32(Console.ReadLine());
+            number = Convert.ToInt32(Console.ReadLine());
             number %= 2 - 1;
             number = Math.Abs(number);
 
