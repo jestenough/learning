@@ -1,9 +1,21 @@
 # Lessons
 
-- [x] [Алгоритмы и структуры данных (C++) - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr)
+- [ ] [Алгоритмы и структуры данных (C++) - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr)
   - [x] [Лекция №1](https://www.youtube.com/watch?v=MWsfHQaUzI0&list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr)
   - [x] [Лекция №2](https://youtu.be/nkuNsxLcN0g)
   - [x] [Лекция №3](https://youtu.be/2KTrsLcLODI)
   - [x] [Лекция №4](https://youtu.be/YiRlmHiRs0w)
   - [x] [Лекция №5](https://youtu.be/mgaOUpeh96M)
   - [x] [Лекция №6](https://youtu.be/QdIPF_vmvRE)
+  - [ ] [Лекция №7](https://youtu.be/zWEZQ6L8vsI)
+  - [ ] [Лекция №8](https://youtu.be/RZm7PN91W2o)
+  - [ ] [Лекция №9](https://youtu.be/403nJyTmk6o)
+  - [ ] [Лекция №10](https://youtu.be/K_StOxn9sv0)
+  - [ ] [Лекция №11](https://youtu.be/y8X781XLt-o)
+  - [ ] [Лекция №12](https://youtu.be/4E-_uzO0A_A)
+  - [ ] [Лекция №13](https://youtu.be/dlR5ehWySr4)
+  - [ ] [Лекция №14](https://youtu.be/44dGfH1tjk8)
+  - [ ] [Лекция №1 (Осень)](https://youtu.be/3s5Y5E3LtaI)
+  - [ ] [Лекция №2 (Осень)](https://youtu.be/tDKgIPHapsg)
+
+
