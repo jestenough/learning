@@ -16,3 +16,8 @@
   - [ ] [Лекция №13](https://youtu.be/nlyyE_EXzl0)
   - [ ] [Лекция №14](https://youtu.be/zT24S8pIV5E)
 
+- [ ] [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe)
+  - [ ] [Лекция №1](https://youtu.be/us7y0UhTq0s)
+  - [ ] [Лекция №2](https://youtu.be/4NvtHHWoWXE)
+
+
