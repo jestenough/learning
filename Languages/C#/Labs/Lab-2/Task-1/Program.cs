@@ -6,7 +6,12 @@ namespace Task_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет, Славик!");
+            Console.Write("Привет, введите строку\n> ");
+            string stroka = Console.ReadLine();
+            
+            Console.WriteLine(stroka);
+            Console.WriteLine($"\nВаша строка: {stroka}. Всё верно?");
+
         }
     }
 }
