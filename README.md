@@ -33,7 +33,6 @@
 - [ ] [C++](/Languages/C++)
 - [ ] [Python](/Languages/Python)
 - [ ] [SQL](/Languages/SQL)
-- [ ] [Swift](/Languages/Swift)
 - [ ] [TeX](/Languages/TeX)
 
 </details>
