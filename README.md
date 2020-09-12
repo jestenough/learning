@@ -469,6 +469,13 @@
   <summary>View</summary>
 
 - [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
+- [Дистанционные занятия МФТИ](https://www.youtube.com/channel/UCEEhbFAvl3fOW5geICQbMcg)    
+- [ФКН ВШЭ — дистанционные занятия](https://www.youtube.com/channel/UCV56iySuhfRQ1qSjXmAr1Yw/)
+- [Кафедра ИВМ МФТИ](https://www.youtube.com/channel/UCQS_6TIx_meYd9BfnpoNcHA/)
+- [Кафедра Теоретической Механики](https://www.youtube.com/channel/UCdQN8tQsBJFMx57wsLt0JKw)
+- [Кафедра высшей математики МФТИ](https://www.youtube.com/channel/UC_ByV5irnAmCUZEGVZntFmQ)
+- [Открытая лаборатория искусственного интеллекта МФТИ](https://www.youtube.com/channel/UCGCfZVANvKXdlRppUbfzf-Q)
+- [CS50](https://www.youtube.com/c/cs50/)
 - [НОУ ИНТУИТ](https://www.youtube.com/user/Intuitube/featured)
 - [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
