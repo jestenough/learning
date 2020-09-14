@@ -9,12 +9,6 @@ namespace Task_5
             Console.WriteLine("Введите цифру от [0;9]");
             byte number = Convert.ToByte(Console.ReadLine());
 
-            if (number < 0 || number > 9)
-            { 
-                Console.WriteLine("Error. Число не входит в указанный диапазон [0;9]");
-                return 0;
-            }
-            
             switch(number)
             {
                 case 0: Console.WriteLine("\nНазвание вашей цифры - НОЛЬ"); break;
@@ -27,6 +21,7 @@ namespace Task_5
                 case 7: Console.WriteLine("\nНазвание вашей цифры - СЕМЬ"); break;
                 case 8: Console.WriteLine("\nНазвание вашей цифры - ВОСЕМЬ"); break;
                 case 9: Console.WriteLine("\nНазвание вашей цифры - ДЕВЯТЬ"); break;
+                default: Console.WriteLine("Error. Число не входит в указанный диапазон [0;9]"); break;
             }
             return 0;
         }
