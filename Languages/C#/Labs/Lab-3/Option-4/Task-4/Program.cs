@@ -24,6 +24,8 @@ namespace Task_4
             //else if (day == 0 || day == 6) Console.WriteLine($"\nДень года с номером {x} является ВЫХОДНЫМ днём");
             switch(x % 7)
             {
+            // case 0: case 6:  Console.WriteLine($"\nДень года с номером {x} является ВЫХОДНЫМ днём"; break;
+            // case 1: case: 2: case 3: case 4: case 5: Console.WriteLine($"\nДень года с номером {x} является БУДНИМ днём"); break;
                 case 0: Console.WriteLine($"\nДень года с номером {x} является Воскресеньем, т.е. ВЫХОДНЫМ днём"); break;
                 case 1: Console.WriteLine($"\nДень года с номером {x} является Понедельником, т.е. БУДНИМ днём"); break;
                 case 2: Console.WriteLine($"\nДень года с номером {x} является Вторником, т.е. БУДНИМ днём"); break;

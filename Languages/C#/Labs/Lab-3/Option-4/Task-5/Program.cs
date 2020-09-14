@@ -28,6 +28,7 @@ namespace Task_5
                 case 6: Console.WriteLine($"\nПланета, расположенная с номером {x} от солнца - Сатурн кольцевой"); break;
                 case 7: Console.WriteLine($"\nПланета, расположенная с номером {x} от солнца - Уран загадочный"); break;
                 case 8: Console.WriteLine($"\nПланета, расположенная с номером {x} от солнца - Нептун голубой"); break;
+            //  default: Console.WriteLine($"Error. Неверное число, число {x} не в диапазоне между [1;8]\n"); break;
             }
             
         }
