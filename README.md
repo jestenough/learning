@@ -343,6 +343,7 @@
 - [ ] [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
 - [ ] [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
 - [ ] [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf)
+- [ ]  C++ notes for professionals`[0/708]`
 
 </details>
 
@@ -358,6 +359,7 @@
 - [ ]  A Byte of Python (Russian)`[0/164]`
 - [ ] [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
 - [ ] [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
+- [ ]  Эволюционные нейросети на языке Python (Ярослав Омельченко)`[0/310]`
 
 </details>
 
@@ -368,6 +370,7 @@
 - [ ] [Руководство по SQL](http://proselyte.net/tutorials/sql)
 - [ ] [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer)`[0/336]`
 - [ ] [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver)
+- [ ]  SQL и реляционная теория. как грамотно писать код на sql (К.ДЖ.Дейт)`[0/476]`
 
 </details>
 
