@@ -26,24 +26,28 @@ namespace Task_3
                 summa += Math.Pow((-1),i) * (x / Math.Pow(i,3));
             }
 
-            Console.WriteLine($"Сумма ряда, на {n} слагаемых = {summa}");
+            Console.WriteLine("Сумма ряда, на {0} слагаемых = {1:0.###}",n,summa);
 
             // b) бесконечного, с точностью eps, которую вводит пользователь
             
-            /*
             Console.Write("\nВведите точность EPS\n> ");
             eps = Convert.ToDouble(Console.ReadLine());
             
-            summa = 0;
-
-            for (int i = 1; x >= eps; i++)
+            if (eps > 0)
             {
-                x = Math.Pow((-1),i) * (x / Math.Pow(i,3));
-                summa += x;
-            }
+                summa = 0;
+                int i = 1;
+                double sl =  Math.Pow((-1),i) * (x / Math.Pow(i,3));
 
-            Console.WriteLine($"Сумма ряда = {summa}");
-            */
+                for (i = 1; Math.Abs(sl) > eps; i++)
+                {
+                    summa += sl;
+                    sl = Math.Pow((-1),i) * (x / Math.Pow(i,3));
+                }
+            }
+            else Console.WriteLine("Нужно ввести eps больше нуля!");
+            
+            Console.WriteLine("Сумма ряда = {0:0.###}",summa);
         }
     }
 }
