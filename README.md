@@ -416,7 +416,6 @@
 - [ ] Artificial Intelligence  and Games (Georgios N. Yannakakis Julian Togelius)`[0/350]`
 - [ ] The Hundred-Page Machine Learning (Andriy Burkov)`[0/151]`
 - [ ] Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow`[0/1065]`
-- [ ] 
 - [ ] Оформление программного кода. Методическое пособие (Столяров А.)`[0/118]`
 - [ ] Программирование: введение в профессию (Столяров А.)
   - [ ] Том 1: азы программирования (2016)`[0/467]`
