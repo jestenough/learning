@@ -23,7 +23,7 @@ namespace Task_3
 
             for (int i = 1; i <= n; i++)
             {
-                summa += Math.Pow((-1),i) * (x / Math.Pow(i,3));
+                summa += i / Math.Pow(i+1,2);
             }
 
             Console.WriteLine("Сумма ряда, на {0} слагаемых = {1:0.###}",n,summa);
@@ -37,12 +37,12 @@ namespace Task_3
             {
                 summa = 0;
                 int i = 1;
-                double sl =  Math.Pow((-1),i) * (x / Math.Pow(i,3));
+                double sl =  i / Math.Pow(i+1,2);
 
                 for (i = 1; Math.Abs(sl) > eps; i++)
                 {
                     summa += sl;
-                    sl = Math.Pow((-1),i) * (x / Math.Pow(i,3));
+                    sl = i / Math.Pow(i+1,2);
                 }
             }
             else Console.WriteLine("Нужно ввести eps больше нуля!");
