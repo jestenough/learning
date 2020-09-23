@@ -4,6 +4,13 @@ namespace Task_4
 {
     class Program
     {
+        /*
+        Конвертер валют. 
+        BYN -> USD
+        и
+        BYN -> EUR
+        */
+        
         static void converter(double byn, out double usd, out double eur)
         {
             usd = byn * 0.3883;
