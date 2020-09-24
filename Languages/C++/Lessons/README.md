@@ -17,5 +17,7 @@
   - [ ] [Лекция №14](https://youtu.be/44dGfH1tjk8)
   - [ ] [Лекция №1 (Осень)](https://youtu.be/3s5Y5E3LtaI)
   - [ ] [Лекция №2 (Осень)](https://youtu.be/tDKgIPHapsg)
+  - [ ] [Лекция №3 (Осень)](https://youtu.be/6KolmHZqjXI)
+  - [ ] [Лекция №4 (Осень)](https://youtu.be/Z13PJuS4J80)
 
 
