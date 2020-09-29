@@ -499,7 +499,7 @@
 
 ---
 
-<h2 align="left">Video :cinema:</h2>
+<h2 align="left">Content</h2>
 <details>
  <summary>View video content</summary>
 
@@ -525,6 +525,40 @@
 - [Лекториум](https://www.youtube.com/user/OpenLektorium/featured)
 - [Igor Krylov](https://www.youtube.com/c/IgorKrylov/featured)
 - [Deep Learning School](https://www.youtube.com/c/DeepLearningSchool/featured)
+
+</details>
+
+---
+
+<h4 align="left">E-libraries</h4>
+<details>
+  <summary>View</summary>
+
+- [ПУБЛИЧНАЯ БИБЛИОТЕКА](http://publ.lib.ru/publib.html)
+- [Library Genesis](http://gen.lib.rus.ec/)
+- [Флибуста](https://flibusta.site/)
+- [Rutracker :)](https://rutracker.org/forum/index.php)
+- [OZ](https://oz.by/)
+- [Поляков К.Ю.](http://kpolyakov.spb.ru/)
+
+</details>
+
+---
+
+<h4 align="left">Websites</h4>
+<details>
+  <summary>View</summary>
+
+- [Кафедра информатики и вычислительной математики](http://cs.mipt.ru/wp/)
+- [MIPT Computer Science](https://www.sites.google.com/site/miptcscourses/)
+- [MIPT acm](http://acm.mipt.ru/)
+- [ИНТУИТ](https://intuit.ru/)
+- [Foxford](https://foxford.ru/wiki/informatika)
+- [Losst](https://losst.ru/)
+- [Habr](https://habr.com/ru/top/)
+- [Stackoverflow (eng)](https://stackoverflow.com/)
+- [Stackoverflow (ru)](https://ru.stackoverflow.com/)
+- [SSD.EFF.ORG](https://ssd.eff.org/ru)
 
 </details>
 
