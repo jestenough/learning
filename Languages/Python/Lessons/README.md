@@ -21,5 +21,6 @@
   - [ ] [Лекция №2](https://youtu.be/4NvtHHWoWXE)
   - [ ] [Лекция №3](https://youtu.be/hSmvFRMm_9Q)
   - [ ] [Лекция №4](https://youtu.be/JudiqSMKB34)
+  - [ ] [Лекция №5](https://youtu.be/wjCEEax2ZBk)
 
 
