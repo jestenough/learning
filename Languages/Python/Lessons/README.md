@@ -5,7 +5,7 @@
   - [x] [Лекция №2](https://youtu.be/15qiZJIX1YE)
   - [x] [Лекция №3](https://youtu.be/BNf6jDK2np4)
   - [x] [Лекция №4](https://youtu.be/kCQfhRReGTI)
-  - [ ] [Лекция №5](https://youtu.be/enbhOrC2Vzo)
+  - [x] [Лекция №5](https://youtu.be/enbhOrC2Vzo)
   - [ ] [Лекция №6](https://youtu.be/ppJfqW7fL80)
   - [ ] [Лекция №7](https://youtu.be/3AIALI9sY4g)
   - [ ] [Лекция №8](https://youtu.be/904N6TyNabw)

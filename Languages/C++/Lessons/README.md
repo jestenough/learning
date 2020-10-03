@@ -7,7 +7,7 @@
   - [x] [Лекция №4](https://youtu.be/YiRlmHiRs0w)
   - [x] [Лекция №5](https://youtu.be/mgaOUpeh96M)
   - [x] [Лекция №6](https://youtu.be/QdIPF_vmvRE)
-  - [ ] [Лекция №7](https://youtu.be/zWEZQ6L8vsI)
+  - [x] [Лекция №7](https://youtu.be/zWEZQ6L8vsI)
   - [ ] [Лекция №8](https://youtu.be/RZm7PN91W2o)
   - [ ] [Лекция №9](https://youtu.be/403nJyTmk6o)
   - [ ] [Лекция №10](https://youtu.be/K_StOxn9sv0)
