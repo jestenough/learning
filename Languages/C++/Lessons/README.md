@@ -20,4 +20,4 @@
   - [ ] [Лекция №3 (Осень)](https://youtu.be/6KolmHZqjXI)
   - [ ] [Лекция №4 (Осень)](https://youtu.be/Z13PJuS4J80)
   - [ ] [Лекция №5 (Осень)](https://youtu.be/Tui85_T4qdA)
-
+  - [ ] [Лекция №6 (Осень)](https://youtu.be/fKqMtW7Efdg)
