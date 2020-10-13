@@ -685,7 +685,7 @@
   <summary>View</summary>
 
 - [ ] [Основы Linux](https://stepik.org/course/762/syllabus)
-- [ ] [Введение в Linux](https://stepik.org/course/73/syllabus)
+- [x] [Введение в Linux](https://stepik.org/course/73/syllabus)
 - [ ] [Введение в базы данных](https://stepik.org/course/551/promo)
 - [ ] [Базовый курс по математике](https://stepik.org/course/85/syllabus)
 - [ ] [Python: основы и применение](https://stepik.org/course/512/promo)
