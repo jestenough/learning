@@ -351,7 +351,7 @@
     <summary>View</summary>
 
 - [ ]  Grokking Artificial Intelligence Algorithms`[0/392]`
-- [ ]  Grokking Algorithms`[59/288]`
+- [ ]  Grokking Algorithms`[75/288]`
 - [ ]  Grokking Machine Learning`[0/350]`
 - [ ]  Grokking Deep Learning`[0/336]`
 
