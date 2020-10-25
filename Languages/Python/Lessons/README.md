@@ -19,7 +19,7 @@
 - [ ] [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe)
   - [x] [Лекция №1](https://youtu.be/us7y0UhTq0s)
   - [x] [Лекция №2](https://youtu.be/4NvtHHWoWXE)
-  - [ ] [Лекция №3](https://youtu.be/hSmvFRMm_9Q)
+  - [x] [Лекция №3](https://youtu.be/hSmvFRMm_9Q)
   - [ ] [Лекция №4](https://youtu.be/JudiqSMKB34)
   - [ ] [Лекция №5](https://youtu.be/wjCEEax2ZBk)
   - [ ] [Лекция №6](https://youtu.be/7uEB7QXsrFk)
