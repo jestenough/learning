@@ -222,7 +222,7 @@
     
   - [x] Wizard's First Rule`[836/836]`
   - [x] Wizard's Second Rule  or Stone of Tears`[982/982]`
-  - [ ] Wizard's Third  Rule or Blood of the Fold`[221/623]`
+  - [ ] Wizard's Third  Rule or Blood of the Fold`[340/623]`
   - [ ] Wizard's Fourth Rule or Temple of the Winds`[0/528]`
   - [ ] Wizard's Fifth Rule or Soul of the Fire`[0/512]`
   - [ ] Wizard's Sixth Rule or Faith of the Fallen`[0/800]`
