@@ -4,6 +4,11 @@ namespace Task_3
 {
     class Program
     {
+        /*
+        Задан вещественный массив размера N. 
+        Определить максимальный элемент в массиве и его позицию
+        */
+
         static void Main(string[] args)
         {
             Console.Write("N: ");
