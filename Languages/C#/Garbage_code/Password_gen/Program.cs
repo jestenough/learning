@@ -6,16 +6,16 @@ namespace Password
     {
         static void Main(string[] args)
         {
-            string dictionary = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            string dictionary = "АБВГДЕЁЖЗИКЛМНОПРСТУФХЦЧШЩЬЫЭЮЯ!@#$%^&*()-+/><";
             char password;
 
             int L = 0;
             
-  	        double T = 6.0 / 7.0;
+  	        double T = 5.0 / 7.0;
             //Console.WriteLine("Максимальный срок действия пароля = {0} недель",T);
-	          double P = Math.Pow(10, -7);
+	        double P = Math.Pow(10, -6);
             //Console.WriteLine("Вероятность подбора пароля = {0}",P);
-	          int V = 11*60*24*7;
+	        int V = 10 * 60 * 24 * 7;
             //Console.WriteLine("Скорость перебора паролей  = {0} в неделю",V);
         
             Console.WriteLine("\n---------------------------------------");
@@ -27,7 +27,7 @@ namespace Password
             Console.WriteLine("Нижняя граница пароля = {0}", S);
             
             while(S >= Math.Pow(A,L))   L++;
-	          Console.WriteLine("Длина пароля (L) = {0}", L);
+	            Console.WriteLine("Длина пароля (L) = {0}", L);
 
             Random randik = new Random();
             Console.Write("Ваш пароль: ");
