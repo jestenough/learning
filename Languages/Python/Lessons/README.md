@@ -20,7 +20,7 @@
   - [x] [Лекция №1](https://youtu.be/us7y0UhTq0s)
   - [x] [Лекция №2](https://youtu.be/4NvtHHWoWXE)
   - [x] [Лекция №3](https://youtu.be/hSmvFRMm_9Q)
-  - [ ] [Лекция №4](https://youtu.be/JudiqSMKB34)
+  - [x] [Лекция №4](https://youtu.be/JudiqSMKB34)
   - [ ] [Лекция №5](https://youtu.be/wjCEEax2ZBk)
   - [ ] [Лекция №6](https://youtu.be/7uEB7QXsrFk)
 
