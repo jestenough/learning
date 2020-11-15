@@ -9,7 +9,7 @@ namespace Task_2
         {
             Console.Write("Введите текст\n> ");
             string text = Console.ReadLine();
-            text = text.Replace("да", "нет", true);
+            text = text.Replace("да", "нет",StringComparison.OrdinalIgnoreCase);
             Console.WriteLine("\n" + text);
 
             StringBuilder stringb = new StringBuilder(text);        
