@@ -1,4 +1,4 @@
-# Learning Ci plus plus
+# Learning C plus plus
 
 <p align="center">
 

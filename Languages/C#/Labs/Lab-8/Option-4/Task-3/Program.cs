@@ -15,7 +15,7 @@ namespace Task_3
             Console.Write("Введите текст:\n>>> ");
             string text = Console.ReadLine();
             
-            Regex reg = new Regex(@"\w+па\b", RegexOptions.Multiline);
+            Regex reg = new Regex(@"\w*па\b");
             MatchCollection matches = reg.Matches(text);
 
             Console.WriteLine("\nВывод слов, которые заканчиваются на 'па'");
