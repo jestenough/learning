@@ -1,88 +1,56 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace Task_1
 {
     class Program
     {
         /*
-        Создать структуру Студент (ФИО, специальность, группа, средний балл).
-        Поле «Специальность» реализовать перечислением (значения ЭП, ПЗ, ЭЭ, ВР, КД), группу – целым числом.
-        
-        Объявить и заполнить массив из N структур. 
-        Вывести ФИО студентов, имеющих средний балл выше заданного балла X.
+        Описать метод, вычисляющий и возвращающий в основную программу
+        кол-во вхождений указанной подстроки в строку. С помощью перечисления
+        передавать в этот параметр: учитывать или не учитывать регистр символов.
+        Продемонстрировать работу обоих вариантов метода
         */
 
-        struct Student
+        enum register {consider, ignore}
+
+        static int count_input(string text, string pod, register reg)
         {
-            public string full_name;
-            public enum specialty {EP, PZ, EE, VR, KD};
-            public specialty value;
-            public int group;
-            public double AVG_marks;
-            public Student(string name, specialty spec_value, int gr, double avg_m)
+            if (reg == register.consider)
             {
-                full_name = name;
-                value = spec_value;
-                group = gr;
-                AVG_marks = avg_m;
+                Regex regexx = new Regex($@"\w*{pod}\b");
+                MatchCollection matches = regexx.Matches(text);
+                return matches.Count;
             }
-            public void show()
+            else if (reg == register.ignore)
             {
-                Console.WriteLine($"ФИО: {full_name}\n"); //\nГруппа: {value}{group}\nСредний балл: {AVG_marks}");
+                Regex regexx = new Regex($@"\w*{pod}\b", RegexOptions.IgnoreCase);
+                MatchCollection matches = regexx.Matches(text);
+                return matches.Count;
             }
+            return 0;
         }
-
-        static void fill_val(ref string n, ref Student.specialty spec, ref int group, ref double mark)
-        {
-            Console.Clear(); 
-            Console.Write("Введите ФИО: ");
-            n = Console.ReadLine();
-            Console.Write("Выберите специальность: ЭП, ПЗ, ЭЭ, ВР, КД: ");
-            string val = Console.ReadLine();
-            switch (val)
-            {
-                case "ЭП": spec = Student.specialty.EP; break;
-                case "ПЗ": spec = Student.specialty.PZ; break;
-                case "ЭЭ": spec = Student.specialty.EE; break;
-                case "ВР": spec = Student.specialty.VR; break;
-                case "КД": spec = Student.specialty.KD; break;
-                default:   Console.WriteLine("Нет такой специальности, записываю Вас в программисты!"); 
-                        spec = Student.specialty.PZ; 
-                        break;
-
-            }
-            Console.Write("Введите номер группы: ");
-            group = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Введите средний балл: ");
-            mark = Convert.ToDouble(Console.ReadLine());
-        }
-
         static void Main(string[] args)
         {
-            Console.Write("Введите количество структур:\n>>> ");
-            int N = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введите текст:\n>>> ");
+            string text = Console.ReadLine();
 
-            string name = "";
-            int group = 0;
-            Student.specialty spec = (Student.specialty)0;
-            double mark = 0.0;
+            Console.Write("Введите подстроку:\n>>> ");
+            string podstroka = Console.ReadLine();
 
-            Student[] array = new Student[N];
-            for (int i = 0; i < array.Length; i++)
-            {
-                fill_val(ref name, ref spec, ref group, ref mark);
-                array[i] = new Student(name, spec, group, mark);
-            }
-
-            Console.Clear(); 
-            Console.Write("Задайте балл (x): ");
-            double x = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine();
+            Console.Write("\nУчитывать регистр? [(Д)а/(Н)ет]: ");
+            string question = Console.ReadLine();
             
-            foreach (Student value in array)
-            {
-                if (value.AVG_marks > x)    value.show();
-            }
+            register regestr = register.ignore;
+            
+            if (question == "Д" || question == "Да")
+                regestr = register.consider;
+            else if  (question == "Н" || question == "Нет")
+                regestr = register.ignore;
+            else
+                Console.WriteLine("Error");
+
+            Console.WriteLine($"Количество вхождений: {count_input(text, podstroka, regestr)}");
 
         }
     }
