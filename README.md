@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://imgur.com/bWS0zEy.png">
-        <img src="https://imgur.com/ACyaBMul.png"/>
+    <a href="https://imgur.com/67jQz6F.png">
+        <img src="https://imgur.com/67jQz6F.png"/>
     </a>
 </p>
 
-<p align="center">"<i>I am learning all the time. The tombstone will be my diploma</i>"</p>
+<p align="center">"<i>don't just consider what the author thinks, consider what you think.</i>"</p>
 
 <p align="center">
     <a href="README.md">
