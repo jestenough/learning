@@ -547,7 +547,6 @@
 <details>
     <summary>View</summary>
 
-- [ ] Маркетинг. Вопросы и ответы. (Г.П. Абрамова)`[32/159]`
 - [ ] Бессознательный брендинг (Дуглас ван Прает)`[0/320]`
 - [ ] Брендинг территорий. Лучшие мировые практики (Кейт Динни)`[0/336]`
 - [ ] Coca-Cola. Грязная правда (Майкл Блендинг)`[0/400]`
@@ -691,6 +690,7 @@
       <summary>View</summary>
 
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)`[0/142]`
+- [ ] [80 задач с IT-собеседований с разбором решений](https://cmsmagazine.ru/journal/items-80-problems-with-it-interviews/)
 - [ ]  Классические головоломки (Мартин Гарднер)`[0/96]`
 - [ ] [Программирование: теоремы и задачи](https://hal.archives-ouvertes.fr/hal-01480636/document)`[0/320]`
 - [ ]  Комбинаторные задачи: Олимпиады по программированию (Ю.В.Корженевич)`[0/116]`
@@ -743,15 +743,16 @@
 - [Открытая лаборатория искусственного интеллекта МФТИ](https://www.youtube.com/channel/UCGCfZVANvKXdlRppUbfzf-Q)
 - [CS50](https://www.youtube.com/c/cs50/)
 - [НОУ ИНТУИТ](https://www.youtube.com/user/Intuitube/featured)
-- [Minsk Python Meetup](https://www.youtube.com/user/pythonMinsk)
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg)
 - [Станет проще](https://www.youtube.com/playlist?list=PLFg1XD1ytVo01rGekO4dg4fiQiIyqDHWh)
-- [Заметки Ардуинщика](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA/featured)
 - [Pingvinus](https://www.youtube.com/channel/UCnxk5BzZxRN7y3a1IqHhVlA/featured)
 - [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured)
 - [Лекториум](https://www.youtube.com/user/OpenLektorium/featured)
 - [Igor Krylov](https://www.youtube.com/c/IgorKrylov/featured)
-- [Deep Learning School](https://www.youtube.com/c/DeepLearningSchool/featured)
+- [Computer Science E-1](https://www.youtube.com/computerscience1/videos)
+- [Vert Dider](https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A)
+- [Евгений Народницкий](https://www.youtube.com/channel/UCZm3tWmPPVPY0SBf-O85nCw)
+- [Khan Academy Computing](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
 
 </details>
 
@@ -776,16 +777,41 @@
 <details>
   <summary>View</summary>
 
+#### Info
 - [Кафедра информатики и вычислительной математики](http://cs.mipt.ru/wp/)
 - [MIPT Computer Science](https://www.sites.google.com/site/miptcscourses/)
 - [MIPT acm](http://acm.mipt.ru/)
-- [ИНТУИТ](https://intuit.ru/)
-- [Foxford](https://foxford.ru/wiki/informatika)
 - [Losst](https://losst.ru/)
 - [Habr](https://habr.com/ru/top/)
-- [Stackoverflow (eng)](https://stackoverflow.com/)
-- [Stackoverflow (ru)](https://ru.stackoverflow.com/)
 - [SSD.EFF.ORG](https://ssd.eff.org/ru)
+- [C++.com](http://www.cplusplus.com/)
+- [MAXimal](https://e-maxx.ru/index.php)
+- [Scikit-learn](https://scikit-learn.org/stable/index.html)
+- [MachineLearning.ru](machinelearning.ru)
+
+#### Web-Courses
+- [ИНТУИТ](https://intuit.ru/)
+- [Foxford](https://foxford.ru/wiki/)
+- [Coursera](https://www.coursera.org/)
+- [Открытое образования](https://openedu.ru/)
+- [Универсариум](https://universarium.org/)
+- [COMPUTERSCIENCE1](http://computerscience1.tv/2011/spring/)
+- [MIT OpenCourse](https://ocw.mit.edu/)
+- [Лаборатория Линуксоида](https://younglinux.info/)
+
+#### Training skill
+- [CodeCademy](https://www.codecademy.com/learn)
+- [DataCamp](https://learn.datacamp.com/)
+- [DataQuest](https://www.dataquest.io/)
+- [JavaRush](https://javarush.ru/)
+
+#### Online experience
+- [Codewars](https://www.codewars.com/dashboard)
+- [Kaggle](https://www.kaggle.com/)
+
+#### Other
+- [TeX online](https://ru.overleaf.com/login)
+- [LogicLike](https://logiclike.com/cabinet#/course/logic)
 
 </details>
 
@@ -795,8 +821,9 @@
 <details>
   <summary>View</summary>
 
-- [ ] [Основы Linux](https://stepik.org/course/762/syllabus)
-- [x] [Введение в Linux](https://stepik.org/course/73/syllabus)
+- [ ] [OTUS] Linux для начинающих (2019)
+- [ ]  Документы и презентации в LaTeX
+- [ ] [АКОС](https://youtube.com/playlist?list=PL4_hYwCyhAvZcOr5sJzuLmze2F6wPms-A)
 - [ ] [Введение в базы данных](https://stepik.org/course/551/promo)
 - [ ] [Базовый курс по математике](https://stepik.org/course/85/syllabus)
 - [ ] [Python: основы и применение](https://stepik.org/course/512/promo)
