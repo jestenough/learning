@@ -14,7 +14,6 @@ int main()
 {
     double N;
     
-    std::cout << "Enter the number:\n>>> ";
     std::cin >> N;
     
     while (N > 2)

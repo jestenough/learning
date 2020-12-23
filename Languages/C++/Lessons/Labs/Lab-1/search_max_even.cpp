@@ -8,13 +8,11 @@
 
 int main()
 {
-    uint32_t max = 0;
-    uint32_t n;
+    int max = 0;
+    int n;
 
-    std::cout << "Enter the numbers. To STOP enter 0\n";
     while (true)
     {
-        std::cout << ">>> ";
         std::cin >> n;
 
         if (n == 0)
@@ -24,7 +22,7 @@ int main()
                 max = n;
     }
 
-    std::cout << "Максимальное четное число: " << max << std::endl;
+    std::cout <<  max << std::endl;
 
     return 0;
 }

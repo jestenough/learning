@@ -9,7 +9,6 @@
 int main()
 {
     int n;
-    std::cout << "Enter number\n>>> ";
     std::cin >> n;
     
     for (int i = 2; n > 1; i++)

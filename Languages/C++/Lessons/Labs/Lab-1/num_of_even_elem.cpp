@@ -9,10 +9,8 @@ int main()
 {
     int x;
     int count = 0;
-    std::cout << "Enter the number. To STOP enter 0\n";
     while (true)
     {
-        std::cout << ">>> ";
         std::cin >> x;
 
         if (x == 0)
@@ -21,6 +19,6 @@ int main()
             count++;
     }
 
-    std::cout << "\nКоличество четных чисел = " << count << std::endl;
+    std::cout << count << std::endl;
     return 0;
 }   

@@ -22,12 +22,9 @@ int main()
 {
     int x, y;
 
-    std::cout << "Enter x:\n>>> ";
     std::cin >> x;
-    std::cout << "Enter y:\n>>> ";
     std::cin >> y;
 
-    printf("НОД чисел %d и %d = ", x, y);
     std::cout << euclid_find(x, y) << std::endl;
     
     return 0;

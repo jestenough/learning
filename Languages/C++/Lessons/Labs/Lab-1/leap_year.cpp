@@ -5,22 +5,28 @@
 (Год является високосным, если его номер кратен 4, но не кратен 100, а также если он кратен 400). 
 */
 
-void leap_year_find(uint32_t x1)
-{
-    if ((x1 % 4 == 0 or x1 % 400 == 0) and (x1 % 100 != 0))
-        std::cout << "YES\n";
-    else
-        std::cout << "NO\n";
-}
-
 int main()
 {
-    uint32_t N;
+    int N;
     
-    std::cout << "Enter year number:\n>>> ";
     std::cin >> N;
     
-    leap_year_find(N);
-    
+    if (N % 4 == 0)
+    {
+        if (N % 100 == 0)
+        {
+            if (N % 400 == 0)
+                std::cout << "YES";
+            else
+                std::cout << "NO";
+        }
+        else
+            std::cout << "YES";
+    }
+    else
+    {
+        std::cout << "NO";
+    }
+
     return 0;
 }

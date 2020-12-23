@@ -10,7 +10,6 @@ int main()
 {
     uint32_t n;
 
-    std::cout << "Enter the number:\n>>> ";
     std::cin >> n;
 
     for (int i = 2; i <= sqrt(n); i++)
