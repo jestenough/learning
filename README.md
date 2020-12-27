@@ -506,6 +506,7 @@
   <details>
         <summary>View</summary>
 
+- [ ] [Math books list](https://2ch.hk/un/res/810326.html)
 - [ ] [Линейная алгебра для чайников](http://alik-abdulin.com/matrixes/matrixes.html#opred)
 - [ ] [Алгоритмы. Просто как дважды два](https://1lib.eu/book/2881801/bdf9dc?regionChanged=&redirect=537745)`[0/245]`
 - [ ]  Курсы Математического анализа, 3 тома (Л.Д. Кудрявцев)
@@ -627,6 +628,7 @@
 - [ ] [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
 - [ ] [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 - [ ]  Эволюционные нейросети на языке Python (Ярослав Омельченко)`[0/310]`
+- [ ] [Fluent Python: Clear, Concise, and Effective Programming 1st Edition](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_fkmr0_1?dchild=1&keywords=Fluent+Python%3A+Clear%2C+Concise%2C+and+Effective+Programming+1st+Edition&qid=1609071856&s=books&sr=1-1-fkmr0)
 
 </details>
 
@@ -778,6 +780,7 @@
 - [Vert Dider](https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A)
 - [Евгений Народницкий](https://www.youtube.com/channel/UCZm3tWmPPVPY0SBf-O85nCw)
 - [Khan Academy Computing](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
+- [Karpov.Courses](https://www.youtube.com/c/KarpovCourses/featured)
 
 </details>
 
@@ -802,41 +805,67 @@
 <details>
   <summary>View</summary>
 
-#### Info
-- [Кафедра информатики и вычислительной математики](http://cs.mipt.ru/wp/)
-- [MIPT Computer Science](https://www.sites.google.com/site/miptcscourses/)
-- [MIPT acm](http://acm.mipt.ru/)
-- [Losst](https://losst.ru/)
-- [Habr](https://habr.com/ru/top/)
-- [SSD.EFF.ORG](https://ssd.eff.org/ru)
-- [C++.com](http://www.cplusplus.com/)
-- [MAXimal](https://e-maxx.ru/index.php)
-- [Scikit-learn](https://scikit-learn.org/stable/index.html)
-- [MachineLearning.ru](machinelearning.ru)
+#### Hub
 
-#### Web-Courses
-- [ИНТУИТ](https://intuit.ru/)
-- [Foxford](https://foxford.ru/wiki/)
-- [Coursera](https://www.coursera.org/)
-- [Открытое образования](https://openedu.ru/)
-- [Универсариум](https://universarium.org/)
-- [COMPUTERSCIENCE1](http://computerscience1.tv/2011/spring/)
-- [MIT OpenCourse](https://ocw.mit.edu/)
-- [Лаборатория Линуксоида](https://younglinux.info/)
-
-#### Training skill
-- [CodeCademy](https://www.codecademy.com/learn)
-- [DataCamp](https://learn.datacamp.com/)
-- [DataQuest](https://www.dataquest.io/)
-- [JavaRush](https://javarush.ru/)
-
-#### Online experience
-- [Codewars](https://www.codewars.com/dashboard)
+- [Docker](https://hub.docker.com/)
+- [GitLab](https://gitlab.com/)
+- [GitHub](https://gitlab.com/)
 - [Kaggle](https://www.kaggle.com/)
 
-#### Other
-- [TeX online](https://ru.overleaf.com/login)
+#### Training skill
+
+- [CodeForces](https://codeforces.com/)
+- [CodeWars](https://www.codewars.com/dashboard)
 - [LogicLike](https://logiclike.com/cabinet#/course/logic)
+- [LeetCode](https://leetcode.com/)
+- [Тренировка экзамена по информатике и ИКТ](https://kompege.ru/)
+
+#### Interactive learning
+
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
+- [CodeCademy](https://www.codecademy.com/catalog)
+- [W3scgools](https://www.w3schools.com/)
+- [JavaRUSH](https://javarush.ru/)
+- [FoxFord](https://foxford.ru/wiki)
+- [Семинары МЦНМО-НМУ](https://ium.mccme.ru/idx.html)
+- [Факультет математики](https://math.hse.ru/archive)
+- [Лаборатория Линуксоида](https://younglinux.info/)
+- [Open Edu](https://openedu.ru/)
+- [Universarium](https://universarium.org/)
+- [Интуит](https://intuit.ru/)
+- [COMPUTERSCIENCE1.tv](http://computerscience1.tv/2011/spring/)
+- [MIT Edu](https://ocw.mit.edu/)
+- [DataCamp](https://learn.datacamp.com/)
+- [DataQuest](https://www.dataquest.io/)
+- [MachineLearning](http://www.machinelearning.ru/wiki/)
+- [BigDataSchool](https://www.bigdataschool.ru/)
+- [TypingClub](https://www.typingclub.com/)
+
+#### Readable
+
+- [Кафедра информатики и вычислительной математики](http://cs.mipt.ru/wp/)
+- [Олимпиады по программированию на Физтехе](http://acm.mipt.ru/)
+- [MIPT Computer Science](https://www.sites.google.com/site/miptcscourses/)
+- [Как должна быть устроена мат. программа](http://imperium.lenin.ru/~verbit/MATH/programma.html)
+- [Habr](https://habr.com/ru/feed/)
+- [ProgLib](https://proglib.io/)
+- [Tproger](https://tproger.ru/)
+- [Losst (Linux)](https://losst.ru/)
+- [Open Data Science](https://ods.ai/)
+- [Scikit-learn](https://scikit-learn.org/stable/index.html)
+- [Informatics](https://informatics.mccme.ru/)
+- [SSD.EFF.ORG](https://ssd.eff.org/ru)
+- [MAXimal](http://e-maxx.ru/index.php)
+- [C plus plus](http://www.cplusplus.com/)
+- [C plus plus reference](https://en.cppreference.com/w/)
+
+#### Other
+
+- [Pastebin](https://pastebin.com/)
+- [Carbon](https://carbon.now.sh/)
+- [Streamable](https://streamable.com/)
+- [LaTeX online](https://ru.overleaf.com/)
+- [Explain Shell](https://explainshell.com/)
 
 </details>
 
@@ -848,12 +877,19 @@
 
 - [ ] [OTUS] Linux для начинающих (2019)
 - [ ]  Документы и презентации в LaTeX
+- [ ] [Базовый курс по математике](https://stepik.org/course/85/syllabus)
+- [ ]  Математика (1 - 6)
+- [ ]  Алгебра (7 - 11)
+- [ ]  Ричард Фейнман. Характер физического закона. 7 лекций
 - [ ] [АКОС](https://youtube.com/playlist?list=PL4_hYwCyhAvZcOr5sJzuLmze2F6wPms-A)
 - [ ] [Введение в базы данных](https://stepik.org/course/551/promo)
-- [ ] [Базовый курс по математике](https://stepik.org/course/85/syllabus)
 - [ ] [Python: основы и применение](https://stepik.org/course/512/promo)
+- [ ] [Нетология] Python для работы с данными (2020)
 - [ ] [Программирование на языке C++](https://stepik.org/course/7/syllabus)
 - [ ] [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
+- [ ] [Фоксфорд] Основы программирования на алгоритмическом языке
+- [ ] [Фоксфорд] Простые алгоритмы. От логических задач до клеточных автоматов
+- [ ] [Фоксфорд] Что должен знать и уметь пользователь ПК
 
 </details>
 
