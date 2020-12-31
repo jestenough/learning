@@ -854,7 +854,16 @@
 - [Open Data Science](https://ods.ai/)
 - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 - [Informatics](https://informatics.mccme.ru/)
-- [SSD.EFF.ORG](https://ssd.eff.org/ru)
+- [EFF](https://www.eff.org/)
+- [FSF](https://www.fsf.org/)
+- [FSD](https://directory.fsf.org/wiki/Main_Page)
+- [RYF.FSF](https://ryf.fsf.org/)
+- [SSD.EFF](https://ssd.eff.org/ru)
+- [DefectiveByDesign](https://www.defectivebydesign.org/)
+- [Email Self-Defense](https://emailselfdefense.fsf.org/en/)
+- [GNU.org](https://www.gnu.org/)
+- [LibrePlanet](https://libreplanet.org/wiki/Main_Page)
+- [Андрей Викторович Столяров](http://www.stolyarov.info/)
 - [MAXimal](http://e-maxx.ru/index.php)
 - [C plus plus](http://www.cplusplus.com/)
 - [C plus plus reference](https://en.cppreference.com/w/)
@@ -871,10 +880,13 @@
 
 ---
 
-<h4 align="left">Courses</h4>
+<h4 align="left">Courses / Lectures</h4>
 <details>
   <summary>View</summary>
 
+- [ ] [Майкл Сэндел «Справедливость»](https://www.youtube.com/playlist?list=PL8YZyma552VeTCYPkkEisHKAHhNx3Psk-)
+- [ ] [Intro to Database Systems (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
+- [ ] [Advanced Database Systems (Spring 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
 - [ ] [OTUS] Linux для начинающих (2019)
 - [ ]  Документы и презентации в LaTeX
 - [ ] [Базовый курс по математике](https://stepik.org/course/85/syllabus)
