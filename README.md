@@ -117,6 +117,8 @@
 - [ ] Анализ мировых систем и ситуация в современном мире (Валлерстайн)`[0/208]`
 - [ ] Есть ли будущее у капитализма? (Валлерстайн, Коллинз, Манн, Дерлугьян, Калхун)`[0/257]`
 - [ ] Закат империи США (Кагарлицкий, Валлерстайн, Риз, Энгдаль, Дерлугьян, Амин, Джордж, Белло, Баруд, Петропавловский, Робинсон, Соммерc)`[0/196]`
+- [ ] Тактика законодательных собраний (Бентам)`[0/118]`
+- [ ] Принципы законодательства. О влиянии условий времени и места на законодательство. Руководство по политической экономии`[0/144]`
 
 </details>
 
@@ -241,6 +243,10 @@
 - [ ] О благодеяниях (Сенека)`[0/246]`
 - [ ] О блаженной жизни (Сенека)`[0/36]`
 - [ ] После либерализма (Валлерстайн)`[0/310]`
+- [ ] О подчинении женщины (Милль)`[0/305]`
+- [ ] О свободе (Милль)`[0/147]`
+- [ ] Система логики силлогистической и индуктивной (Милль)`[0/824]`
+- [ ] Введение в основания нравственности и законодательства (Бентам)`[0/734]`
 
 </details>
 
@@ -783,6 +789,7 @@
 - [Евгений Народницкий](https://www.youtube.com/channel/UCZm3tWmPPVPY0SBf-O85nCw)
 - [Khan Academy Computing](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
 - [Karpov.Courses](https://www.youtube.com/c/KarpovCourses/featured)
+- [St. Petersburg Computer Science Club](https://www.youtube.com/channel/UClSor1c_LJUnAfQLqzmPuAA/featured)
 
 </details>
 
@@ -825,9 +832,12 @@
 #### Interactive learning
 
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
+- [Educative](https://www.educative.io/)
 - [CodeCademy](https://www.codecademy.com/catalog)
 - [W3scgools](https://www.w3schools.com/)
 - [JavaRUSH](https://javarush.ru/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
 - [FoxFord](https://foxford.ru/wiki)
 - [Семинары МЦНМО-НМУ](https://ium.mccme.ru/idx.html)
 - [Факультет математики](https://math.hse.ru/archive)
@@ -876,6 +886,7 @@
 - [Carbon](https://carbon.now.sh/)
 - [Streamable](https://streamable.com/)
 - [LaTeX online](https://ru.overleaf.com/)
+- [MarkDown online](https://stackedit.io/)
 - [Explain Shell](https://explainshell.com/)
 - [Regular Expressions](https://regex101.com/)
 
@@ -891,6 +902,7 @@
 - [ ] [Intro to Database Systems (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
 - [ ] [Advanced Database Systems (Spring 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
 - [ ] [Distributed Computer Systems](https://youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
+- [ ] [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3)
 - [ ] [OTUS] Linux для начинающих (2019)
 - [ ]  Документы и презентации в LaTeX
 - [ ] [Базовый курс по математике](https://stepik.org/course/85/syllabus)
