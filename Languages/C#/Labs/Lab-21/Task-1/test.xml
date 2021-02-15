@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<camera>
+
+  <digital name="Mark-1">
+    <resolution>1280x960</resolution>
+    <price>999 BYN</price>
+  </digital>
+
+  <digital name="Mark-2">
+    <resolution>1920x1080</resolution>
+    <price>799 BYN</price>
+  </digital>
+
+  <analog name="Cray-1">
+    <resolution>1600x1200</resolution>
+    <price>76 BYN</price>
+  </analog>
+
+  <analog name="Cray-2">
+    <resolution>960x1080</resolution>
+    <price>6 BYN</price>
+  </analog>
+
+</camera>
