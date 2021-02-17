@@ -148,7 +148,7 @@
 - [x] [Сверстай диплом красиво: LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf)`[101/101]`
 - [ ] Все про TeX (Дональд Э. Кнут)`[0/560]`
 - [ ] Компьютерная типография (Дональд Э. Кнут)`[0/672]`
-- [ ] [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
+- [x] [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
 
 </details>
 
