@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cameras>
+  <Camera name="1">
+    <resolution>2</resolution>
+    <price>3</price>
+  </Camera>
+  <Camera name="4">
+    <resolution>5</resolution>
+    <price>6</price>
+  </Camera>
+</cameras>
