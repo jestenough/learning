@@ -1,6 +1,6 @@
 # Learning Python
 
-- [Lessons](/Languages/Python/Lessons/)
+- [Labs](/Languages/Python/Labs/)
 
 ## Links
 
@@ -14,7 +14,7 @@
 - http://www.lfd.uci.edu/~gohlke/pythonlibs/ - самые последние версии библиотек
 
 
-## Tutorials 
+## Tutorials
 
 - [Туториалы, Обучающие видео, Онлайн Курсы](https://github.com/TheKnightsWhoSayNi/info/wiki/Tutorials)
 - [Обучающая литература и документация](https://github.com/TheKnightsWhoSayNi/info/wiki/Books)
