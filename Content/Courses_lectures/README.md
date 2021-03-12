@@ -91,8 +91,40 @@
   - [x] [Лекция №4](https://youtu.be/JudiqSMKB34)
   - [ ] [Лекция №5](https://youtu.be/wjCEEax2ZBk)
   - [ ] [Лекция №6](https://youtu.be/7uEB7QXsrFk)
-</details
+  </details
 
-</details>
+##### C++
+<details>
+  <summary>View</summary>
+
+- [ ] [2020 Алгоритмы и структуры данных (С++)]()
+  - [x] [Лекция №1](https://youtu.be/MWsfHQaUzI0)
+  - [x] [Лекция №2](https://youtu.be/nkuNsxLcN0g)
+  - [x] [Лекция №3](https://youtu.be/2KTrsLcLODI)
+  - [x] [Лекция №4](https://youtu.be/YiRlmHiRs0w)
+  - [x] [Лекция №5](https://youtu.be/mgaOUpeh96M)
+  - [x] [Лекция №6](https://youtu.be/QdIPF_vmvRE)
+  - [x] [Лекция №7](https://youtu.be/zWEZQ6L8vsI)
+  - [x] [Лекция №8](https://youtu.be/RZm7PN91W2o)
+  - [ ] [Лекция №9](https://youtu.be/403nJyTmk6o)
+  - [ ] [Лекция №10](https://youtu.be/K_StOxn9sv0)
+  - [ ] [Лекция №11](https://youtu.be/y8X781XLt-o)
+  - [ ] [Лекция №12](https://youtu.be/4E-_uzO0A_A)
+  - [ ] [Лекция №13](https://youtu.be/dlR5ehWySr4)
+  - [ ] [Лекция №14](https://youtu.be/44dGfH1tjk8)
+  - [ ] [Консультация](https://youtu.be/FhxjhlDlHH8)
+  - [x] [Лекция №1 (Осень)](https://youtu.be/3s5Y5E3LtaI)
+  - [x] [Лекция №2 (Осень)](https://youtu.be/tDKgIPHapsg)
+  - [x] [Лекция №3 (Осень)](https://youtu.be/6KolmHZqjXI)
+  - [ ] [Лекция №4 (Осень)](https://youtu.be/Z13PJuS4J80)
+  - [ ] [Лекция №5 (Осень)](https://youtu.be/Tui85_T4qdA)
+  - [ ] [Лекция №6 (Осень)](https://youtu.be/fKqMtW7Efdg)
+  - [ ] [Лекция №7 (Осень)](https://youtu.be/V1rz3hbzsdw)
+  - [ ] [Лекция №8 (Осень)](https://youtu.be/HoMZt-eWzLo)
+  - [ ] [Лекция №9 (Осень)](https://youtu.be/qIGoCeaKGTQ)
+  - [ ] [Лекция №10 (Осень)](https://youtu.be/jx9ZPDi94fM)
+  - [ ] [Лекция №11 (Осень)](https://youtu.be/GAarEgus7WQ)
+  - [ ] [Лекция №12 (Осень)](https://youtu.be/F470JpOUfrg)
+  </details
 
 </details>
