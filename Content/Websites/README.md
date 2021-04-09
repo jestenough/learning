@@ -14,6 +14,7 @@
 - [LogicLike](https://logiclike.com/cabinet#/course/logic)
 - [LeetCode](https://leetcode.com/)
 - [Тренировка экзамена по информатике и ИКТ](https://kompege.ru/)
+- [Binary Search](https://binarysearch.com/)
 
 #### Interactive learning
 

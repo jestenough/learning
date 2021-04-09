@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center">"<i>don't just consider what the author thinks, consider what you think.</i>"</p>
+<p align="center">"<i>You may not be aware, but life is not just about job interviews<i>"<p>
 
 <p align="center">
     <a href="README.md">

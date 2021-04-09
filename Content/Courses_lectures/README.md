@@ -125,6 +125,10 @@
   - [ ] [Лекция №10 (Осень)](https://youtu.be/jx9ZPDi94fM)
   - [ ] [Лекция №11 (Осень)](https://youtu.be/GAarEgus7WQ)
   - [ ] [Лекция №12 (Осень)](https://youtu.be/F470JpOUfrg)
+- [ ] [Школа 1514](https://youtube.com/playlist?list=PLRDzFCPr95fLMvdcV-hEl-42x8LIyjvHA)
+  - [x] [Лекция №1](https://youtu.be/wcPpp1jz-y4)
+  - [x] [Лекция №2](https://youtu.be/Q4WR6r8kxBw)
+
   </details
 
 </details>

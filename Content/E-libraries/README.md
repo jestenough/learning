@@ -8,5 +8,7 @@
 - [Поляков К.Ю.](http://kpolyakov.spb.ru/)
 - [RoyalLib](https://royallib.com/)
 - [Twirpx](https://www.twirpx.com/)
-- [Platona Net xD](https://platona.net/)
+- [Platona Net](https://platona.net/)
 - [Philosophy ru](http://www.philosophy.ru/library/)
+- [E-catalog lib Lenina](http://86.57.240.179/alis/StartEK/index.php)
+- [БелКнiга](https://belkniga.by/)
