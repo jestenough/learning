@@ -128,6 +128,8 @@
 - [ ] [Школа 1514](https://youtube.com/playlist?list=PLRDzFCPr95fLMvdcV-hEl-42x8LIyjvHA)
   - [x] [Лекция №1](https://youtu.be/wcPpp1jz-y4)
   - [x] [Лекция №2](https://youtu.be/Q4WR6r8kxBw)
+  - [x] [Лекция №3](https://youtu.be/oGJ7VOJdksc)
+  - [x] [Лекция №4](https://youtu.be/kptgQZx4Wu8)
 
   </details
 
