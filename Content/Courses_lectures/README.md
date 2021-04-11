@@ -130,6 +130,9 @@
   - [x] [Лекция №2](https://youtu.be/Q4WR6r8kxBw)
   - [x] [Лекция №3](https://youtu.be/oGJ7VOJdksc)
   - [x] [Лекция №4](https://youtu.be/kptgQZx4Wu8)
+  - [x] [Лекция №5](https://youtu.be/C5b-BXuU1sU)
+  - [x] [Лекция №6](https://youtu.be/tREmp9KdRjw)
+  - [x] [Лекция №7](https://youtu.be/w8AzgNAuV_c)
 
   </details
 
