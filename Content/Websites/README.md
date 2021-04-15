@@ -67,6 +67,8 @@
 - [MAXimal](http://e-maxx.ru/index.php)
 - [C plus plus](http://www.cplusplus.com/)
 - [C plus plus reference](https://en.cppreference.com/w/)
+- [Learn anything](https://learn-anything.xyz/)
+- [Creative commons](https://creativecommons.org/)
 
 #### Other
 
@@ -77,3 +79,6 @@
 - [MarkDown online](https://stackedit.io/)
 - [Explain Shell](https://explainshell.com/)
 - [Regular Expressions](https://regex101.com/)
+- [Material Design](https://material.io/)
+- [OEIS](https://oeis.org/)
+- [Wolfram Alpha](https://www.wolframalpha.com/)
