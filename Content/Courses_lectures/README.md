@@ -36,6 +36,8 @@
 
 - [ ] [Основы программирования на алгоритмическом языке](https://foxford.ru/courses/2492/landing)
 - [ ] [Простые алгоритмы. От логических задач до клеточных автоматов](https://foxford.ru/courses/2491/landing)
+  - [x] Логика и рассуждения
+  - [x] Чёрные ящики и переправы
 - [x] [Что должен знать и уметь пользователь ПК](https://foxford.ru/courses/2493/landing)
   - [x] Техника безопасности
   - [x] Законы об информации
@@ -144,6 +146,7 @@
   - [x] [Лекция №6](https://youtu.be/tREmp9KdRjw)
   - [x] [Лекция №7](https://youtu.be/w8AzgNAuV_c)
   - [x] [Лекция №8](https://youtu.be/sydfviK1GpA)
+  - [x] [Лекция №9](https://youtu.be/w8YB3UAoBlM)
 
   </details
 
