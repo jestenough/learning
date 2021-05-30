@@ -1,22 +1,3 @@
-<p align="center">
-    <a href="https://imgur.com/67jQz6F.png">
-        <img src="https://i.ibb.co/6wrsnr2/Start-doing.jpg" "/>
-    </a>
-</p>
-
-<p align="center">"<i>Yeah, I'm still learning all the bells and whistles..<i>"<p>
-
-<p align="center">
-    <a href="README.md">
-        <img src="https://img.shields.io/badge/Learning-in%20progress-informational"
-    </a>
-    <a href="LICENSE.md">
-        <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true">
-    </a>
-</p>
-
-***
-
 ## :notebook_with_decorative_cover: &nbsp; What is it?
 This repository is a collection of various materials that I learn. This is where I record my progress in learning something. It's like a personal blog
 
@@ -33,7 +14,6 @@ This repository is a collection of various materials that I learn. This is where
         - [FASM](/Languages/Assembly/FASM/)
         - [GAS](/Languages/Assembly/GAS/)
         - [NASM](/Languages/Assembly/NASM/)
-    - [C#](/Languages/C%23)
     - [C++](/Languages/C++)
     - [Python](/Languages/Python)
     - [SQL](/Languages/SQL)
