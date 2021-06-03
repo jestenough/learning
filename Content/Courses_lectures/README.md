@@ -2,9 +2,6 @@
 
 - [x] [Майкл Сэндел «Справедливость»](https://www.youtube.com/playlist?list=PL8YZyma552VeTCYPkkEisHKAHhNx3Psk-)
 - [x] [Базы данных для школьников](https://youtube.com/playlist?list=PLDrmKwRSNx7LI_umdfXOeOJWjoDn6qvgN)
-    - [x] Лекция 1. Основные понятия теории баз данных
-    - [x] Лекция 2. Основные операторы языка SQL
-    - [x] Лекция 3. Практика работы с базами данных
 - [ ] [Intro to Database Systems (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
 - [ ] [Advanced Database Systems (Spring 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
 - [ ] [Distributed Computer Systems](https://youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
@@ -53,7 +50,10 @@
             - [x] Сложности на пути изучения Linux
         - [x] Простейшие команды в Linux
             - [x] ls, touch, mkdir, cd, rm, rmdir, cp, mv, type, whereis, who, man etc.
-        - [ ] Пользователи в Linux
+        - [x] Пользователи в Linux
+            - [x] UID, root, etcpasswd, etcgroup, etcshadow
+            - [x] Права на файлы, chmod
+            - [x] Inode, hardLink (ln), softLink (ln -s)
         - [ ] Работа с файлами
     - [ ] Потоки, логические команды, процессы, сеть
         - [ ] Работа с потоками STDIN, STDOUT, STDERR
@@ -83,25 +83,8 @@
 <details>
   <summary>View</summary>
 
-- [ ] [Основы программирования на алгоритмическом языке](https://foxford.ru/courses/2492/landing)
 - [x] [Простые алгоритмы. От логических задач до клеточных автоматов](https://foxford.ru/courses/2491/landing)
-    - [x] Логика и рассуждения
-    - [x] Чёрные ящики и переправы
-    - [x] Задачи на переливания
-    - [x] Графическое программирование
-    - [x] Исполнитель Scratch
-    - [x] Переменные в Scratch
-    - [x] Клеточные автоматы
 - [x] [Что должен знать и уметь пользователь ПК](https://foxford.ru/courses/2493/landing)
-    - [x] Техника безопасности
-    - [x] Законы об информации
-    - [x] Программное обеспечение
-    - [x] Браузер
-    - [x] Облегчённая разметка текста
-    - [x] Офисные программы
-    - [x] Фотомонтаж
-    - [x] Коллективная работа
-    - [x] Распространение информации
 - [ ] [Информатика за пределами ЕГЭ](https://foxford.ru/courses/3608/landing)
     - [x] Вводное занятие
     - [x] Архитектура компьютера
@@ -109,6 +92,8 @@
     - [x] Операционная система
     - [x] Администрирование ОС
     - [x] Робот в python
+    - [x] Черепаха в python
+    - [ ] Картина
 
 </details>
 
@@ -141,28 +126,9 @@
 <details>
   <summary>View</summary>
 
-- [ ] [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)
-    - [x] [Лекция №1](https://youtu.be/fgf57Sa5A-A)
-    - [x] [Лекция №2](https://youtu.be/15qiZJIX1YE)
-    - [x] [Лекция №3](https://youtu.be/BNf6jDK2np4)
-    - [x] [Лекция №4](https://youtu.be/kCQfhRReGTI)
-    - [x] [Лекция №5](https://youtu.be/enbhOrC2Vzo)
-    - [ ] [Лекция №6](https://youtu.be/ppJfqW7fL80)
-    - [ ] [Лекция №7](https://youtu.be/3AIALI9sY4g)
-    - [ ] [Лекция №8](https://youtu.be/904N6TyNabw)
-    - [ ] [Лекция №9](https://youtu.be/DxNu5A_TRN4)
-    - [ ] [Лекция №10](https://youtu.be/vStniIm_ovo)
-    - [ ] [Лекция №11](https://youtu.be/FobrCyEOMyM)
-    - [ ] [Лекция №12](https://youtu.be/wLT-oGoWMBY)
-    - [ ] [Лекция №13](https://youtu.be/nlyyE_EXzl0)
-    - [ ] [Лекция №14](https://youtu.be/zT24S8pIV5E)
-- [ ] [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe)
-    - [x] [Лекция №1](https://youtu.be/us7y0UhTq0s)
-    - [x] [Лекция №2](https://youtu.be/4NvtHHWoWXE)
-    - [x] [Лекция №3](https://youtu.be/hSmvFRMm_9Q)
-    - [x] [Лекция №4](https://youtu.be/JudiqSMKB34)
-    - [ ] [Лекция №5](https://youtu.be/wjCEEax2ZBk)
-    - [ ] [Лекция №6](https://youtu.be/7uEB7QXsrFk)
+- [x] [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)
+- [x] [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe)
+
   </details
 
 ##### C++
