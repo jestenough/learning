@@ -2,6 +2,7 @@
 
 - [x] [Майкл Сэндел «Справедливость»](https://www.youtube.com/playlist?list=PL8YZyma552VeTCYPkkEisHKAHhNx3Psk-)
 - [x] [Базы данных для школьников](https://youtube.com/playlist?list=PLDrmKwRSNx7LI_umdfXOeOJWjoDn6qvgN)
+- [ ] [Базы данных (R class)](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb)
 - [ ] [Intro to Database Systems (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
 - [ ] [Advanced Database Systems (Spring 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
 - [ ] [Distributed Computer Systems](https://youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
@@ -22,7 +23,19 @@
 - [ ] Ричард Фейнман. Характер физического закона. 7 лекций
 - [ ] [АКОС](https://youtube.com/playlist?list=PL4_hYwCyhAvZcOr5sJzuLmze2F6wPms-A)
 - [ ] [Нетология] Python для работы с данными (2020)
-- [ ] [Harvard CS50](https://javarush.ru/quests/QUEST_HARVARD_CS50)
+- [ ] [Harvard CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
+
+
+#### [Coursera](https://www.coursera.org/)
+<details>
+  <summary>View</summary>
+
+- [ ] [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science)
+- [ ] [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+- [ ] [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
+- [ ] [Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction)
+
+</details>
 
 #### [OTUS](https://otus.ru/)
 <details>
@@ -66,18 +79,6 @@
 
 </details>
 
-#### [Stepik](https://stepik.org/catalog)
-<details>
-  <summary>View</summary>
-
-- [ ] [Базовый курс по математике](https://stepik.org/course/85/syllabus)
-- [ ] [Введение в базы данных](https://stepik.org/course/551/promo)
-- [ ] [Python: основы и применение](https://stepik.org/course/512/promo)
-- [ ] [Программирование на языке C++](https://stepik.org/course/7/syllabus)
-- [ ] [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
-
-</details>
-
 
 #### [FoxFord](https://foxford.ru/)
 <details>
@@ -93,29 +94,44 @@
     - [x] Администрирование ОС
     - [x] Робот в python
     - [x] Черепаха в python
-    - [ ] Картина
+    - [x] Картина
+    - [ ] Анимация картины
+    - [ ] Библиотека Tkinter
+    - [ ] Игра «Поймай шарик»
+    - [ ] ООП в Python
+    - [ ] Игра «Пушка»
+    - [ ] Наследование и композиция
+    - [ ] Проект «Солнечная система»
+    - [ ] Игра «Артиллерия»
+    - [ ] Теория множеств
+    - [ ] Комбинаторика
+    - [ ] Теория вероятности
+    - [ ] Теория игр
+    - [ ] Анализ функций
+    - [ ] Численное интегрирование
+    - [ ] Векторная геометрия
+    - [ ] Физическое моделирование
+    - [ ] Физическое моделирование
+    - [ ] Обработка изображений
+    - [ ] Локальная компьютерная сеть
+    - [ ] Интернет
+    - [ ] Сетевая безопасность
+    - [ ] Интернет и закон
+    - [ ] Распространение информации
 
 </details>
 
-#### [Общество защиты интернета](https://www.youtube.com/channel/UCMXyrqAYWXIcWXWmbrfEuZQ)
+#### [Arzamas](https://arzamas.academy/)
 <details>
   <summary>View</summary>
 
-- [x] [Как устроены блокировки](https://youtu.be/kYomCz-71lM)
-- [x] [За нами следят! (как устроен СОРМ)](https://youtu.be/PRnyWpHuozU)
-- [x] [Почему хотят заблокировать интернет](https://youtu.be/AyaAfRbjo8o)
-- [x] [Как стать интернет-экспертом за 15 минут](https://youtu.be/4RjF1O0Y7Wg)
-- [x] [Как обходить блокировки](https://youtu.be/5WA87_cjhec)
-- [x] [Интернет-апокалипсис](https://youtu.be/z9s2EVAtXII)
-- [x] [Бесплатный Wi-Fi Илона Маска: миф или реальность](https://youtu.be/X0kxXo4FUVo)
-- [x] [С нами Оруэлл: как в России внедряют распознавание лиц и что с этим делать](https://youtu.be/En2a5ji5IF8)
-- [x] [Соцсеть для майора: почему «Вконтакте» выдаст вас силовикам](https://youtu.be/MW-U7PCdZzA)
-- [x] [Shutdown: как власти отключают интернет](https://youtu.be/GfbR36vTyk8)
-- [x] [Без протокола. Как и зачем в России запрещают современные протоколы шифрования](https://youtu.be/3HHCGl6ue1k)
-- [x] [Форум по управлению интернетом](https://youtu.be/isK4sbylQAI)
-- [x] [Безопасный режим: как защитить свою переписку](https://youtu.be/AbPN7TvssTY)
-- [x] [Безопасный режим: как зашифровать свои данные](https://youtu.be/DKowOKaLYu8)
+##### Подкасты
+<details>
+    <summary>View</summary>
 
+- [x] [Отвечают сирийские мистики](https://arzamas.academy/radio/announcements/naturalmystic)
+
+  </details>
 </details>
 
 #### [Хирьянов Тимофей Фёдорович (Лекции)](https://www.youtube.com/user/tkhirianov)
