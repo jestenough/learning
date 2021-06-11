@@ -7,22 +7,6 @@
 - [ ] [Advanced Database Systems (Spring 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
 - [ ] [Distributed Computer Systems](https://youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 - [ ] [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3)
-- [ ] Документы и презентации в LaTeX
-- [ ] Математика (1 - 6)
-- [ ] [Алгебра (7 - 11)](https://interneturok.ru/subject/algebra)
-  - [ ] 7 класс
-      - [ ] Математический язык. Математическая модель (2/14)
-      - [ ] Линейная функция (0/10)
-      - [ ] Система двух линейных уравнений с двумя переменными (0/6)
-      - [ ] Степень с натуральным показателем и её свойства (0/9)
-      - [ ] Одночлены. Арифметические операции над одночленами (0/8)
-      - [ ] Многочлены. Арифметические операции над многочленами (0/19)
-      - [ ] Разложение многочленов на множители (0/12)
-      - [ ] Функция y=x2 (0/3)
-      - [ ] Повторение курса алгебры 7-го класса (0/8)
-- [ ] Ричард Фейнман. Характер физического закона. 7 лекций
-- [ ] [АКОС](https://youtube.com/playlist?list=PL4_hYwCyhAvZcOr5sJzuLmze2F6wPms-A)
-- [ ] [Нетология] Python для работы с данными (2020)
 - [ ] [Harvard CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
 
 
@@ -31,9 +15,10 @@
   <summary>View</summary>
 
 - [ ] [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science)
-- [ ] [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
 - [ ] [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
-- [ ] [Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction)
+- [ ] [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation)
+- [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
+- [ ] [Writing in English at University](https://www.coursera.org/learn/writing-english-university)
 
 </details>
 
@@ -95,7 +80,7 @@
     - [x] Робот в python
     - [x] Черепаха в python
     - [x] Картина
-    - [ ] Анимация картины
+    - [x] Анимация картины
     - [ ] Библиотека Tkinter
     - [ ] Игра «Поймай шарик»
     - [ ] ООП в Python
@@ -125,11 +110,19 @@
 <details>
   <summary>View</summary>
 
+##### [Курсы](https://arzamas.academy/courses)
+<details>
+    <summary>View</summary>
+
+- [x] [Правда и вымыслы о цыганах](https://arzamas.academy/courses/4/1)`[5/5]`
+
+</details>
+
 ##### Подкасты
 <details>
     <summary>View</summary>
 
-- [x] [Отвечают сирийские мистики](https://arzamas.academy/radio/announcements/naturalmystic)
+- [x] [Отвечают сирийские мистики](https://arzamas.academy/radio/announcements/naturalmystic)`[22/22]`
 
   </details>
 </details>
