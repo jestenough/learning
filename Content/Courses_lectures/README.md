@@ -40,7 +40,7 @@
             - [x] Философия (всё есть файлы)
             - [x] Стандарт POSIX
             - [x] Варианты UNIX
-    - [ ] Структура Linux и команды
+    - [x] Структура Linux и команды
         - [x] Структура Linux
             - [x] Структура каталогов
             - [x] Как устанавливается ПО в Linux
@@ -52,7 +52,8 @@
             - [x] UID, root, etcpasswd, etcgroup, etcshadow
             - [x] Права на файлы, chmod
             - [x] Inode, hardLink (ln), softLink (ln -s)
-        - [ ] Работа с файлами
+        - [x] Работа с файлами
+            - [x] grep, head, tail (-f), more и less
     - [ ] Потоки, логические команды, процессы, сеть
         - [ ] Работа с потоками STDIN, STDOUT, STDERR
         - [ ] И, ИЛИ, НЕ ИМЕЕТ ЗНАЧЕНИЯ (ha-ha)
@@ -81,10 +82,10 @@
     - [x] Черепаха в python
     - [x] Картина
     - [x] Анимация картины
-    - [ ] Библиотека Tkinter
-    - [ ] Игра «Поймай шарик»
-    - [ ] ООП в Python
-    - [ ] Игра «Пушка»
+    - [x] Библиотека Tkinter
+    - [x] Игра «Поймай шарик»
+    - [x] ООП в Python
+    - [x] Игра «Пушка»
     - [ ] Наследование и композиция
     - [ ] Проект «Солнечная система»
     - [ ] Игра «Артиллерия»
@@ -123,6 +124,7 @@
     <summary>View</summary>
 
 - [x] [Отвечают сирийские мистики](https://arzamas.academy/radio/announcements/naturalmystic)`[22/22]`
+- [x] [Откуда деньги?](https://arzamas.academy/radio/announcements/otkuda_dengi)`[5/5]`
 
   </details>
 </details>
