@@ -2,12 +2,9 @@
 This repository is a collection of various materials that I learn. This is where I record my progress in learning something. It's like a personal blog
 
 ## :file_folder: Navigation
-- :beginner: **Certificates**
-    - [LogicLike](/Certificates/LogicLike)
 - :information_source: **Content**
     - [Courses/Lectures](/Content/Courses_lectures/README.md)
     - [E-libraries](/Content/E-libraries/README.md)
-    - [Educational channels](/Content/Educational_channels/README.md)
     - [Websites](/Content/Websites/README.md)
 - :triangular_ruler: **PL** _code_
     - [Assembly](/Languages/Assembly)
