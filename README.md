@@ -4,8 +4,8 @@ This repository is a collection of various materials that I learn. This is where
 ## :file_folder: Navigation
 - :information_source: **Content**
     - [Courses/Lectures](/Content/Courses_lectures/README.md)
-    - [E-libraries](/Content/E-libraries/README.md)
-    - [Websites](/Content/Websites/README.md)
+    - [E-libraries](/Content/elibraries.md)
+    - [Websites](/Content/website.md)
 - :triangular_ruler: **PL** _code_
     - [Assembly](/Languages/Assembly)
         - [FASM](/Languages/Assembly/FASM/)
@@ -14,6 +14,7 @@ This repository is a collection of various materials that I learn. This is where
     - [C++](/Languages/C++)
     - [Python](/Languages/Python)
     - [SQL](/Languages/SQL)
+    - [LaTeX](/Languages/LaTeX)
 - :book: **Literature**
     - [Computer Science](/Literature/computer_science/README.md)
     - [Fiction](/Literature/fiction/README.md)

@@ -5,6 +5,7 @@
 - [Docker](https://hub.docker.com/)
 - [GitLab](https://gitlab.com/)
 - [GitHub](https://gitlab.com/)
+- [BitBucket](https://bitbucket.org/)
 - [Kaggle](https://www.kaggle.com/)
 
 #### Training skill
