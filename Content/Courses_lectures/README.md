@@ -19,7 +19,10 @@
 - [ ] [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation)
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [ ] [Writing in English at University](https://www.coursera.org/learn/writing-english-university)
-
+- [ ] [Python for Everybody Specialization ](https://www.coursera.org/specializations/python)
+    - [x] [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
+    - [ ] [Python Data Structures](https://www.coursera.org/learn/python-data)
+    - [ ] ...
 
 </details>
 
