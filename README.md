@@ -3,24 +3,36 @@ This repository is a collection of various materials that I learn. This is where
 
 ## :file_folder: Navigation
 
-### Content
-- [Courses/Lectures](/Content/Courses_lectures/README.md)
-- [E-libraries](/Content/elibraries.md)
-- [Websites](/Content/website.md)
-
 ### Code
-- [Assembly](/Languages/Assembly)
-    - [FASM](/Languages/Assembly/FASM/)
-    - [GAS](/Languages/Assembly/GAS/)
-    - [NASM](/Languages/Assembly/NASM/)
-- [C++](/Languages/C++)
-- [Python](/Languages/Python)
-- [SQL](/Languages/SQL)
-- [LaTeX](/Languages/LaTeX)
+- [Assembly](/code/assembly)
+    - [FASM](/code/assembly/fasm/)
+    - [GAS](/code/assembly/gas/)
+    - [NASM](/code/assembly/nasm/)
+- [C++](/code/cpp)
+- [LaTeX](/code/latex)
+- [Python](/code/python)
+- [SQL](/code/sql)
+
+
+### Content
+- [E-libraries](/content/elibraries.md)
+- [Podcasts](/content/podcasts.md)
+- [Websites](/content/website.md)
+
+
+### Courses
+- [Computer science](/courses/computer_science.md)
+- [Languages](/courses/languages.md)
+- [Science](/courses/science.md)
+
+
+### Languages
+- [English](/languages/english.md)
+
 
 ### Literature
-- [Computer Science](/Literature/computer_science/README.md)
-- [Fiction](/Literature/fiction/README.md)
-- [Nonfiction](/Literature/nonfiction/README.md)
-- [Philosophy](/Literature/philosophy/README.md)
-- [Publicism](/Literature/publicism/README.md)
+- [Computer science](/literature/computer_science.md)
+- [Fiction](/literature/fiction.md)
+- [Nonfiction](/literature/nonfiction.md)
+- [Philosophy](/literature/philosophy.md)
+- [Publicism](/literature/publicism.md)

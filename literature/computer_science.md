@@ -23,7 +23,7 @@
     <summary>View</summary>
 
 - [ ] Алгоритмы. Руководство по разработке (Стивен Скиена)`[0/720]`
-- [ ] Grokking Algorithms`[75/288]`
+- [ ] Grokking Algorithms`[85/288]`
 - [ ] [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 - [ ] [Алгоритмы. Просто как дважды два](https://1lib.eu/book/2881801/bdf9dc?regionChanged=&redirect=537745)`[0/245]`
 
@@ -32,6 +32,8 @@
 #### Math for CS
 <details>
     <summary>View</summary>
+
+
 
 </details>
 
@@ -66,7 +68,6 @@
 - [ ] Сети предприяти на основе Windows NT (М.Стерн, Г.Монти, В.Бэчманн) `[0/442]`
 - [ ] Введение в программирование. Том 3: системы и сети (Столяров А.)`[0/403]`
 
-
 </details>
 
 #### Databases
@@ -74,6 +75,11 @@
     <summary>View</summary>
 </details>
 
+
+#### Git
+<details>
+    <summary>View</summary>
+</details>
 
 #### Languages and Compilers
 <details>
@@ -99,19 +105,23 @@
 
 </details>
 
-##### C/C++
+##### C
 <details>
     <summary>View</summary>
 
-- [ ] [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf)`[0/70]`
 - [ ] C A Software Engineering Approach 3rd Edition`[0/498]`
 - [ ] Системное программирование на языке Си
+- [ ] [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
+
+</details>
+
+##### C++
+<details>
+    <summary>View</summary>
+
 - [ ] C++ для инженерных и научных расчетов (Питер Готтшлинг)`[0/512]`
 - [ ] Введение в язык программирования С++ (Бьерн Страуструп)`[0/369]`
 - [ ] Введение в язык Си++ (Андрей Столяров)`[0/159]`
-- [ ] [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
-- [ ] [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
-- [ ] [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf)
 - [ ] C++ notes for professionals`[0/708]`
 - [ ] [Веревка достаточной длины, чтобы выстрелить себе в ногу](http://e-maxx.ru/bookz/files/golub_cord.pdf)`[0/171]`
 
@@ -121,7 +131,7 @@
 <details>
     <summary>View</summary>
 
-- [ ] PEP 8 - руководство по написанию кода на Python
+- [ ] Как устроен python. Гид для разработчиков, программистов и интересующихся. (Харрисон М.) (2019)`[80/272]`
 - [ ] Программирование на Python, том 1, 4-е издание. Марк Лутц`[0/992]`
 - [ ] Чистый питон`[0/288]`
 - [ ] Программируем на Python (Майкл Доусон)`[0/416]`
@@ -141,11 +151,12 @@
 
 </details>
 
-##### TeX/LaTeX
+##### TeX
 <details>
     <summary>View</summary>
 
 - [x] [Сверстай диплом красиво: LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf)`[101/101]`
+- [ ] [Набор и верстка в системе LaTeX (Львовский С. М.)](https://www.mccme.ru/free-books/llang/newllang.pdf)
 - [ ] Все про TeX (Дональд Э. Кнут)`[0/560]`
 - [ ] Компьютерная типография (Дональд Э. Кнут)`[0/672]`
 - [x] [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
