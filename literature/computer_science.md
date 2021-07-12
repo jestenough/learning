@@ -1,45 +1,45 @@
 <h2 align="center">Computer Science</h2>
 
 * [Assembly](#assembly)
-* ~~[Bash](#bash)~~
+* [Bash](#bash)
 * [C](#c)
 * [C++](#cpp)
-* ~~[DB2](#db2)~~
-* ~~[FreeBSD](#freebsd)~~
-* ~~[Git](#git)~~
-* ~~[Hadoop](#hadoop)~~
-* ~~[Java](#jar)~~
+* [DB2](#db2)
+* [FreeBSD](#freebsd)
+* [Git](#git)
+* [Hadoop](#hadoop)
+* [Java](#jar)
 * [Language Agnostic](#language-agnostic)
     - [Algorithms and Data Structures](#algo)
     - [Artificial Intelligence](#ai)
-    - ~~[Cloud Computing](#cloud-computing)~~
+    - [Cloud Computing](#cloud-computing)
     - [Competitive Programming](#competitive-programming)
     - [Compiler Design](#compiler-design)
-    - ~~[Containers](#containers)~~
-    - ~~[Database](#db)~~
-    - ~~[Datamining](#datamining)~~
-    - ~~[Licensing](#licensing)~~
+    - [Containers](#containers)
+    - [Database](#db)
+    - [Datamining](#datamining)
+    - [Licensing](#licensing)
     - [Machine Learning](#ml)
     - ~~[Math for cs](#math-for-cs)~~
     - [Misc](#misc-theory)
     - [Networking](#networking)
-    - ~~[Parallel Programming](#parallel-programming)~~
-    - ~~[Programming Paradigms](#programming-paradigms)~~
+    - [Parallel Programming](#parallel-programming)
+    - [Programming Paradigms](#programming-paradigms)
 * [TeX / LaTeX](#tex-latex)
 * [Linux](#tux)
-* ~~[Markdown](#md)~~
-* ~~[MATLAB](#matlab)~~
-* ~~[MySQL](#mysql)~~
-* ~~[NoSQL](#nosql)
-* ~~[PostgreSQL](#postgresql)~~
-* ~~[PowerShell](#powershell)~~
+* [Markdown](#md)
+* [MATLAB](#matlab)
+* [MySQL](#mysql)
+* [NoSQL](#nosql)
+* [PostgreSQL](#postgresql)
+* [PowerShell](#powershell)
 * [Python](#py)
-    - ~~[Pandas](#pandas)~~
-* ~~[Spark](#spark)~~
+    - [Pandas](#pandas)
+* [Spark](#spark)
 * [SQL](#sql)
-* [Unix](#unix)
+* ~~[Unix](#unix)~~
 * [Vim](#vim)
-* [Windows](#windows)
+* ~~[Windows](#windows)~~
 
 ---
 
@@ -54,7 +54,13 @@
 
 <h3 id="bash">Bash</h3>
 
-`TODO`
+- [ ] Getting Started with BASH ()
+- [ ] Bash Guide for Beginners (M. Garrels)
+- [ ] GNU Bash manual
+- [ ] Advanced Bash-Scripting Guide
+- [ ] Google Shell Style Guide (Paul Armstrong)
+- [ ] Writing Shell Scripts (William E. Shotts, Jr.)
+- [ ] The Bash Academy (Maarten Billemont)
 
 
 <h3 id="c">C</h3>
@@ -75,27 +81,43 @@
 
 <h3 id="db2">DB2</h3>
 
-`TODO`
+- [ ] DB2 Essentials: Understanding DB2 in a Big Data World (IBM Press) 3rd Edition`[0/747]`
+- [ ] IBM DB2 SQL for Beginners: Practical Tutorial by Examples`[0/104]`
 
 
 <h3 id="freebsd">FreeBSD</h3>
 
-`TODO`
+- [ ] FreeBSD Architecture Handbook
+- [ ] FreeBSD Developers' Handbook
+- [ ] Frequently Asked Questions for FreeBSD 11.X, 12.X, and 13.X
+- [ ] A project model for the FreeBSD Project
 
 
 <h3 id="git">Git</h3>
 
-`TODO`
+- [ ] Git internals (Scott Chacon)`[0/121]`
+- [ ] Pro Git (Scott Chacon)
+- [ ] Git Notes for Professionals
+- [ ] Happy Git and GitHub for the useR
 
 
 <h3 id="hadoop">Hadoop</h3>
 
-`TODO`
+- [ ] Big Data Analytics with Hadoop 3 (Sridhar Alla)
+- [ ] Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale (Tom White)
+- [ ] Hadoop in Practice (Alex Holmes)
+- [ ] MapReduce Design Patterns (Donald Miner and Adam Shook)
+- [ ] Hadoop for Dummies (Dirk Deroos)
 
 
 <h3 id="jar">Java</h3>
 
-`TODO`
+- [ ] Head First Java, Изучаем Java (Кэти Сьерра, Берт Бэйтс)
+- [ ] Java. Руководство для начинающих (Герберт Шилдт)
+- [ ] Java Programming for Kids, Parents and Grandparents (Yakov Fain)
+- [ ] Object Oriented Programming using Java (Simon Kendal)
+- [ ] Think Data Structures: Algorithms and Information Retrieval in Java (Allen B. Downey)
+- [ ] Think Java: How to Think Like a Computer Scientist, 2nd Edition (Allen B. Downey and Chris Mayfield)
 
 
 <h3 id="language-agnostic">Language Agnostic</h3>
@@ -113,10 +135,15 @@
 - [ ] Grokking Artificial Intelligence Algorithms`[0/392]`
 
 
-
 <h4 id="cloud-computing">Cloud Computing</h4>
 
-`TODO`
+- [ ] Cloud Computing: From Beginning to End (Ray Rafaels)
+- [ ] Cloud Computing Design Patterns (Thomas Erl)
+- [ ] Cloudonomics: The Business Value of Cloud Computing (Joe Weinman)
+- [ ] Ahead in the Cloud: Best Practices for Navigating the Future of Enterprise IT (Stephen Orban)
+- [ ] Infrastructure as Code: Managing Servers in the Cloud (Kief Morris)
+- [ ] Azure for Architects, Third Edition
+- [ ] Cloud Computing for Science and Engineering (Ian Foster, Dennis B. Gannon)
 
 
 <h4 id="competitive-programming">Competitive Programming</h4>
@@ -125,31 +152,45 @@
 - [ ] [Программирование: теоремы и задачи](https://hal.archives-ouvertes.fr/hal-01480636/document)`[0/320]`
 - [ ] [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)`[0/142]`
 - [ ] [80 задач с IT-собеседований с разбором решений](https://cmsmagazine.ru/journal/items-80-problems-with-it-interviews/)
-
+- [ ] Principles of Algorithmic Problem Solving (Johan Sannemo)
 
 <h4 id="compiler-design">Compiler Design</h4>
 
 - [ ] Компиляторы. Принципы, технологии и инструментарий (Ахо Альфред В., Лам Моника С.)`[0/1184]`
+- [ ] Crafting Interpreters (Bob Nystrom)
+- [ ] An Introduction to GCC (Brian Gough)
 
 
 <h4 id="containers">Containers</h4>
 
-`TODO`
+- [ ] Docker Book (James Turnbul)
+- [ ] Docker in Action (Jeff Nickoloff)
+- [ ] Docker in Practice (Ian Miell, Aidan Hobson Sayers)
+- [ ] Docker Jumpstart (Andrew Odewahn)
+- [ ] Kubernetes для DevOps: развертывание, запуск и масштабирование в облаке
+- [ ] Паттерны Kubernetes. Шаблоны разработки собственных облачных приложений
 
 
 <h4 id="db">Database</h4>
 
-`TODO`
+- [ ] Database Explorations: Essays on The Third Manifesto and related topics
+- [ ] [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf)
+- [ ] Databases, Types, and The Relational Model: The Third Manifesto
 
 
 <h4 id="datamining">Datamining</h4>
 
-`TODO`
+- [ ] Introduction to Data Mining (Tan, Steinbach & Kumar)
+- [ ] An Introduction to Statistical Learning: with Applications in R (Gareth James & Daniela Witten)
+- [ ] Data Mining: Practical Machine Learning Tools and Technique (Ian H. Witten & Eibe Frank)
+- [ ] Mining of Massive Datasets (Anand Rajaraman & Jeffrey David Ullman)
+- [ ] A Programmer’s Guide to Data Mining (Ron Zacharski)
 
 
 <h4 id="licensing">Licensing</h4>
 
-`TODO`
+- [ ] Creative Commons: a user guide (Simone Aliprandi)
+- [ ] The Public Domain: Enclosing the Commons of the Mind (James Boyle)
 
 
 <h4 id="ml">Machine Learning</h4>
@@ -194,12 +235,17 @@
 
 <h4 id="parallel-programming">Parallel Programming</h4>
 
-`TODO`
+- [ ] Is Parallel Programming Hard, And, If So, What Can You Do About It? (Paul E. McKenney)
+- [ ] Introduction to Parallel Computing (Blaise Barney)
+- [ ] High Performance Computing (Charles Severance & Kevin Dowd)
 
 
 <h4 id="programming-paradigms">Programming Paradigms</h4>
 
-`TODO`
+- [ ] Programming Languages and Paradigms
+- [ ] Flow based Programming (J Paul Morrison)
+- [ ] Введение в функциональное программирование (John Harrison)
+- [ ] Making Sense of Stream Processing (Martin Kleppmann)
 
 
 <h3 id="tex-latex">TeX / LaTeX</h3>
@@ -223,32 +269,52 @@
 
 <h3 id="md">Markdown</h3>
 
-`TODO`
+- [ ] Learn Markdown (Sammy P., Aaron O.)
+- [ ] The Markdown Guide (Matt Cone)
 
 
 <h3 id="matlab">Matlab</h3>
 
-`TODO`
+- [ ] Introduction to MATLAB for Engineering Students (David Houcque)
+- [ ] Physical Modeling in MATLAB (Alan B. Downey)
+- [ ] Scientific Computing (Jeffrey R. Chasno)
 
 
 <h3 id="mysql">MySQL</h3>
 
-`TODO`
+- [ ] MySQL Notes for Professionals
+- [ ] MySQL and JSON: A Practical Programming Guide (David Stokes)
+- [ ] MySQL Connector/Python Revealed (Jesper Wisborg Krogh)
+- [ ] Pro MySQL NDB Cluster (Wisborg Krogh, Mikiya Okuno)
 
 
 <h3 id="nosql">NoSQL</h3>
 
-`TODO`
+- [ ] Graph Databases, 2nd Edition (Ian Robinson, Jim Webber, Emil Eifrem)
+- [ ] Маленькая книга о MongoDB (Карл Сегуин)
+- [ ] Маленькая книга о Redis (Карл Сегуин)
+- [ ] Руководство по MongoDB (Евгений Сулейманов)
+- [ ] NoSQL Databases (Christof Strauch)
+- [ ] Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data (Petter Nasholm)
+- [ ] CouchDB: The Definitive Guide
 
 
 <h3 id="postgresql">PostgreSQL</h3>
 
-`TODO`
+- [ ] PostgreSQL: Up and Running
+- [ ] Mastering PostgreSQL 13 - Fourth Edition (Hans-Jürgen Schönig)
+- [ ] Learn PostgreSQL (Luca Ferrari, Enrico Pirozzi)
+- [ ] PostgreSQL: The First Experience (Pavel Luzanov, Egor Rogov, Igor Levshin)
+- [ ] The Art of PostgreSQL (Dimitri Fontaine)
 
 
 <h3 id="powershell">PowerShell</h3>
 
-`TODO`
+- [ ] Why PowerShell? (The DevOps Collective, Inc.)
+- [ ] Learn PowerShell Core 6.0 (David das Neves, Jan-Hendrik Peters)
+- [ ] The Big Book of PowerShell Gotchas (The DevOps Collective, Inc.)
+- [ ] A Unix Person's Guide to PowerShell (The DevOps Collective, Inc.)
+- [ ] PowerShell Notes for Professionals
 
 
 <h3 id="py">Python</h3>
@@ -265,12 +331,22 @@
 
 <h4 id="pandas">Pandas</h4>
 
-`TODO`
+- [ ] Learning Pandas – Python Data Discovery and Analysis Made Easy (Michael Heydt)
+- [ ] Learning the Pandas Library (Matt Harrison)
+- [ ] Pandas for Everyone: Python Data Analysis (Daniel Y. Chen)
+- [ ] Learn Pandas (Hernan Rojas)
+- [ ] pandas: powerful Python data analysis toolkit (Wes McKinney and the Pandas Development Team)
 
 
 <h3 id="spark">Spark</h3>
 
-`TODO`
+- [ ] Learning Spark: Lightning-Fast Big Data Analysis
+- [ ] Spark: The Definitive Guide
+- [ ] High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark
+- [ ] [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
+- [ ] [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
+- [ ] [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+- [ ] Advanced Analytics with Spark: Patterns for Learning from Data at Scale
 
 
 <h3 id="sql">SQL</h3>
@@ -291,6 +367,7 @@
 - [ ] [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
 - [ ] [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 - [ ] [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf)
+
 
 <h3 id="windows">Windows</h3>
 
