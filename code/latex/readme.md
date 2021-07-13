@@ -8,8 +8,12 @@
 
 ---
 
+
 ## General
 - [TeX Archive](https://ctan.org/)
+- [LaTeX sheet](wch.github.io/latexsheet/latexsheet.pdf )
+- [Latex Error Classes](https://www.cs.utexas.edu/users/witchel/projects/clarify_errorclasses.html)
+- [Symbol list](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
 
 
 ## Questions and answers
