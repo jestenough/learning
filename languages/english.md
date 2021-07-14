@@ -8,9 +8,9 @@
 * [Music](#music)
 * [Training texts](#training)
 * [Tests](#tests)
-* [Literature](/literature/nonfiction/#####English)
-* [Courses](/courses/languages/#en)
-* [Podcasts](/content/podcasts/#en)
+* [Literature](/literature/nonfiction.md#####English)
+* [Courses](/courses/languages.md#en)
+* [Podcasts](/content/podcasts.md#en)
 
 
 ---
