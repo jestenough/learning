@@ -99,6 +99,7 @@
 - [Git branching learn](https://learngitbranching.js.org/?locale=ru_RU)
 - [GitHowTo](https://githowto.com)
 - [Git visualizing](https://git-school.github.io/visualizing-git/)
+- [ ] [Git. Полный курс для начинающих и не только](https://www.udemy.com/course/git-alishev/) - (Udemy)
 - [ ] [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - (YouTube)
 - [ ] [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 - [ ] [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - (Coursera)
@@ -126,58 +127,23 @@
 - [ ] [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - (Edx)
 - [ ] [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/) - (Udemy)
 - [ ] [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - (Udemy)
-- [ ] [Linux для начинающих](https://otus.ru/online/online-linux/) - (OTUS)
-    - [x] Введение
-        - [x] Операционная система - общие сведения
-            - [x] Введение
-            - [x] Для чего нужна ОС
-            - [x] Первая ОС . История Multics
-            - [x] MS-DOS
-            - [x] Ядро ОС
-            - [x] Кольца защиты и современные ОС
-        - [x] UNIX
-            - [x] История создания
-            - [x] Философия (всё есть файлы)
-            - [x] Стандарт POSIX
-            - [x] Варианты UNIX
-    - [x] Структура Linux и команды
-        - [x] Структура Linux
-            - [x] Структура каталогов
-            - [x] Как устанавливается ПО в Linux
-            - [x] Версии Linux
-            - [x] Сложности на пути изучения Linux
-        - [x] Простейшие команды в Linux
-            - [x] ls, touch, mkdir, cd, rm, rmdir, cp, mv, type, whereis, who, man etc.
-        - [x] Пользователи в Linux
-            - [x] UID, root, etcpasswd, etcgroup, etcshadow
-            - [x] Права на файлы, chmod
-            - [x] Inode, hardLink (ln), softLink (ln -s)
-        - [x] Работа с файлами
-            - [x] grep, head, tail (-f), more и less
-    - [ ] Потоки, логические команды, процессы, сеть
-        - [ ] Работа с потоками STDIN, STDOUT, STDERR
-        - [ ] И, ИЛИ, НЕ ИМЕЕТ ЗНАЧЕНИЯ (ha-ha)
-        - [ ] Монтирование
-        - [ ] Установка ПО
-        - [ ] Процессы
-        - [ ] Сеть
-        - [ ] Системы инициализации
+- [x] [Linux для начинающих](https://otus.ru/online/online-linux/) - (OTUS)
 
 
 ### Python
 
-- [ ] [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - (Coursera)
 - [ ] [Python for Everybody Specialization ](https://www.coursera.org/specializations/python) - (Coursera)
     - [x] [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
     - [ ] [Python Data Structures](https://www.coursera.org/learn/python-data)
     - ...
 - [x] [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) - (YouTube)
 - [x] [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe) - (YouTube)
+- [ ] Python Essential 2016 - (ITVDN)
 
 
 ### Theory
 
-- [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
+- [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - (Udacity)
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch) - (Coursera)
 - [x] [Что должен знать и уметь пользователь ПК](https://foxford.ru/courses/2493/landing) - (Foxford)
 - [ ] [Информатика за пределами ЕГЭ](https://foxford.ru/courses/3608/landing) - (Foxford)
@@ -195,8 +161,8 @@
     - [x] ООП в Python
     - [x] Игра «Пушка»
     - [x] Наследование и композиция
-    - [ ] Проект «Солнечная система»
-    - [ ] Игра «Артиллерия»
+    - [x] Проект «Солнечная система»
+    - [x] Игра «Артиллерия»
     - [ ] Теория множеств
     - [ ] Комбинаторика
     - [ ] Теория вероятности
