@@ -89,7 +89,7 @@
 
 ### Docker
 
-- [ ] [Основы Docker. Большой практический выпуск](https://youtu.be/QF4ZF857m44) - (YouTube)
+- [x] [Основы Docker. Большой практический выпуск](https://youtu.be/QF4ZF857m44) - (YouTube)
 - [ ] [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - (YouTube)
 - [ ] [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE) - (YouTube)
 
