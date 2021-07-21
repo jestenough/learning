@@ -134,10 +134,9 @@
 
 - [ ] [Python for Everybody Specialization ](https://www.coursera.org/specializations/python) - (Coursera)
     - [x] [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
-    - [ ] [Python Data Structures](https://www.coursera.org/learn/python-data)
-    - ...
 - [x] [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) - (YouTube)
 - [x] [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe) - (YouTube)
+- [x] [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
 - [ ] Python Essential 2016 - (ITVDN)
 
 
