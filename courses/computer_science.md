@@ -57,11 +57,12 @@
 - [ ] [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - (YouTube)
 
 
-<h3 id="ds">Data Science</h3>
+<h3 id="ds">Data Science (sphere)</h3>
 
 - [ ] [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3) - (YouTube)
 - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - (Coursera)
 - [ ] [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining) - (Coursera)
+- [x] [Data Engineering for Everyone](https://learn.datacamp.com/courses/data-engineering-for-everyone) - (DataCamp)
 
 
 <h3 id="db">Databases</h3>
@@ -136,7 +137,7 @@
     - [x] [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
 - [x] [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) - (YouTube)
 - [x] [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe) - (YouTube)
-- [x] [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
+- [x] [Introduction to Python (for data science)](https://learn.datacamp.com/courses/intro-to-python-for-data-science) - (DataCamp)
 - [ ] Python Essential 2016 - (ITVDN)
 
 
