@@ -61,7 +61,7 @@
 
 - [ ] [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3) - (YouTube)
 - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - (Coursera)
-- [ ] [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining) - (Coursera)
+- [x] [Introduction to Data Science in Python](https://learn.datacamp.com/courses/introduction-to-data-science-in-python) - (DataCamp)
 - [x] [Data Engineering for Everyone](https://learn.datacamp.com/courses/data-engineering-for-everyone) - (DataCamp)
 
 
