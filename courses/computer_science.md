@@ -133,12 +133,13 @@
 
 ### Python
 
+- [ ] Python Essential 2016 - (ITVDN)
 - [ ] [Python for Everybody Specialization ](https://www.coursera.org/specializations/python) - (Coursera)
     - [x] [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
 - [x] [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) - (YouTube)
 - [x] [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe) - (YouTube)
 - [x] [Introduction to Python (for data science)](https://learn.datacamp.com/courses/intro-to-python-for-data-science) - (DataCamp)
-- [ ] Python Essential 2016 - (ITVDN)
+- [x] [Software Engineering for Data Scientists in Python](https://learn.datacamp.com/courses/software-engineering-for-data-scientists-in-python) - (DataCamp)
 
 
 ### Theory
