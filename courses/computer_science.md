@@ -93,6 +93,7 @@
 - [x] [Основы Docker. Большой практический выпуск](https://youtu.be/QF4ZF857m44) - (YouTube)
 - [ ] [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - (YouTube)
 - [ ] [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE) - (YouTube)
+- [ ] [Docker для Data Science](https://youtube.com/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m) - (YouTube)
 
 
 ### Git
@@ -140,13 +141,17 @@
 - [x] [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe) - (YouTube)
 - [x] [Introduction to Python (for data science)](https://learn.datacamp.com/courses/intro-to-python-for-data-science) - (DataCamp)
 - [x] [Software Engineering for Data Scientists in Python](https://learn.datacamp.com/courses/software-engineering-for-data-scientists-in-python) - (DataCamp)
-
+- [ ] [Парсинг сайтов на Python](https://youtube.com/playlist?list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q) - (YouTube)
 
 ### Theory
 
 - [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - (Udacity)
+- [ ] [Необходимый минимум по задачам для прохождения интервью](https://youtube.com/playlist?list=PLxo8h22u0O-gKD5rTtDOuqUb7jku_et8b) - (YouTube)
+- [x] [КАК ИСКАТЬ В GOOGLE: Фишки и Секреты Как Правильно Гуглить!](https://youtu.be/Zi3GY0CopZQ) - (YouTube)
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch) - (Coursera)
 - [x] [Что должен знать и уметь пользователь ПК](https://foxford.ru/courses/2493/landing) - (Foxford)
+- [ ] [Pycharm уроки](https://youtube.com/playlist?list=PLF-NY6ldwAWrpTuu4oqU2zYzkYmQkiQ2-) - (YouTube)
+- [ ] [Введение в компиляторы](https://youtube.com/playlist?list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1) - (YouTube)
 - [ ] [Информатика за пределами ЕГЭ](https://foxford.ru/courses/3608/landing) - (Foxford)
     - [x] Вводное занятие
     - [x] Архитектура компьютера
