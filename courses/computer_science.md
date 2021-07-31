@@ -150,7 +150,8 @@
 - [x] [КАК ИСКАТЬ В GOOGLE: Фишки и Секреты Как Правильно Гуглить!](https://youtu.be/Zi3GY0CopZQ) - (YouTube)
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch) - (Coursera)
 - [x] [Что должен знать и уметь пользователь ПК](https://foxford.ru/courses/2493/landing) - (Foxford)
-- [ ] [Pycharm уроки](https://youtube.com/playlist?list=PLF-NY6ldwAWrpTuu4oqU2zYzkYmQkiQ2-) - (YouTube)
+- [x] [Pycharm уроки](https://youtube.com/playlist?list=PLF-NY6ldwAWrpTuu4oqU2zYzkYmQkiQ2-) - (YouTube)
+- [x] Learn IDE Features for Python - (Pycharm)
 - [ ] [Введение в компиляторы](https://youtube.com/playlist?list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1) - (YouTube)
 - [ ] [Информатика за пределами ЕГЭ](https://foxford.ru/courses/3608/landing) - (Foxford)
     - [x] Вводное занятие
