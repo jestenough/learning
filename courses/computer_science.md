@@ -143,6 +143,7 @@
 - [x] [Software Engineering for Data Scientists in Python](https://learn.datacamp.com/courses/software-engineering-for-data-scientists-in-python) - (DataCamp)
 - [ ] [Парсинг сайтов на Python](https://youtube.com/playlist?list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q) - (YouTube)
 - [x] [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python) - (DataCamp)
+- [x] [Python Data Science Toolbox (Part 1)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) - (DataCamp)
 
 ### Theory
 
