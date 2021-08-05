@@ -37,7 +37,7 @@
 
 - [ ] [Harvard CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)`[10/23]` - (YouTube)
 - [ ] [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - (YouTube)
-- [ ] [Реализация ООП на чистом C](https://youtu.be/QyjTJ98iOWI) - (YouTube)
+- [x] [Реализация ООП на чистом C](https://youtu.be/QyjTJ98iOWI) - (YouTube)
 
 
 <h3 id="cpp">C++</h3>
@@ -146,6 +146,7 @@
 - [x] [Python Data Science Toolbox (Part 1)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) - (DataCamp)
 - [x] [Python Data Science Toolbox (Part 2)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-2) - (DataCamp)
 - [x] [Data Types for Data Science in Python](https://learn.datacamp.com/courses/data-types-for-data-science-in-python) - (DataCamp)
+
 
 ### Theory
 
