@@ -146,6 +146,7 @@
 - [x] [Python Data Science Toolbox (Part 1)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) - (DataCamp)
 - [x] [Python Data Science Toolbox (Part 2)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-2) - (DataCamp)
 - [x] [Data Types for Data Science in Python](https://learn.datacamp.com/courses/data-types-for-data-science-in-python) - (DataCamp)
+- [x] [Writing Efficient Python Code](https://learn.datacamp.com/courses/writing-efficient-python-code) - (DataCamp)
 
 
 ### Theory
