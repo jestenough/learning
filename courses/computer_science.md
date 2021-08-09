@@ -35,7 +35,7 @@
 
 ### C
 
-- [ ] [Harvard CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)`[10/23]` - (YouTube)
+- [ ] [Harvard CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) - (YouTube)
 - [ ] [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - (YouTube)
 - [x] [Реализация ООП на чистом C](https://youtu.be/QyjTJ98iOWI) - (YouTube)
 
@@ -148,6 +148,7 @@
 - [x] [Data Types for Data Science in Python](https://learn.datacamp.com/courses/data-types-for-data-science-in-python) - (DataCamp)
 - [x] [Writing Efficient Python Code](https://learn.datacamp.com/courses/writing-efficient-python-code) - (DataCamp)
 - [x] [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas) - (DataCamp)
+- [x] [Working with Dates and Times in Python](https://learn.datacamp.com/courses/working-with-dates-and-times-in-python) - (DataCamp)
 
 
 ### Theory
@@ -161,34 +162,3 @@
 - [x] Learn IDE Features for Python - (Pycharm)
 - [ ] [Введение в компиляторы](https://youtube.com/playlist?list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1) - (YouTube)
 - [ ] [Информатика за пределами ЕГЭ](https://foxford.ru/courses/3608/landing) - (Foxford)
-    - [x] Вводное занятие
-    - [x] Архитектура компьютера
-    - [x] Компоненты компьютера
-    - [x] Операционная система
-    - [x] Администрирование ОС
-    - [x] Робот в python
-    - [x] Черепаха в python
-    - [x] Картина
-    - [x] Анимация картины
-    - [x] Библиотека Tkinter
-    - [x] Игра «Поймай шарик»
-    - [x] ООП в Python
-    - [x] Игра «Пушка»
-    - [x] Наследование и композиция
-    - [x] Проект «Солнечная система»
-    - [x] Игра «Артиллерия»
-    - [ ] Теория множеств
-    - [ ] Комбинаторика
-    - [ ] Теория вероятности
-    - [ ] Теория игр
-    - [ ] Анализ функций
-    - [ ] Численное интегрирование
-    - [ ] Векторная геометрия
-    - [ ] Физическое моделирование
-    - [ ] Физическое моделирование
-    - [ ] Обработка изображений
-    - [ ] Локальная компьютерная сеть
-    - [ ] Интернет
-    - [ ] Сетевая безопасность
-    - [ ] Интернет и закон
-    - [ ] Распространение информации
