@@ -36,7 +36,7 @@
 ### C
 
 - [ ] [Harvard CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) - (YouTube)
-- [ ] [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - (YouTube)
+- [x] [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - (YouTube)
 - [x] [Реализация ООП на чистом C](https://youtu.be/QyjTJ98iOWI) - (YouTube)
 
 
