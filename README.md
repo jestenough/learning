@@ -17,7 +17,7 @@ This repository is a collection of various materials that I learn. This is where
 ### Content
 - [E-libraries](/content/elibraries.md)
 - [Podcasts](/content/podcasts.md)
-- [Websites](/content/website.md)
+- [Websites](/content/websites.md)
 
 
 ### Courses
