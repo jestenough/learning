@@ -1,85 +1,107 @@
 <h2 align="center">Websites</h2 >
 
-#### Hub
 
-- [Docker](https://hub.docker.com/)
-- [GitLab](https://gitlab.com/)
-- [GitHub](https://gitlab.com/)
-- [BitBucket](https://bitbucket.org/)
-- [Kaggle](https://www.kaggle.com/)
+* [Courses](#courses)
+* [Links to free Courses](#free_cour_links)
+* [Maps / Lists](#maps)
+* [Readble / Interactive learning](#read)
+* [Training skill](#train)
 
-#### Training skill
 
-- [CodeForces](https://codeforces.com/)
-- [CodeWars](https://www.codewars.com/dashboard)
-- [LogicLike](https://logiclike.com/cabinet#/course/logic)
-- [LeetCode](https://leetcode.com/)
-- [Тренировка экзамена по информатике и ИКТ](https://kompege.ru/)
-- [Binary Search](https://binarysearch.com/)
+| Sciences  | Product |
+| ------------- | ------------- |
+| **(H)** - Humanitarian, Natural Sciences  | **[F]** - Free
+| **(T)** - Technical  | **[P]** - Paid
+| **(A)** - All | **[F/P]** - one part of the content is free the other is paid
 
-#### Interactive learning
 
-- [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
-- [Educative](https://www.educative.io/)
-- [SoloLearn](https://www.sololearn.com/)
-- [CodeCademy](https://www.codecademy.com/catalog)
-- [W3scgools](https://www.w3schools.com/)
-- [JavaRUSH](https://javarush.ru/)
-- [GeeksForGeeks](https://www.geeksforgeeks.org/)
-- [FreeCodeCamp](https://www.freecodecamp.org/learn)
-- [FoxFord](https://foxford.ru/wiki)
-- [Семинары МЦНМО-НМУ](https://ium.mccme.ru/idx.html)
-- [Факультет математики](https://math.hse.ru/archive)
-- [Лаборатория Линуксоида](https://younglinux.info/)
-- [Open Edu](https://openedu.ru/)
-- [Universarium](https://universarium.org/)
-- [Интуит](https://intuit.ru/)
-- [COMPUTERSCIENCE1.tv](http://computerscience1.tv/2011/spring/)
-- [MIT Edu](https://ocw.mit.edu/)
-- [DataCamp](https://learn.datacamp.com/)
-- [DataQuest](https://www.dataquest.io/)
-- [MachineLearning](http://www.machinelearning.ru/wiki/)
-- [BigDataSchool](https://www.bigdataschool.ru/)
-- [TypingClub](https://www.typingclub.com/)
+---
 
-#### Readable
 
-- [Кафедра информатики и вычислительной математики](http://cs.mipt.ru/wp/)
-- [Олимпиады по программированию на Физтехе](http://acm.mipt.ru/)
-- [MIPT Computer Science](https://www.sites.google.com/site/miptcscourses/)
-- [Как должна быть устроена мат. программа](http://imperium.lenin.ru/~verbit/MATH/programma.html)
-- [Habr](https://habr.com/ru/feed/)
-- [ProgLib](https://proglib.io/)
-- [Tproger](https://tproger.ru/)
-- [Losst (Linux)](https://losst.ru/)
-- [Open Data Science](https://ods.ai/)
-- [Scikit-learn](https://scikit-learn.org/stable/index.html)
-- [Informatics](https://informatics.mccme.ru/)
-- [EFF](https://www.eff.org/)
-- [FSF](https://www.fsf.org/)
-- [FSD](https://directory.fsf.org/wiki/Main_Page)
-- [RYF.FSF](https://ryf.fsf.org/)
-- [SSD.EFF](https://ssd.eff.org/ru)
-- [DefectiveByDesign](https://www.defectivebydesign.org/)
-- [Email Self-Defense](https://emailselfdefense.fsf.org/en/)
-- [GNU.org](https://www.gnu.org/)
-- [LibrePlanet](https://libreplanet.org/wiki/Main_Page)
-- [Андрей Викторович Столяров](http://www.stolyarov.info/)
-- [MAXimal](http://e-maxx.ru/index.php)
-- [C plus plus](http://www.cplusplus.com/)
-- [C plus plus reference](https://en.cppreference.com/w/)
-- [Learn anything](https://learn-anything.xyz/)
-- [Creative commons](https://creativecommons.org/)
+<h3 id="courses"> Courses </h3>
 
-#### Other
+* [edX](https://www.edx.org/) `A-F`
+* [Coursera](https://www.coursera.org/) `A-F`
+* [Arzamas](https://arzamas.academy/) `H-F/P`
+* [ПостНаука](https://postnauka.ru/) `A-F`
+* [Лекториум](https://www.lektorium.tv/) `A-F/P`
+* [Лаборатория ненужных вещей](https://7seminarov.com/) `H-F`
+* [Eng Vid](https://www.engvid.com/) `H-F`
+* [Darebe](https://darebee.com/) `H-F`
+* [4Brain](https://4brain.ru/) `H-F/P`
+* [Smartia](https://smartia.me/) `H-F`
+* [Intuit](https://intuit.ru/) `A-F`
+* [Лекторий](https://mipt.lectoriy.ru/) `T-F`
+* [Magisteria](https://magisteria.ru/) `H-P`
+* [Univer TV](http://univertv.ru/) `A-F`
+* [Highrow](https://gohighbrow.com/) `A-P`
+* [Nplus1](https://nplus1.ru/) `T-F`
+* [Michigan online](https://online.umich.edu/) `A-F`
+* [Udacity](https://www.udacity.com/) `T-F/P`
+* [Khan Academy](https://www.khanacademy.org/) `A-F`
+* [Udemy](https://www.udemy.com/) `A-P`
+* [OpenEdu](https://openedu.ru/) `A-F`
+* [ML course](https://mlcourse.ai/) `T-F`
+* [JavaRush](https://javarush.ru/me) `T-P`
+* [DataCamp](https://learn.datacamp.com/) `T-P`
+* [CodeCademy](https://www.codecademy.com/learn) `T-F/P`
+* [One month](https://onemonth.com/) `T-P`
+* [DataQuest](https://app.dataquest.io/dashboard) `T-P`
+* [Educative](https://www.educative.io/) `T-F/P`
+* [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) `T-F`
+* [Интернет урок](https://interneturok.ru/) `A-F/P`
 
-- [Pastebin](https://pastebin.com/)
-- [Carbon](https://carbon.now.sh/)
-- [Streamable](https://streamable.com/)
-- [LaTeX online](https://ru.overleaf.com/)
-- [MarkDown online](https://stackedit.io/)
-- [Explain Shell](https://explainshell.com/)
-- [Regular Expressions](https://regex101.com/)
-- [Material Design](https://material.io/)
-- [OEIS](https://oeis.org/)
-- [Wolfram Alpha](https://www.wolframalpha.com/)
+
+<h3 id="free_cour_links">Links to free Courses</h3>
+
+* [Open culture](https://www.openculture.com/freeonlinecourses)
+* [Class central](https://www.classcentral.com/)
+* [МОСКОВСКИЙ  ЦЕНТР  НЕПРЕРЫВНОГО  МАТЕМАТИЧЕСКОГО  ОБРАЗОВАНИЯ](https://ium.mccme.ru/index.php)
+* [Arxiv](https://arxiv.org/)
+* [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#orga660ff5)
+* [Math courses](https://math.hse.ru/archive)
+
+
+<h3 id="maps">Maps / Lists</h3>
+
+* [Music / Paint / Literature lists](https://artinfuser.com/artquiz/)
+* [Writers timeline](https://www.timelineindex.com/)
+* [Poetic map of Russia](https://www.labirint.ru/poets/)
+
+
+<h3 id="read">Readble / Interactive learning</h3>
+
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+* [Free MongoDb](https://university.mongodb.com/)
+* [DataMonkey](http://datamonkey.pro/)
+* [SoloLearn](https://www.sololearn.com/)
+* [W3School](https://www.w3schools.com/)
+* [Foxford wiki](https://foxford.ru/wiki)
+* [Informatics](https://informatics.msk.ru/)
+* [Algorithms](http://e-maxx.ru/algo/)
+* [cpp reference](https://en.cppreference.com/w/)
+* [GitHub train](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
+* [Основы стихосложения](https://ru-stixoplet.livejournal.com/3002955.html)
+* [Self defense](https://ssd.eff.org/ru)
+* [YoungLinux](https://younglinux.info/)
+* [GitHowTO](https://githowto.com/ru)
+* [Modern SQL](https://modern-sql.com/)
+* [MySql docs (RU)](http://www.mysql.ru/docs/)
+* [Theory and practice](https://theoryandpractice.ru/)
+* [Newочём](https://newochem.io/)
+* [Newtonew](https://newtonew.com/)
+* [Jesus portal (RU)](https://jesus-portal.ru/)
+
+
+<h3 id="train">Training skill</h3>
+
+* [CodeForces](https://codeforces.com/)
+* [CodeWars](https://www.codewars.com/dashboard)
+* [LogicLike](https://logiclike.com/cabinet#/course/logic)
+* [LeetCode](https://leetcode.com/)
+* [Тренировка экзамена по информатике и ИКТ](https://kompege.ru/)
+* [Binary Search](https://binarysearch.com/)
+* [SQL train](https://www.sql-ex.ru/)
+* [SQL bolt](https://sqlbolt.com/)
+* [Postgre SQL](https://pgexercises.com/questions/basic/)
+* [Hacker Rank](https://www.hackerrank.com/dashboard)

@@ -1,6 +1,8 @@
 <h2 align="center">Podcasts</h2>
 
-
-- [x] [Отвечают сирийские мистики](https://arzamas.academy/radio/announcements/naturalmystic) - (Arzamas)
-- [x] [Откуда деньги?](https://arzamas.academy/radio/announcements/otkuda_dengi) - (Arzamas)
-- [x] [Русский язык от «гой еси» до «лол кек»](https://arzamas.academy/likbez/ruslang) - (Arzamas)
+* [Machine Learning Guide](https://podcasts.apple.com/us/podcast/machine-learning-guide/id1204521130)
+* [Moscow Python Podcast](https://podcast.python.ru/)
+* [DevOps Дефлопе](https://devopsdeflope.ru/)
+* [Linkmeup](https://linkmeup.ru/)
+* [Ted](https://www.ted.com/)
+* [The talks](https://the-talks.com/)
