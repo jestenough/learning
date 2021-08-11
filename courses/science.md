@@ -7,6 +7,7 @@
 * [Law](#Law)
 * [Mathematics](#math)
 * [Physics](#physics)
+* [Theology](#theology)
 
 
 ---
@@ -18,11 +19,13 @@
 - [x] [История исламской культуры](https://arzamas.academy/courses/58) - (Arzamas)
 - [x] [История дендизма](https://arzamas.academy/courses/11) - (Arzamas)
 - [x] [Мифы Южной Америки](https://arzamas.academy/courses/9) - (Arzamas)
+- [x] [Откуда деньги?](https://arzamas.academy/radio/announcements/otkuda_dengi) - (Arzamas)
+- [x] [Русский язык от «гой еси» до «лол кек»](https://arzamas.academy/likbez/ruslang) - (Arzamas)
 
 
 ### Literature
 
-- [ ] [Золотые страницы европейской литературы](https://youtube.com/playlist?list=PL-_cKNuVAYAU_Govo6JKvuw8DX86qPXx7) - (Лекториум  )
+- [ ] [Золотые страницы европейской литературы](https://youtube.com/playlist?list=PL-_cKNuVAYAU_Govo6JKvuw8DX86qPXx7) - (Лекториум)
 
 
 ### Law
@@ -40,3 +43,8 @@
 ### Physics
 
 - [ ] [Начинаем изучать физику](https://youtube.com/playlist?list=PL1Us50cZo25ng_lR6WvoFtkqnphzNASUX) - (YouTube)
+
+
+### Theology
+
+- [x] [Отвечают сирийские мистики](https://arzamas.academy/radio/announcements/naturalmystic) - (Arzamas)
