@@ -52,7 +52,7 @@
     - [x] [Лекция №7](https://youtu.be/w8AzgNAuV_c)
     - [x] [Лекция №8](https://youtu.be/sydfviK1GpA)
     - [x] [Лекция №9](https://youtu.be/w8YB3UAoBlM)
-- [ ] [Введение в программирование (C++)](https://stepik.org/course/363) - (Stepik)
+- [x] [Алгоритмы и структуры данных C++ (2020)](https://youtube.com/playlist?list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr) - (YouTube)
 - [ ] [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - (Udacity)
 - [ ] [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - (YouTube)
 
