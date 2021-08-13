@@ -149,6 +149,7 @@
 - [x] [Writing Efficient Python Code](https://learn.datacamp.com/courses/writing-efficient-python-code) - (DataCamp)
 - [x] [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas) - (DataCamp)
 - [x] [Working with Dates and Times in Python](https://learn.datacamp.com/courses/working-with-dates-and-times-in-python) - (DataCamp)
+- [x] [Regular Expressions in Python](https://learn.datacamp.com/courses/regular-expressions-in-python) - (DataCamp)
 
 
 ### Theory
