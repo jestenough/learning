@@ -86,6 +86,7 @@
 - [Learn SQL](https://popsql.com/learn-sql)
 - [ ] [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - (Udemy)
 - [ ] [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) - (Coursera)
+- [x] [Introduction to SQL](https://learn.datacamp.com/courses/introduction-to-sql) - (DataCamp)
 
 
 ### Docker
