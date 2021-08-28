@@ -1,18 +1,5 @@
 <h2 align="center">Science</h2>
 
-* [Anthropology](#anthropology)
-* [Art](#art)
-* [History](#history)
-* [Literature](#literature)
-* [Law](#Law)
-* [Mathematics](#math)
-* [Physics](#physics)
-* [Theology](#theology)
-
-
----
-
-
 ### Anthropology
 
 - [x] [Правда и вымыслы о цыганах](https://arzamas.academy/courses/4/1) - (Arzamas)
@@ -34,7 +21,7 @@
 - [x] [Майкл Сэндел «Справедливость»](https://www.youtube.com/playlist?list=PL8YZyma552VeTCYPkkEisHKAHhNx3Psk-) - (YouTube)
 
 
-<h3 id="math">Mathematics</h3>
+### Mathematics
 
 - [ ] [100 уроков математики](https://youtube.com/playlist?list=PLqBfxn8OBMGrsA_YynaQWqHKhL7kEvL4X) - (YouTube)
 - [ ] [Вся математика за 20 уроков](https://youtube.com/playlist?list=PLp1o4TiOetLxxpi6Y8fB4_L5iOX_Ui5ss) - (YouTube)

@@ -1,47 +1,5 @@
 <h2 align="center">Computer Science</h2>
 
-* [Assembly](#assembly)
-* [Bash](#bash)
-* [C](#c)
-* [C++](#cpp)
-* [DB2](#db2)
-* [FreeBSD](#freebsd)
-* [Git](#git)
-* [Hadoop](#hadoop)
-* [Java](#jar)
-* [Language Agnostic](#language-agnostic)
-    - [Algorithms and Data Structures](#algo)
-    - [Artificial Intelligence](#ai)
-    - [Cloud Computing](#cloud-computing)
-    - [Competitive Programming](#competitive-programming)
-    - [Compiler Design](#compiler-design)
-    - [Containers](#containers)
-    - [Database](#db)
-    - [Datamining](#datamining)
-    - [Licensing](#licensing)
-    - [Machine Learning](#ml)
-    - ~~[Math for cs](#math-for-cs)~~
-    - [Misc](#misc-theory)
-    - [Networking](#networking)
-    - [Parallel Programming](#parallel-programming)
-    - [Programming Paradigms](#programming-paradigms)
-* [TeX / LaTeX](#tex-latex)
-* [Linux](#tux)
-* [Markdown](#md)
-* [MATLAB](#matlab)
-* [MySQL](#mysql)
-* [NoSQL](#nosql)
-* [PostgreSQL](#postgresql)
-* [PowerShell](#powershell)
-* [Python](#py)
-    - [Pandas](#pandas)
-* [Spark](#spark)
-* [SQL](#sql)
-* ~~[Unix](#unix)~~
-* [Vim](#vim)
-* ~~[Windows](#windows)~~
-
----
 
 <h3 id="assembly">Assembly</h3>
 
@@ -221,6 +179,7 @@
 - [ ] Теоретический минимум по Big Data`[0/208]`
 - [ ] Работа с Big Data в облаках (Александр Сенько)`[0/448]`
 - [x] Самое главное...Электронная почта (А.Орлов)`[128/128]`
+- [ ] Refactoring: Improving the Design of Existing Code, Second Edition (Kent Beck, Martin Fowler)
 
 
 <h4 id="networking">Networking</h4>
@@ -319,7 +278,7 @@
 
 <h3 id="py">Python</h3>
 
-- [ ] Как устроен python. Гид для разработчиков, программистов и интересующихся. (Харрисон М.) (2019)`[140/272]`
+- [ ] Как устроен python. Гид для разработчиков, программистов и интересующихся. (Харрисон М.) (2019)`[168/272]`
 - [ ] Программирование на Python, том 1, 4-е издание. Марк Лутц`[0/992]`
 - [ ] Чистый питон`[0/288]`
 - [ ] Программируем на Python (Майкл Доусон)`[0/416]`

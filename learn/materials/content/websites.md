@@ -1,13 +1,6 @@
 <h2 align="center">Websites</h2 >
 
 
-* [Courses](#courses)
-* [Links to free Courses](#free_cour_links)
-* [Maps / Lists](#maps)
-* [Readble / Interactive learning](#read)
-* [Training skill](#train)
-
-
 | Sciences  | Product |
 | ------------- | ------------- |
 | **(H)** - Humanitarian, Natural Sciences  | **[F]** - Free
@@ -21,7 +14,7 @@
 <h3 id="courses"> Courses </h3>
 
 * [edX](https://www.edx.org/) `A-F`
-* [Coursera](https://www.coursera.org/) `A-F`
+* [Coursera](https://www.coursera.org/) `A-F/P`
 * [Arzamas](https://arzamas.academy/) `H-F/P`
 * [ПостНаука](https://postnauka.ru/) `A-F`
 * [Лекториум](https://www.lektorium.tv/) `A-F/P`

@@ -1,24 +1,7 @@
 <h2 align="center">Computer Science</h2>
 
-* [Algorithms and Data Structures](#algo)
-* [Shell](#shell)
-* [C](#c)
-* [C++](#cpp)
-* [Data Science](#ds)
-* [Databases](#db)
-  * [NoSQL](#nosql)
-  * [SQL](#sql)
-* [Docker](#docker)
-* [Git](#git)
-* [Java](#java)
-* [Kubernetes](#kubernetes)
-* [Linux](#linux)
-* [Python](#python)
-* [Theory](#theory)
 
----
-
-<h3 id="algo">Algorithms and Data Structures</h3>
+### Algorithms and Data Structures
 
 - [x] [Простые алгоритмы. От логических задач до клеточных автоматов](https://foxford.ru/courses/2491/landing) - (Foxford)
 - [ ] [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - (YouTube)
@@ -40,7 +23,7 @@
 - [x] [Реализация ООП на чистом C](https://youtu.be/QyjTJ98iOWI) - (YouTube)
 
 
-<h3 id="cpp">C++</h3>
+### C++
 
 - [ ] [Школа 1514](https://youtube.com/playlist?list=PLRDzFCPr95fLMvdcV-hEl-42x8LIyjvHA) - (YouTube)
     - [x] [Лекция №1](https://youtu.be/wcPpp1jz-y4)
@@ -57,7 +40,7 @@
 - [ ] [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - (YouTube)
 
 
-<h3 id="ds">Data Science (sphere)</h3>
+### Data Science (sphere)
 
 - [ ] [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3) - (YouTube)
 - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - (Coursera)
@@ -65,7 +48,7 @@
 - [x] [Data Engineering for Everyone](https://learn.datacamp.com/courses/data-engineering-for-everyone) - (DataCamp)
 
 
-<h3 id="db">Databases</h3>
+### Databases
 
 - [ ] [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 - [ ] [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)

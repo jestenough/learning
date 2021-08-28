@@ -1,22 +1,7 @@
 <h2 id="en">English</h2>
 
-* [Vocabulary](#vocab)
-* [Speaking](#speaking)
-* [YouTube Channels](#youtube)
-* [TV/Radio](#radio)
-* [Interview](#interview)
-* [Music](#music)
-* [Training texts](#training)
-* [Tests](#tests)
-* [Literature](/literature/nonfiction.md#####English)
-* [Courses](/courses/languages.md#en)
-* [Podcasts](/content/podcasts.md#en)
+### Vocabulary
 
-
----
-
-
-#### <a name='vocab'>Vocabulary</a>
 - [Parts of Speech and Vocab Rules](https://www.englishclub.com/vocabulary/parts-of-speech.htm) - (English club)
 - [Topic Vocabulary](https://www.englishclub.com/vocabulary/topic.htm) - (English club)
 - [Vocab Reference](https://www.englishclub.com/vocabulary/reference.htm) - (English club)
@@ -25,7 +10,8 @@
 - [Word of the Day](https://www.englishclub.com/vocabulary/word-of-the-day.htm) - (English club)
 
 
-#### <a name='speaking'>Speaking Practice of Live communication</a>
+### Speaking Practice of Live communication
+
 - [Italki](http://www.italki.com/)
 - [Sharedtalk](http://sharedtalk.com/)
 - [Chatroulette](http://chatroulette.com/)
@@ -35,7 +21,8 @@
 - [Oxford learners dictionaries](https://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/) - список слов для запоминания
 
 
-#### <a name='youtube'>YouTube Channels</a>
+### YouTube Channels
+
 - [English With Genifer!](http://www.youtube.com/user/JenniferESL)
 - [English for Beginners, Irina Shipilova](https://youtube.com/playlist?list=PLWZ63a6zsYpi5KB3pMeFBxofCQpx7ymPe)
 - [Movie English](https://www.youtube.com/channel/UC8Io7LK1rOICcXJh4Y4LUTg)
@@ -48,12 +35,14 @@
 - [EngVid](https://www.youtube.com/user/engvidenglish)
 
 
-#### <a name='radio'>TV/Radio</a>
+### TV/Radio
+
 - [EnglishClub](https://www.englishclub.com/listening/radio.htm)
 - [ororo.tv](http://ororo.tv/)
 
 
-#### <a name='interview'>Interview</a>
+### Interview
+
 - [TED](http://www.ted.com/)
 - [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
 - [The Talks](https://the-talks.com/)
@@ -64,13 +53,14 @@
 - [Vox: Conversations](https://www.vox.com/conversations)
 
 
-#### <a name='Music'>Music</a>
+### Music
 - [Letras](https://www.letras.mus.br/)
 - [Vagalume](http://www.vagalume.com.br/)
 - [Lyrics Training](http://lyricstraining.com)
 
 
-#### <a name='training'>Training texts</a>
+### Training texts
+
 - [Newsela](https://newsela.com/)
 - [Voice of America](https://learningenglish.voanews.com/)
 - [Teaching Kids News](https://teachingkidsnews.com/)
@@ -78,7 +68,8 @@
 - [BBC Newsround](https://www.bbc.co.uk/newsround)
 
 
-#### <a name='tests'>Tests</a>
+### Tests
+
 - [86 tests](http://english03.ru/testy)
 - [Test vocab](http://testyourvocab.com/)
 - [Test vocab2](https://my.vocabularysize.com/)

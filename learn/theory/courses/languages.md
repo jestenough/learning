@@ -1,12 +1,7 @@
 <h2 align="center">Languages</h2>
 
-* [English](#en)
 
-
----
-
-
-<h3 id="en">English</h3>
+### English 
 
 - [ ] [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation) - (Coursera)
 - [ ] [Audio-lessons](https://english-globe.ru/index.php?option=com_content&task=view&id=13&Itemid=17) - (English Globe)
