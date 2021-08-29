@@ -135,6 +135,7 @@
 - [x] [Working with Dates and Times in Python](https://learn.datacamp.com/courses/working-with-dates-and-times-in-python) - (DataCamp)
 - [x] [Regular Expressions in Python](https://learn.datacamp.com/courses/regular-expressions-in-python) - (DataCamp)
 - [x] [Web Scraping in Python](https://learn.datacamp.com/courses/web-scraping-with-python) - (DataCamp)
+- [x] [Writing Functions in Python](https://learn.datacamp.com/courses/writing-functions-in-python) - (DataCamp)
 
 
 ### Theory
