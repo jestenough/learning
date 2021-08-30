@@ -112,6 +112,7 @@
 - [ ] [80 задач с IT-собеседований с разбором решений](https://cmsmagazine.ru/journal/items-80-problems-with-it-interviews/)
 - [ ] Principles of Algorithmic Problem Solving (Johan Sannemo)
 
+
 <h4 id="compiler-design">Compiler Design</h4>
 
 - [ ] Компиляторы. Принципы, технологии и инструментарий (Ахо Альфред В., Лам Моника С.)`[0/1184]`
@@ -180,6 +181,7 @@
 - [ ] Работа с Big Data в облаках (Александр Сенько)`[0/448]`
 - [x] Самое главное...Электронная почта (А.Орлов)`[128/128]`
 - [ ] Refactoring: Improving the Design of Existing Code, Second Edition (Kent Beck, Martin Fowler)
+- [ ] Digital Design and Computer Architecture, Second Edition (David Harris)
 
 
 <h4 id="networking">Networking</h4>

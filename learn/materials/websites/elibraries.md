@@ -1,5 +1,3 @@
-<h2 align="center">E-libraries</h2>
-
 * [Flibusta](http://flibusta.is/)
 * [RoyalLib](https://royallib.com/)
 * [Free Book Library](https://ebooks.darknetproxy.com/)

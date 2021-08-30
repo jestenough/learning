@@ -149,3 +149,4 @@
 - [x] Learn IDE Features for Python - (Pycharm)
 - [ ] [Введение в компиляторы](https://youtube.com/playlist?list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1) - (YouTube)
 - [ ] [Информатика за пределами ЕГЭ](https://foxford.ru/courses/3608/landing) - (Foxford)
+- [x] [КАК РАБОТАЕТ ПРОЦЕССОР](https://youtu.be/RwSLO953anc) - (YouTube)

@@ -1,6 +1,3 @@
-<h2 align="center">Websites</h2 >
-
-
 | Sciences  | Product |
 | ------------- | ------------- |
 | **(H)** - Humanitarian, Natural Sciences  | **[F]** - Free
@@ -43,9 +40,10 @@
 * [Educative](https://www.educative.io/) `T-F/P`
 * [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) `T-F`
 * [Интернет урок](https://interneturok.ru/) `A-F/P`
+* [Cognitive class.ai](https://cognitiveclass.ai/) `T/F`
 
 
-<h3 id="free_cour_links">Links to free Courses</h3>
+<h3 id="collections"> Collections </h3>
 
 * [Open culture](https://www.openculture.com/freeonlinecourses)
 * [Class central](https://www.classcentral.com/)
@@ -53,48 +51,3 @@
 * [Arxiv](https://arxiv.org/)
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#orga660ff5)
 * [Math courses](https://math.hse.ru/archive)
-
-
-<h3 id="maps">Maps / Lists</h3>
-
-* [Music / Paint / Literature lists](https://artinfuser.com/artquiz/)
-* [Writers timeline](https://www.timelineindex.com/)
-* [Poetic map of Russia](https://www.labirint.ru/poets/)
-
-
-<h3 id="read">Readble / Interactive learning</h3>
-
-* [FreeCodeCamp](https://www.freecodecamp.org/learn/)
-* [Free MongoDb](https://university.mongodb.com/)
-* [DataMonkey](http://datamonkey.pro/)
-* [SoloLearn](https://www.sololearn.com/)
-* [W3School](https://www.w3schools.com/)
-* [Foxford wiki](https://foxford.ru/wiki)
-* [Informatics](https://informatics.msk.ru/)
-* [Algorithms](http://e-maxx.ru/algo/)
-* [cpp reference](https://en.cppreference.com/w/)
-* [GitHub train](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
-* [Основы стихосложения](https://ru-stixoplet.livejournal.com/3002955.html)
-* [Self defense](https://ssd.eff.org/ru)
-* [YoungLinux](https://younglinux.info/)
-* [GitHowTO](https://githowto.com/ru)
-* [Modern SQL](https://modern-sql.com/)
-* [MySql docs (RU)](http://www.mysql.ru/docs/)
-* [Theory and practice](https://theoryandpractice.ru/)
-* [Newочём](https://newochem.io/)
-* [Newtonew](https://newtonew.com/)
-* [Jesus portal (RU)](https://jesus-portal.ru/)
-
-
-<h3 id="train">Training skill</h3>
-
-* [CodeForces](https://codeforces.com/)
-* [CodeWars](https://www.codewars.com/dashboard)
-* [LogicLike](https://logiclike.com/cabinet#/course/logic)
-* [LeetCode](https://leetcode.com/)
-* [Тренировка экзамена по информатике и ИКТ](https://kompege.ru/)
-* [Binary Search](https://binarysearch.com/)
-* [SQL train](https://www.sql-ex.ru/)
-* [SQL bolt](https://sqlbolt.com/)
-* [Postgre SQL](https://pgexercises.com/questions/basic/)
-* [Hacker Rank](https://www.hackerrank.com/dashboard)
