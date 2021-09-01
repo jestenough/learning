@@ -11,11 +11,11 @@
 * [Learn Languages](theory/languages/README.md)
   * [English](theory/languages/english.md)
 * [Literature](theory/literature/README.md)
-  * [Philosophy](theory/literature/philosophy.md)
   * [Fiction](theory/literature/fiction.md)
   * [Nonfiction](theory/literature/nonfiction.md)
-  * [Computer Science](theory/literature/computer_science.md)
+  * [Philosophy](theory/literature/philosophy.md)
   * [Publicism](theory/literature/publicism.md)
+  * [Computer Science](theory/literature/computer_science.md)
 
 ## Materials
 

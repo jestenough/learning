@@ -1,3 +1,4 @@
+* [Z Library](https://by1lib.org/)
 * [Flibusta](http://flibusta.is/)
 * [RoyalLib](https://royallib.com/)
 * [Free Book Library](https://ebooks.darknetproxy.com/)
