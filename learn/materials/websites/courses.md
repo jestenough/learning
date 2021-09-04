@@ -41,6 +41,7 @@
 * [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) `T-F`
 * [Интернет урок](https://interneturok.ru/) `A-F/P`
 * [Cognitive class.ai](https://cognitiveclass.ai/) `T/F`
+* [Data Science](https://ods.ai/) `T/F`
 
 
 <h3 id="collections"> Collections </h3>

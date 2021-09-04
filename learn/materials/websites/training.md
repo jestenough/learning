@@ -8,3 +8,4 @@
 * [SQL bolt](https://sqlbolt.com/)
 * [Postgre SQL](https://pgexercises.com/questions/basic/)
 * [Hacker Rank](https://www.hackerrank.com/dashboard)
+* [Русский язык. Ударения](https://где-ударение.рф/)

@@ -23,7 +23,7 @@
   * [Courses](materials/websites/courses.md)
   * [E-libraries](materials/websites/elibraries.md)
   * [Interactive sites](materials/websites/interactive.md)
-  * [Maps](materials/websites/maps.md)
+  * [Maps / TimeLines](materials/websites/maps.md)
   * [Podcasts](materials/websites/podcasts.md)
   * [Readable](materials/websites/readable.md)
   * [Training skill](materials/websites/training.md)
