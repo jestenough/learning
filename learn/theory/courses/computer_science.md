@@ -47,6 +47,7 @@
 - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - (Coursera)
 - [x] [Introduction to Data Science in Python](https://learn.datacamp.com/courses/introduction-to-data-science-in-python) - (DataCamp)
 - [x] [Data Engineering for Everyone](https://learn.datacamp.com/courses/data-engineering-for-everyone) - (DataCamp)
+- [ ] [Data Science, черные ящики – и почему вам сильно повезло](https://youtu.be/zvGeLvWZ7yQ) - (YouTube)
 
 
 ### Databases
@@ -71,6 +72,7 @@
 - [ ] [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - (Udemy)
 - [ ] [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) - (Coursera)
 - [x] [Introduction to SQL](https://learn.datacamp.com/courses/introduction-to-sql) - (DataCamp)
+- [ ] [Intro to Docker [with Java Examples]](https://youtu.be/FzwIs2jMESM) - (YouTube)
 
 
 ### Docker
@@ -137,6 +139,7 @@
 - [x] [Regular Expressions in Python](https://learn.datacamp.com/courses/regular-expressions-in-python) - (DataCamp)
 - [x] [Web Scraping in Python](https://learn.datacamp.com/courses/web-scraping-with-python) - (DataCamp)
 - [x] [Writing Functions in Python](https://learn.datacamp.com/courses/writing-functions-in-python) - (DataCamp)
+- [x] [Developing Python Packages](https://learn.datacamp.com/courses/developing-python-packages) - (DataCamp)
 
 
 ### Theory
