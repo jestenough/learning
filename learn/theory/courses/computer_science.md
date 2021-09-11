@@ -122,6 +122,7 @@
 ### Python
 
 - [ ] Python Essential 2016 - (ITVDN)
+- [x] [Object-Oriented Programming in Python](https://learn.datacamp.com/courses/object-oriented-programming-in-python) - (DataCamp)
 - [ ] [Python for Everybody Specialization ](https://www.coursera.org/specializations/python) - (Coursera)
     - [x] [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
 - [x] [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) - (YouTube)
