@@ -59,6 +59,7 @@
 - [ ] [Intro to Database Systems (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) - (YouTube)
 - [ ] [Advanced Database Systems (Spring 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) - (YouTube)
 - [ ] [Databases](https://www.coursera.org/learn/data-bases-intr) - (Coursera)
+- [ ] [Relational Databases Basics (RUS)](https://learn.epam.com/detailsPage?id=c6b82e92-e019-4bf7-86c5-1e27fe23a1db) - (EPAM)
 
 
 #### NoSQL
@@ -146,6 +147,7 @@
 ### Theory
 
 - [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - (Udacity)
+- [ ] [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124) - (EPAM)
 - [ ] [Необходимый минимум по задачам для прохождения интервью](https://youtube.com/playlist?list=PLxo8h22u0O-gKD5rTtDOuqUb7jku_et8b) - (YouTube)
 - [x] [КАК ИСКАТЬ В GOOGLE: Фишки и Секреты Как Правильно Гуглить!](https://youtu.be/Zi3GY0CopZQ) - (YouTube)
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch) - (Coursera)
