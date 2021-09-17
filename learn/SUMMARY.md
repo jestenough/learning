@@ -4,18 +4,18 @@
 
 ## Theory
 
-* [Courses](theory/courses/README.md)
+* [Courses / Videos](theory/courses/README.md)
   * [Science](theory/courses/science.md)
   * [Computer Science](theory/courses/computer_science.md)
   * [Languages](theory/courses/languages.md)
-* [Learn Languages](theory/languages/README.md)
-  * [English](theory/languages/english.md)
 * [Literature](theory/literature/README.md)
   * [Fiction](theory/literature/fiction.md)
   * [Nonfiction](theory/literature/nonfiction.md)
   * [Philosophy](theory/literature/philosophy.md)
   * [Publicism](theory/literature/publicism.md)
   * [Computer Science](theory/literature/computer_science.md)
+* [Learn Languages](theory/languages/README.md)
+  * [English](theory/languages/english.md)
 
 ## Materials
 
