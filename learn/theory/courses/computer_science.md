@@ -142,6 +142,7 @@
 - [x] [Web Scraping in Python](https://learn.datacamp.com/courses/web-scraping-with-python) - (DataCamp)
 - [x] [Writing Functions in Python](https://learn.datacamp.com/courses/writing-functions-in-python) - (DataCamp)
 - [x] [Developing Python Packages](https://learn.datacamp.com/courses/developing-python-packages) - (DataCamp)
+- [x] [Unit Testing for Data Science in Python](https://learn.datacamp.com/courses/unit-testing-for-data-science-in-python) - (DataCamp)
 
 
 ### Theory
