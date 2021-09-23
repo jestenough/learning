@@ -149,7 +149,7 @@
 ### Theory
 
 - [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - (Udacity)
-- [ ] [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124) - (EPAM)
+- [x] [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124) - (EPAM)
 - [ ] [Необходимый минимум по задачам для прохождения интервью](https://youtube.com/playlist?list=PLxo8h22u0O-gKD5rTtDOuqUb7jku_et8b) - (YouTube)
 - [x] [КАК ИСКАТЬ В GOOGLE: Фишки и Секреты Как Правильно Гуглить!](https://youtu.be/Zi3GY0CopZQ) - (YouTube)
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch) - (Coursera)
