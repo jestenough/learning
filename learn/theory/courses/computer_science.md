@@ -73,7 +73,7 @@
 - [ ] [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - (Udemy)
 - [ ] [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) - (Coursera)
 - [x] [Introduction to SQL](https://learn.datacamp.com/courses/introduction-to-sql) - (DataCamp)
-- [ ] [Intro to Docker [with Java Examples]](https://youtu.be/FzwIs2jMESM) - (YouTube)
+- [x] [Joining Data in SQL](https://learn.datacamp.com/courses/joining-data-in-postgresql) - (DataCamp)
 
 
 ### Docker
@@ -82,6 +82,7 @@
 - [ ] [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - (YouTube)
 - [ ] [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE) - (YouTube)
 - [ ] [Docker для Data Science](https://youtube.com/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m) - (YouTube)
+- [ ] [Intro to Docker [with Java Examples]](https://youtu.be/FzwIs2jMESM) - (YouTube)
 
 
 ### Git
