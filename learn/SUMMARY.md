@@ -17,6 +17,7 @@
     - [Computer architecture](theory/science/formal/computer_science/computer_architecture/computer_architecture.md)
     - [Data Science](theory/science/formal/computer_science/data_science/data_science.md)
         * [Hadoop](theory/science/formal/computer_science/data_science/hadoop.md)
+        * [Kafka](theory/science/formal/computer_science/data_science/kafka.md)
         * [Spark](theory/science/formal/computer_science/data_science/spark.md)
     - [Databases](theory/science/formal/computer_science/database/databases.md)
         - [NoSQL](theory/science/formal/computer_science/database/nosql/nosql.md)
