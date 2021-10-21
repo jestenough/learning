@@ -346,10 +346,10 @@
 
 ## Performing art
 
-- [Dance](theory/art/perfoming/dance/dance.md)
-- [Music](theory/art/perfoming/music/music.md)
-- [Opera](theory/art/perfoming/opera/opera.md)
-- [Theatre](theory/art/perfoming/theatre/theatre.md)
+- [Dance](theory/art/performing/dance/dance.md)
+- [Music](theory/art/performing/music/music.md)
+- [Opera](theory/art/performing/opera/opera.md)
+- [Theatre](theory/art/performing/theatre/theatre.md)
 
 
 ## Visual art
