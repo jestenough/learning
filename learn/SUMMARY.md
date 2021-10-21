@@ -28,7 +28,6 @@
             * [PostgreSQL](theory/science/formal/computer_science/database/relational/postgresql.md)
             * [SQLite](theory/science/formal/computer_science/database/relational/sqlite.md)
         * [SQL](theory/science/formal/computer_science/database/sql.md)
-    - [Git](theory/science/formal/computer_science/git/git.md)
     - [LaTeX](theory/science/formal/computer_science/latex/latex.md)
     - [Licensing](theory/science/formal/computer_science/licensing/licensing.md)
     - [Machine learning](theory/science/formal/computer_science/machine_learning/machine_learning.md)
@@ -54,6 +53,8 @@
     - [Shell](theory/science/formal/computer_science/shell/shell.md)
         * [Bash](theory/science/formal/computer_science/shell/bash.md)
         * [Powershell](theory/science/formal/computer_science/shell/powershell.md)
+    - [Version control](theory/science/formal/computer_science/version_control/version_control.md)
+        * [Git](theory/science/formal/computer_science/version_control/git.md)
     - [Writing](theory/science/formal/computer_science/writing/writing.md)
         * [Markown](theory/science/formal/computer_science/writing/markdown.md)
 
