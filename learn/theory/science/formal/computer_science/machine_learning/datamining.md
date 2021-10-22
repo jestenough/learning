@@ -1,3 +1,8 @@
+# Description
+
+TODO
+
+
 ## Books
 
 - [ ] Introduction to Data Mining (Tan, Steinbach & Kumar)
