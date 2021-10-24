@@ -52,6 +52,7 @@
         * [IOS](theory/science/formal/computer_science/os/ios.md)
         * [Linux](theory/science/formal/computer_science/os/linux.md)
         * [Windows](theory/science/formal/computer_science/os/windows.md)
+    - [Parallel Programming](theory/science/formal/computer_science/parallel_programming/parallel_programming.md)
     - [Programming languages](theory/science/formal/computer_science/programming_languages/programming_languages.md)
         - [Assembly](theory/science/formal/computer_science/programming_languages/assembler/assembler.md)
         - [C](theory/science/formal/computer_science/programming_languages/c_language/c_language.md)
