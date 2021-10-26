@@ -80,6 +80,8 @@
         * [Linux](theory/science/formal/computer_science/os/linux.md)
         * [Windows](theory/science/formal/computer_science/os/windows.md)
     - [Parallel Programming](theory/science/formal/computer_science/parallel_programming/parallel_programming.md)
+    - [Security](theory/science/formal/computer_science/security/security.md)
+        * [Cryptography](theory/science/formal/computer_science/security/cryptography.md)
     - [Shell](theory/science/formal/computer_science/shell/shell.md)
         * [Fish](theory/science/formal/computer_science/shell/fish.md)
         * [Zsh](theory/science/formal/computer_science/shell/zsh.md)
