@@ -85,6 +85,10 @@
     - [Shell](theory/science/formal/computer_science/shell/shell.md)
         * [Fish](theory/science/formal/computer_science/shell/fish.md)
         * [Zsh](theory/science/formal/computer_science/shell/zsh.md)
+    - [Text editors](theory/science/formal/computer_science/text_editors/text_editors.md)
+        - [Vim](theory/science/formal/computer_science/text_editors/vim/vim.md)
+            * [Plugins](theory/science/formal/computer_science/text_editors/vim/plugins.md)
+        * [VS Code](theory/science/formal/computer_science/text_editors/vs_code.md)
     - [Version control](theory/science/formal/computer_science/version_control/version_control.md)
         * [Git](theory/science/formal/computer_science/version_control/git.md)
 
