@@ -1,5 +1,0 @@
-* [FreeCodeCamp](https://www.freecodecamp.org/learn/)
-* [Free MongoDb](https://university.mongodb.com/)
-* [DataMonkey](http://datamonkey.pro/)
-* [SoloLearn](https://www.sololearn.com/)
-* [W3School](https://www.w3schools.com/)
