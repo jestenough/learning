@@ -79,6 +79,8 @@
         * [IOS](theory/science/formal/computer_science/os/ios.md)
         * [Linux](theory/science/formal/computer_science/os/linux.md)
         * [Windows](theory/science/formal/computer_science/os/windows.md)
+    - [Program exectuion](theory/science/formal/computer_science/program_execution/program_execution.md)
+        * [Compilers](theory/science/formal/computer_science/program_execution/compilers.md)
     - [Programming](theory/science/formal/computer_science/programming/programming.md)
         * [Embedded systems](theory/science/formal/computer_science/programming/embedded_systems.md)
         * [Encoding](theory/science/formal/computer_science/programming/encoding.md)
