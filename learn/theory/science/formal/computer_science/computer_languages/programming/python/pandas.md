@@ -1,3 +1,14 @@
+# Description
+
+TODO
+
+
+## Articles
+
+- [ ] [Введение в анализ данных с помощью Pandas](https://habr.com/ru/post/196980/)
+- [ ] [Data analysis made simple: Python Pandas tutorial](https://www.educative.io/blog/python-pandas-tutorial)
+
+
 ## Books
 
 - [ ] Learning Pandas – Python Data Discovery and Analysis Made Easy (Michael Heydt)
@@ -10,3 +21,10 @@
 ## Courses
 
 - [x] [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas) - (DataCamp)
+
+
+## Links
+
+- [Pandas Tutorial (W3Schools)](https://www.w3schools.com/python/pandas/default.asp)
+- [pandas src](https://github.com/pandas-dev/pandas) `[GitHub]`
+- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills! `[GitHub]`
