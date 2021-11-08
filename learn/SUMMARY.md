@@ -8,6 +8,7 @@
 
 - [Computer Science](theory/science/formal/computer_science/computer_science.md)
     - [Algorithms and Data Structures](theory/science/formal/computer_science/algorithms/algo.md)
+    - [CLI](theory/science/formal/computer_science/cli/cli.md)
     - [Cloud computing](theory/science/formal/computer_science/cloud_computing/cloud_computing.md)
         * [AWS](theory/science/formal/computer_science/cloud_computing/aws.md)
         * [Azure](theory/science/formal/computer_science/cloud_computing/azure.md)
@@ -26,7 +27,7 @@
             * [XML](theory/science/formal/computer_science/computer_languages/markup/xml.md)
         - [Programming languages](theory/science/formal/computer_science/computer_languages/programming/programming.md)
             - [Assembler](theory/science/formal/computer_science/computer_languages/programming/assembler/assembler.md)
-            - [C](theory/science/formal/computer_science/computer_languages/programming/c/c.md)
+            - [C](theory/science/formal/computer_science/computer_languages/programming/c/c_language.md)
                 * [C libraries](theory/science/formal/computer_science/computer_languages/programming/c/c_libraries.md)
             - [C++](theory/science/formal/computer_science/computer_languages/programming/cpp/cpp.md)
                 * [C++ libraries](theory/science/formal/computer_science/computer_languages/programming/cpp/cpp_libraries.md)
