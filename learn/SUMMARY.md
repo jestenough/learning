@@ -87,6 +87,8 @@
         * [IOS](theory/science/formal/computer_science/os/ios.md)
         * [Linux](theory/science/formal/computer_science/os/linux.md)
         * [Windows](theory/science/formal/computer_science/os/windows.md)
+    - [Package managers](theory/science/formal/computer_science/package_managers/package_managers.md)
+        * [Nix](theory/science/formal/computer_science/package_managers/nix.md)
     - [Program exectuion](theory/science/formal/computer_science/program_execution/program_execution.md)
         * [Compilers](theory/science/formal/computer_science/program_execution/compilers.md)
     - [Programming](theory/science/formal/computer_science/programming/programming.md)
