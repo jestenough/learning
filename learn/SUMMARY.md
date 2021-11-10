@@ -8,6 +8,7 @@
 
 - [Computer Science](theory/science/formal/computer_science/computer_science.md)
     - [Algorithms and Data Structures](theory/science/formal/computer_science/algorithms/algo.md)
+    - [Backups](theory/science/formal/computer_science/backups/backups.md)
     - [CLI](theory/science/formal/computer_science/cli/cli.md)
     - [Cloud computing](theory/science/formal/computer_science/cloud_computing/cloud_computing.md)
         * [AWS](theory/science/formal/computer_science/cloud_computing/aws.md)
