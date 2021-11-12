@@ -79,6 +79,7 @@
         * [SSH](theory/science/formal/computer_science/networking/ssh.md)
         * [TCP](theory/science/formal/computer_science/networking/tcp.md)
         * [VPN](theory/science/formal/computer_science/networking/vpn.md)
+    - [Open source](theory/science/formal/computer_science/open_source/open_source.md)
     - [Operating Systems](theory/science/formal/computer_science/os/os.md)
         * [Android](theory/science/formal/computer_science/os/android.md)
         - [Containers](theory/science/formal/computer_science/os/containers/containers.md)
