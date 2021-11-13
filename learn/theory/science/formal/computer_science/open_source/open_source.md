@@ -31,6 +31,7 @@ TODO
 - [ ] [GitHub stars won’t pay your rent](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed)
 - [ ] [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4)
 - [ ] [Actually, you CAN do it](https://drewdevault.com/2017/01/06/Actually-you-CAN-do-it.html)
+- [ ] [Топ 10 альтернатив Github для размещения Open Source проектов](https://zen.yandex.ru/media/nuancesprog/top-10-alternativ-github-dlia-razmesceniia-open-source-proektov-5df8c7251a86089cbe3549c6)
 
 
 ## Courses / Videos
@@ -45,7 +46,6 @@ TODO
 - [ ] [Peter Wang: Values-based OSS Open Discussion | PyData Austin 2019](https://youtu.be/GVyrI7sgFYE)
 - [ ] [The city guide to open source - GitHub Universe 2019](https://youtu.be/GCLgdOiPA6o)
 - [ ] ["The Hard Parts of Open Source" by Evan Czaplicki](https://youtu.be/o_4EX4dPppA)
-- [ ] []()
 
 
 ## Links
@@ -59,8 +59,6 @@ TODO
 - [Clone Wars - Open source clones of popular sites](https://gourav.io/clone-wars)
 - [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://press.stripe.com/#working-in-public)
 - [Google open source](https://cs.opensource.google/)
-- []()
-- []() `[GitHub]`
 - [Awesome Software Patreons](https://github.com/uraimo/awesome-software-patreons) `[GitHub]`
 - [Open source promotion cheat sheet](https://github.com/zenika-open-source/promote-open-source-project/blob/master/README.md) `[GitHub]`
 - [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives/) `[GitLab]`
