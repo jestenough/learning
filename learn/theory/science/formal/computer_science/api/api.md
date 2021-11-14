@@ -15,6 +15,14 @@ TODO
 - [Spotify Python](https://github.com/plamere/spotipy) `[GitHub]`
 - [AWS SDK for Rust](https://github.com/rusoto/rusoto) `[GitHub]`
 - [Google Cloud Python Client](https://github.com/googleapis/google-cloud-python) `[GitHub]`
+- [Notion Python](https://github.com/jamalex/notion-py) `[GitHub]`
+- [Twitter Python](https://github.com/ryanmcgrath/twython) `[GitHub]`
+- [Twitter GO CLI](https://github.com/mattn/twty) `[GitHub]`
+- [Dropbox SDK for Javascript](https://github.com/dropbox/dropbox-sdk-js) `[GitHub]`
+- [Dropbox CLI GO](https://github.com/dropbox/dbxcli) `[GitHub]`
+- [GitHub Python](https://github.com/PyGithub/PyGithub) `[GitHub]`
+- [GitHub REST API](https://docs.github.com/en/rest) `[GitHub]`
+- [Google Drive CLI Client](https://github.com/prasmussen/gdrive) `[GitHub]`
 
 
 ## Articles

@@ -66,6 +66,8 @@ TODO
 
 ## Links
 
+- [Learn X in Y minutes Where X=c](https://learnxinyminutes.com/docs/c/)
+- [Solve challenge (C)](https://www.hackerrank.com/domains/c)
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/)
 - [Elements of C Style](https://www.teamten.com/lawrence/style/)
 - [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix/)

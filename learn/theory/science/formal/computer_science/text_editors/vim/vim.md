@@ -53,6 +53,7 @@ TODO
 - [ ] [Vim Life](https://youtube.com/playlist?list=PLm323Lc7iSW9CtibHhhQErDh167XfL4EU) `0/16`
 - [ ] [Make Vim Amazing](https://youtube.com/playlist?list=PLm323Lc7iSW9kRCuzB3J_h7vPjIDedplM)
 - [ ] [We can have nice things](https://youtu.be/Bt-vmPC_-Ho)
+- [ ] [БОЖЕСТВЕННЫЙ nvim как IDE для Python, Rust и всех-всех-всех — встречаем LSP!](https://youtu.be/PA7zZNJXJEk)
 
 
 ## Links
@@ -66,6 +67,7 @@ TODO
 - [Tabular cheatsheet](https://devhints.io/tabular)
 - [The ABCs of vim](https://www.kovach.me/The_ABCs_of_vim.html)
 - [Big Pile of Vim-like](https://vim.reversed.top/)
+- [vim-galore](https://github.com/mhinz/vim-galore) - All things Vim! `[GitHub]`
 - [neovim](https://github.com/neovim/neovim) `[GitHub]`
 - [vim-plug](https://github.com/junegunn/vim-plug) `[GitHub]`
 - [coc.nvim](https://github.com/neoclide/coc.nvim) `[GitHub]`

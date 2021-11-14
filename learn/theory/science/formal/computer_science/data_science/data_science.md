@@ -11,6 +11,11 @@ TODO
 - [ ] [Amazon Data Science Interview](https://medium.com/acing-ai/amazon-ai-interview-questions-acing-the-ai-interview-3ed4e671920f)
 - [ ] [Modern Data Practice and the SQL Tradition](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
 - [ ] [The Modern Data Science Stack](https://fivetran.com/blog/modern-data-science-stack)
+- [ ] [Как стать Data Engineer](https://khashtamov.com/ru/data-engineer/) `RU`
+- [ ] [Самые востребованные навыки в профессии data engineer](https://habr.com/ru/company/productivity_inside/blog/484120/)
+- [ ] [Что такое Big data engineering, и как развиваться в этой сфере](https://habr.com/ru/company/skillfactory/blog/552432/)
+- [ ] [Кто такие дата-инженеры, и как ими становятся?](https://habr.com/ru/company/otus/blog/452670/)
+- [ ] [Любить и понимать данные: кто такие дата инженеры и как им расти](https://ain.ua/2021/10/19/lyubit-i-ponimat-dannye-kto-takie-data-inzhenery-i-kak-im-rasti/?utmsorce)
 
 
 ## Book
@@ -29,10 +34,14 @@ TODO
 
 ## Links
 
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/)
 - [Notes On Using Data Science & Machine Learning](https://chrisalbon.com/)
 - [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
-- [Awesome Data Science](https://github.com/academic/awesome-datascience) `[GitHub]`
+- [#DATAENGINEERING](https://training.by/#!/News/Hashtag/dataengineering?lang=ru)
+- [Data Engineers: материалы для самоподготовки](https://training.by/#!/News/131?lang=ru)
+- [Awesome Data Engineering (best version IMHO)](https://awesomedataengineering.com/)
 - [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) `[GitHub]`
+- [Awesome Data Science](https://github.com/academic/awesome-datascience) `[GitHub]`
 - [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) `[GitHub]`
 - [Data scientist roadmap](https://github.com/MrMimic/data-scientist-roadmap) `[GitHub]`
 - [Data engineer roadmap](https://github.com/datastacktv/data-engineer-roadmap) `[GitHub]`

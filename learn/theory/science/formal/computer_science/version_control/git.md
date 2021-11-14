@@ -26,6 +26,9 @@ TODO
 - [ ] [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
 - [ ] [The Git Commit Hash](https://www.mikestreety.co.uk/blog/the-git-commit-hash)
 - [ ] [Beyond the Basics: 5 Powerful Advanced Tools in Git](https://codeburst.io/beyond-the-basics-5-powerful-advanced-tools-in-git-2180faf0ee29)
+- [ ] [Малоизвестные Git-команды](https://habr.com/ru/company/vk/blog/318508/)
+- [ ] [Ветвление Git с примерами из реальной жизни](https://proglib.io/p/vetvlenie-git-s-primerami-iz-realnoy-zhizni-2020-01-25)
+- [ ] [Всё, что нужно знать начинающему о Git: рассмотрим за 15 минут](https://proglib.io/p/vse-chto-nuzhno-znat-nachinayushchemu-o-git-rassmotrim-za-15-minut-2021-10-17)
 
 
 ## Books
@@ -46,9 +49,9 @@ TODO
 
 ## Hubs
 
-- [GitHub]()
+- [GitHub](https://github.com/)
 - [GitLab](https://about.gitlab.com/)
-- [BitBucket]()
+- [BitBucket](https://bitbucket.org/)
 
 
 ## Links
@@ -60,6 +63,7 @@ TODO
 - [GitHowTo](https://githowto.com)
 - [Git visualizing](https://git-school.github.io/visualizing-git/)
 - [Find an answer to your git question](https://githint.com/)
+- [GitHub train](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
 - [GitSheet](https://gitsheet.wtf/)
 - [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 - [Git branches cheatsheet](https://devhints.io/git-branch)
@@ -73,6 +77,8 @@ TODO
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Good Commit Messages](https://lazau.com/articles/good_commit_messages.html)
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
+- [questions about git commits](https://questions.wizardzines.com/git-commits.html)
+- [questions about git branches](https://questions.wizardzines.com/git-branches.html)
 - [On Git Commit Messages](https://github.com/michaeljones/on-commit-messages) `[GitHub]`
 - [.gitignore Templates](https://github.com/github/gitignore) `[GitHub]`
 - [.gitattributes Templates](https://github.com/alexkaratarakis/gitattributes) `[GitHub]`

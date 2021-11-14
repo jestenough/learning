@@ -12,6 +12,7 @@ TODO
 - [ ] [Software Design Principles Every Programmer Should Know](https://medium.com/@peterlee2068/software-design-principles-every-programmer-should-know-c164a83c6f87)
 - [ ] [Software Design](https://www.sciencedirect.com/topics/computer-science/software-design)
 - [ ] [Software Design Basics](https://www.tutorialspoint.com/software_engineering/software_design_basics.htm)
+- [ ] [Flow-based Programming](https://jpaulm.github.io/fbp/index.html)
 
 
 ## Courses / Videos
@@ -25,3 +26,4 @@ TODO
 ## Links
 
 - [System Design Bytes for Enthusiasts](https://github.com/codersguild/System-Design) `[GitHub]`
+- [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans) `[GitHub]`

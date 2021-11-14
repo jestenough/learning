@@ -19,6 +19,8 @@ TODO
 - [ ] [What are databases?](https://www.prisma.io/dataguide/intro/what-are-databases)
 - [ ] [The High Cost of Splitting Related Data](http://kevinmahoney.co.uk/articles/the-high-cost-of-splitting-related-data/)
 - [ ] [Your Database as an API](http://kevinmahoney.co.uk/articles/your-database-as-an-api/)
+- [ ] [Как спроектировать базу данных, чтобы в будущем не пришлось её переписывать — базовые советы](https://tproger.ru/translations/db-scheme-design-guide/)
+- [ ] [7 типов современных баз данных: предназначение, достоинства и недостатки](https://tproger.ru/articles/kakuju-bazu-dannyh-vybrat-dlja-proekta-chtoby-potom-ne-zhalet-ob-jetom/?utm_medium=messenger&utm_source=telegram)
 
 
 ## Books
@@ -39,6 +41,7 @@ TODO
 - [ ] [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
 - [ ] [Базы данных (R class)](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb) - (YouTube) `RU`
 - [ ] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw) - (YouTube)
+- [ ] [Database Design Course - Learn how to design and plan a database for beginners](https://youtu.be/ztHopE5Wnpc) - (YouTube)
 - [ ] [Advanced Database Systems course by Andy Pavlo (2020)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
 
 

@@ -45,8 +45,6 @@ TODO
 - [ ] [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 - [ ] [A TCP/IP Tutorial](https://datatracker.ietf.org/doc/html/rfc1180)
 - [ ] [A free Argo Tunnel for your next project](https://blog.cloudflare.com/a-free-argo-tunnel-for-your-next-project/)
-- [ ] []()
-- [ ] []()
 
 
 ## Books
@@ -84,3 +82,4 @@ TODO
 - [NetworkX](https://github.com/networkx/networkx) -  Network Analysis in Python `[GitHub]`
 - [Wi-Fi QR Code generator](https://github.com/reugn/wifiqr) `[GitHub]`
 - [Project V](https://github.com/v2fly/v2ray-core) -  A platform for building proxies to bypass network restrictions. `[GitHub]`
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) `[GitHub]`

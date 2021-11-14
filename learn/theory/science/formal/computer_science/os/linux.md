@@ -45,11 +45,13 @@ TODO
 - [ ] [The Linux development process: Is it worth the hassle?](https://glaubercosta-11125.medium.com/the-linux-development-process-is-it-worth-the-hassle-4f09d7ff09a2)
 - [ ] [On Kernel-Bypass Networking and Programmable Packet Processing](https://medium.com/@penberg/on-kernel-bypass-networking-and-programmable-packet-processing-799609b06898)
 - [ ] [The design of lock_sock() in Linux kernel](https://medium.com/@c0ngwang/the-design-of-lock-sock-in-linux-kernel-69c3406e504b)
+- [ ] [Анатомия GNU/Linux](https://habr.com/ru/post/531872/)
 - [ ] [How the ARM32 kernel starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
 - [ ] [Sandboxing in Linux with zero lines of code](https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/)
 - [ ] [How does Linux's display work?](https://unix.stackexchange.com/questions/596894/how-does-linuxs-display-work)
 - [ ] [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
 - [ ] [Running Linux on my Macbook](https://djharper.dev/post/2020/06/07/running-linux-on-my-macbook/)
+- [ ] [Linux=Terminal?](https://habr.com/ru/company/otus/blog/537258/)
 - [ ] [Why I Use Suckless Tools](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05)
 - [ ] [Using the KVM API](https://lwn.net/Articles/658511/)
 - [ ] [The CPU Cost of Networking on a Host](https://people.kernel.org/dsahern/the-cpu-cost-of-networking-on-a-host)
@@ -58,6 +60,8 @@ TODO
 - [ ] [Linux: IO without entering the kernel](https://news.ycombinator.com/item?id=18692376)
 - [ ] [Чем Linux отличается от UNIX, и что такое UNIX-подобная ОС?](https://habr.com/ru/sandbox/26545/)
 - [ ] [Setting up a Linux Workstation for Software Development](https://tkainrad.dev/posts/setting-up-linux-workstation/#introduction)
+- [ ] [Почему Linux не пользуется популярностью на десктопе и как это исправить?](https://proglib.io/p/pochemu-linux-ne-polzuetsya-populyarnostyu-na-desktope-i-kak-eto-ispravit-2021-10-26)
+- [ ] [Разбираемся с UEFI и GPT: установка Windows и Kubuntu на один диск](https://habr.com/ru/post/259283/)
 
 
 ## Books
@@ -73,6 +77,7 @@ TODO
 - [ ] [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg)
 - [ ] [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg)
 - [ ] Внутреннее устройство Linux`[0/384]`
+- [ ] Pro Windows Subsystem for Linux (Hayden Barnes)
 
 
 ## Courses / Videos
@@ -106,8 +111,10 @@ TODO
 
 ## Links
 
+- [GNU org](https://www.gnu.org/)
 - [Dash Dash](https://dashdash.io/) - all linux commands
 - [Linux kernel map](https://makelinux.github.io/kernel/map/)
+- [pacman/Rosetta](https://wiki.archlinux.org/title/Pacman/Rosetta)
 - [One-liners](https://linuxcommandlibrary.com/basic/oneliners.html) - command library
 - [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/index.html)
 - [YoungLinux](https://younglinux.info/)

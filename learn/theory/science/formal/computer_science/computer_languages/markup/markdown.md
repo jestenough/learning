@@ -34,6 +34,7 @@ TODO
 - [ ] [markmap](https://markmap.js.org/)
 - [ ] [PDF To Markdown Converter](https://pdf2md.morethan.io/)
 - [ ] [Stackedit (In-browser Markdown editor)](https://stackedit.io/)
+- [ ] [tui.editor](https://github.com/nhn/tui.editor) - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible
 - [ ] [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century. `[GitHub]`
 - [ ] [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor. `[GitHub]`
 - [ ] [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check) `[GitHub]`

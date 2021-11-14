@@ -32,9 +32,11 @@ TODO
 - [ ] [When an SQL database makes a great Pub/Sub](https://threedots.tech/post/when-sql-database-makes-great-pub-sub/)
 - [ ] [How a SQL database works](https://calpaterson.com/how-a-sql-database-works.html)
 - [ ] [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
+- [ ] [5 заданий по SQL с реальных собеседований](https://tproger.ru/articles/5-zadanij-po-sql-s-realnyh-sobesedovanij/?utm_medium=messenger&utm_source=telegram)
+- [ ] [Что такое DDL, DML, DCL и TCL в языке SQL](https://info-comp.ru/what-is-ddl-dml-dcl-tcl)
 
 
-## Courses
+## Courses / Videos
 
 - [ ] [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - (Udemy)
 - [ ] [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) - (Coursera)
@@ -43,6 +45,8 @@ TODO
 - [ ] [Intermediate SQL]() - (DataCamp)
 - [ ] [Advanced SQL Questions From Amazon (Handling complex logic in data science interviews)](https://youtu.be/VYeevsVj4fU) - (YouTube)
 - [ ] [SQL Tutorial for Beginners](https://youtu.be/tp_5c6jaNQE) - (YouTube)
+- [ ] [Cracking the SQL coding interview](https://youtu.be/y6CWIBKEw_g) - (YouTube)
+- [ ] [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY) - (YouTube)
 
 
 ## Books
@@ -54,6 +58,7 @@ TODO
 
 ## Links
 
+- [Solve challenge (SQL)](https://www.hackerrank.com/domains/sql)
 - [SQL train](https://www.sql-ex.ru/)
 - [SQL bolt](https://sqlbolt.com/)
 - [SQL Templates](https://popsql.com/sql-templates)

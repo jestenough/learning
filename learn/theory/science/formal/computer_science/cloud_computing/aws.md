@@ -22,6 +22,7 @@ TODO
 - [AWS Documentation](https://docs.aws.amazon.com/)
 - [My AWS toolbox – tools, plugins and applications](https://betterdev.blog/my-aws-toolbox/)
 - [AWS Poster](https://moca.computingarchitectures.com/en/~hello-world/)
+- [AWS CLI cheatsheet](https://devhints.io/awscli)
 - [AWS Samples](https://github.com/aws-samples) `[GitHub]`
 - [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) `[GitHub]`
 - [AWS Serverless Application Model](https://github.com/aws/serverless-application-model) `[GitHub]`

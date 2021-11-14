@@ -136,16 +136,19 @@ TODO
 - [vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code `[GitHub]`
 - [pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments `[GitHub]`
 - [wtfpython](https://github.com/satwikkansal/wtfpython) `[GitHub]`
+- [Python reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things `[GitHub]`
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet) `[GitHub]`
 - [setup.py](https://github.com/navdeep-G/setup.py) `[GitHub]`
 - [Free Python Books](https://github.com/pamoroso/free-python-books) `[GitHub]`
 - [CPython Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation `[GitHub]`
 - [Python Mini Projects](https://github.com/Python-World/python-mini-projects) `[GitHub]`
 - [IPython](https://github.com/ipython/ipython) `[GitHub]`
-- [Python patterns](https://github.com/faif/python-patterns) `[GitHub]`
+- [Ipython notebooks](https://github.com/jdwittenauer/ipython-notebooks) - A collection of IPython notebooks covering various topics `[GitHub]`
 - [Python is cool](https://github.com/chiphuyen/python-is-cool) `[GitHub]`
+- [Python Roadmap](https://github.com/GnuriaN/Python-Roadmap) `[GitHub]`
 - [30 seconds of python](https://github.com/30-seconds/30-seconds-of-python) `[GitHub]`
 - [Learn Python 3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3 `[GitHub]`
+- [Python patterns](https://github.com/faif/python-patterns) `[GitHub]`
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python) `[GitHub]`
 - [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio) `[GitHub]`
 - [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python) `[GitHub]`

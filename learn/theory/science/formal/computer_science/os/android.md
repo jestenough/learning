@@ -10,9 +10,7 @@ TODO
 - [ ] [Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
 - [ ] [Shipping Two Apps in One on Android](https://eng.snap.com/shipping_two_apps_in_one_android)
 - [ ] [Make Android self-hosting (musl, toybox, qcc).](http://landley.net/aboriginal/about.html#selfhost)
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Почему любой Android снимает видео хуже iPhone?](https://habr.com/ru/post/584616/)
 
 
 ## Books

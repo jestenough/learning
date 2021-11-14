@@ -20,4 +20,5 @@ TODO
 
 - [MySql docs (RU)](http://www.mysql.ru/docs/)
 - [MySQL cheatsheet](https://devhints.io/mysql)
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting `[GitHub]`
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql) `[GitHub]`

@@ -27,6 +27,7 @@ TODO
 - [ ] [I Like Notebooks](https://youtu.be/9Q6sLbz37gk)
 - [ ] [I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
 - [ ] [Jeremy Tuloup: A Tour of JupyterLab Extensions | PyData Berlin 2019](https://youtu.be/3pdrzhny9Lc)
+- [ ] [Jupyter](https://youtube.com/playlist?list=PLRJx8WOUx5XcDMOxSQegCJUjTJePTlF9Z)
 
 
 ## Extensions
@@ -48,7 +49,6 @@ TODO
 - [Jupyterlab variable inspector](https://github.com/lckr/jupyterlab-variableInspector) `[GitHub]`
 - [Ipympl](https://github.com/matplotlib/ipympl) - Matplotlib Jupyter Integration `[GitHub]`
 - [Jupyterlab execute time](https://github.com/deshaw/jupyterlab-execute-time) `[GitHub]`
-- []() `[GitHub]`
 
 
 ## Links

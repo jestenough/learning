@@ -30,6 +30,7 @@ TODO
 
 ## Links
 
+- [Learn X in Y minutes Where X=powershell](https://learnxinyminutes.com/docs/powershell/)
 - [PowerShell src](https://github.com/PowerShell/PowerShell) `[GitHub]`
 - [PowerShell Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) - The official PowerShell documentation sources `[GitHub]`
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git `[GitHub]`

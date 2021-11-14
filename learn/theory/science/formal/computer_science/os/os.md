@@ -5,6 +5,7 @@ TODO
 
 ## Articles
 
+- [ ] [Обзор принципиально новой ОС Bolgenos](https://habr.com/ru/post/95107/) - must-read `[RU]`
 - [ ] [Let’s build an LC-3 Virtual Machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
 - [ ] [Guix: A most advanced operating system](https://ambrevar.xyz/guix-advance/)
 - [ ] [OS Overview](https://andrewharvey4.wordpress.com/2010/07/31/operating-systems-notes/)
@@ -23,6 +24,7 @@ TODO
 - [ ] [A dream of an ultimate OS](https://okmij.org/ftp/papers/DreamOSPaper.html)
 - [ ] [Introducing Mercury OS](https://uxdesign.cc/introducing-mercury-os-f4de45a04289)
 - [ ] [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
+- [ ] [UEFI vs BIOS: What's the Difference?](https://www.freecodecamp.org/news/uefi-vs-bios/)
 
 
 ## Books

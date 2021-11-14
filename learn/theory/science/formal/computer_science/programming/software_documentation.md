@@ -59,3 +59,4 @@ TODO
 - [MkDocs](https://github.com/mkdocs/mkdocs) `[GitHub]`
 - [Docusaurus](https://github.com/facebook/docusaurus) `[GitHub]`
 - [Beautiful Docs](https://github.com/PharkMillups/beautiful-docs) `[GitHub]`
+- [Go wiki (example)](https://github.com/golang/go/wiki) `[GitHub]`

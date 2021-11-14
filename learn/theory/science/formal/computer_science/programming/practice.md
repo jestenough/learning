@@ -25,4 +25,8 @@ TODO
 - [CodeWars](https://www.codewars.com/dashboard)
 - [Kattis Problem Archive](https://open.kattis.com/)
 - [Code golf](https://code.golf/)
+- [Python Interview Questions](https://github.com/learning-zone/python-interview-questions) `[GitHub]`
 - [Coding Problems](https://github.com/MTrajK/coding-problems) `[GitHub]`
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) `[GitHub]`
+- [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges) `[GitHub]`
+- [RU Test assignments](https://github.com/Hexlet/ru-test-assignments) `[GitHub]`

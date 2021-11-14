@@ -25,6 +25,9 @@ TODO
 - [ ] [Django Best Practices: Security](https://learndjango.com/tutorials/django-best-practices-security)
 - [ ] [Building a Django app with data access control in 30 minutes](https://www.osohq.com/post/building-django-app-with-data-access-control)
 - [ ] [Async Views in Django 3.1](https://testdriven.io/blog/django-async-views/)
+- [ ] [Django Async: What's new and what's next?](https://deepsource.io/blog/django-async-support/)
+- [ ] [Testing Django Migrations](https://sobolevn.me/2019/10/testing-django-migrations)
+- [ ] [Profiling Django with DTrace and cProfile](https://wiedi.frubar.net/blog/2019/11/18/django-performance/)
 
 
 ## Courses / Videos
@@ -37,7 +40,13 @@ TODO
 ## Links
 
 - [Django Tutorials](https://learndjango.com/)
+- [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/)
 - [appliku](https://appliku.com/) - Deploy Django in 5 minutes
 - [kolo](https://kolo.app/) - See  everything happening in your running Django app
 - [Django antipatterns](https://www.django-antipatterns.com/)
 - [Django Chat](https://djangochat.com/) - A podcast on the Django Web Framework by William Vincent and Carlton Gibson.
+- [Django rules](https://github.com/dfunckt/django-rules)
+- [Cookiecutter Django](https://github.com/cookiecutter/cookiecutter-django) - framework for jumpstarting production-ready Django projects quickly `[GitHub]`
+- [Django REST framework](https://github.com/encode/django-rest-framework) `[GitHub]`
+- [Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) `[GitHub]`
+- [Awesome django](https://github.com/wsvincent/awesome-django) `[GitHub]`

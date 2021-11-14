@@ -10,3 +10,8 @@ TODO
 - [ ] Data Mining: Practical Machine Learning Tools and Technique (Ian H. Witten & Eibe Frank)
 - [ ] Mining of Massive Datasets (Anand Rajaraman & Jeffrey David Ullman)
 - [ ] A Programmer’s Guide to Data Mining (Ron Zacharski)
+
+
+## Courses
+
+- [ ] [Data Mining Foundations and Practice](https://www.coursera.org/specializations/data-mining-foundations-practice) - (Coursera)

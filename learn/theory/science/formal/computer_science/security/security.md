@@ -46,6 +46,7 @@ TODO
 
 ## Links
 
+- [MAT: Metadata Anonymisation Toolkit](https://zenway.ru/page/mat) - Инструментарий для удаления метаданных у файлов различных форматов
 - [Abertay Hacksoc Wiki!](https://wiki.hacksoc.co.uk/)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
 - [HackTricks](https://book.hacktricks.xyz/)
@@ -59,3 +60,4 @@ TODO
 - [Hacker roadmap](https://github.com/sundowndev/hacker-roadmap) `[GitHub]`
 - [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) `[GitHub]`
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) `[GitHub]`
+- [pam-duress](https://github.com/nuvious/pam-duress) - which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password. `[GitHub]`

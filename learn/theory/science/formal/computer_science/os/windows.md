@@ -12,6 +12,8 @@ TODO
 - [ ] [Switching to Windows](http://ignorethecode.net/blog/2021/02/02/switching_to_windows/)
 - [ ] [Creating my awesome Windows 10 dev setup](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup)
 - [ ] [Windows Subsystem for Linux: The lost potential](https://jmmv.dev/2020/11/wsl-lost-potential.html)
+- [ ] [How to Get into BIOS in Windows 10 – BIOS Setup PC Guide](https://www.freecodecamp.org/news/how-to-get-into-bios-in-windows-10-bios-setup-pc-guide/)
+- [ ] [Как уронить Windows шестью строчками кода](https://habr.com/ru/post/179543/)
 
 
 ## Courses / Videos
