@@ -67,6 +67,8 @@
     - [Distributed systems](theory/science/formal/computer_science/distributed_systems/distributed_systems.md)
         * [CRDT](theory/science/formal/computer_science/distributed_systems/crdt.md)
         * [RPC](theory/science/formal/computer_science/distributed_systems/rpc.md)
+    - [Hardware](theory/science/formal/computer_science/hardware/hardware.md)
+        * [Displays](theory/science/formal/computer_science/hardware/displays.md)
     - [Licensing](theory/science/formal/computer_science/licensing/licensing.md)
     - [Machine learning](theory/science/formal/computer_science/machine_learning/machine_learning.md)
         * [Artificial intelligence](theory/science/formal/computer_science/machine_learning/ai.md)
