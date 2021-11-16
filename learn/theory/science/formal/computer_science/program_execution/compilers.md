@@ -38,6 +38,6 @@ TODO
 - [CMake scripts](https://github.com/StableCoder/cmake-scripts) `[GitHub]`
 - [Modern CMake projects](https://github.com/pr0g/cmake-examples) `[GitHub]`
 - [Learning CMake](https://github.com/Akagi201/learning-cmake)
-- [Awesome compilers](https://github.com/aalhour/awesome-compilers) `[GitHub]`
 - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) `[GitHub]`
+- [Awesome compilers](https://github.com/aalhour/awesome-compilers) `[GitHub]`
 - [Awesome Linters](https://github.com/caramelomartins/awesome-linters) `[GitHub]`
