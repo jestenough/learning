@@ -97,6 +97,7 @@
     - [Package managers](theory/science/formal/computer_science/package_managers/package_managers.md)
         * [Nix](theory/science/formal/computer_science/package_managers/nix.md)
     - [Program exectuion](theory/science/formal/computer_science/program_execution/program_execution.md)
+        * [Build systems](theory/science/formal/computer_science/program_execution/build_systems.md)
         - [Compilers](theory/science/formal/computer_science/program_execution/compilers.md)
             * [LLVM](theory/science/formal/computer_science/program_execution/llvm.md)
     - [Programming](theory/science/formal/computer_science/programming/programming.md)
