@@ -49,6 +49,7 @@ TODO
 - [ ] [Open-source Firmware](https://queue.acm.org/detail.cfm?id=3349301)
 - [ ] [Tracking Firmware Code Size](https://interrupt.memfault.com/blog/code-size-deltas)
 - [ ] [Recovering Firmware Through U-boot](https://cybergibbons.com/hardware-hacking/recovering-firmware-through-u-boot/)
+- [ ] [Neuromorphic computing: An Overview](https://opensourc.es/blog/neuromorphic/)
 
 
 ## Books
