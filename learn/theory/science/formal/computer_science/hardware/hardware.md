@@ -29,6 +29,7 @@ TODO
 - [ ] [Have you considered buying used hardware?](https://www.0chris.com/consider-buying-used.html)
 - [ ] [Пишем USB-драйверы для заброшенных устройств](https://habr.com/ru/post/476434/)
 - [ ] [Neuromorphic computing: An Overview](https://opensourc.es/blog/neuromorphic/)
+- [ ] [В чем разница между CPU и GPU?](https://tproger.ru/articles/cpu-and-gpu/)
 - [ ] [Notes on building a deep learning PC](https://www.mrdbourke.com/notes-on-building-a-deep-learning-pc/)
 - [ ] [The History of the Microprocessor and the Personal Computer](https://www.techspot.com/article/874-history-of-the-personal-computer/)
 - [ ] [How we ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
@@ -97,6 +98,7 @@ TODO
 - [Xbox Architecture](https://www.copetti.org/writings/consoles/xbox/)
 - [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
 - [Build an 8-bit computer from scratch](https://eater.net/8bit)
+- [Hardware Unboxed](https://www.youtube.com/channel/UCI8iQa1hv7oV_Z8D35vVuSg) `[YouTube]`
 - [Titan M tools](https://github.com/quarkslab/titanm) - This repository contains the tools we used in our research on the Google Titan M chip `[GitHub]`
 - [caravel](https://github.com/efabless/caravel) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space `[GitHub]`
 - [Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification) - A List of Free and Open Source Hardware Verification Tools and Frameworks `[GitHub]`
