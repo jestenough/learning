@@ -98,6 +98,7 @@ TODO
 - [Xbox Architecture](https://www.copetti.org/writings/consoles/xbox/)
 - [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
 - [Build an 8-bit computer from scratch](https://eater.net/8bit)
+- [Major Tom Workshop](https://www.youtube.com/c/MajorTomWorkshop/featured) `[YouTube]`
 - [Hardware Unboxed](https://www.youtube.com/channel/UCI8iQa1hv7oV_Z8D35vVuSg) `[YouTube]`
 - [Titan M tools](https://github.com/quarkslab/titanm) - This repository contains the tools we used in our research on the Google Titan M chip `[GitHub]`
 - [caravel](https://github.com/efabless/caravel) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space `[GitHub]`
