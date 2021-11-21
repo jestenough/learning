@@ -37,6 +37,7 @@ TODO
 - [ ] [Intro Guide to Dockerfile Best Practices](https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/)
 - [ ] [Testing Databases with Docker](https://ericchiang.github.io/post/testing-dbs-with-docker/)
 - [ ] [Understanding Docker, Containers and Safer Software Delivery](https://www.sitepoint.com/docker-containers-software-delivery/)
+- [ ] [Полное практическое руководство по Docker: с нуля до кластера на AWS](https://habr.com/ru/post/310460/)
 
 
 ## Books

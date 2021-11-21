@@ -62,6 +62,7 @@ TODO
 - [ ] [Setting up a Linux Workstation for Software Development](https://tkainrad.dev/posts/setting-up-linux-workstation/#introduction)
 - [ ] [Почему Linux не пользуется популярностью на десктопе и как это исправить?](https://proglib.io/p/pochemu-linux-ne-polzuetsya-populyarnostyu-na-desktope-i-kak-eto-ispravit-2021-10-26)
 - [ ] [Разбираемся с UEFI и GPT: установка Windows и Kubuntu на один диск](https://habr.com/ru/post/259283/)
+- [ ] [Анатомия GNU/Linux](https://habr.com/ru/post/531872/)
 
 
 ## Books
