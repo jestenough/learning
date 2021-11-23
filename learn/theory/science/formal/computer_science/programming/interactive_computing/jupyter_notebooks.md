@@ -18,6 +18,7 @@ TODO
 - [ ] [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 - [ ] [Part 2: Scheduling Notebooks at Netflix](https://netflixtechblog.com/scheduling-notebooks-348e6c14cfd6)
 - [ ] [ipycanvas: A Python Canvas for Jupyter](https://blog.jupyter.org/ipycanvas-a-python-canvas-for-jupyter-bbb51e4777f7)
+- [ ] [Создание и настройка портативной сборки Jupyter Notebook и Lab на Windows. Часть 1](https://habr.com/ru/post/438934/)
 
 
 ## Courses / Videos

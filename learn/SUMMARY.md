@@ -135,6 +135,7 @@
             * [ER model](theory/science/formal/computer_science/programming/software_design/er_model.md)
             * [UML](theory/science/formal/computer_science/programming/software_design/uml.md)
         * [Software documentation](theory/science/formal/computer_science/programming/software_documentation.md)
+        * [Software testing](theory/science/formal/computer_science/programming/software_testing/software_testing.md)
     - [Security](theory/science/formal/computer_science/security/security.md)
         * [Cryptography](theory/science/formal/computer_science/security/cryptography.md)
     - [Shell](theory/science/formal/computer_science/shell/shell.md)
