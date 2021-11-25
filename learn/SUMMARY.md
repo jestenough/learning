@@ -112,6 +112,7 @@
             * [LLVM](theory/science/formal/computer_science/program_execution/llvm.md)
     - [Programming](theory/science/formal/computer_science/programming/programming.md)
         * [CI/CD](theory/science/formal/computer_science/programming/cicd.md)
+        * [DevOps](theory/science/formal/computer_science/programming/devops/devops.md)
         * [Embedded systems](theory/science/formal/computer_science/programming/embedded_systems.md)
         * [Encoding](theory/science/formal/computer_science/programming/encoding.md)
         * [Hashing](theory/science/formal/computer_science/programming/hashing.md)

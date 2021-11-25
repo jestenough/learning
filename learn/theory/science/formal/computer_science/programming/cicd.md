@@ -30,17 +30,14 @@ TODO
 ## Courses / Videos
 
 - [ ] [DevOps CI/CD Explained in 100 Seconds](https://youtu.be/scEDHsr3APg)
-- [ ] [DevOps Engineering Course for Beginners](https://youtu.be/j5Zsa_eOXeY)
 - [ ] [Azure DevOps Tutorial For Beginners | Azure DevOps CI/CD Pipeline | Edureka](https://youtu.be/MOZMw5_fBFA)
 - [ ] [CI CD Pipeline Using Jenkins | Continuous Integration and Deployment | DevOps Tutorial | Edureka](https://youtu.be/m0a2CzgLNsc)
-- [ ] [5 Ways to DevOps-ify your App - Github Actions Tutorial](https://youtu.be/eB0nUzAI7M8)
 
 
 ## Links
 
 - [Example Pipelines](https://buildkite.com/docs/pipelines/example-pipelines)
 - [Travis CI](https://travis-ci.org/)
-- [Jenkins](https://www.jenkins.io/)
 - [TeamCity](https://www.jetbrains.com/teamcity/)
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 - [Werft](https://werft.dev/) - Kubernetes-native CI system
@@ -50,5 +47,4 @@ TODO
 - [buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit `[GitHub]`
 - [Concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go `[GitHub]`
 - [Tekton Pipelines](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource `[GitHub]`
-- [Awesome CI/CD]() `[GitHub]`
 - [Awesome CI](https://github.com/ligurio/awesome-ci) `[GitHub]`
