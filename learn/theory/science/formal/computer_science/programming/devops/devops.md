@@ -31,6 +31,10 @@ TODO
 - [ ] [Deploy your side-projects at scale for basically nothing - Google Cloud Run](https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless)
 - [ ] [I forgot how to manage a server](https://ma.ttias.be/i-forgot-how-to-manage-a-server/)
 - [ ] [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
+- [ ] [DevOps — что это, зачем, и насколько востребовано?](https://habr.com/ru/company/habr_career/blog/494940/)
+- [ ] [Кто такой DevOps и когда он не нужен](https://habr.com/ru/company/playgendary/blog/493998/)
+- [ ] [Гайд по DevOps для начинающих](https://habr.com/ru/company/skillfactory/blog/509344/)
+- [ ] [DevOps — автоматизируй всё](https://habr.com/ru/post/303050/)
 
 
 ## Books
@@ -42,6 +46,7 @@ TODO
 
 - [ ] [DevOps Engineering Course for Beginners](https://youtu.be/j5Zsa_eOXeY)
 - [ ] [5 Ways to DevOps-ify your App - Github Actions Tutorial](https://youtu.be/eB0nUzAI7M8)
+- [ ] [Temporal at Netflix, Serverless Workflow DSL, and TypeScript SDK Demo [Temporal Community Meetup #6]](https://youtu.be/JQ6FRTnQWFI)
 
 
 ## Links
@@ -50,8 +55,11 @@ TODO
 - [Jenkins](https://www.jenkins.io/)
 - [StackStorm](https://stackstorm.com/) - Platform for integration and automation across services and tools, taking actions in response to events
 - [DevOps Newsletters](https://devopsnewsletters.com/)
+- [DevOps Cheat Sheets](https://lzone.de/)
+- [Temporal Documentation](https://docs.temporal.io)
 - [FAUN](https://faun.dev/c/) - DevOps community
 - [School of SRE](https://linkedin.github.io/school-of-sre/)
+- [DevOps Kitchen Talks](https://www.youtube.com/channel/UCXJ196NygANaBHg_KznKXag) `[YouTube]`
 - [werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism `[GitHub]`
 - [Dev Lake](https://github.com/merico-dev/lake) - the data lake for dev & dashboard for your DevOps tools `[GitHub]`
 - [Plunder](https://github.com/plunder-app/plunder) - A Modern automation platform `[GitHub]`
@@ -62,6 +70,8 @@ TODO
 - [DevOps exercises](https://github.com/bregman-arie/devops-exercises) `[GitHub]`
 - [Bitnami](https://github.com/bitnami/charts) - Packaged Applications for Any Platform - Cloud, Container, Virtual Machine `[GitHub]`
 - [DevOps recommended Books](https://github.com/stack72/ops-books) `[GitHub]`
+- [Postmortem Templates](https://github.com/dastergon/postmortem-templates) `[GitHub]`
+- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) `[GitHub]`
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) `[GitHub]`
 - [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) `[GitHub]`
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) `[GitHub]`
