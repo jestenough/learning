@@ -103,6 +103,7 @@
         * [IOS](theory/science/formal/computer_science/os/ios.md)
         * [Linux](theory/science/formal/computer_science/os/linux.md)
         * [macOS](theory/science/formal/computer_science/os/macos.md)
+        * [Unix](theory/science/formal/computer_science/os/unix.md)
         * [Windows](theory/science/formal/computer_science/os/windows.md)
     - [Package managers](theory/science/formal/computer_science/package_managers/package_managers.md)
         * [Nix](theory/science/formal/computer_science/package_managers/nix.md)

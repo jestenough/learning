@@ -65,3 +65,4 @@ TODO
 - [Build your own: linker](https://github.com/andrewhalle/byo-linker) `[GitHub]`
 - [Write Your Own 64-bit Operating System Kernel From Scratch](https://github.com/davidcallanan/os-series) `[GitHub]`
 - [bootOS](https://github.com/nanochess/bootOS) `[GitHub]`
+- [Test your sysadmin skills](https://github.com/trimstray/test-your-sysadmin-skills) `[GitHub]`
