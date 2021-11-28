@@ -26,6 +26,8 @@ TODO
 - [ ] [How HTTPS Works](https://howhttps.works)
 - [ ] [Mini HTTP guide for developers](https://charemza.name/blog/posts/abstractions/http/http-guide-for-developers/)
 - [ ] [A Practical Guide to Writing Clients and Servers](https://www.jmarshall.com/easy/http/)
+- [ ] [Простым языком об HTTP](https://habr.com/ru/post/215117/)
+- [ ] [Путь к HTTP/2](https://habr.com/ru/post/308846/)
 
 
 ## Books

@@ -45,6 +45,16 @@ TODO
 - [ ] [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 - [ ] [A TCP/IP Tutorial](https://datatracker.ietf.org/doc/html/rfc1180)
 - [ ] [A free Argo Tunnel for your next project](https://blog.cloudflare.com/a-free-argo-tunnel-for-your-next-project/)
+- [ ] [10 советов по нетворкингу для людей, которые его терпеть не могут](https://habr.com/ru/company/abbyy/blog/258419/)
+- [ ] [36 этапов процесса маршрутизации](https://habr.com/ru/post/83047/)
+- [ ] [Ядерный шелл поверх ICMP](https://habr.com/ru/company/ruvds/blog/516266/)
+- [ ] [Быстрая сеть в домашней лаборатории или как я связался с InfiniBand](https://habr.com/ru/post/529906/)
+- [ ] [Сетевые соединения X11](https://habr.com/ru/company/ruvds/blog/574742/)
+- [ ] [Сквозь тернии к IPv6](https://habr.com/ru/company/ruvds/blog/582100/)
+- [ ] [UDP и проблема доставки ответа](https://habr.com/ru/post/146922/)
+- [ ] [Сеть контейнеров — это не сложно](https://habr.com/ru/company/timeweb/blog/558612/)
+- [ ] [Отличия сетевых вызовов Windows и Linux](https://habr.com/ru/post/105918/)
+- [ ] [Как узнать свой внешний IP из программы](https://habr.com/ru/company/emercoin/blog/335458/)
 
 
 ## Books
@@ -83,3 +93,4 @@ TODO
 - [Wi-Fi QR Code generator](https://github.com/reugn/wifiqr) `[GitHub]`
 - [Project V](https://github.com/v2fly/v2ray-core) -  A platform for building proxies to bypass network restrictions. `[GitHub]`
 - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) `[GitHub]`
+- [Awesome Networking](https://github.com/clowwindy/Awesome-Networking) `[GitHub]`

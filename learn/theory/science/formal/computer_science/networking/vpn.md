@@ -14,6 +14,11 @@ TODO
 - [ ] [How Does VPN Work?](https://kean.blog/post/networking-101)
 - [ ] [Building a simple VPN with WireGuard with a Raspberry Pi as Server](https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server/)
 - [ ] [OpenVPN vs IPSec, WireGuard, L2TP, and IKEv2 (VPN Protocols)](https://restoreprivacy.com/vpn/openvpn-ipsec-wireguard-l2tp-ikev2-protocols/)
+- [ ] [VPN: ещё раз просто о сложном](https://habr.com/ru/post/534250/)
+- [ ] [Разбираемся в VPN протоколах](https://habr.com/ru/company/dsec/blog/499718/)
+- [ ] [Сети для самых маленьких. Часть седьмая. VPN](https://habr.com/ru/post/170895/)
+- [ ] [Как мы выбирали VPN-протокол и сервер настраивали](https://habr.com/ru/post/516268/)
+- [ ] [Надёжные VPN-сервисы: а существуете ли Вы в природе?](https://dtf.ru/ask/667510-nadezhnye-vpn-servisy-a-sushchestvuete-li-vy-v-prirode)
 
 
 ## Links

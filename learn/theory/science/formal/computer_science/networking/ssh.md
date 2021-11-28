@@ -21,6 +21,10 @@ TODO
 - [ ] [How to SSH Properly](https://goteleport.com/blog/how-to-ssh-properly/)
 - [ ] [ssh in https](https://flak.tedunangst.com/post/ssh-in-https)
 - [ ] [SSH logins using keys](https://alblue.bandlem.com/2005/08/howto-ssh-logins-using-keys.html)
+- [ ] [Магия SSH](https://habr.com/ru/post/331348/)
+- [ ] [Практические советы, примеры и туннели SSH](https://habr.com/ru/post/435546/)
+- [ ] [Алгоритм установления соединения в протоколе SSH](https://habr.com/ru/post/425637/)
+- [ ] [Памятка пользователям ssh](https://habr.com/ru/post/122445/)
 
 
 ## Links

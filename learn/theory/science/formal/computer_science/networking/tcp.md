@@ -17,6 +17,9 @@ TODO
 - [ ] [Why you should understand (a little) about TCP](https://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/)
 - [ ] [What every developer should know about TCP](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
 - [ ] [What I learned attempting the TCP Reset attack](https://squidarth.com/article/networking/2020/05/03/tcp-resets.html)
+- [ ] [Основы TCP/IP для будущих дилетантов](https://habr.com/ru/post/326574/)
+- [ ] [TCP против UDP или будущее сетевых протоколов](https://habr.com/ru/company/oleg-bunin/blog/461829/)
+- [ ] [Внутренние механизмы ТСР, влияющие на скорость загрузки: часть 1](https://habr.com/ru/company/webo/blog/326258c)
 
 
 ## Links

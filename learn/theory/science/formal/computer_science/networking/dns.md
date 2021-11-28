@@ -24,7 +24,9 @@ TODO
 - [ ] [What happens when you update your DNS?](https://jvns.ca/blog/how-updating-dns-works/)
 - [ ] [Where is the DNS Headed?](https://www.potaroo.net/ispcol/2020-06/row.html)
 - [ ] [Beyond DNS over HTTPS: Trustless DNS Privacy](https://alyssa.is/proposing-dns-over-tcp-over-tor/)
-- [ ] []()
+- [ ] [Давайте уже разберемся в DNS](https://habr.com/ru/post/303446/)
+- [ ] [Как это работает: Пара слов о DNS](https://habr.com/ru/company/1cloud/blog/309018/)
+- [ ] [DNS сервер BIND (теория)](https://habr.com/ru/post/137587/)
 
 
 ## Courses
