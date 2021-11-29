@@ -154,6 +154,7 @@
         * [VS Code](theory/science/formal/computer_science/text_editors/vs_code.md)
     - [Version control](theory/science/formal/computer_science/version_control/version_control.md)
         * [Git](theory/science/formal/computer_science/version_control/git.md)
+    * [Web](theory/science/formal/computer_science/web/web.md)
 
 - [Mathematics](theory/science/formal/mathematics/mathematics.md)
     - [Applied mathematics](theory/science/formal/mathematics/applied_mathematics/applied_mathematics.md)
