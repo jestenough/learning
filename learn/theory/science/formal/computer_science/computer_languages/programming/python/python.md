@@ -5,7 +5,9 @@ TODO
 
 ## Articles
 
+- [ ] [Python изнутри. Введение](https://habr.com/ru/company/buruki/blog/189972/)
 - [ ] [Understand Python swapping: why is a, b = b, a not always equivalent to b, a = a, b?](https://stackoverflow.com/questions/68152730/understand-python-swapping-why-is-a-b-b-a-not-always-equivalent-to-b-a-a)
+- [ ] [What does the operator += return in Python](https://stackoverflow.com/questions/66373149/what-does-the-operator-return-in-pythonw)
 - [ ] [You don't really need a virtualenv](https://frostming.com/2021/01-22/introducing-pdm/)
 - [ ] [Why you shouldn't invoke setup.py directly](https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html)
 - [ ] [Packaging without setup.py](https://pgjones.dev/blog/packaging-without-setup-py-2020)

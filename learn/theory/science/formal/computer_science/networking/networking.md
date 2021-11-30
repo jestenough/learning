@@ -55,6 +55,7 @@ TODO
 - [ ] [Сеть контейнеров — это не сложно](https://habr.com/ru/company/timeweb/blog/558612/)
 - [ ] [Отличия сетевых вызовов Windows и Linux](https://habr.com/ru/post/105918/)
 - [ ] [Как узнать свой внешний IP из программы](https://habr.com/ru/company/emercoin/blog/335458/)
+- [ ] [The Internet explained from first principles](https://explained-from-first-principles.com/internet/#data-corruption)
 
 
 ## Books

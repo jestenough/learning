@@ -58,6 +58,7 @@ TODO
 
 ## Courses / Videos
 
+- [ ] [Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/)
 - [ ] [Tests in a box: Shipping your tests in a container for fun and profit - Federico Paolinelli](https://youtu.be/QeQs5wRZ4ac)
 - [ ] [‹Programming› 2021 - P30 - Finding Bugs with Specification-Based Testing is Easy!](https://youtu.be/MLcNhc27Ghw)
 - [ ] [Using Relational Problems to Teach Property-Based Testing](https://youtu.be/TXOl_NJo8GE)

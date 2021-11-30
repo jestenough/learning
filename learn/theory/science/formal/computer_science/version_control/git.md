@@ -5,6 +5,7 @@ TODO
 
 ## Articles
 
+- [ ] [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [ ] [Improving Git's Autocorrect Feature](https://azeemba.com/posts/contributing-to-git.html)
 - [ ] [Working With Multiple Git Configs](https://rossedman.io/blog/computers/working-with-multiple-git-configs/)
 - [ ] [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)

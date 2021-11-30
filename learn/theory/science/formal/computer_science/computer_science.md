@@ -94,3 +94,4 @@ TODO
 - [Awesome cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) `[GitHub]`
 - [Build your own x](https://github.com/danistefanovic/build-your-own-x) `[GitHub]`
 - [Computer science (OSSU)](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science! `[GitHub]`
+- [Cheatsheets](https://github.com/rstacruz/cheatsheets) `[GitHub]`

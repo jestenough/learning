@@ -37,6 +37,7 @@ TODO
 
 ## Courses / Videos
 
+- [ ] [Information Security](https://www.freecodecamp.org/learn/information-security/)
 - [ ] [Discover the best kept secret in cybersecurity](https://www.hackerone.com/security-at/2021)
 - [ ] [HotMobile 2020 - Listen to Your Key: Towards Acoustics-based Physical Key Inference](https://youtu.be/bxyAa_txM34) - (YouTube)
 - [ ] [Hackfest 2015: Theo de Raadt presented "Pledge: A new security technology in openbsd"](https://youtu.be/F_7S1eqKsFk) - (YouTube)

@@ -27,6 +27,7 @@ TODO
 - [ ] [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
 - [ ] [my love letter to redo](https://fzakaria.com/2020/06/08/my-love-letter-to-redo.html)
 - [ ] [Apple’s Linker & Deterministic Builds](https://milen.me/writings/apple-linker-ld64-deterministic-builds-oso-prefix/)
+- [ ] [Build Systems — Intro](https://habr.com/ru/post/218459/)
 
 
 ## Links

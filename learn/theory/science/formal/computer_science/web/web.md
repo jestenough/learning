@@ -8,6 +8,7 @@ TODO
 - [ ] [Local Storage vs Cookies](https://stackoverflow.com/questions/3220660/local-storage-vs-cookies)
 - [ ] [The Web After Tomorrow](https://tonsky.me/blog/the-web-after-tomorrow/)
 - [ ] [The Future Of The Web](https://www.hazem.cool/blog/the-future-of-the-web)
+- [ ] [33 Web Development Terms You May Not Have Heard Of](https://meiert.com/en/blog/33-web-development-terms/)
 - [ ] [URLs: It's complicated...](https://www.netmeister.org/blog/urls.html)
 - [ ] [Some notes on using esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/)
 - [ ] [Favicons: How to Make Sure Browsers Only Download the SVG Version](https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/)
@@ -46,6 +47,43 @@ TODO
 - [ ] [Exploiting dynamic rendering engines to take control of web apps](https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps/)
 - [ ] [Is the Internet Different?](https://stratechery.com/2020/is-the-internet-different/)
 - [ ] [If not SPAs, What?](https://macwright.com/2020/10/28/if-not-spas.html)
+- [ ] [How The URL Was Built](https://www.welcometothejungle.com/en/articles/btc-url-internet)
+- [ ] [Cloudflare and the Wayback Machine, joining forces for a more reliable Web](http://blog.archive.org/2020/09/17/internet-archive-partners-with-cloudflare-to-help-make-the-web-more-useful-and-reliable/)
+- [ ] [On Modern Web Applications Stability](https://www.emadelsaid.com/on-modern-web-applications-stability/)
+- [ ] [A Short Guide to Minimal Web Development](https://meiert.com/en/blog/minimal-web-development/)
+- [ ] [What happens when you load a URL?](https://danluu.com/navigate-url/)
+- [ ] [What is the Small Web?](https://ar.al/2020/08/07/what-is-the-small-web/)
+- [ ] [A clean start for the web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
+- [ ] [Developing For The Semantic Web](https://www.smashingmagazine.com/2020/10/developing-semantic-web/)
+- [ ] [Incrementally Improving The DOM](https://blog.functorial.com/posts/2018-04-08-Incrementally-Improving-The-DOM.html)
+- [ ] [The hypertext Web is the real Metaverse](https://thesephist.com/posts/hypertext/)
+- [ ] [Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
+- [ ] [Your SPA doesn’t need a router](https://forweb.dev/en/blog/drop-the-router/)
+- [ ] [No Cookies, No Problem — Using ETags For User Tracking](https://levelup.gitconnected.com/no-cookies-no-problem-using-etags-for-user-tracking-3e745544176b)
+- [ ] [Introducing the Web Platform Contribution Guide](https://bocoup.com/blog/introducing-the-web-platform-contribution-guide)
+- [ ] [Clientside Webmentions](https://www.swyx.io/clientside-webmentions/)
+- [ ] [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
+- [ ] [Don't design for mobile](https://mattanddesign.com/dont-design-for-mobile/)
+- [ ] [Google Is Not God of The Web](https://bilge.world/google-page-experience)
+- [ ] [Snowpack v2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
+- [ ] [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
+- [ ] [Local Testing on an iPhone](https://www.joshwcomeau.com/blog/local-testing-on-an-iphone/)
+- [ ] [The Hottest Websites from the Late 90s](https://vanschneider.com/blog/hottest-websites-late-90s/)
+- [ ] [Tiny websites are great](https://tinyprojects.dev/posts/tiny_websites_are_great)
+- [ ] [In defense of the modern web](https://dev.to/richharris/in-defense-of-the-modern-web-2nia)
+- [ ] [IndieWeb Link Sharing](https://mxb.dev/blog/indieweb-link-sharing/)
+- [ ] [What the heck happened with .org?](https://blog.mozilla.org/en/mozilla/what-the-heck-happened-with-org/)
+- [ ] [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
+- [ ] [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/2020/05/08/web/facebook-redesign/)
+- [ ] [The Open Web is Dying](https://perezbox.com/2020/04/the-open-web-is-dying/)
+- [ ] [How to get started with web development](https://gomakethings.com/how-to-get-started-with-web-development/)
+- [ ] [Do We Really Need a Web API?](https://layrjs.com/blog/articles/Do-We-Really-Need-A-Web-API-yq12wz)
+- [ ] [7 Principles of Rich Web Applications](https://rauchg.com/2014/7-principles-of-rich-web-applications)
+- [ ] [Whatever Happened to the Semantic Web?](https://twobithistory.org/2018/05/27/semantic-web.html)
+- [ ] [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)
+- [ ] [What, exactly, is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/)
+- [ ] [Making dev.to Incredibly fast](https://dev.to/ben/making-devto-insanely-fast)
+- [ ] [Why you should use the IndieWeb](https://indieweb.org/why)
 
 
 ## Books
@@ -53,27 +91,48 @@ TODO
 - [ ] [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/)
 - [ ] [Designing for the Web](https://designingfortheweb.co.uk/)
 - [ ] [Web Platform Design Principles](https://www.w3.org/TR/design-principles/)
+- [ ] [Web Development for Everyone](https://webdevelopmentforeveryone.com/)
 
 
 ## Courses / Videos
 
+- [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/da)
+- [ ] [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+- [ ] [Web Platform Course](https://webplatformcourse.com/7XoqGASUulHqaQUWuqXR/)
+- [ ] [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+- [ ] [CEO can code? Watch Netlify's CEO code a Sudoku app from scratch in a bar on a Saturday night](https://youtu.be/GytUZLK4kwA)
+- [ ] [Introduction to the web-platform-tests](https://youtu.be/zuK1uyXPZS0)
+- [ ] [Deploy Friday Conversations](https://youtube.com/playlist?list=PLn5EpEMtxTCmLsbLgaN3djvEkRdp-YmlE)
+- [ ] [Own your content on Social Media using the IndieWeb](https://youtu.be/X3SrZuH00GQ)
+- [ ] [Building and deploying modern websites and apps - GitHub Universe 2019](https://youtu.be/KlO5Ksk7baQ)
 - [ ] [Sunil Pai: React and the Meta of the Web [Swyx Mixtape]](https://youtu.be/H3h1WICelqs)
 
 
 ## Links
 
 - [Web History (by Jay Hoffmann)](https://css-tricks.com/category/history/)
+- [Learn your (web) history](https://thehistoryoftheweb.com/)
 - [Hobbes' Internet Timeline 25](https://www.zakon.org/robert/internet/timeline/)
+- [Internet Archive](https://archive.org/)
+- [Archive.today](https://archive.vn/) - save a web page to an archive
 - [Internet Archive Blogs](https://blog.archive.org/)
+- [Web criticism](https://www.circumlunar.space/~solderpunk/web.html) - A collection of articles criticising various facets of the web
+- [W3C on GitHub](https://w3c.github.io/)
+- [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке
+- [Cloudflare docs](https://developers.cloudflare.com/docs)
+- [Cloudflare Learning Center](https://www.cloudflare.com/learning/)
+- [MDN web docs](https://mdn.dev/) - Resources for developers, by developers
+- [Weird Wide Webring](https://weirdwidewebring.net/) - The web needs a little more weird. These sites are helping.
 - [LOW TECH WEBRING DIRECTORY](https://emreed.net/LowTech_Directory.html)
 - [WEBBED BRIEFS](https://briefs.video/) - are brief videos about the web, its technologies, and how to make the most of them
-- [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке
-- [Vocabs (HTML & СSS)](http://apps.workflower.fi/vocabs/)
-- [24 ways is the advent calendar for web geeks](https://24ways.org/)
-- [Веб-стандарты](https://web-standards.ru/) - Сообщество разработчиков
-- [MDN web docs](https://mdn.dev/) - Resources for developers, by developers
-- [The Indie Web](https://theindieweb.com/) - Hotspot for indie creations on the web
 - [Schema.org](https://schema.org/)
+- [24 ways is the advent calendar for web geeks](https://24ways.org/)
+- [Vocabs (HTML & СSS)](http://apps.workflower.fi/vocabs/)
+- [Indie Web](https://indieweb.org/)
+- [The Indie Web](https://theindieweb.com/) - Hotspot for indie creations on the web
+- [IndieWeb Collection](https://boffosocko.com/research/indieweb/)
+- [Веб-стандарты](https://web-standards.ru/) - Сообщество разработчиков
+- [Bookmark OS](https://bookmarkos.com/every-bookmark-manager-ever-made/) - Every bookmark manager ever made
 - [Periodic Table of Web Browsers APIs/Technologies with tutorial links](https://wwwperiodictable.surge.sh/)
 - [Clean up the web!](https://cleanuptheweb.org/) - Help rid the web of privacy-invading tracking
 - [Permission site](http://permission.site/) - test permission-related UI for web APIs
@@ -81,11 +140,22 @@ TODO
 - [Sharkle](https://sharkle.com/) - Generator of random awesomeness
 - [Web2Img](https://etherdream.github.io/web2img/)
 - [Polyfill](https://polyfill.io/v3/) - It's a service which accepts a request for a set of browser features and returns only the polyfills that are needed by the requesting browser
+- [Personal sites](https://personalsit.es/) - Little directory of people's personal sites
 - [timefind](https://github.com/Cykelero/timefind) - Search a website's history `[GitHub]`
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) `[GitHub]`
 - [TC39 Meeting Notes](https://github.com/tc39/notes) `[GitHub]`
+- [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [1000 feeds for web developers](https://github.com/simevidas/web-dev-feeds) `[GitHub]`
+- [Principles for making things for the web](https://github.com/veltman/principles) `[GitHub]`
+- [RealWorld example apps](https://github.com/gothinkster/realworld) `[GitHub]`
+- [How Web Works](https://github.com/vasanthk/how-web-works) `[GitHub]`
+- [Web skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer `[GitHub]`
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open-source self-hosted web archiving. `[GitHub]`
 - [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) `[GitHub]`
+- [Web Development Resources](https://github.com/mtdvio/web-development-resources) `[GitHub]`
 - [Web frameworks](https://github.com/the-benchmarker/web-frameworks) `[GitHub]`
+- [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) `[GitHub]`
 - [Awesome web effect](https://github.com/lindelof/awesome-web-effect) `[GitHub]`
 - [Awesome Landing Page](https://github.com/nordicgiant2/awesome-landing-page) `[GitHub]`
 - [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) `[GitHub]`
+- [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)

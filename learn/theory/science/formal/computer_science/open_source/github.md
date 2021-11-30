@@ -52,6 +52,7 @@ TODO
 - [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE) `[GitHub]`
 - [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users) `[GitHub]`
 - [Your GitHub story in 3D](https://skyline.github.com/) `[GitHub]`
+- [1990-script](https://github.com/antfu/1990-script) - Make your GitHub history back to 1990 `[GitHub]`
+- [gerda](https://github.com/sijeko/gerda) - скрипт для создания любой картины активности пользовательского профиля на Гитхабе `[GitHub]`
 - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) `[GitHub]`
 - [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) `[GitHub]`
-- [1990-script](https://github.com/antfu/1990-script) - Make your GitHub history back to 1990 `[GitHub]`

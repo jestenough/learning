@@ -54,6 +54,7 @@ TODO
 - [ ] [Why is C Faster Than My Language?](https://youtu.be/vFB0Ot-ZdIM)
 - [ ] [Modern C and What We Can Learn From It - Luca Sas [ ACCU 2021 ]](https://youtu.be/QpAhX-gsHMs)
 - [ ] [Programming Language Development in C](https://youtube.com/playlist?list=PLvdK1vRmp8wMzH4w_8sQ30NKU3Bt4Cc-M)
+- [ ] [Linus Torvalds "Nothing better than C"](https://youtu.be/CYvJPra7Ebk)
 
 
 ## Books

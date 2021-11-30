@@ -56,6 +56,7 @@ TODO
 
 ## Courses
 
+- [ ] [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [ ] [Full Stack Deep Learning - Spring 2021](https://fullstackdeeplearning.com/spring2021/)
 - [ ] [Arsenii Ashukha: Ensemble Generation](https://youtu.be/bj933t6rqFw) - (YouTube)
 - [ ] [MLSys Seminars](https://youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq) - (YouTube)
@@ -71,6 +72,7 @@ TODO
 - [Machine Learning wiki](https://wiki.kourouklides.com/wiki/Machine_Learning)
 - [Deep Learning wiki](https://wiki.kourouklides.com/wiki/Deep_Learning)
 - [Дорожная карта математических дисциплин для машинного обучения, часть 1](https://habr.com/ru/post/432670/)
+- [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) `[Steam]`
 - [Learn Machine Learning in 3 Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) `[GitHub]`
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) `[GitHub]`
 - [Machine Learning Engineer Roadmap in 2021](https://github.com/chris-chris/ml-engineer-roadmap) `[GitHub]`
