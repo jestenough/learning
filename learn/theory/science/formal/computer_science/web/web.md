@@ -100,6 +100,7 @@ TODO
 - [ ] [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 - [ ] [Web Platform Course](https://webplatformcourse.com/7XoqGASUulHqaQUWuqXR/)
 - [ ] [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+- [ ] [CORS in 100 Seconds](https://youtu.be/4KHiSt0oLJ0)
 - [ ] [CEO can code? Watch Netlify's CEO code a Sudoku app from scratch in a bar on a Saturday night](https://youtu.be/GytUZLK4kwA)
 - [ ] [Introduction to the web-platform-tests](https://youtu.be/zuK1uyXPZS0)
 - [ ] [Deploy Friday Conversations](https://youtube.com/playlist?list=PLn5EpEMtxTCmLsbLgaN3djvEkRdp-YmlE)
