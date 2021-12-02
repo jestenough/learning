@@ -158,6 +158,8 @@
         - [Browsers](theory/science/formal/computer_science/web/browsers/browsers.md)
             * [Chrome](theory/science/formal/computer_science/web/browsers/chrome.md)
             * [Firefox](theory/science/formal/computer_science/web/browsers/firefox.md)
+        * [Search engines](theory/science/formal/computer_science/web/search_engines.md)
+        * [Web performance](theory/science/formal/computer_science/web/web_performance.md)
 
 - [Mathematics](theory/science/formal/mathematics/mathematics.md)
     - [Applied mathematics](theory/science/formal/mathematics/applied_mathematics/applied_mathematics.md)
