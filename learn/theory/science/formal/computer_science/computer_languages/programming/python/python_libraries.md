@@ -47,3 +47,14 @@
 - [pytest mock](https://github.com/pytest-dev/pytest-mock) `[GitHub]`
 - [freezegun](https://github.com/spulec/freezegun) `[GitHub]`
 - [coveragepy](https://github.com/nedbat/coveragepy) `[GitHub]`
+
+
+## Web
+
+- [scrapy](https://github.com/scrapy/scrapy) `[GitHub]`
+- [pyspider](https://github.com/binux/pyspider) `[GitHub]`
+- [Helium](https://github.com/mherrmann/selenium-python-helium) - the best Python library for web automation `[GitHub]`
+- [instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram `[GitHub]`
+- [Instagram Scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos `[GitHub]`
+- [AutoScraper](https://github.com/alirezamika/autoscraper) `[GitHub]`
+- [You-Get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web `[GitHub]`

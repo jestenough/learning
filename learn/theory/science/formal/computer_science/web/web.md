@@ -84,6 +84,12 @@ TODO
 - [ ] [What, exactly, is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/)
 - [ ] [Making dev.to Incredibly fast](https://dev.to/ben/making-devto-insanely-fast)
 - [ ] [Why you should use the IndieWeb](https://indieweb.org/why)
+- [ ] [When should you be using Web Workers?](https://surma.dev/things/when-workers/)
+- [ ] [Threading the web with module workers](https://web.dev/module-workers/)
+- [ ] [The State Of Web Workers In 2021](https://www.smashingmagazine.com/2021/06/web-workers-2021/)
+- [ ] [Instant Webpages and Terabytes of Data Savings Through the Magic of Service Workers](https://dev.to/devteam/instant-webpages-and-terabytes-of-data-savings-through-the-magic-of-service-workers-1mkc)
+- [ ] [Smaller HTML Payloads with Service Workers](https://philipwalton.com/articles/smaller-html-payloads-with-service-workers/)
+- [ ] [How to Fix the Refresh Button When Using Service Workers](https://redfin.engineering/how-to-fix-the-refresh-button-when-using-service-workers-a8e27af6df68)
 
 
 ## Books
