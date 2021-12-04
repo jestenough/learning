@@ -52,6 +52,7 @@
         - [Style sheet languages](theory/science/formal/computer_science/computer_languages/style_sheet/style_sheet.md)
             * [CSS](theory/science/formal/computer_science/computer_languages/style_sheet/css.md)
     - [Data Science](theory/science/formal/computer_science/data_science/data_science.md)
+        * [Data visualization](theory/science/formal/computer_science/data_science/data_visualization.md)
         * [Hadoop](theory/science/formal/computer_science/data_science/hadoop.md)
         * [Kafka](theory/science/formal/computer_science/data_science/kafka.md)
         * [Spark](theory/science/formal/computer_science/data_science/spark.md)
