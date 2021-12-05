@@ -5,6 +5,7 @@
 - [ ] [Математика для всех](https://youtube.com/playlist?list=PLlx2izuC9gjhc6TOzoeL-ovXXsvjJi22f) - (YouTube)
 - [ ] [Комбинаторика для начинающих с примерами. Лекция преподавателя МГУ](https://youtu.be/GxQGbhjVWWM) - (YouTube)
 
+
 # Books
 
 - [ ] [Math books list](https://2ch.hk/un/res/810326.html)
@@ -34,6 +35,7 @@
 - [ ]  Как лгать при помощи статистики (Дарелл Хафф)`[0/168]`
 - [ ]  Голая статистика. Самая интересная книга о самой скучной науке (Уилан Чарльз)`[0/352]`
 - [x] [Быстрый счет (1941)](https://math.ru/lib/75)`[14/14]`
+- [ ] Взломщики кодов (Дэвид Кан)
 
 - [ ]  Классические головоломки (Мартин Гарднер)`[0/96]`
 - [ ]  Сборник задач по теории алгоритмов`[0/183]`
@@ -42,3 +44,12 @@
 - [ ]  Логические головоломки (А.Богданов)`[0/132]`
 - [ ]  Головоломки (Л.П. Мочалов)`[0/144]`
 - [ ]  Логическая игра (Л.Кэрролл)`[0/112]`
+
+
+## Links
+
+- [LogicLike](https://logiclike.com/) - Online Logic Puzzles and Printable Logic Problems
+- [Математическая школьная программа](http://imperium.lenin.ru/~verbit/MATH/programma.html)
+- [Math for beginners (RU)](http://www.egesdam.ru/)
+- [Высшая математика – просто и доступно!](http://mathprofi.ru/)
+- [Кафедра высшей математики МФТИ](https://www.youtube.com/channel/UC_ByV5irnAmCUZEGVZntFmQ) `[YouTube]`

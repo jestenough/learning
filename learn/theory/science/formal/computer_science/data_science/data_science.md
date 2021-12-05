@@ -40,6 +40,8 @@ TODO
 - [#DATAENGINEERING](https://training.by/#!/News/Hashtag/dataengineering?lang=ru)
 - [Data Engineers: материалы для самоподготовки](https://training.by/#!/News/131?lang=ru)
 - [Awesome Data Engineering (best version IMHO)](https://awesomedataengineering.com/)
+- [Data Zen Community](https://www.youtube.com/c/DataZenCommunity/featured) `[YouTube]`
+- [itversity](https://www.youtube.com/c/itversityin) `[YouTube]`
 - [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) `[GitHub]`
 - [Awesome Data Science](https://github.com/academic/awesome-datascience) `[GitHub]`
 - [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) `[GitHub]`

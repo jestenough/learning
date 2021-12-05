@@ -67,6 +67,7 @@ TODO
 - [ ] [New features planned for Python 4.0](https://charlesleifer.com/blog/new-features-planned-for-python-4-0/)
 - [ ] [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 - [ ] [Writing a simple Python compiler: 1. hello, fibonacci](https://notes.eatonphil.com/writing-a-simple-python-compiler.html)
+- [ ] [Разбор параметров командной строки в Python](https://jenyay.net/Programming/Argparse)
 
 
 ## Books
@@ -128,6 +129,8 @@ TODO
 - [Futurecoder](https://futurecoder.io/) - Learn Python from scratch
 - [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp)
 - [Pypi](https://pypi.org/) - Find, install and publish Python packages with the Python Package Index
+- [MoscowPython](https://www.youtube.com/user/moscowdjangoru) `[YouTube]`
+- [Talk Python](https://www.youtube.com/channel/UCKPSmMfDsXTKrCZApukcJ7A) `[YouTube]`
 - [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy/videos) `[YouTube]`
 - [Codebasics](https://www.youtube.com/c/codebasics/videos) `[YouTube]`
 - [PyCharm by JetBrains](https://www.youtube.com/c/PyCharmIDE/playlists) `[YouTube]`

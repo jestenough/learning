@@ -59,6 +59,7 @@ TODO
 - [Temporal Documentation](https://docs.temporal.io)
 - [FAUN](https://faun.dev/c/) - DevOps community
 - [School of SRE](https://linkedin.github.io/school-of-sre/)
+- [DevOps Дефлопе (Podcasts)](https://devopsdeflope.ru/)
 - [DevOps Kitchen Talks](https://www.youtube.com/channel/UCXJ196NygANaBHg_KznKXag) `[YouTube]`
 - [werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism `[GitHub]`
 - [Dev Lake](https://github.com/merico-dev/lake) - the data lake for dev & dashboard for your DevOps tools `[GitHub]`

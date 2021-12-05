@@ -51,6 +51,7 @@ TODO
 - [dbdocs (Build a database documentation easily)](https://dbdocs.io/)
 - [DBML - Database Markup Language](https://www.dbml.org/home/)
 - [Database of Databases](https://dbdb.io/)
+- [CMU Database Group](https://www.youtube.com/c/CMUDatabaseGroup/featured) `[YouTube]`
 - [Introduction to Graph Databases](https://github.com/threatgrid/asami/wiki/2.-Introduction) `[GitHub]`
 - [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools) `[GitHub]`
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) `[GitHub]`

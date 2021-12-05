@@ -45,7 +45,6 @@ TODO
 ## Courses / Videos
 
 - [x] [Что должен знать и уметь пользователь ПК](https://foxford.ru/courses/2493/landing) - (Foxford)
-- [x] [КАК ИСКАТЬ В GOOGLE: Фишки и Секреты Как Правильно Гуглить!](https://youtu.be/Zi3GY0CopZQ) - (YouTube)
 - [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - (Udacity)
 - [x] [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124) - (EPAM)
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch) - (Coursera)
@@ -81,6 +80,15 @@ TODO
 - [Computer Science without a computer](https://www.csunplugged.org/en/)
 - [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 - [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+- [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov) `[YouTube]`
+- [Computerphile](https://www.youtube.com/user/Computerphile/featured) `[YouTube]`
+- [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured) `[YouTube]`
+- [edureka](https://www.youtube.com/c/edurekaIN) `[YouTube]`
+- [Слёрм](https://www.youtube.com/c/slurm_io)
+- [Khan Academy Computing](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA) `[YouTube]`
+- [IBM Technology](https://www.youtube.com/c/IBMTechnology) `[YouTube]`
+- [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform/) `[YouTube]`
+- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) `[YouTube]`
 - [Teach Yourself CS Russian Translation](https://github.com/ilmoi/teachyourselfCS-RU) `[GitHub]`
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books) `[GitHub]`
 - [CS video courses](https://github.com/Developer-Y/cs-video-courses) `[GitHub]`

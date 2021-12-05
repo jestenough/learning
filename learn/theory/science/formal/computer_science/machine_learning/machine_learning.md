@@ -72,6 +72,7 @@ TODO
 - [Machine Learning wiki](https://wiki.kourouklides.com/wiki/Machine_Learning)
 - [Deep Learning wiki](https://wiki.kourouklides.com/wiki/Deep_Learning)
 - [Дорожная карта математических дисциплин для машинного обучения, часть 1](https://habr.com/ru/post/432670/)
+- [Machine Learning Guide (Podcasts)](https://podcasts.apple.com/us/podcast/machine-learning-guide/id1204521130)
 - [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) `[Steam]`
 - [Learn Machine Learning in 3 Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) `[GitHub]`
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) `[GitHub]`

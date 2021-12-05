@@ -3,6 +3,10 @@
 TODO
 
 
+## Articles
+
+- [ ] [Data-Mining Wikipedia for Fun and Profit](https://billpg.com/data-mining-wikipedia/)
+
 ## Books
 
 - [ ] Introduction to Data Mining (Tan, Steinbach & Kumar)
