@@ -77,6 +77,7 @@
         * [Displays](theory/science/formal/computer_science/hardware/displays.md)
         * [FPGA](theory/science/formal/computer_science/hardware/fpga.md)
         * [GPU](theory/science/formal/computer_science/hardware/gpu.md)
+        * [Keyboards](theory/science/formal/computer_science/hardware/keyboards.md)
         * [Raspberry Pi](theory/science/formal/computer_science/hardware/raspberry_pi.md)
         * [Verilog](theory/science/formal/computer_science/hardware/verilog.md)
     - [Licensing](theory/science/formal/computer_science/licensing/licensing.md)
