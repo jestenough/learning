@@ -1,5 +1,0 @@
-* [Music / Paint / Literature lists](https://artinfuser.com/artquiz/)
-* [Literature map](https://www.literature-map.com/)
-* [Writers timeline](https://www.timelineindex.com/)
-* [Poetic map of Russia](https://www.labirint.ru/poets/)
-* [RU literature](https://www.uniyar.ac.ru/Abitur/programmy-vstupitelnykh-ispytaniy-provodimykh-organizatsiey-samostoyatelno/Prog_lit_2016.pdf)
