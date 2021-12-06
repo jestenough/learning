@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 
+
 ## Materials
 
 * [Elibraries](materials/elibraries.md)
@@ -447,11 +448,12 @@
     - [Indo-Iranian]()
     - [Chinese]()
 
+
 <!-- Art -->
 
 ## Literary art
 
-- [Literature](art/literary/literature/literature.md)
+- [Literature](theory/art/literary/literature/literature.md)
     - [Drama](theory/art/literary/literature/drama/drama.md)
     - [Poetry](theory/art/literary/literature/poetry/poetry.md)
     - [Prose](theory/art/literary/literature/prose/prose.md)
