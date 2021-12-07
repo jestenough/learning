@@ -460,7 +460,7 @@
         - [Fiction](theory/art/literary/literature/prose/fiction/fiction.md)
         - [Non-fiction](theory/art/literary/literature/prose/non-fiction/non-fiction.md)
         - [Publicism](theory/art/literary/literature/prose/publicism/publicism.md)
-
+- [Writing](theory/art/literary/writing.md)
 
 ## Performing art
 
