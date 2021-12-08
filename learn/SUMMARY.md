@@ -145,6 +145,7 @@
         * [Practice](theory/science/formal/computer_science/programming/practice.md)
         * [Recursion](theory/science/formal/computer_science/programming/recursion.md)
         * [Regular expressions](theory/science/formal/computer_science/programming/regex.md)
+        * [Serialization](theory/science/formal/computer_science/programming/serialization.md)
         * [Software architecture](theory/science/formal/computer_science/programming/software_architecture.md)
         - [Software design](theory/science/formal/computer_science/programming/software_design/software_design.md)
             * [DFD](theory/science/formal/computer_science/programming/software_design/dfd.md)
@@ -461,6 +462,7 @@
         - [Non-fiction](theory/art/literary/literature/prose/non-fiction/non-fiction.md)
         - [Publicism](theory/art/literary/literature/prose/publicism/publicism.md)
 - [Writing](theory/art/literary/writing.md)
+
 
 ## Performing art
 
