@@ -476,6 +476,9 @@
 
 - [Architecture](theory/art/visual/architecture/architecture.md)
 - [Ceramic art](theory/art/visual/ceramic/ceramic.md)
+- [Cinematography](theory/art/visual/cinematography/cinematography.md)
+    * [Movies](theory/art/visual/cinematography/movies.md)
+    * [TV series](theory/art/visual/cinematography/tv_series.md)
 - [Conceptual art](theory/art/visual/conceptual_art/conceptual_art.md)
 - [Design](theory/art/visual/design/design.md)
 - [Drawing](theory/art/visual/drawing/drawing.md)
