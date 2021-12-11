@@ -452,6 +452,11 @@
 
 <!-- Art -->
 
+## Games
+
+- [Video games](theory/art/games/video_games.md)
+
+
 ## Literary art
 
 - [Literature](theory/art/literary/literature/literature.md)
