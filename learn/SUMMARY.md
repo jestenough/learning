@@ -473,6 +473,7 @@
 
 - [Dance](theory/art/performing/dance/dance.md)
 - [Music](theory/art/performing/music/music.md)
+    * [Production music](theory/art/performing/music/production_music.md)
 - [Opera](theory/art/performing/opera/opera.md)
 - [Theatre](theory/art/performing/theatre/theatre.md)
 
