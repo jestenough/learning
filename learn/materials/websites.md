@@ -8,11 +8,11 @@
 ---
 
 
-<h3 id="courses"> Courses </h3>
+## Courses
 
 * [edX](https://www.edx.org/) `A-F`
 * [Coursera](https://www.coursera.org/) `A-F/P`
-* [ПостНаука](https://postnauka.ru/) `A-F`
+* [ПостНаука](https://postnauka.ru/courses) `A-F`
 * [Intuit](https://intuit.ru/) `A-F`
 * [Лекториум](https://www.lektorium.tv/) `A-F/P`
 * [Univer TV](http://univertv.ru/) `A-F`
@@ -50,35 +50,43 @@
 * [MIT Open Courseware](https://ocw.mit.edu/index.htm) `T/F`
 
 
-<h3 id="collections"> Collections </h3>
+## Collections
 
 * [Open culture](https://www.openculture.com/freeonlinecourses)
 * [Class central](https://www.classcentral.com/)
-* [МОСКОВСКИЙ  ЦЕНТР  НЕПРЕРЫВНОГО  МАТЕМАТИЧЕСКОГО  ОБРАЗОВАНИЯ](https://ium.mccme.ru/index.php)
-* [Arxiv](https://arxiv.org/)
-* [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#orga660ff5)
-* [Math courses](https://math.hse.ru/archive)
+* [arXiv](https://arxiv.org/)
 * [Vos ucsb edu](http://sites.reformal.ru/vos.ucsb.edu/)
 * [Ресурсы открытого доступа](https://www.nlb.by/content/informatsionnye-resursy/elektronnye-informatsionnye-resursy/informatsionnye-resursy-otkrytogo-dostupa/)
+* [Maps of Music / Paintings / English texts / Русские тексты](https://artinfuser.com/artquiz/)
+* [Timeline index](https://www.timelineindex.com/)
+* [Courses](https://github.com/learn-anything/courses) `[GitHub]`
 
 
-<h3 id="sites"> Sites </h3>
+## Sites
 
+* [Encyclopedia](https://www.encyclopedia.com/)
+* [Tandfonline](https://www.tandfonline.com/) - Search peer-reviewed journals and articles
+* [Google scholar](https://scholar.google.com/)
+* [Elibrary.ru](https://www.elibrary.ru/) - Российская научная электронная библиотека
 * [Wikipedia org](https://www.wikipedia.org/)
+    * [Wikipedia:Contents/Portals](https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals)
+    * [Портал:Обзор](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80)
 * [Wiki books](https://www.wikibooks.org/)
+* [Golden](https://golden.com/explore)
 * [Wiktionary](https://www.wiktionary.org/)
 * [Словари и энциклопедии на Академике](https://academic.ru/)
+* [TheFreeDictionary](https://www.thefreedictionary.com/)
 * [Медитация](https://медитация.рф/)
 * [Будда в городе](https://buddhavgorode.com/)
-* [Music / Paint / Literature lists](https://artinfuser.com/artquiz/)
 * [Theory and practice](https://theoryandpractice.ru/)
 * [Newочём](https://newochem.io/)
 * [Newtonew](https://newtonew.com/)
 * [Polka academy](https://polka.academy/)
 * [The Purdue Writing Lab](https://owl.purdue.edu/)
+* [Live classes](https://liveclasses.ru/)
 
 
-<h3 id="yt_channels"> YouTube channels </h3>
+## YouTube channels
 
 * [CrashCourse](https://www.youtube.com/c/crashcourse) `A`
 * [Discovery Channel Россия](https://www.youtube.com/user/DchRussia) `A`
@@ -93,3 +101,4 @@
 * [Дистанционные занятия МФТИ](https://www.youtube.com/channel/UCEEhbFAvl3fOW5geICQbMcg) `T`
 * [Лекторий ФПМИ](https://www.youtube.com/c/%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D0%A4%D0%9F%D0%9C%D0%98) `T`
 * [ФКН ВШЭ — дистанционные занятия](https://www.youtube.com/channel/UCV56iySuhfRQ1qSjXmAr1Yw) `T`
+* [Neso Academy](https://www.youtube.com/c/nesoacademy)
