@@ -5,6 +5,7 @@
 
 ## Articles
 
+- [ ] [Notes on metamodernism](https://www.tandfonline.com/doi/fullц/10.3402/jac.v2i0.5677)
 - [ ] [The Most-Popular College Books](https://www.degreequery.com/the-most-popular-college-books/)
 - [ ] [The Tools I Use To Write Books](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
 - [ ] [How to Remember What You Read](https://fs.blog/remember-books/)
@@ -51,14 +52,18 @@
 - [ ] [How to Read a Novel - The University of Edinburgh](https://www.onlinestudies.com/How-to-Read-a-Novel-The-University-of-Edinburgh/United-Kingdom/FutureLearn/)
 - [ ] [Золотые страницы европейской литературы](https://youtube.com/playlist?list=PL-_cKNuVAYAU_Govo6JKvuw8DX86qPXx7) - (Лекториум)
 - [ ] [Write a Micro-Textbook](https://hyperlink.academy/courses/write-a-micro-textbook/14)
+- [ ] [How and Why We Read: Crash Course English Literature #1](https://youtu.be/MSYw502dJNY)
 
 
 ## Links
 
 - [Elibraries](../../../../materials/elibraries.md)
+- [Эстезис](https://aesthesis.ru/) - журнал о литературе
+- [Wiki Портал:Литература](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0)
+- [Wiki Portal:Literature](https://en.wikipedia.org/wiki/Portal:Literature)
+- [DISCOVER NEW BOOKS](https://www.gnooks.com/faves.php)
 - [Goodreads Datasets](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 - [Public Books Database](https://www.publicbooks.org/public-books-database/)
-- [Historical Dictionary of Science Fiction](https://sfdictionary.com/)
 - [Literary Hub](https://lithub.com/)
 - [London review of books](https://lrb.co.uk/)
 - [Bookmarks reviews](https://bookmarks.reviews/)
@@ -66,18 +71,25 @@
 - [Autobook](https://zachernuk.neocities.org/autobook/) - 3D book configurator
 - [3dbook](https://3dbook.xyz/)
 - [Gitenberg](https://www.gitenberg.org/) - Open source community for publishing ebooks in the public domain
-- [Словарь синонимов русского языка](https://text.ru/synonym)
 - [Old Book Illustrations](https://www.oldbookillustrations.com/)
 - [From old books](https://www.fromoldbooks.org/) - Pictures, Engravings and Extracts From Old Books
 - [Top Shelves | Goodreads](https://www.goodreads.com/shelf)
 - [Literature map](https://www.literature-map.com/)
-- [Writers timeline](https://www.timelineindex.com/)
-- [RU literature](https://www.uniyar.ac.ru/Abitur/programmy-vstupitelnykh-ispytaniy-provodimykh-organizatsiey-samostoyatelno/Prog_lit_2016.pdf)
+- [Программа по русской лит.](https://www.uniyar.ac.ru/Abitur/programmy-vstupitelnykh-ispytaniy-provodimykh-organizatsiey-samostoyatelno/Prog_lit_2016.pdf)
 - [Общий хронологический список авторов и произведений, упоминаемых в различных экзаменационных билетах по литературе для 9 и 11 классов](https://libren.org/d/lit/lit04.htm)
-- [Category:Writers by nationality](https://en.wikipedia.org/wiki/Category:Writers_by_nationality)
 - [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
 - [ePubViewer](https://pgaskin.net/ePubViewer/)
+- [Книжный чел](https://www.youtube.com/c/%D0%9A%D0%BD%D0%B8%D0%B6%D0%BD%D1%8B%D0%B9%D1%87%D0%B5%D0%BB/) - канал о чтении, рациональном мышлении, трендах развития общества и искусстве `[YouTube]`
 - [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools) `[GitHub]`
-- [Books](https://github.com/learn-anything/books)
+- [Books](https://github.com/learn-anything/books) `[GitHub]`
 - [Awesome Programming Books](https://github.com/zero-equals-false/awesome-programming-books) `[GitHub]`
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books) `[GitHub]`
+
+
+## Stores
+
+- [Alib.ru](https://www.alib.ru/) - букинистические книги
+- [Chitatel by](https://chitatel.by/)
+- [Belkniga](https://belkniga.by/)
+- [BestBooks](https://bestbooks.by/)
+- [OZ](https://oz.by/)

@@ -53,6 +53,8 @@
 ## Links
 
 - [Exegesis](https://www.exegesis.io/) - is a writing app for capturing and sharing disorganized, non-linear, creative thinking
+- [Category:Writers by nationality](https://en.wikipedia.org/wiki/Category:Writers_by_nationality)
+- [Writers timeline](https://www.timelineindex.com/content/select.php/581/1023,581)
 - [Talks about writing](https://www.youtube.com/c/ShaelinWrites) `[YouTube]`
 - [mdx](https://github.com/realworldocaml/mdx) `[GitHub]`
 - [Prose for Programmers (WIP)](https://github.com/joshuacc/prose-for-programmers) `[GitHub]`

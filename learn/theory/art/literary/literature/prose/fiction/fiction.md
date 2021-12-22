@@ -234,7 +234,7 @@
 ## Hermann Hesse
 
 - [ ] Demian `DE`
-  - [x] [Демиан](https://www.livelib.ru/book/1002850831-demian-german-gesse) `RU`
+  - [x] [Демиан](https://www.livelib.ru/book/1002850831) `RU`
 
 
 ## Homer
@@ -264,7 +264,7 @@
 ## Jack London
 
 - [ ] Martin Eden `EN`
-  - [x] [Мартин Иден](https://www.livelib.ru/book/1002745732-martin-iden-dzhek-london) `RU`
+  - [x] [Мартин Иден](https://www.livelib.ru/book/1002745732) `RU`
 
 
 ## James Joyce
@@ -369,7 +369,7 @@
 ## Ken Kesey
 
 - [ ] One Flew Over the Cuckoo's Nest `EN`
-  - [x] [Над кукушкиным гнездом](https://www.livelib.ru/book/1000761303-nad-kukushkinym-gnezdom-ken-kizi) `RU`
+  - [x] [Над кукушкиным гнездом](https://www.livelib.ru/book/1000761303) `RU`
 
 
 ## Knut Hamsun
@@ -427,7 +427,7 @@
 ## Miguel de Cervantes Saavedra
 
 - [ ] El ingenioso hidalgo Don Quijote de la Mancha `ES`
-  - [x] [Хитроумный идальго Дон Кихот Ламанчский](https://www.livelib.ru/book/1001120654-hitroumnyj-idalgo-don-kihot-lamanchskij-roman-v-dvuh-chastyah-chast-1-migel-de-servantes-saavedra) `RU`
+  - [x] [Хитроумный идальго Дон Кихот Ламанчский](https://www.livelib.ru/book/1001120654) `RU`
 
 
 ## Mikhail Bulgakov (Михаил Булгаков)
@@ -487,7 +487,7 @@
 
 ## Sergey Minaev (Сергей Минаев)
 
-- [x] [Повесть о ненастоящем человеке](https://www.livelib.ru/book/1000859165-duhless-povest-o-nenastoyaschem-cheloveke-sergej-minaev) `[350/350]`
+- [x] [Повесть о ненастоящем человеке](https://www.livelib.ru/book/1000859165) `[350/350]`
 
 
 ## Sigizmund Krzhizhanovsky (Сигизмунд Кржижановский)
