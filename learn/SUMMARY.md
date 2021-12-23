@@ -333,7 +333,7 @@
         * [Statistical](theory/science/natural/physics/thermodynamics/statistical.md)
 
 
-## Social
+## Social science
 
 - [Human geography](anthropogeography/anthropogeography.md)
     - [Cultural geography](cultural_geography/cultural_geography.md)
@@ -406,10 +406,9 @@
         * [Administrative](law/public_law/administrative.md)
         * [Criminal](law/public_law/criminal.md)
     - [Substantive law](law/substantive_law.md)
-- [Linguistics](linguistics/linguistics.md)
-    - [Languages](languages/languages.md)
-        - [English](languages/english/english/english.md)
-        - [Russian](languages/russian/russian/russian.md)
+- [Linguistics](theory/science/social/linguistics/linguistics.md)
+    - [English](theory/science/social/linguistics/languages/english/english.md)
+    - [Russian](theory/science/social/linguistics/languages/russian/russian.md)
 - [Marketing](marketing/marketing.md)
     - [B2B](b2b/b2b.md)
     - [Consumer marketing](consumer_marketing/consumer_marketing.md)
