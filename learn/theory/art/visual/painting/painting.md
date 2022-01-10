@@ -22,6 +22,18 @@
 - [ ] [Corruption Is Attractive!](https://venam.nixers.net/blog/programming/2020/10/05/corruption-at-the-core.html)
 
 
+
+## Books
+
+- [ ] Manifeste du surréalisme (André Breton) `FR`
+    - [ ] Манифест сюрреализма `RU`
+- [ ] Рафаэль. Жизнь и творчество в 500 картинах
+- [ ] Мировая живопись
+- [ ] Живопись и каллиграфия Китая (Вень У)
+- [ ] "Горы-воды". Китайская пейзажная живопись (Надежда Виноградова)
+- [ ] Китайская тушь (Джейн Эванс)
+
+
 ## Courses / Videos
 
 - [ ] [GUIs Through Art History](https://hyperlink.academy/courses/guis-through-art-history/2)
@@ -35,6 +47,7 @@
 
 - [Art Resource Library](https://sites.google.com/site/4chanic/)
 - [Artvee](https://artvee.com/) - Discover Classical Art
+- [DISCOVER ARTISTS](https://art.gnod.com/faves.php)
 - [Wiki Art](https://www.wikiart.org/)
 - [openArtBrowser](https://openartbrowser.org/en/)
 - [Museo](https://museo.app/) - visual search engine that connects you with the Art Institute of Chicago, the Rijksmuseum, the Harvard Art Museums, the Minneapolis Institute of Art, the The Cleveland Museum of Art, and the New York Public Library Digital Collection

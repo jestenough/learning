@@ -47,6 +47,11 @@
 
 ## Links
 
+- [Искусство кино](https://kinoart.ru/) - журнал о кино
+- [Rotten Tomatoes](https://www.rottentomatoes.com/) - review-aggregation website
+- [Open subtitles](https://www.opensubtitles.org/)
+- [Blu-ray](https://www.blu-ray.com/)
+- [DVDs release dates](https://www.dvdsreleasedates.com/)
 - [Sensor sizes](https://sensorsizes.com/) - Camera Sensor Size Comparison Tool.
 - [Web Resources for Cinematographers](https://sites.google.com/view/webresource/home)
 - [Wandering DP](https://www.youtube.com/c/wanderingdp) `[YouTube]`

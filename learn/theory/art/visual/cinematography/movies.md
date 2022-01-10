@@ -14,6 +14,11 @@
 - [ ] [Stalker: in search of Tarkovsky’s Soviet sci-fi locations](https://www.bfi.org.uk/features/andrei-tarkovsky-stalker-locations)
 
 
+## Collections
+
+- [Kinema Junpo’s Best Ten Japanese Films (1926-2020)](https://letterboxd.com/eiganerd/list/kinema-junpos-best-ten-japanese-films-1926/)
+
+
 ## Online Movie Database
 
 - [IMDb](https://www.imdb.com/)
@@ -25,6 +30,7 @@
 ## Links
 
 - [Movie map](https://www.movie-map.com/)
+- [DISCOVER NEW MOVIES](https://www.gnovies.com/faves.php)
 - [PlayPhrase](https://www.playphrase.me/#/search) - Searching Cinema Phrases
 - [Flim](https://beta.flim.ai/) - Search movies, actors, directors or keywords.
 - [WeWatch](https://wewatchapp.xyz/)
@@ -35,3 +41,8 @@
 - [Movie of the Night](https://www.movieofthenight.com/) - Movie/series recommendation engine
 - [Eastern European Movies](https://easterneuropeanmovies.com/)
 - [Awesome IT-films list](https://github.com/greybax/awesome-IT-films) `[GitHub]`
+
+
+## Timelines
+
+- [The Star Wars Chronological Timeline](https://genius.com/Star-wars-the-star-wars-chronological-timeline-annotated)

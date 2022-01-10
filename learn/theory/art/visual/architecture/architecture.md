@@ -27,6 +27,7 @@
 - [ ] Культура Два (Владимир Паперный)
 - [ ] The Classical Language of Architecture (John Summerson)
 - [ ] Ренессанс и барокко (Генрих Вёльфлин)
+- [ ] Искусство архитектуры (Алексей Цирес)
 
 
 ## Courses / Videos

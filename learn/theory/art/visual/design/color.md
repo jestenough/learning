@@ -30,6 +30,14 @@
 - [ ] [Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette)
 
 
+## Books
+
+- [ ] Гармония цвета. Естественные цвета (Марта Гилл)
+- [ ] Синий и Желтый не дают Зелёный (Майкл Уилкокс)
+- [ ] Цвет в искусстве, дизайне и природе (Бреббиа К.)
+- [ ] Теория цвета и ее применение в искусстве и дизайне (Ж. Агюстон)
+
+
 ## Courses / Videos
 
 - [ ] [The Weird World in RGB](https://youtu.be/uYbdx4I7STg)

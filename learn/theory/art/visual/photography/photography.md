@@ -50,6 +50,7 @@
 - [ ] [The Negative (Ansel Adams)](https://www.amazon.com/dp/B00OX8B9IM/ref=cm_sw_em_r_mt_dp_PXJN6V5V809HHSW16XNE)
 - [ ] [Understanding a Photograph (John Berger)](https://www.amazon.com/dp/1597112569/ref=cm_sw_em_r_mt_dp_FGV3PE6RH4A8YRE62P7Y)
 - [ ] [On Photography (Susan Sontag)](https://www.amazon.com/dp/0374226261/ref=cm_sw_em_r_mt_dp_XQZ6HGFBPCAY7RCDC477)
+- [ ] Фотография. Искусство обмана (Ираклий Шанидзе)
 
 
 ## Courses / Videos

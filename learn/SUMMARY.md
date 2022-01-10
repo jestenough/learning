@@ -480,6 +480,7 @@
 ## Visual art
 
 - [Architecture](theory/art/visual/architecture/architecture.md)
+- [Calligraphy](theory/art/visual/calligraphy/calligraphy.md)
 - [Ceramic art](theory/art/visual/ceramic/ceramic.md)
 - [Cinematography](theory/art/visual/cinematography/cinematography.md)
     * [Movies](theory/art/visual/cinematography/movies.md)
@@ -492,5 +493,6 @@
     * [Icons](theory/art/visual/design/icons.md)
 - [Drawing](theory/art/visual/drawing/drawing.md)
 - [Painting](theory/art/visual/painting/painting.md)
+    * [Painters](theory/art/visual/painting/painters.md)
 - [Photography](theory/art/visual/photography/photography.md)
 - [Sculpture](theory/art/visual/sculpture/sculpture.md)
