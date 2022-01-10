@@ -45,7 +45,7 @@
 - [THE BLACK MUSIC HISTORY LIBRARY.](https://blackmusiclibrary.com/Library)
 - [Vibe graph](https://www.vibe-graph.com/) - web app for visualizing the network graph of Spotify related artists
 - [Piano day](https://www.pianoday.org/)
-- [Gnoosic music](https://www.gnoosic.com/)
+- [DISCOVER NEW MUSIC](https://www.gnoosic.com/)
 - [Music map](https://www.music-map.com/)
 - [Genius](https://genius.com/) - song lyrics
 - [Uppbeat](https://uppbeat.io/) - free Music For YouTube Videos

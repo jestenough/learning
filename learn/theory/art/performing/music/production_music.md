@@ -35,6 +35,7 @@
 
 ## Links
 
+- [Smart links for music marketing](https://www.linkfire.com/)
 - [Free piano method](https://www.freepianomethod.com/)
 - [Ableton Reference Manual](https://www.ableton.com/en/manual/welcome-to-live/)
 - [Generate Accompaniment Progression with R language](https://flujoo.github.io/en/generate-accompaniment-progression/)
