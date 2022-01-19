@@ -54,6 +54,7 @@ TODO
 - [ ] [Make Vim Amazing](https://youtube.com/playlist?list=PLm323Lc7iSW9kRCuzB3J_h7vPjIDedplM)
 - [ ] [We can have nice things](https://youtu.be/Bt-vmPC_-Ho)
 - [ ] [БОЖЕСТВЕННЫЙ nvim как IDE для Python, Rust и всех-всех-всех — встречаем LSP!](https://youtu.be/PA7zZNJXJEk)
+- [ ] [Vim in 100 Seconds](https://youtu.be/-txKSRn0qeA)
 
 
 ## Links

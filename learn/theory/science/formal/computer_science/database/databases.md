@@ -21,6 +21,9 @@ TODO
 - [ ] [Your Database as an API](http://kevinmahoney.co.uk/articles/your-database-as-an-api/)
 - [ ] [Как спроектировать базу данных, чтобы в будущем не пришлось её переписывать — базовые советы](https://tproger.ru/translations/db-scheme-design-guide/)
 - [ ] [7 типов современных баз данных: предназначение, достоинства и недостатки](https://tproger.ru/articles/kakuju-bazu-dannyh-vybrat-dlja-proekta-chtoby-potom-ne-zhalet-ob-jetom/?utm_medium=messenger&utm_source=telegram)
+- [ ] [Как хранить данные в png, не привлекая внимания санитаров](https://habr.com/ru/post/590469/)
+- [ ] [Сравнение SQL и NoSQL: как выбрать систему хранения данных](https://mcs.mail.ru/blog/sravnenie-sql-i-nosql-kak-vybrat-sistemu-hraneniya-dannyh)
+- [ ] [Как выбрать СУБД для решения ваших задач?](https://nuancesprog.ru/p/14678/)
 
 
 ## Books

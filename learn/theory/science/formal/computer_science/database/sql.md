@@ -34,6 +34,8 @@ TODO
 - [ ] [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 - [ ] [5 заданий по SQL с реальных собеседований](https://tproger.ru/articles/5-zadanij-po-sql-s-realnyh-sobesedovanij/?utm_medium=messenger&utm_source=telegram)
 - [ ] [Что такое DDL, DML, DCL и TCL в языке SQL](https://info-comp.ru/what-is-ddl-dml-dcl-tcl)
+- [ ] [Оконные функции в SQL — что это и зачем они нужны](https://tproger.ru/translations/sql-window-functions/)
+- [ ] [6 SQL-запросов, о которых должен знать каждый дата-инженер](https://nuancesprog.ru/p/14447/)
 
 
 ## Courses / Videos

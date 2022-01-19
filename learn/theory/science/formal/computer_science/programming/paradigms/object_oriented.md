@@ -23,6 +23,7 @@ TODO
 - [ ] [If everyone hates it, why is OOP still so widely spread?](https://stackoverflow.blog/2020/09/02/if-everyone-hates-it-why-is-oop-still-so-widely-spread/)
 - [ ] [Case against OOP is understated, not overstated](http://boxbase.org/entries/2020/aug/3/case-against-oop/)
 - [ ] [Classes and Instances](http://craftinginterpreters.com/classes-and-instances.html)
+- [ ] [Вас неправильно учили объектно-ориентированному программированию](https://nuancesprog.ru/p/14662/)
 
 
 ## Books

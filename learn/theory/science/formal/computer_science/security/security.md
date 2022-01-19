@@ -27,6 +27,7 @@ TODO
 - [ ] [How To Become A Hacker](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)
 - [ ] [Ask HN: How does your company manage its encryption keys?](https://news.ycombinator.com/item?id=23390966)
 - [ ] [Best practices for managing and storing secrets including API keys and other credentials [cheat sheet included]](https://blog.gitguardian.com/secrets-api-management/)
+- [ ] [В России создана самоуничтожающаяся флешка с детонатором для истинных параноиков](https://www.cnews.ru/news/top/2021-11-26_rossiyane_sozdali_samounichtozhayushchuyusya)
 
 
 ## Books

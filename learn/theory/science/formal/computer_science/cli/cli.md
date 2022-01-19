@@ -19,6 +19,7 @@ TODO
 - [ ] [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
 - [ ] [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
 - [ ] [Passing runtime data to AWK](https://blog.sanctum.geek.nz/)
+- [ ] [Интерфейс командной строки](https://teccxx.neocities.org/mx1/cli.html)
 
 
 ## Links

@@ -50,11 +50,12 @@ TODO
 - [ ] [A Guide to Web Scraping with Node.js](https://youtu.be/dXjKh66BR2U)
 - [ ] [What is Web Scraping and What is it Used For? | Definition and Examples EXPLAINED](https://youtu.be/Ct8Gxo8StBU)
 - [ ] [{Web Scraping with Python Beautiful Soup}](https://youtu.be/q0ert5YP968)
+- [ ] [Парсинг сайтов на Python](https://youtube.com/playlist?list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q)
 
 
 ## Links
 
-- [Python web libs (local)](../computer_languages/programming/python/python_libraries.md#Web)
+- [Python web libs](../computer_languages/programming/python/python_libraries.md#Web)
 - [Wikidata or scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia)
 - [GoSpider](https://github.com/jaeles-project/gospider) `[GitHub]`
 - [trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction `[GitHub]`

@@ -31,6 +31,7 @@ TODO
 - [ ] [Java 15 in 2020: Reasons to *not* use Java?](https://dev.to/brunoborges/java-15-in-2020-reasons-to-not-use-java-3ekg)
 - [ ] [Java on iOS, for real](https://gluonhq.com/java-on-ios-for-real/)
 - [ ] [Документирование javadoc](http://java-online.ru/java-javadoc.xhtml)
+- [ ] [Разбираемся, почему в Java утекает память несмотря на сборщик мусора](https://proglib.io/p/razbiraemsya-pochemu-v-java-utekaet-pamyat-nesmotrya-na-sborshchik-musora-2021-11-26)
 
 
 ## Books
@@ -55,6 +56,7 @@ TODO
 - [ ] [Java с нуля до Junior + Подготовка к собеседованию](https://www.udemy.com/course/java_sumin/) - (Udemy)
 - [ ] [A Tour of the Modern Java Platform](https://youtu.be/y901lgIuRx0) - (YouTube)
 - [ ] [Amazon Corretto, A Journey into Latency Reduction](https://youtu.be/S4IrAZ5wT3c) - (YouTube)
+- [ ] [Техническое интервью Java Developer - Сергей Гонтаренко](https://youtu.be/SX82OpGP0XE)
 
 
 ## Links

@@ -13,7 +13,6 @@ TODO
 - [ ] [It's time to say goodbye to the GPL](https://martin.kleppmann.com/2021/04/14/goodbye-gpl.html)
 - [ ] [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
 - [ ] [The falsehoods of anti-AGPL propaganda](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
-- [ ] [Choose an open source license](https://choosealicense.com/)
 - [ ] [My personal journey from MIT to GPL](https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html)
 
 
@@ -25,6 +24,7 @@ TODO
 
 ## Links
 
+- [Choose an open source license](https://choosealicense.com/)
 - [Software Licenses in Plain English](https://tldrlegal.com/)
 - [Parity Public License](https://paritylicense.com/)
 - [Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)

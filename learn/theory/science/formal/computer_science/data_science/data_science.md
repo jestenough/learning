@@ -16,6 +16,7 @@ TODO
 - [ ] [Что такое Big data engineering, и как развиваться в этой сфере](https://habr.com/ru/company/skillfactory/blog/552432/)
 - [ ] [Кто такие дата-инженеры, и как ими становятся?](https://habr.com/ru/company/otus/blog/452670/)
 - [ ] [Любить и понимать данные: кто такие дата инженеры и как им расти](https://ain.ua/2021/10/19/lyubit-i-ponimat-dannye-kto-takie-data-inzhenery-i-kak-im-rasti/?utmsorce)
+- [ ] [Как начинающий Data Scientist может заработать на фрилансе?](https://proglib.io/p/kak-nachinayushchiy-data-scientist-mozhet-zarabotat-na-frilanse-2021-04-29)
 
 
 ## Book
@@ -30,6 +31,9 @@ TODO
 - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - (Coursera)
 - [x] [Data Engineering for Everyone](https://learn.datacamp.com/courses/data-engineering-for-everyone) - (DataCamp)
 - [ ] [Data Science, черные ящики – и почему вам сильно повезло](https://youtu.be/zvGeLvWZ7yQ) - (YouTube)
+- [ ] [Highload (Технополис, осень 2017)](https://youtube.com/playlist?list=PLrCZzMib1e9rZohs_FJg8MK52Ey494z40)
+- [ ] [Инфраструктура больших данных (семинары) (3 курс, весна 2021)](https://youtube.com/playlist?list=PL4_hYwCyhAvbI83zAjpg8EO52sBywa2rQ)
+- [ ] [Инфраструктура больших данных (лекции) (3 курс, весна 2021)](https://youtube.com/playlist?list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx)
 
 
 ## Links

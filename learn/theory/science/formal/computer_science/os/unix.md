@@ -45,6 +45,7 @@ TODO
 - [ ] [When Unix learned to reboot(2)](http://bsdimp.blogspot.com/2020/07/when-unix-learned-to-reboot2.html)
 - [ ] [Ранняя история UNIX](https://habr.com/ru/post/194160/)
 - [ ] [Самые замечательные программы Unix](https://habr.com/ru/post/495550/)
+- [ ] [Cron Jobs — пособие для начинающих](https://tproger.ru/translations/guide-to-cron-jobs/)
 
 
 ## Books

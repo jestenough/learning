@@ -5,6 +5,7 @@ TODO
 
 ## Articles
 
+- [ ] [My favourite Git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
 - [ ] [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [ ] [Improving Git's Autocorrect Feature](https://azeemba.com/posts/contributing-to-git.html)
 - [ ] [Working With Multiple Git Configs](https://rossedman.io/blog/computers/working-with-multiple-git-configs/)
@@ -30,6 +31,7 @@ TODO
 - [ ] [Малоизвестные Git-команды](https://habr.com/ru/company/vk/blog/318508/)
 - [ ] [Ветвление Git с примерами из реальной жизни](https://proglib.io/p/vetvlenie-git-s-primerami-iz-realnoy-zhizni-2020-01-25)
 - [ ] [Всё, что нужно знать начинающему о Git: рассмотрим за 15 минут](https://proglib.io/p/vse-chto-nuzhno-znat-nachinayushchemu-o-git-rassmotrim-za-15-minut-2021-10-17)
+- [ ] [git rebase in depth](https://git-rebase.io/)
 
 
 ## Books
@@ -46,6 +48,7 @@ TODO
 - [ ] [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - (YouTube)
 - [ ] [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 - [ ] [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - (Coursera)
+- [ ] [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8)
 
 
 ## Hubs

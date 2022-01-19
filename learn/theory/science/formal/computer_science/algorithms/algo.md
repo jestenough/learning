@@ -2,6 +2,7 @@
 
 TODO
 
+
 ## Articles
 
 - [ ] [Algorithms (GeekForGeeks)](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
@@ -17,6 +18,7 @@ TODO
 - [ ] [What is Big O Notation Explained: Space and Time Complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
 - [ ] [Пара алгоритмических задач для успешного программиста: нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 - [ ] [Сложность алгоритмов и операций на примере Python](https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03)
+- [ ] [Введение в связанные списки](https://tproger.ru/translations/introduction-to-linked-lists/)
 
 
 ## Books
@@ -40,6 +42,7 @@ TODO
 - [ ] [Курс «Алгоритмы и структуры данных поиска»](https://youtube.com/playlist?list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX) - (YouTube)
 - [ ] [Алгоритмы и структуры данных, часть 1(осень 2019)](https://youtube.com/playlist?list=PLlb7e2G7aSpTZN_zRrbpVJUvB-pTuM_VL) - (YouTube)
 - [ ] [Алгоритмы и структуры данных, часть 2 (весна 2020)](https://youtube.com/playlist?list=PLlb7e2G7aSpRMDLGXOYutKAsDc6rrIrbl) - (YouTube)
+- [ ] [Intro to Algorithms: Crash Course Computer Science #13](https://youtu.be/rL8X2mlNHPM)
 
 
 ## Links

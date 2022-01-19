@@ -21,6 +21,7 @@ TODO
 - [ ] [Big O Notation – Explained as easily as possible](https://news.ycombinator.com/item?id=25803288)
 - [ ] [A Guide to Big O notation](https://eaj.no/a-guide-to-big-o-notation)
 - [ ] [That XOR Trick](https://florian.github.io/xor-trick/)
+- [ ] [Генерировать случайные числа гораздо сложнее, чем вы думаете](https://nuancesprog.ru/p/14619/)
 
 
 ## Books
@@ -30,9 +31,7 @@ TODO
 - [x] Теоретический минимум по Computer Science`[224/224]`
 - [x] Самое главное...Электронная почта (А.Орлов)`[128/128]`
 - [ ] Digital Design and Computer Architecture, Second Edition (David Harris)
-- [ ] Programming Languages and Paradigms
 - [ ] Flow based Programming (J Paul Morrison)
-- [ ] Введение в функциональное программирование (John Harrison)
 - [ ] Making Sense of Stream Processing (Martin Kleppmann)
 - [ ] [Basic Concepts in Information Theory and Coding (Solomon W. GolombRobert E. PeileRobert A. Scholtz)](https://link.springer.com/book/10.1007/978-1-4757-2319-9)
 - [ ] [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
@@ -40,6 +39,7 @@ TODO
 - [ ] [Foundations of Computer Science (Al Aho and Jeff Ullman)](http://infolab.stanford.edu/~ullman/focs.html)
 - [ ] [Essential Coding Theory (Venkatesan Guruswami, Atri Rudra, Madhu Sudan)](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf)
 - [ ] Getting Structured Data from the Internet (Jay M. Patel)
+- [ ] Конкретная математика. Математические основы информатики (Д.Кнут, Р.Л.Грэхем, О.Паташник)
 
 
 ## Courses / Videos
@@ -62,6 +62,7 @@ TODO
 - [ ] [Donald E. Knuth Lectures](https://online.stanford.edu/donald-e-knuth-lectures) - (YouTube)
 - [ ] [Missing Semester IAP 2020](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) - (YouTube)
 - [ ] [How do computers read code?](https://youtu.be/QXjU9qTsYCc) - (YouTube)
+- [ ] [Как измерить количество информации?](https://youtu.be/zl_rXFb1eSM)
 
 
 ## Links
@@ -84,7 +85,7 @@ TODO
 - [Computerphile](https://www.youtube.com/user/Computerphile/featured) `[YouTube]`
 - [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured) `[YouTube]`
 - [edureka](https://www.youtube.com/c/edurekaIN) `[YouTube]`
-- [Слёрм](https://www.youtube.com/c/slurm_io)
+- [Слёрм](https://www.youtube.com/c/slurm_io) `[YouTube]`
 - [Khan Academy Computing](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA) `[YouTube]`
 - [IBM Technology](https://www.youtube.com/c/IBMTechnology) `[YouTube]`
 - [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform/) `[YouTube]`

@@ -41,6 +41,7 @@ TODO
 
 ## Courses / Videos
 
+- [ ] [Revolution OS - 2001 - Multilingual (16 languages)](https://youtu.be/Eluzi70O-P4)
 - [ ] [16-Bit Virtual Machine](https://youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b) - (YouTube)
 - [ ] [DLS: Functional Foundations for Operating Systems](https://blogs.cs.st-andrews.ac.uk/csblog/2018/01/24/dls-functional-foundations-for-operating-systems/)
 - [ ] [Commute talk: How to start building an OS?](https://youtu.be/fqllFKjEZAo)

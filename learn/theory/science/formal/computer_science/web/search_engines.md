@@ -40,6 +40,8 @@ TODO
 - [ ] [Searx: moving away from DuckDuckGo](https://sagrista.info/blog/2021/searx-or-duckduckgo/)
 - [ ] [Hands on with: MeiliSearch - A next generation search engine for modern web](https://codefibershq.com/blog/hands-on-meilisearch-a-next-generation-search-engine-for-modern-web)
 - [ ] [CROKAGE: A New Way to Search Stack Overflow](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/)
+- [ ] [Create ASCII banner in the DuckDuckGo](https://10alert.com/create-ascii-banner-in-the-duckduckgo/)
+- [ ] [Как создать QR-код для веб-сайта в DuckDuckGo](https://winreviewer.com/qr-code-for-site-with-duckduckgo/)
 
 
 ## Courses / Videos

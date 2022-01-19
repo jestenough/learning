@@ -43,6 +43,8 @@ TODO
 - [ ] [Free Lunch for Few-shot Learning: Distribution Calibration](https://arxiv.org/abs/2101.06395)
 - [ ] [An Inferential Perspective on Federated Learning](https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/)
 - [ ] [Learning Curve Theory](https://arxiv.org/abs/2102.04074)
+- [ ] [63 Machine Learning Algorithms — Introduction](https://medium.com/swlh/63-machine-learning-algorithms-introduction-5e8ea4129644)
+- [ ] [Can a neural network train other networks?](https://towardsdatascience.com/can-a-neural-network-train-other-networks-cf371be516c6)
 
 
 ## Books
@@ -69,6 +71,7 @@ TODO
 ## Links
 
 - [Learn Machine Learning](https://machinelearning.to/)
+- [Learney](https://app.learney.me/)
 - [Machine Learning wiki](https://wiki.kourouklides.com/wiki/Machine_Learning)
 - [Deep Learning wiki](https://wiki.kourouklides.com/wiki/Deep_Learning)
 - [Дорожная карта математических дисциплин для машинного обучения, часть 1](https://habr.com/ru/post/432670/)

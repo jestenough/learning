@@ -40,6 +40,7 @@ TODO
 - [ ] [Practical type inference for arbitrary-rank types](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
 - [ ] [Purely Functional Data Structures and Monoids](https://doisinkidney.com/pdfs/purely-functional-data-structures-slides.pdf)
 - [ ] [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987-r90.pdf)
+- [ ] Введение в функциональное программирование (John Harrison)
 
 
 ## Courses / Videos

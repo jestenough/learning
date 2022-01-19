@@ -90,6 +90,9 @@ TODO
 - [ ] [Instant Webpages and Terabytes of Data Savings Through the Magic of Service Workers](https://dev.to/devteam/instant-webpages-and-terabytes-of-data-savings-through-the-magic-of-service-workers-1mkc)
 - [ ] [Smaller HTML Payloads with Service Workers](https://philipwalton.com/articles/smaller-html-payloads-with-service-workers/)
 - [ ] [How to Fix the Refresh Button When Using Service Workers](https://redfin.engineering/how-to-fix-the-refresh-button-when-using-service-workers-a8e27af6df68)
+- [ ] [The Soviet web: the tale of how the USSR almost invented the internet](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
+- [ ] [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
+- [ ] [Архитектура веба: основы для начинающих разработчиков](https://tproger.ru/translations/web-architecture-101/)
 
 
 ## Books

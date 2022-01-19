@@ -43,4 +43,4 @@ TODO
 - [The Evolution of Artificial Intelligence](https://achievements.ai/)
 - [Artificial Intelligence Wiki](https://docs.paperspace.com/machine-learning/)
 - [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction)
-- [Открытая лаборатория ИИ МФТИ](https://www.youtube.com/c/AIMIPT)
+- [Открытая лаборатория ИИ МФТИ](https://www.youtube.com/c/AIMIPT) `[YouTube]`

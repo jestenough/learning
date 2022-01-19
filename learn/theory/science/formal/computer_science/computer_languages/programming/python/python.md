@@ -68,6 +68,7 @@ TODO
 - [ ] [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 - [ ] [Writing a simple Python compiler: 1. hello, fibonacci](https://notes.eatonphil.com/writing-a-simple-python-compiler.html)
 - [ ] [Разбор параметров командной строки в Python](https://jenyay.net/Programming/Argparse)
+- [ ] [It’s time to stop using Python 3.6](https://pythonspeed.com/articles/stop-using-python-3.6/)
 
 
 ## Books
@@ -110,6 +111,7 @@ TODO
 - [ ] [Łukasz Langa / Designing With Immutability [eng]](https://youtu.be/0RInKZR8Weo)
 - [ ] [Creator of Python Programming Language, Guido van Rossum | Oxford Union](https://youtu.be/7kn7NtlV6g0)
 - [ ] [Python API Development - Comprehensive Course for Beginners](https://youtu.be/0sOvCWFmrtA)
+- [ ] [What's New in Python 3.10: featuring Brandt Bucher, Lukasz Llanga and Sebastian Ramirez](https://youtu.be/JteTO3EE7y0)
 
 
 ## Links

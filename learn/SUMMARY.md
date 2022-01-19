@@ -175,9 +175,11 @@
         * [Web performance](theory/science/formal/computer_science/web/web_performance.md)
         * [Web scraping](theory/science/formal/computer_science/web/web_scraping.md)
 
+- [Logic](theory/science/formal/logic/logic.md)
+
 - [Mathematics](theory/science/formal/mathematics/mathematics.md)
-    <!-- - [Applied mathematics](theory/science/formal/mathematics/applied_mathematics/applied_mathematics.md)
-        - [Computational sciences](theory/science/formal/mathematics/applied_mathematics/computational_sciences/computational_sciences.md)
+    - [Applied mathematics](theory/science/formal/mathematics/applied_mathematics/applied_mathematics.md)
+        <!-- - [Computational sciences](theory/science/formal/mathematics/applied_mathematics/computational_sciences/computational_sciences.md)
             * [Computer algebra](theory/science/formal/mathematics/applied_mathematics/computational_sciences/computer_algebra.md)
             * [Numerical analysis](theory/science/formal/mathematics/applied_mathematics/computational_sciences/numerical_analysis.md)
         - [Mathematical physics](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/mathematical_physics.md)
@@ -185,33 +187,38 @@
             * [Fluid mechanics](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/fluid_mechanics.md)
             * [Mechanics of deformable solids](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/mechanics_of_deformable_solids.md)
             * [Mechanics of structures](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/mechanics_of_structures.md)
-            * [Particle mechanics](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/particle_mechanics.md)
+            * [Particle mechanics](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/particle_mechanics.md) -->
         - [Probability and statistics](theory/science/formal/mathematics/applied_mathematics/probability_and_statistics/probability_and_statistics.md)
             * [Probability theory](theory/science/formal/mathematics/applied_mathematics/probability_and_statistics/probability_theory.md)
             * [Statistics](theory/science/formal/mathematics/applied_mathematics/probability_and_statistics/statistics.md)
     - [Pure mathematics](theory/science/formal/mathematics/pure_mathematics/pure_mathematics.md)
         - [Algebra](theory/science/formal/mathematics/pure_mathematics/algebra/algebra.md)
-            * [Algebraic systems](theory/science/formal/mathematics/pure_mathematics/algebra/algebraic_systems.md)
+            <!-- * [Algebraic systems](theory/science/formal/mathematics/pure_mathematics/algebra/algebraic_systems.md)
             * [Commutative rings](theory/science/formal/mathematics/pure_mathematics/algebra/commutative_rings.md)
-            * [Field theory and polynomials](theory/science/formal/mathematics/pure_mathematics/algebra/field_theory.md)
-            * [Order theory](theory/science/formal/mathematics/pure_mathematics/algebra/order_theory.md)
+            * [Field theory and polynomials](theory/science/formal/mathematics/pure_mathematics/algebra/field_theory.md) -->
+            * [Linear algebra](theory/science/formal/mathematics/pure_mathematics/algebra/linear_algebra.md)
+            <!-- * [Order theory](theory/science/formal/mathematics/pure_mathematics/algebra/order_theory.md) -->
         - [Analysis](theory/science/formal/mathematics/pure_mathematics/analysis/analysis.md)
-        - [Combinatorics](theory/science/formal/mathematics/pure_mathematics/combinatorics/combinatorics.md)
+        <!-- - [Combinatorics](theory/science/formal/mathematics/pure_mathematics/combinatorics/combinatorics.md) -->
         - [Foundations](theory/science/formal/mathematics/pure_mathematics/foundations/foundations.md)
-            * [Model theory](theory/science/formal/mathematics/pure_mathematics/foundations/model_theory.md)
+            * [Fractal](theory/science/formal/mathematics/pure_mathematics/foundations/fractal.md)
+            * [Graph theory](theory/science/formal/mathematics/pure_mathematics/foundations/graph_theory.md)
+            * [Lambda calculus](theory/science/formal/mathematics/pure_mathematics/foundations/lambda_calculus.md)
+            <!-- * [Model theory](theory/science/formal/mathematics/pure_mathematics/foundations/model_theory.md)
             * [Proof theory](theory/science/formal/mathematics/pure_mathematics/foundations/proof_theory.md)
-            * [Set theory](theory/science/formal/mathematics/pure_mathematics/foundations/set_theory.md)
+            * [Set theory](theory/science/formal/mathematics/pure_mathematics/foundations/set_theory.md) -->
+            * [Type theory](theory/science/formal/mathematics/pure_mathematics/foundations/type_theory.md)
         - [Geometry](theory/science/formal/mathematics/pure_mathematics/geometry/geometry.md)
             * [Algebraic geometry](theory/science/formal/mathematics/pure_mathematics/geometry/algebraic_geometry.md)
-            * [Arithmetic geometry](theory/science/formal/mathematics/pure_mathematics/geometry/arithmetic_geometry.md)
+            <!-- * [Arithmetic geometry](theory/science/formal/mathematics/pure_mathematics/geometry/arithmetic_geometry.md)
             * [Convex geometry](theory/science/formal/mathematics/pure_mathematics/geometry/convex_geometry.md)
             * [Differential geometry](theory/science/formal/mathematics/pure_mathematics/geometry/differential_geometry.md)
             * [Diophantine geometry](theory/science/formal/mathematics/pure_mathematics/geometry/diophantine_geometry.md)
-            * [Discrete geometry](theory/science/formal/mathematics/pure_mathematics/geometry/discrete_geometry.md)
+            * [Discrete geometry](theory/science/formal/mathematics/pure_mathematics/geometry/discrete_geometry.md) -->
         - [Number theory](theory/science/formal/mathematics/pure_mathematics/number_theory/number_theory.md)
-            * [Arithmetic](theory/science/formal/mathematics/pure_mathematics/number_theory/arithmetic.md)
+            <!-- * [Arithmetic](theory/science/formal/mathematics/pure_mathematics/number_theory/arithmetic.md) -->
         - [Recreational mathematics](theory/science/formal/mathematics/pure_mathematics/recreational_mathematics/recreational_mathematics.md)
-        - [Topology](theory/science/formal/mathematics/pure_mathematics/topology/topology.md) -->
+        - [Topology](theory/science/formal/mathematics/pure_mathematics/topology/topology.md)
 
 
 ## Natural science

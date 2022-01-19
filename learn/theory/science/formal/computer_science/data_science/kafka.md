@@ -15,6 +15,11 @@ TODO
 - [ ] [Featuring Apache Kafka in the Netflix Studio and Finance World](https://www.confluent.io/blog/how-kafka-is-used-by-netflix/)
 
 
+## Courses / Videos
+
+- [ ] [Митап "Apache Kafka в вопросах и ответах"](https://youtu.be/sQX6oUi2eQ4)
+
+
 ## Links
 
 - [Conduktor (Apache Kafka Desktop Client)](https://www.conduktor.io/)

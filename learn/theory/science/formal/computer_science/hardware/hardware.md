@@ -51,6 +51,7 @@ TODO
 - [ ] [Tracking Firmware Code Size](https://interrupt.memfault.com/blog/code-size-deltas)
 - [ ] [Recovering Firmware Through U-boot](https://cybergibbons.com/hardware-hacking/recovering-firmware-through-u-boot/)
 - [ ] [Neuromorphic computing: An Overview](https://opensourc.es/blog/neuromorphic/)
+- [ ] [Мой компьютер на логических микросхемах](https://habr.com/ru/post/590821/)
 
 
 ## Books

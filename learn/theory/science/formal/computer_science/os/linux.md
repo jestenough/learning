@@ -97,6 +97,7 @@ TODO
 - [ ] ["Kernel hacking like it's 2020" - Russell Currey (LCA 2020)](https://youtu.be/heib48KG-YQ) - (YouTube)
 - [ ] [LISA19 - Linux Systems Performance](https://youtu.be/fhBHvsi0Ql0) - (YouTube)
 - [ ] [The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE) - (YouTube)
+- [ ] [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4) - (YouTube)
 
 
 ## Distributions

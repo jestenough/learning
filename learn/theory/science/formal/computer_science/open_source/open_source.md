@@ -32,6 +32,7 @@ TODO
 - [ ] [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4)
 - [ ] [Actually, you CAN do it](https://drewdevault.com/2017/01/06/Actually-you-CAN-do-it.html)
 - [ ] [Топ 10 альтернатив Github для размещения Open Source проектов](https://zen.yandex.ru/media/nuancesprog/top-10-alternativ-github-dlia-razmesceniia-open-source-proektov-5df8c7251a86089cbe3549c6)
+- [ ] [Как поучаствовать в Open Source проекте? 8 ответов новичку](https://tproger.ru/articles/open-source-for-beginners/)
 
 
 ## Courses / Videos
