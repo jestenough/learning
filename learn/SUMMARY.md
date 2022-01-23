@@ -342,15 +342,9 @@
 
 ## Social science
 
-<!-- - [Human geography](anthropogeography/anthropogeography.md)
-    - [Cultural geography](cultural_geography/cultural_geography.md)
-        * [Social geography]()
-        * [Animal geographies]()
-        * [Language geography]()
-        * [Sexuality and space]()
-        * [Children's geographies]()
-        * [Religion and geography]()
-    - [Development geography](development_geography/development_geography.md)
+- [Human geography](theory/science/social/anthropogeography/anthropogeography.md)
+    - [Cultural geography](theory/science/social/anthropogeography/cultural_geography/cultural_geography.md)
+    <!-- - [Development geography](development_geography/development_geography.md)
     - [Economic geography](economic_geography/economic_geography.md)
         * [Marketing geography]()
         * [Transportation geography]()
@@ -381,6 +375,10 @@
     - [Mass communication](mass_communication/mass_communication.md)
     - [Nonverbal communication](nonverbal_communication/nonverbal_communication.md)
     - [Organizational communication](organizational_communication/organizational_communication.md) -->
+- [Business studies](theory/science/social/business_studies/business_studies.md)
+    * [Finance](theory/science/social/business_studies/finance.md)
+    * [Investing](theory/science/social/business_studies/investing.md)
+- [Cultural studies](theory/science/social/cultural_studies/cultural_studies.md)
 - [Economics](theory/science/social/economics/economics.md)
     <!-- - [Applied economics](applied_economics/applied_economics.md)
     - [Econometrics](econometrics/econometrics.md)
@@ -414,9 +412,13 @@
         * [Criminal](law/public_law/criminal.md)
     - [Substantive law](law/substantive_law.md) -->
 - [Linguistics](theory/science/social/linguistics/linguistics.md)
+    - [Arabic](theory/science/social/linguistics/languages/arabic/arabic.md)
+    - [Aramaic](theory/science/social/linguistics/languages/aramaic/aramaic.md)
     - [English](theory/science/social/linguistics/languages/english/english.md)
     - [Russian](theory/science/social/linguistics/languages/russian/russian.md)
-- [Marketing](marketing/marketing.md)
+- [Management](theory/science/social/management/management.md)
+    - [Product management](theory/science/social/management/product_management.md)
+- [Marketing](theory/science/social/marketing/marketing.md)
     <!-- - [B2B](b2b/b2b.md)
     - [Consumer marketing](consumer_marketing/consumer_marketing.md)
     - [Global marketing](global_marketing/global_marketing.md)
@@ -438,8 +440,8 @@
     - [Philosophy of religion]()
     - [Philosophy of science]()
     - [Social philosophy]() -->
-<!-- - [Political science](political_science/political_science.md)
-    - [Comparative politics](comparative_politics/comparative_politics.md)
+- [Political science](theory/science/social/political_science/political_science.md)
+    <!-- - [Comparative politics](comparative_politics/comparative_politics.md)
     - [Development studies](development_studies/development_studies.md)
     - [Gender and politics](gender_and_politics/gender_and_politics.md)
     - [Geopolitics](geopolitics/geopolitics.md)
@@ -449,11 +451,14 @@
     - [Political behavior](political_behavior/political_behavior.md)
     - [Strategic studies](strategic_studies/strategic_studies.md) -->
 - [Psyhology](theory/science/social/psyhology/psyhology.md)
+    * [Consciousness](theory/science/social/psyhology/consciousness.md)
+    - [Mindfulness](theory/science/social/psyhology/mindfulness/mindfulness.md)
+        * [Meditation](theory/science/social/psyhology/mindfulness/meditation.md)
 - [Sociology](theory/science/social/sociology/sociology.md)
 - [Theology](theory/science/social/theology/theology.md)
-    <!-- - [Abrahamic]()
-    - [Indo-Iranian]()
-    - [Chinese]() -->
+    - [Buddhism](theory/science/social/theology/buddhism/buddhism.md)
+    - [Christianity](theory/science/social/theology/christianity/christianity.md)
+        * [Authors](theory/science/social/theology/christianity/authors.md)
 
 
 <!-- Art -->

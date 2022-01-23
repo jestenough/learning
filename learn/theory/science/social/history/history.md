@@ -42,9 +42,16 @@ TODO
 ## Courses
 
 - [x] [Россия на крови | Сезон 1](https://youtube.com/playlist?list=PLWGgJHpZrYMqNm0waHyEwIKQAj_qK6DVc) - (YouTube)
+- [ ] [Крым. Путь на Родину. Документальный фильм Андрея Кондрашова](https://youtu.be/t42-71RpRgI)
+- [ ] [Власть Соловецкая - Свидетельства и документы - 1988](https://youtu.be/DNvYLTvy1jI)
 - [ ] [World History](https://youtube.com/playlist?list=PLBDA2E52FB1EF80C9)
 - [ ] [Ancient Greece in 18 minutes](https://youtu.be/gFRxmi4uCGo)
 - [ ] [Ancient Rome in 20 minutes](https://youtu.be/46ZXl-V4qwY)
+- [ ] [Японский милитаризм: капитализм с самурайской спецификой](https://youtu.be/h3pEf8SVNqI)
+- [ ] [Японский фашизм: дзайбацу](https://youtu.be/lHnEoU_4JJo)
+- [ ] [Итальянский фашизм. Муссолини и корпоративное государство.](https://youtu.be/nddkvl_qqBk)
+- [ ] [ЭКОНОМИКА ТРЕТЬЕГО РЕЙХА: Крупп](https://youtu.be/eNPHncu22Bk)
+- [ ] [Лекция А. Б. Зубова — «Рукотворная катастрофа: как пришла Россия к 22 июня 1941 года»](https://youtu.be/mJ4PmMbXGeI)
 
 
 ## Links

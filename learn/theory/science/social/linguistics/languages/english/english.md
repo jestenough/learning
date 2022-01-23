@@ -10,8 +10,6 @@ TODO
 - [ ] [English is not normal](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
 - [ ] [An Interactive Guide to Ambiguous Grammar](https://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar)
 - [ ] [Why English actually is relatively easy to learn (but not to master)](http://christopherwink.com/2018/11/05/english-easy-learn-john-mcwhorter-history-magnificent-bastard-tongue/)
-- [ ] []()
-- [ ] []()
 
 
 ## Books
@@ -26,7 +24,7 @@ TODO
 - [ ] [English Style Guide](https://ec.europa.eu/info/sites/default/files/styleguide_english_dgt_en.pdf)
 
 
-## Courses
+## Courses / Videos
 
 - [ ] [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation) - (Coursera)
 - [ ] [Audio-lessons](https://english-globe.ru/index.php?option=com_content&task=view&id=13&Itemid=17) - (English Globe)
@@ -35,6 +33,10 @@ TODO
 - [ ] [Online English Courses](http://www.1-language.com/englishcourse/index.htm)
 - [ ] [Correct English](http://www.correctenglish.ru/exercises/)
 - [ ] [Полиглот](https://rutracker.org/forum/viewtopic.php?t=3918150)
+- [ ] [Как понимать на слух английскую речь? ПРОСТАЯ ТРЕНИРОВКА](https://youtu.be/AOVBrB8ypkQ)
+- [ ] [100 Английских Сокращений Слов с Примерами.Английских Сокращений и Сленг.](https://youtu.be/LVhcyGBLTEg)
+- [ ] [Как улучшить разговорный американский английский - Говорите как носитель языка](https://youtu.be/m3g51xfopIE)
+- [ ] [Learn English with Movies | Will Smith - The Pursuit of Happyness](https://youtu.be/pKoH9GkEKxQ)
 
 
 ### Interview
@@ -51,6 +53,7 @@ TODO
 
 ## Links
 
+- [Wooordhunt](https://wooordhunt.ru/)
 - [History of english podcast](https://historyofenglishpodcast.com/)
 - [Common Errors in English Usage](https://brians.wsu.edu/common-errors/)
 

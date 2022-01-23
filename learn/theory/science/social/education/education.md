@@ -36,6 +36,7 @@ TODO
 
 ## Courses / Videos
 
+- [ ] [Фильм Саммерхилл/ Summerhill (1,2,3 и 4 серии)](https://youtu.be/dLZFKyyh-0Q)
 - [ ] [Is public education compatible with free speech?](https://youtu.be/_7zMtX0W82s)
 - [ ] [Information Engineering in Cambridge | Sprachen lernen | Lebensphilosophie](https://youtu.be/j-qBpk2c5fw)
 - [ ] [OSCON 2012: Danny Hillis, "The Learning Map"](https://youtu.be/wKcZ8ozCah0)

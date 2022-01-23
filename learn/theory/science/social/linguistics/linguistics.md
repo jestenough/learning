@@ -25,6 +25,7 @@ TODO
 
 ## Links
 
+- [Google Books Ngram Viewer](https://books.google.com/ngrams) -
 - [Learning with Texts](https://learningwithtexts.com/) - Free translation software
 - [Free Dictionary API](https://dictionaryapi.dev/)
 - [Divvun](https://divvun.org/) - Языковые инструменты для языков коренных народов и меньшинств
@@ -37,7 +38,8 @@ TODO
 
 
 <!--
-- [ ] [Speaking Latin brings an unmediated thrill to the Classics](https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics)
 - [SELFSTUDYCLASSICS](https://selfstudyclassics.com/) - Online Latin course
-- [How I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html)
+- [ ] [Speaking Latin brings an unmediated thrill to the Classics](https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics)
+- [ ] [How I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html)
+- [ ] [ЛАТИНСКИЙ ЯЗЫК (КЛАССИЧЕСКИЙ)](https://youtube.com/playlist?list=PLX5aw9V4Uo7P1vTQlMwTnsIhqNaGhfv9d)
 -->
