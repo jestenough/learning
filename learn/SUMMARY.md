@@ -463,6 +463,16 @@
 
 <!-- Art -->
 
+
+## Culinary arts
+
+- [Cookery](theory/art/cookery/cookery.md)
+    - [Cuisines](theory/art/cookery/cuisines.md)
+    - [Recipes](theory/art/cookery/recipes.md)
+    - [Food](theory/art/cookery/food.md)
+    - [Tea](theory/art/cookery/tea.md)
+
+
 ## Games
 
 - [Video games](theory/art/games/video_games.md)
