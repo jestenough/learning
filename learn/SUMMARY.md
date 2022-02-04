@@ -223,8 +223,8 @@
 
 ## Natural science
 
-<!-- - [Agricultural science](theory/science/natural/agricultural_science/agricultural_science.md)
-    - [Agriculture](theory/science/natural/agricultural_science/agriculture/agriculture.md)
+- [Agricultural science](theory/science/natural/agricultural_science/agricultural_science.md)
+    <!-- - [Agriculture](theory/science/natural/agricultural_science/agriculture/agriculture.md)
         * [Cuniculture](theory/science/natural/agricultural_science/agriculture/cuniculture.md)
         * [Fungiculture](theory/science/natural/agricultural_science/agriculture/fungiculture.md)
         * [Heliciculture](theory/science/natural/agricultural_science/agriculture/heliciculture.md)
@@ -241,63 +241,71 @@
     - [Horticulture](theory/science/natural/agricultural_science/horticulture/horticulture.md)
         * [Floriculture](theory/science/natural/agricultural_science/horticulture/floriculture.md)
         * [Hydroculture](theory/science/natural/agricultural_science/horticulture/hydroculture.md)
-    - [Permaculture](theory/science/natural/agricultural_science/permaculture.md) -->
-<!-- - [Astronomy](theory/science/natural/astronomy/astronomy.md)
-    * [Astrobiology](theory/science/natural/astronomy/astrobiology.md)
+    - [Permaculture](theory/science/natural/agricultural_science/permaculture.md)  -->
+- [Astronomy](theory/science/natural/astronomy/astronomy.md)
+    <!-- * [Astrobiology](theory/science/natural/astronomy/astrobiology.md)
     * [Astrodynamics](theory/science/natural/astronomy/astrodynamics.md)
-    * [Astrometry](theory/science/natural/astronomy/astrometry.md)
+    * [Astrometry](theory/science/natural/astronomy/astrometry.md) -->
     * [Astrophysics](theory/science/natural/astronomy/astrophysics.md)
     * [Cosmology](theory/science/natural/astronomy/cosmology.md)
-    * [Extragalactic astronomy](theory/science/natural/astronomy/extragalactic_astronomy.md)
+    <!-- * [Extragalactic astronomy](theory/science/natural/astronomy/extragalactic_astronomy.md) -->
     * [Galactic astronomy](theory/science/natural/astronomy/galactic_astronomy.md)
     * [Physical cosmology](theory/science/natural/astronomy/physical_cosmology.md)
     * [Planetary science](theory/science/natural/astronomy/planetary_science.md)
-    * [Stellar astronomy](theory/science/natural/astronomy/stellar_astronomy.md) -->
-<!-- - [Biology](theory/science/natural/biology/biology.md)
+    <!-- * [Stellar astronomy](theory/science/natural/astronomy/stellar_astronomy.md) -->
+- [Biology](theory/science/natural/biology/biology.md)
     - [Anatomy](theory/science/natural/biology/anatomy/anatomy.md)
-    - [Biotechnology](theory/science/natural/biology/biotechnology/biotechnology.md)
+    <!-- - [Biotechnology](theory/science/natural/biology/biotechnology/biotechnology.md) -->
     - [Botany](theory/science/natural/biology/botany/botany.md)
-    - [Cell biology](theory/science/natural/biology/cell_biology/cell_biology.md)
+    <!-- - [Cell biology](theory/science/natural/biology/cell_biology/cell_biology.md) -->
     - [Ecology](theory/science/natural/biology/ecology/ecology.md)
     - [Evolutionary biology](theory/science/natural/biology/evolutionary_biology/evolutionary_biology.md)
     - [Genetics](theory/science/natural/biology/genetics/genetics.md)
-    - [Marine biology](theory/science/natural/biology/marine_biology/marine_biology.md)
+        * [DNA](theory/science/natural/biology/genetics/dna.md)
+        * [Genomics](theory/science/natural/biology/genetics/genomics.md)
+    <!-- - [Marine biology](theory/science/natural/biology/marine_biology/marine_biology.md) -->
     - [Microbiology](theory/science/natural/biology/microbiology/microbiology.md)
-    - [Molecular biology](theory/science/natural/biology/molecular_biology/molecular_biology.md)
-    - [Mycology](theory/science/natural/biology/mycology/mycology.md)
+    <!-- - [Molecular biology](theory/science/natural/biology/molecular_biology/molecular_biology.md)
+    - [Mycology](theory/science/natural/biology/mycology/mycology.md) -->
     - [Neuroscience](theory/science/natural/biology/neuroscience/neuroscience.md)
-    - [Paleontology](theory/science/natural/biology/paleontology/paleontology.md)
+        - [Somnology](theory/science/natural/biology/neuroscience/somnology/somnology.md)
+    <!-- - [Paleontology](theory/science/natural/biology/paleontology/paleontology.md)
     - [Phycology](theory/science/natural/biology/phycology/phycology.md)
     - [Physiology](theory/science/natural/biology/physiology/physiology.md)
     - [Protistology](theory/science/natural/biology/protistology/protistology.md)
-    - [Virology](theory/science/natural/biology/virology/virology.md)
-    - [Zoology](theory/science/natural/biology/zoology/zoology.md) -->
+    - [Virology](theory/science/natural/biology/virology/virology.md) -->
+    - [Zoology](theory/science/natural/biology/zoology/zoology.md)
 - [Chemistry](theory/science/natural/chemistry/chemistry.md)
     <!-- - [Analytical chemistry biochemistry](theory/science/natural/chemistry/analytical_chemistry/analytical_chemistry.md)
     - [Biochemistry](theory/science/natural/chemistry/biochemistry/biochemistry.md)
     - [Organic chemistry](theory/science/natural/chemistry/organic_chemistry/organic_chemistry.md)
     - [Inorganic chemistry](theory/science/natural/chemistry/inorganic_chemistry/inorganic_chemistry.md)
     - [Physical chemistry](theory/science/natural/chemistry/physical_chemistry/physical_chemistry.md) -->
-<!-- - [Earth Science](theory/science/natural/earth_science/earth_science.md)
+- [Earth Science](theory/science/natural/earth_science/earth_science.md)
     - [Atmospheric science](theory/science/natural/earth_science/atmospheric_science/atmospheric_science.md)
+    <!-- - [Cartography](theory/science/natural/earth_science/cartography/cartography.md)
     - [Geology](theory/science/natural/earth_science/geology/geology.md)
-    - [Oceanography](theory/science/natural/earth_science/oceanography/oceanography.md)
+    - [Oceanography](theory/science/natural/earth_science/oceanography/oceanography.md) -->
     - [Physical geography](theory/science/natural/earth_science/physical_geography/physical_geography.md)
-    - [Planetary science](theory/science/natural/earth_science/planetary_science/planetary_science.md) -->
+    <!-- - [Planetary science](theory/science/natural/earth_science/planetary_science/planetary_science.md) -->
 - [Engineering](theory/science/natural/engineering/engineering.md)
     <!-- - [Bioengineering](theory/science/natural/engineering/bioengineering/bioengineering.md)
     - [Chemical engineering](theory/science/natural/engineering/chemical_engineering/chemical_engineering.md)
     - [Civil engineering](theory/science/natural/engineering/civil_engineering/civil_engineering.md)
     - [Electrical engineering](theory/science/natural/engineering/electrical_engineering/electrical_engineering.md)
     - [Mechanical engineering](theory/science/natural/engineering/mechanical_engineering/mechanical_engineering.md) -->
-<!-- - [Health science](theory/science/natural/health_science/health_science.md)
-    * [Conservation medicine](theory/science/natural/health_science/conservation_medicine.md)
-    * [Dentistry](theory/science/natural/health_science/dentistry.md)
+- [Health science](theory/science/natural/health_science/health_science.md)
+    <!-- * [Conservation medicine](theory/science/natural/health_science/conservation_medicine.md)
+    * [Dentistry](theory/science/natural/health_science/dentistry.md) -->
+    * [Ergonomics](theory/science/natural/health_science/ergonomics.md)
+    - [Fitness](theory/science/natural/health_science/fitness/fitness.md)
+        * [Running](theory/science/natural/health_science/fitness/running.md)
+        * [Yoga](theory/science/natural/health_science/fitness/yoga.md)
     - [Medicine](theory/science/natural/health_science/medicine/medicine.md)
-    * [Nursing](theory/science/natural/health_science/nursing.md)
+    <!-- * [Nursing](theory/science/natural/health_science/nursing.md) -->
     * [Nutrition](theory/science/natural/health_science/nutrition.md)
     * [Optometry](theory/science/natural/health_science/optometry.md)
-    * [Pharmacology](theory/science/natural/health_science/pharmacology.md)
+    <!-- * [Pharmacology](theory/science/natural/health_science/pharmacology.md)
     * [Physical therapy](theory/science/natural/health_science/physical_therapy.md)
     * [Veterinary medicine](theory/science/natural/health_science/veterinary_medicine.md) -->
 <!-- - [Materials science](theory/science/natural/materials_science/materials_science.md)
@@ -328,9 +336,9 @@
         * [Electrical network](theory/science/natural/physics/electromagnetism/electrical_network.md)
         * [Electrodynamics](theory/science/natural/physics/electromagnetism/electrodynamics.md)
         * [Electrostatics](theory/science/natural/physics/electromagnetism/electrostatics.md)
-        * [Magnetostatics](theory/science/natural/physics/electromagnetism/magnetostatics.md)v
+        * [Magnetostatics](theory/science/natural/physics/electromagnetism/magnetostatics.md) -->
     - [Quantum mechanics](theory/science/natural/physics/quantum_mechanics/quantum_mechanics.md)
-    - [Theory of relativity](theory/science/natural/physics/theory_of_relativity/theory_of_relativity.md)
+    <!-- - [Theory of relativity](theory/science/natural/physics/theory_of_relativity/theory_of_relativity.md)
     - [Thermodynamics](theory/science/natural/physics/thermodynamics/thermodynamics.md)
         * [Chemical](theory/science/natural/physics/thermodynamics/chemical.md)
         * [Classical](theory/science/natural/physics/thermodynamics/classical.md)
