@@ -42,7 +42,7 @@ TODO
 ## Courses
 
 - [x] [Россия на крови | Сезон 1](https://youtube.com/playlist?list=PLWGgJHpZrYMqNm0waHyEwIKQAj_qK6DVc) - (YouTube)
-- [ ] [Крым. Путь на Родину. Документальный фильм Андрея Кондрашова](https://youtu.be/t42-71RpRgI)
+- [x] [Крым. Путь на Родину. Документальный фильм Андрея Кондрашова](https://youtu.be/t42-71RpRgI)
 - [ ] [Власть Соловецкая - Свидетельства и документы - 1988](https://youtu.be/DNvYLTvy1jI)
 - [ ] [World History](https://youtube.com/playlist?list=PLBDA2E52FB1EF80C9)
 - [ ] [Ancient Greece in 18 minutes](https://youtu.be/gFRxmi4uCGo)

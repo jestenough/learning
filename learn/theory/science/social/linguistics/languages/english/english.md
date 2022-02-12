@@ -14,14 +14,10 @@ TODO
 
 ## Books
 
-- [x] Английский язык. 14 текстов о США`[87/87]`
 - [ ] Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
 - [ ] Полный курс английского языка - учебник-самоучитель (М.Г.Рубцова)`[0/276]`
 - [ ] Английский язык. Новый самоучитель (Ирина Орлова, А. Петрова)`[35/800]`
 - [ ] Английский язык. 5-11 классы (Справочник школьника)
-- [ ] The Beauty and the Beast. Уровень 1 (Шарль Перро)`[0/96]`
-- [ ] English Fairy Tales. Уровень 1`[0/96]`
-- [ ] [English Style Guide](https://ec.europa.eu/info/sites/default/files/styleguide_english_dgt_en.pdf)
 
 
 ## Courses / Videos
@@ -39,10 +35,17 @@ TODO
 - [ ] [Learn English with Movies | Will Smith - The Pursuit of Happyness](https://youtu.be/pKoH9GkEKxQ)
 
 
+## Dictionaries
+
+- [Wooordhunt](https://wooordhunt.ru/)
+- [Cambridge Dictionary](https://dictionary.cambridge.org/)
+- [Word lists in Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/wordlist/)
+- [Visuwords](https://visuwords.com/) - Visual Dictionary; Visual Thesaurus; Interactive Lexicon
+
+
 ### Interview
 
 - [TED](http://www.ted.com/)
-- [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
 - [The Talks](https://the-talks.com/)
 - [Esquire: Legends](https://www.esquire.com/what-ive-learned-legends/)
 - [GQ: Entertainment Profiles](https://www.gq.com/about/entertainment-profiles-and-interviews)
@@ -53,7 +56,7 @@ TODO
 
 ## Links
 
-- [Wooordhunt](https://wooordhunt.ru/)
+- [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
 - [History of english podcast](https://historyofenglishpodcast.com/)
 - [Common Errors in English Usage](https://brians.wsu.edu/common-errors/)
 
@@ -68,12 +71,9 @@ TODO
 ### Speaking Practice of Live communication
 
 - [Italki](http://www.italki.com/)
-- [Sharedtalk](http://sharedtalk.com/)
 - [Chatroulette](http://chatroulette.com/)
-- [Penfriends](http://www.englishjet.com/english_courses_files/adult_penfriends.asp)
 - [Learn English With Stories](https://deepenglish.com/blog/)
 - [Rachel's English](http://rachelsenglish.com/) - описания и примеры произношения звуков и слов
-- [Oxford learners dictionaries](https://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/) - список слов для запоминания
 
 
 ### Tests

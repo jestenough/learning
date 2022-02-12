@@ -25,7 +25,7 @@ TODO
 
 ## Links
 
-- [Google Books Ngram Viewer](https://books.google.com/ngrams) -
+- [Google Books Ngram Viewer](https://books.google.com/ngrams)
 - [Learning with Texts](https://learningwithtexts.com/) - Free translation software
 - [Free Dictionary API](https://dictionaryapi.dev/)
 - [Divvun](https://divvun.org/) - Языковые инструменты для языков коренных народов и меньшинств

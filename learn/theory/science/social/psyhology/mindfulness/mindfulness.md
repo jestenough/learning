@@ -17,7 +17,6 @@ TODO
 
 - [ ] [The Future of Breathing | James Nestor](https://youtu.be/5vQ0PM7A764)
 - [ ] [Адьяшанти Пребывайте в осознанности](https://youtu.be/Rk1DApKdPyo)
-- [ ] [Закон Притяжения! Джо Витале (запись семинара)](https://youtu.be/zyGc0pXlePI)
 
 
 ## Links

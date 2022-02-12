@@ -11,3 +11,8 @@ TODO
 - [x] [Мифы Южной Америки](https://arzamas.academy/courses/9) - (Arzamas)
 - [x] [Откуда деньги?](https://arzamas.academy/radio/announcements/otkuda_dengi) - (Arzamas)
 - [x] [Как понять Японию](https://arzamas.academy/courses/21) - (Arzamas)
+
+
+## Links
+
+- [American Journal of Physical Anthropology](https://onlinelibrary.wiley.com/journal/26927691)

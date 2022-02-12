@@ -39,3 +39,4 @@ TODO
 ## Links
 
 - [Московский Центр Исследования Сознания](http://hardproblem.ru/)
+- [Будда в городе](https://buddhavgorode.com/)
