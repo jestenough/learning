@@ -58,7 +58,7 @@
 * [Vos ucsb edu](http://sites.reformal.ru/vos.ucsb.edu/)
 * [Ресурсы открытого доступа](https://www.nlb.by/content/informatsionnye-resursy/elektronnye-informatsionnye-resursy/informatsionnye-resursy-otkrytogo-dostupa/)
 * [Maps of Music / Paintings / English texts / Русские тексты](https://artinfuser.com/artquiz/)
-* [Timeline index](https://www.timelineindex.com/)
+* [720+ Free Online Programming & Computer Science Courses You Can Start This New Years](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 * [Courses](https://github.com/learn-anything/courses) `[GitHub]`
 
 
@@ -67,23 +67,25 @@
 * [Encyclopedia](https://www.encyclopedia.com/)
 * [Tandfonline](https://www.tandfonline.com/) - Search peer-reviewed journals and articles
 * [Google scholar](https://scholar.google.com/)
-* [Elibrary.ru](https://www.elibrary.ru/) - Российская научная электронная библиотека
+* [Curlie](https://curlie.org/) - The Collector of URLs
 * [Wikipedia org](https://www.wikipedia.org/)
     * [Wikipedia:Contents/Portals](https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals)
     * [Портал:Обзор](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80)
-* [Wiki books](https://www.wikibooks.org/)
-* [Golden](https://golden.com/explore)
-* [Wiktionary](https://www.wiktionary.org/)
+    * [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+    * [Wiki books](https://www.wikibooks.org/)
+    * [Wiktionary](https://www.wiktionary.org/)
+* [Фокcфорд.Учебник](https://foxford.ru/wiki)
 * [Словари и энциклопедии на Академике](https://academic.ru/)
 * [TheFreeDictionary](https://www.thefreedictionary.com/)
-* [Медитация](https://медитация.рф/)
-* [Будда в городе](https://buddhavgorode.com/)
+* [Golden](https://golden.com/explore)
 * [Theory and practice](https://theoryandpractice.ru/)
 * [Newочём](https://newochem.io/)
 * [Newtonew](https://newtonew.com/)
-* [Polka academy](https://polka.academy/)
+* [Культура.рф](https://www.culture.ru/)
+* [СИГНУМ](https://signummsk.ru/)
+* [Artifex](https://artifex.ru/)
 * [The Purdue Writing Lab](https://owl.purdue.edu/)
-* [Live classes](https://liveclasses.ru/)
+* [Timeline index](https://www.timelineindex.com/)
 
 
 ## YouTube channels
@@ -102,3 +104,4 @@
 * [Лекторий ФПМИ](https://www.youtube.com/c/%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D0%A4%D0%9F%D0%9C%D0%98) `T`
 * [ФКН ВШЭ — дистанционные занятия](https://www.youtube.com/channel/UCV56iySuhfRQ1qSjXmAr1Yw) `T`
 * [Neso Academy](https://www.youtube.com/c/nesoacademy)
+* [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/)
