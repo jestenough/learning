@@ -29,3 +29,4 @@ TODO
 - [Parity Public License](https://paritylicense.com/)
 - [Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 - [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html)
+- [Creative Commons](https://creativecommons.org/)

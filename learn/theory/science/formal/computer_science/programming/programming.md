@@ -74,6 +74,7 @@ TODO
 - [ ] Чистый код (Роберт Мартин)`[0/466]`
 - [ ] Refactoring: Improving the Design of Existing Code, Second Edition (Kent Beck, Martin Fowler)
 - [ ] [The Debugging Book (Andreas Zeller)](https://www.debuggingbook.org/)
+- [ ] The Missing README: A Guide for the New Software Engineer (Chris Riccomini, Dmitriy Ryaboy)
 
 
 ## Courses / Videos

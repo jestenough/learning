@@ -69,6 +69,11 @@ TODO
 - [ ] [Writing a simple Python compiler: 1. hello, fibonacci](https://notes.eatonphil.com/writing-a-simple-python-compiler.html)
 - [ ] [Разбор параметров командной строки в Python](https://jenyay.net/Programming/Argparse)
 - [ ] [It’s time to stop using Python 3.6](https://pythonspeed.com/articles/stop-using-python-3.6/)
+- [ ] [Garbage Collection for Python](http://www.arctrix.com/nas/python/gc/)
+- [ ] [Python Garbage Collection: What It Is and How It Works](https://stackify.com/python-garbage-collection/)
+- [ ] [Memory management in Python](https://rushter.com/blog/python-memory-managment/)
+- [ ] [Dismissing Python Garbage Collection at Instagram](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
+- [ ] [PEP 374 -- Choosing a distributed VCS for the Python project](https://www.python.org/dev/peps/pep-0374/)
 
 
 ## Books
@@ -81,6 +86,7 @@ TODO
 - [ ] A Byte of Python (Russian)`[0/164]`
 - [ ] [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
 - [ ] Data Engineering with Python (Paul Crickard)`[0/357]`
+- [ ] Algorithmic Trading with Python (Chris Conlan)
 
 
 ## Courses / Videos

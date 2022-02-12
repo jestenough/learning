@@ -95,3 +95,10 @@ TODO
 - [Project V](https://github.com/v2fly/v2ray-core) -  A platform for building proxies to bypass network restrictions. `[GitHub]`
 - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) `[GitHub]`
 - [Awesome Networking](https://github.com/clowwindy/Awesome-Networking) `[GitHub]`
+
+
+## Standards
+
+- [IEEE 802 LAN/MAN Standards Committee](https://www.ieee802.org/)
+- [RFC Editor](https://www.rfc-editor.org/)
+- [W3C standards](https://www.w3.org/standards/)

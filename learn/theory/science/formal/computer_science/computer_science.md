@@ -22,6 +22,7 @@ TODO
 - [ ] [A Guide to Big O notation](https://eaj.no/a-guide-to-big-o-notation)
 - [ ] [That XOR Trick](https://florian.github.io/xor-trick/)
 - [ ] [Генерировать случайные числа гораздо сложнее, чем вы думаете](https://nuancesprog.ru/p/14619/)
+- [ ] [Abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 
 
 ## Books
@@ -63,11 +64,11 @@ TODO
 - [ ] [Missing Semester IAP 2020](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) - (YouTube)
 - [ ] [How do computers read code?](https://youtu.be/QXjU9qTsYCc) - (YouTube)
 - [ ] [Как измерить количество информации?](https://youtu.be/zl_rXFb1eSM)
+- [ ] [Introduction to Programming and Computer Science - Full Course](https://youtu.be/zOjov-2OZ0E)
 
 
 ## Links
 
-- [Foxford wiki](https://foxford.ru/wiki) `RU`
 - [Informatics](https://informatics.msk.ru/) `RU`
 - [Prog lib](https://proglib.io/) `RU`
 - [Tproger](https://tproger.ru/) `RU`

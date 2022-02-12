@@ -17,6 +17,7 @@ TODO
 - [ ] [Environmental drivers of systematicity and generalization in a situated agent](https://arxiv.org/abs/1910.00571)
 - [ ] [AI Research, Replicability and Incentives](https://dennybritz.com/blog/ai-replication-incentives/)
 - [ ] [What worries me about AI(https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
+- [ ] [Can AI Become Conscious?](https://cacm.acm.org/news/244846-can-ai-become-conscious/fulltext)
 
 
 ## Books

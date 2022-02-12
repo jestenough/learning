@@ -19,6 +19,11 @@ TODO
 - [ ] Cloud Computing for Science and Engineering (Ian Foster, Dennis B. Gannon)
 
 
+## Courses / Videos
+
+- [ ] [Как поднять домашний сервер со своим доменом своими руками?](https://youtu.be/avl5rVi-HNo)
+
+
 ## Links
 
 - [The Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words) `[GitHub]`

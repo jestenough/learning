@@ -54,6 +54,7 @@ TODO
 - [ ] [Distributed Machine Learning Patterns](https://www.manning.com/books/distributed-machine-learning-patterns)
 - [ ] [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/)
 - [ ] [Machine Learning with Python Cookbook](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/ )
+- [ ] Perceptrons: an introduction to computational geometry (Marvin Minsky, Seymour Papert)
 
 
 ## Courses
