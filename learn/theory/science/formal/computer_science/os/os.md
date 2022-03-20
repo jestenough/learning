@@ -61,6 +61,7 @@ TODO
 - [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 - [Awesome Virtualization Awesome](https://github.com/Wenzel/awesome-virtualization)
 - [OSDev.org](https://wiki.osdev.org/Main_Page)
+- [Distrowatch](https://distrowatch.com/) - news, distribution pages hit rankings, etc. about various Linux distributions as well as other free software/open source Unix-like operating systems.
 - [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) `[GitHub]`
 - [Awesome Plan9](https://github.com/henesy/awesome-plan9) `[GitHub]`
 - [Build your own: linker](https://github.com/andrewhalle/byo-linker) `[GitHub]`

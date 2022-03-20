@@ -100,17 +100,6 @@ TODO
 - [ ] [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4) - (YouTube)
 
 
-## Distributions
-
-- [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
-- [Manjaro](https://manjaro.org/)
-- [Fedora](https://getfedora.org/)
-- [Debian](https://www.debian.org/)
-- [Arch](https://archlinux.org/)
-- [Ubuntu](https://ubuntu.com/)
-- [CentOS](https://www.centos.org/)
-
-
 ## Links
 
 - [GNU org](https://www.gnu.org/)
