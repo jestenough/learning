@@ -5,9 +5,9 @@ TODO
 
 ## Courses / Videos
 
-- [ ] [Русский язык как инструмент успешной коммуникации](https://www.coursera.org/learn/russian)
-- [ ] [Специализация Russian for beginners А1. Русский язык: A1](https://www.coursera.org/specializations/russian-for-beginners-a1)
-- [ ] [Русский язык от «гой еси» до «лол кек»](https://arzamas.academy/likbez/ruslang)
+- [Русский язык как инструмент успешной коммуникации](https://www.coursera.org/learn/russian)
+- [Специализация Russian for beginners А1. Русский язык: A1](https://www.coursera.org/specializations/russian-for-beginners-a1)
+- [Русский язык от «гой еси» до «лол кек»](https://arzamas.academy/likbez/ruslang)
 
 
 ## Links

@@ -5,12 +5,12 @@ TODO
 
 ## Articles
 
-- [ ] [Google Cloud vs AWS in 2021](https://kinsta.com/blog/google-cloud-vs-aws/)
+- [Google Cloud vs AWS in 2021](https://kinsta.com/blog/google-cloud-vs-aws/)
 
 
 ## Courses
 
-- [ ] [Google Cloud Digital Leader Certification Course - Pass the Exam!](https://youtu.be/UGRDM86MBIQ) - (YouTube)
+- [Google Cloud Digital Leader Certification Course - Pass the Exam!](https://youtu.be/UGRDM86MBIQ) - (YouTube)
 
 
 ## Links

@@ -5,14 +5,14 @@ TODO
 
 ## Articles
 
-- [ ] [Буддизм в современном мире](https://studybuddhism.com/ru/tibetskiy-buddizm/o-buddizme/mir-buddizma/buddizm-v-sovremennom-mire)
-- [ ] [Mind in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/)
+- [Буддизм в современном мире](https://studybuddhism.com/ru/tibetskiy-buddizm/o-buddizme/mir-buddizma/buddizm-v-sovremennom-mire)
+- [Mind in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/)
 
 
 ## Courses / Videos
 
-- [ ] ["New Eyes" on the Tibetan Book of the Dead: What Happens After You Die?](https://youtu.be/hBl5v2WGqrI)
-- [ ] [Далай-лама. Счастье и его причины](https://youtu.be/h7K5JK2lWtc)
+- ["New Eyes" on the Tibetan Book of the Dead: What Happens After You Die?](https://youtu.be/hBl5v2WGqrI)
+- [Далай-лама. Счастье и его причины](https://youtu.be/h7K5JK2lWtc)
 
 
 ## Links

@@ -5,8 +5,8 @@ TODO
 
 ## Articles
 
-- [ ] [Difference between sh and Bash](https://stackoverflow.com/questions/5725296/difference-between-sh-and-bash)
-- [ ] [/bin/bash vs /bin/sh -What’s your take ?](https://medium.com/100-days-of-linux/bash-vs-sh-whats-your-take-3e886e4c1cbc)
+- [Difference between sh and Bash](https://stackoverflow.com/questions/5725296/difference-between-sh-and-bash)
+- [/bin/bash vs /bin/sh -What’s your take ?](https://medium.com/100-days-of-linux/bash-vs-sh-whats-your-take-3e886e4c1cbc)
 
 
 ## Links

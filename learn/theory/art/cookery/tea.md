@@ -5,7 +5,7 @@ TODO
 
 ## Articles
 
-- [ ] [Chronicles of a Bubble-Tea Addict](https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict)
+- [Chronicles of a Bubble-Tea Addict](https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict)
 
 
 ## Links

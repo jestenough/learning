@@ -5,7 +5,7 @@ TODO
 
 ## Articles
 
-- [ ] [Introduction to C Shell Programming](http://www-cs.canisius.edu/ONLINESTUFF/UNIX/shellprogramming.html)
+- [Introduction to C Shell Programming](http://www-cs.canisius.edu/ONLINESTUFF/UNIX/shellprogramming.html)
 
 
 ## Links

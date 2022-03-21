@@ -5,31 +5,31 @@ TODO
 
 ## Articles
 
-- [ ] [JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
-- [ ] [JupyterLab 3.0 is released!](https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb)
-- [ ] [Setup Anaconda, Jupyter, and Rust](https://datacrayon.com/posts/programming/rust-notebooks/setup-anaconda-jupyter-and-rust/)
-- [ ] [An SQL solution for Jupyter](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
-- [ ] [How TensorFlow docs uses Jupyter notebooks](https://blog.tensorflow.org/2020/10/how-tensorflow-docs-uses-juypter-notebooks.html)
-- [ ] [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
-- [ ] [Jupyter Notebook Manifesto: Best practices that can improve the life of any developer using Jupyter notebooks](https://cloud.google.com/blog/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks)
-- [ ] [Making Git and Jupyter Notebooks play nice](http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/)
-- [ ] [Transform Jupyter Notebook to an Ebook](https://towardsdatascience.com/transform-jupyter-notebook-to-an-ebook-ef3a9d32ac4f)
-- [ ] [A Jupyter kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
-- [ ] [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
-- [ ] [Part 2: Scheduling Notebooks at Netflix](https://netflixtechblog.com/scheduling-notebooks-348e6c14cfd6)
-- [ ] [ipycanvas: A Python Canvas for Jupyter](https://blog.jupyter.org/ipycanvas-a-python-canvas-for-jupyter-bbb51e4777f7)
-- [ ] [Создание и настройка портативной сборки Jupyter Notebook и Lab на Windows. Часть 1](https://habr.com/ru/post/438934/)
-- [ ] [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+- [JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
+- [JupyterLab 3.0 is released!](https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb)
+- [Setup Anaconda, Jupyter, and Rust](https://datacrayon.com/posts/programming/rust-notebooks/setup-anaconda-jupyter-and-rust/)
+- [An SQL solution for Jupyter](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
+- [How TensorFlow docs uses Jupyter notebooks](https://blog.tensorflow.org/2020/10/how-tensorflow-docs-uses-juypter-notebooks.html)
+- [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
+- [Jupyter Notebook Manifesto: Best practices that can improve the life of any developer using Jupyter notebooks](https://cloud.google.com/blog/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks)
+- [Making Git and Jupyter Notebooks play nice](http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/)
+- [Transform Jupyter Notebook to an Ebook](https://towardsdatascience.com/transform-jupyter-notebook-to-an-ebook-ef3a9d32ac4f)
+- [A Jupyter kernel for SQLite](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
+- [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+- [Part 2: Scheduling Notebooks at Netflix](https://netflixtechblog.com/scheduling-notebooks-348e6c14cfd6)
+- [ipycanvas: A Python Canvas for Jupyter](https://blog.jupyter.org/ipycanvas-a-python-canvas-for-jupyter-bbb51e4777f7)
+- [Создание и настройка портативной сборки Jupyter Notebook и Lab на Windows. Часть 1](https://habr.com/ru/post/438934/)
+- [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 
 
 ## Courses / Videos
 
-- [ ] [Notebooks, Machine Learning, and MLOps](https://youtu.be/_yM7IyZNQx0)
-- [ ] [Push Jupyter notebooks to Production ⚡️ with 5 low code formulas](https://youtu.be/4ds2FDI_60g)
-- [ ] [I Like Notebooks](https://youtu.be/9Q6sLbz37gk)
-- [ ] [I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
-- [ ] [Jeremy Tuloup: A Tour of JupyterLab Extensions | PyData Berlin 2019](https://youtu.be/3pdrzhny9Lc)
-- [ ] [Jupyter](https://youtube.com/playlist?list=PLRJx8WOUx5XcDMOxSQegCJUjTJePTlF9Z)
+- [Notebooks, Machine Learning, and MLOps](https://youtu.be/_yM7IyZNQx0)
+- [Push Jupyter notebooks to Production ⚡️ with 5 low code formulas](https://youtu.be/4ds2FDI_60g)
+- [I Like Notebooks](https://youtu.be/9Q6sLbz37gk)
+- [I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
+- [Jeremy Tuloup: A Tour of JupyterLab Extensions | PyData Berlin 2019](https://youtu.be/3pdrzhny9Lc)
+- [Jupyter](https://youtube.com/playlist?list=PLRJx8WOUx5XcDMOxSQegCJUjTJePTlF9Z)
 
 
 ## Extensions

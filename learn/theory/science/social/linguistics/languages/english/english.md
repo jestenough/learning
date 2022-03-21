@@ -5,34 +5,34 @@ TODO
 
 ## Articles
 
-- [ ] [Weird English](https://www.nationalreview.com/magazine/2021/11/29/weird-english/)
-- [ ] [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent)
-- [ ] [English is not normal](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
-- [ ] [An Interactive Guide to Ambiguous Grammar](https://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar)
-- [ ] [Why English actually is relatively easy to learn (but not to master)](http://christopherwink.com/2018/11/05/english-easy-learn-john-mcwhorter-history-magnificent-bastard-tongue/)
+- [Weird English](https://www.nationalreview.com/magazine/2021/11/29/weird-english/)
+- [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent)
+- [English is not normal](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
+- [An Interactive Guide to Ambiguous Grammar](https://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar)
+- [Why English actually is relatively easy to learn (but not to master)](http://christopherwink.com/2018/11/05/english-easy-learn-john-mcwhorter-history-magnificent-bastard-tongue/)
 
 
 ## Books
 
-- [ ] Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
-- [ ] Полный курс английского языка - учебник-самоучитель (М.Г.Рубцова)`[0/276]`
-- [ ] Английский язык. Новый самоучитель (Ирина Орлова, А. Петрова)`[35/800]`
-- [ ] Английский язык. 5-11 классы (Справочник школьника)
+- Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
+- Полный курс английского языка - учебник-самоучитель (М.Г.Рубцова)`[0/276]`
+- Английский язык. Новый самоучитель (Ирина Орлова, А. Петрова)`[35/800]`
+- Английский язык. 5-11 классы (Справочник школьника)
 
 
 ## Courses / Videos
 
-- [ ] [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation) - (Coursera)
-- [ ] [Audio-lessons](https://english-globe.ru/index.php?option=com_content&task=view&id=13&Itemid=17) - (English Globe)
-- [ ] [Business English](https://english-globe.ru/index.php?option=com_content&task=category&sectionid=19&id=71&Itemid=92) - (English Globe)
-- [ ] [Writing in English at University](https://www.coursera.org/learn/writing-english-university) - (Coursera)
-- [ ] [Online English Courses](http://www.1-language.com/englishcourse/index.htm)
-- [ ] [Correct English](http://www.correctenglish.ru/exercises/)
-- [ ] [Полиглот](https://rutracker.org/forum/viewtopic.php?t=3918150)
-- [ ] [Как понимать на слух английскую речь? ПРОСТАЯ ТРЕНИРОВКА](https://youtu.be/AOVBrB8ypkQ)
-- [ ] [100 Английских Сокращений Слов с Примерами.Английских Сокращений и Сленг.](https://youtu.be/LVhcyGBLTEg)
-- [ ] [Как улучшить разговорный американский английский - Говорите как носитель языка](https://youtu.be/m3g51xfopIE)
-- [ ] [Learn English with Movies | Will Smith - The Pursuit of Happyness](https://youtu.be/pKoH9GkEKxQ)
+- [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation) - (Coursera)
+- [Audio-lessons](https://english-globe.ru/index.php?option=com_content&task=view&id=13&Itemid=17) - (English Globe)
+- [Business English](https://english-globe.ru/index.php?option=com_content&task=category&sectionid=19&id=71&Itemid=92) - (English Globe)
+- [Writing in English at University](https://www.coursera.org/learn/writing-english-university) - (Coursera)
+- [Online English Courses](http://www.1-language.com/englishcourse/index.htm)
+- [Correct English](http://www.correctenglish.ru/exercises/)
+- [Полиглот](https://rutracker.org/forum/viewtopic.php?t=3918150)
+- [Как понимать на слух английскую речь? ПРОСТАЯ ТРЕНИРОВКА](https://youtu.be/AOVBrB8ypkQ)
+- [100 Английских Сокращений Слов с Примерами.Английских Сокращений и Сленг.](https://youtu.be/LVhcyGBLTEg)
+- [Как улучшить разговорный американский английский - Говорите как носитель языка](https://youtu.be/m3g51xfopIE)
+- [Learn English with Movies | Will Smith - The Pursuit of Happyness](https://youtu.be/pKoH9GkEKxQ)
 
 
 ## Dictionaries

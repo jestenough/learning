@@ -4,23 +4,23 @@ TODO
 
 ## Articles
 
-- [ ] [The Effect of Noise on the Performance of Variational Algorithms for Quantum Chemistry](https://medium.com/qiskit/the-effect-of-noise-on-the-performance-of-variational-algorithms-for-quantum-chemistry-9cac4526abc1)
-- [ ] [Compositional Thermostatics](https://johncarlosbaez.wordpress.com/2021/11/22/compositional-thermostatics/)
-- [ ] [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/)
-- [ ] [Press release: The Nobel Prize in Chemistry 2021](https://www.nobelprize.org/prizes/chemistry/2021/press-release/)
-- [ ] [Directional Message Passing on Molecular Graphs via Synthetic Coordinates](https://www.in.tum.de/daml/synthetic-coordinates/)
-- [ ] [Chemical space is big. Really big](https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article)
+- [The Effect of Noise on the Performance of Variational Algorithms for Quantum Chemistry](https://medium.com/qiskit/the-effect-of-noise-on-the-performance-of-variational-algorithms-for-quantum-chemistry-9cac4526abc1)
+- [Compositional Thermostatics](https://johncarlosbaez.wordpress.com/2021/11/22/compositional-thermostatics/)
+- [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/)
+- [Press release: The Nobel Prize in Chemistry 2021](https://www.nobelprize.org/prizes/chemistry/2021/press-release/)
+- [Directional Message Passing on Molecular Graphs via Synthetic Coordinates](https://www.in.tum.de/daml/synthetic-coordinates/)
+- [Chemical space is big. Really big](https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article)
 
 
 ## Books
 
-- [ ] [Principles of Modern Chemistry](https://www.goodreads.com/book/show/1081425)
-- [ ] [Chemistry: A Molecular Approach](https://www.goodreads.com/book/show/1492804)
+- [Principles of Modern Chemistry](https://www.goodreads.com/book/show/1081425)
+- [Chemistry: A Molecular Approach](https://www.goodreads.com/book/show/1492804)
 
 
 ## Courses / Videos
 
-- [ ] [Beginners Guide to Understanding Chemistry](https://youtube.com/playlist?list=PLgJIUWVTPrnXLrP25h_UteuawBgb0SyVR)
+- [Beginners Guide to Understanding Chemistry](https://youtube.com/playlist?list=PLgJIUWVTPrnXLrP25h_UteuawBgb0SyVR)
 
 
 ## Links

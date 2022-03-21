@@ -5,21 +5,21 @@ TODO
 
 ## Articles
 
-- [ ] [Awk: The Power and Promise of a 40-Year-Old Language](https://www.fosslife.org/awk-power-and-promise-40-year-old-language)
-- [ ] [6 Command Line Tools for Productive Programmers ](https://earthly.dev/blog/command-line-tools/)
-- [ ] [How to Handle Secrets on the Command Line](https://smallstep.com/blog/command-line-secrets/)
-- [ ] [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
-- [ ] [Search and replace tricks with ripgrep](https://learnbyexample.github.io/substitution-with-ripgrep/)
-- [ ] [Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://zaiste.net/posts/shell-commands-rust/)
-- [ ] [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
-- [ ] [My Favorite CLI Tools](https://switowski.com/blog/favorite-cli-tools)
-- [ ] [CLIs are reified UIs](https://www.expressionsofchange.org/reification-of-interaction/)
-- [ ] [Grep for System Admins: Using Grep to Automate Daily Tasks](https://developer.okta.com/blog/2020/05/06/grep-for-system-admins)
-- [ ] [Fast Searching with ripgrep](https://mariusschulz.com/blog/fast-searching-with-ripgrep)
-- [ ] [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
-- [ ] [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
-- [ ] [Passing runtime data to AWK](https://blog.sanctum.geek.nz/)
-- [ ] [Интерфейс командной строки](https://teccxx.neocities.org/mx1/cli.html)
+- [Awk: The Power and Promise of a 40-Year-Old Language](https://www.fosslife.org/awk-power-and-promise-40-year-old-language)
+- [6 Command Line Tools for Productive Programmers ](https://earthly.dev/blog/command-line-tools/)
+- [How to Handle Secrets on the Command Line](https://smallstep.com/blog/command-line-secrets/)
+- [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
+- [Search and replace tricks with ripgrep](https://learnbyexample.github.io/substitution-with-ripgrep/)
+- [Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://zaiste.net/posts/shell-commands-rust/)
+- [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
+- [My Favorite CLI Tools](https://switowski.com/blog/favorite-cli-tools)
+- [CLIs are reified UIs](https://www.expressionsofchange.org/reification-of-interaction/)
+- [Grep for System Admins: Using Grep to Automate Daily Tasks](https://developer.okta.com/blog/2020/05/06/grep-for-system-admins)
+- [Fast Searching with ripgrep](https://mariusschulz.com/blog/fast-searching-with-ripgrep)
+- [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
+- [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
+- [Passing runtime data to AWK](https://blog.sanctum.geek.nz/)
+- [Интерфейс командной строки](https://teccxx.neocities.org/mx1/cli.html)
 
 
 ## Links

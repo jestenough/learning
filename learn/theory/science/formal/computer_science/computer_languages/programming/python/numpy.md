@@ -5,19 +5,19 @@ TODO
 
 ## Articles
 
-- [ ] [NumPy views: saving memory, leaking memory, and subtle bugs](https://pythonspeed.com/articles/numpy-memory-views/)
-- [ ] [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
-- [ ] [NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
-- [ ] [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2)
-- [ ] [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
-- [ ] [NumPy в Python. Часть 1](https://habr.com/ru/post/352678/)
-- [ ] [Нескучный туториал по NumPy](https://habr.com/ru/post/469355/)
-- [ ] [Наглядно о том, как работает NumPy](https://habr.com/ru/company/skillfactory/blog/564240/)
+- [NumPy views: saving memory, leaking memory, and subtle bugs](https://pythonspeed.com/articles/numpy-memory-views/)
+- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+- [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2)
+- [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- [NumPy в Python. Часть 1](https://habr.com/ru/post/352678/)
+- [Нескучный туториал по NumPy](https://habr.com/ru/post/469355/)
+- [Наглядно о том, как работает NumPy](https://habr.com/ru/company/skillfactory/blog/564240/)
 
 
 ## Courses / Videos
 
-- [ ] [Magical NumPy with JAX | SciPy 2021](https://youtu.be/DmR36wtel4Y)
+- [Magical NumPy with JAX | SciPy 2021](https://youtu.be/DmR36wtel4Y)
 
 
 ## Links

@@ -5,8 +5,8 @@ TODO
 
 ## Courses / Videos
 
-- [ ] [Природа Беларуси](https://youtube.com/playlist?list=PL6F62EAF4F583AC71)
-- [ ] [China's Geography Problem](https://youtu.be/GiBF6v5UAAE)
+- [Природа Беларуси](https://youtube.com/playlist?list=PL6F62EAF4F583AC71)
+- [China's Geography Problem](https://youtu.be/GiBF6v5UAAE)
 
 
 ## Links

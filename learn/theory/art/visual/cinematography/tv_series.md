@@ -5,16 +5,16 @@
 
 ## Articles
 
-- [ ] [The 100 greatest TV series of the 21st Century](https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century)
-- [ ] [Netflix shows that will make you think](https://nesslabs.com/netflix)
-- [ ] [TV Series recommendations (2018)](https://michael.stapelberg.ch/series/)
+- [The 100 greatest TV series of the 21st Century](https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century)
+- [Netflix shows that will make you think](https://nesslabs.com/netflix)
+- [TV Series recommendations (2018)](https://michael.stapelberg.ch/series/)
 
 
 ## Courses / Videos
 
-- [ ] [Why Mass Effect Should Be the Next Game of Thrones](https://youtu.be/-elPKyfpJrM)
-- [ ] [How I Wrote True Detective](https://youtu.be/2hPn-23N8q4)
-- [ ] ["How I Wrote Breaking Bad"](https://youtu.be/FrRBZNpPAfk)
+- [Why Mass Effect Should Be the Next Game of Thrones](https://youtu.be/-elPKyfpJrM)
+- [How I Wrote True Detective](https://youtu.be/2hPn-23N8q4)
+- ["How I Wrote Breaking Bad"](https://youtu.be/FrRBZNpPAfk)
 
 
 ## Links

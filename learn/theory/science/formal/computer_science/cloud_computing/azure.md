@@ -5,7 +5,7 @@ TODO
 
 ## Books
 
-- [ ] [Data Engineering on Azure](https://www.manning.com/books/data-engineering-on-azure)
+- [Data Engineering on Azure](https://www.manning.com/books/data-engineering-on-azure)
 
 
 ## Linkcs

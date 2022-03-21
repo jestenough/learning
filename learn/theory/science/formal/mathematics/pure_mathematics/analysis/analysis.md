@@ -5,9 +5,9 @@ TODO
 
 ## Books
 
-- [ ] [Principles of Mathematical Analysis](https://www.goodreads.com/book/show/292079)
-- [ ] [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/)
-- [ ] Курсы Математического анализа, 3 тома (Л.Д. Кудрявцев)
+- [Principles of Mathematical Analysis](https://www.goodreads.com/book/show/292079)
+- [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/)
+- Курсы Математического анализа, 3 тома (Л.Д. Кудрявцев)
 
 
 ## Links

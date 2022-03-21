@@ -5,9 +5,9 @@ TODO
 
 ## Books
 
-- [ ] A Dictionary of Genetics (King RC, Mulligan PK, Stansfield WD)
-- [ ] Основы современной генетики (Гершензон С. М.)
-- [ ] Основы генетики (Клаг Уильям С., Каммингс Майкл Р.)
+- A Dictionary of Genetics (King RC, Mulligan PK, Stansfield WD)
+- Основы современной генетики (Гершензон С. М.)
+- Основы генетики (Клаг Уильям С., Каммингс Майкл Р.)
 
 
 ## Links

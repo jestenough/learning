@@ -5,17 +5,17 @@ TODO
 
 ## Articles
 
-- [ ] [Goodbye WordPress, I’ve Switched To Jekyll](https://kevq.uk/goodbye-wordpress-switched-to-jekyll/)
-- [ ] [Что выбрать: Jekyll или WordPress?](https://bizikov.ru/blog/jekyll-or-wordpress/)
-- [ ] [Практическое руководство по Jekyll](https://habr.com/ru/post/207650/)
-- [ ] [Продвинутый Jekyll](https://habr.com/ru/post/336266/)
-- [ ] [Блог на Jekyll и Github](https://habr.com/ru/post/133261/)
+- [Goodbye WordPress, I’ve Switched To Jekyll](https://kevq.uk/goodbye-wordpress-switched-to-jekyll/)
+- [Что выбрать: Jekyll или WordPress?](https://bizikov.ru/blog/jekyll-or-wordpress/)
+- [Практическое руководство по Jekyll](https://habr.com/ru/post/207650/)
+- [Продвинутый Jekyll](https://habr.com/ru/post/336266/)
+- [Блог на Jekyll и Github](https://habr.com/ru/post/133261/)
 
 
 ## Courses / Videos
 
-- [ ] [Jekyll - Static Site Generator | Tutorial](https://youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
-- [ ] [Getting Started With Jekyll, The Static Site Generator](https://youtu.be/iWowJBRMtpc)
+- [Jekyll - Static Site Generator | Tutorial](https://youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+- [Getting Started With Jekyll, The Static Site Generator](https://youtu.be/iWowJBRMtpc)
 
 
 ## Links

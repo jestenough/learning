@@ -5,20 +5,20 @@ TODO
 
 ## Articles
 
-- [ ] [Windows 11: Just say no](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html)
-- [ ] [Windows 95 — How Does it Look Today?](https://dmitryelj.medium.com/windows-95-how-does-it-look-today-feda837922d9)
-- [ ] [Developing with Rust on Windows](https://docs.microsoft.com/en-us/windows/dev-environment/rust/)
-- [ ] [Development on Windows is Painful](https://christine.website/blog/windows-pain-2021-03-03)
-- [ ] [Switching to Windows](http://ignorethecode.net/blog/2021/02/02/switching_to_windows/)
-- [ ] [Creating my awesome Windows 10 dev setup](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup)
-- [ ] [Windows Subsystem for Linux: The lost potential](https://jmmv.dev/2020/11/wsl-lost-potential.html)
-- [ ] [How to Get into BIOS in Windows 10 – BIOS Setup PC Guide](https://www.freecodecamp.org/news/how-to-get-into-bios-in-windows-10-bios-setup-pc-guide/)
-- [ ] [Как уронить Windows шестью строчками кода](https://habr.com/ru/post/179543/)
+- [Windows 11: Just say no](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html)
+- [Windows 95 — How Does it Look Today?](https://dmitryelj.medium.com/windows-95-how-does-it-look-today-feda837922d9)
+- [Developing with Rust on Windows](https://docs.microsoft.com/en-us/windows/dev-environment/rust/)
+- [Development on Windows is Painful](https://christine.website/blog/windows-pain-2021-03-03)
+- [Switching to Windows](http://ignorethecode.net/blog/2021/02/02/switching_to_windows/)
+- [Creating my awesome Windows 10 dev setup](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup)
+- [Windows Subsystem for Linux: The lost potential](https://jmmv.dev/2020/11/wsl-lost-potential.html)
+- [How to Get into BIOS in Windows 10 – BIOS Setup PC Guide](https://www.freecodecamp.org/news/how-to-get-into-bios-in-windows-10-bios-setup-pc-guide/)
+- [Как уронить Windows шестью строчками кода](https://habr.com/ru/post/179543/)
 
 
 ## Courses / Videos
 
-- [ ] [If Microsoft Designed macOS (Concept)](https://youtu.be/OtwHJwP-juo)
+- [If Microsoft Designed macOS (Concept)](https://youtu.be/OtwHJwP-juo)
 
 
 ## Links

@@ -1,14 +1,14 @@
 ## What is it?
 
-This is a personal repository designed to facilitate learning in any field.
-I share materials from open sources and record my progress in learning something in form of an online GitBook
-
+This is a repository that contains useful links for self-education.
+The material is in the form of descriptions and links that are taken from free access.
 
 <!-- ## Structure
 
 ``` markdown
 ├───materials
-│   ├───...
+│   ├───...сдуфк
+
 └───theory
     ├───art
     │   ├───...

@@ -5,13 +5,13 @@
 
 ## Articles
 
-- [ ] [More classic movies to watch](https://www.the-classic-movies.com/)
-- [ ] ["Dune" (the movie), annotated](https://maxread.substack.com/p/dune-annotated)
-- [ ] [The 50 best films of 2021](https://www.bfi.org.uk/sight-and-sound/polls/50-best-films-2021)
-- [ ] [26 Brilliant Movies That Critics Were Wrong About](https://www.theatlantic.com/culture/archive/2021/09/26-movies-fall-watch-list/619975/)
-- [ ] [No More Movies](https://jayriverlong.github.io/2021/07/05/movies.html)
-- [ ] [100 Greatest Korean Films Ever](https://www.koreanscreen.com/100-greatest-korean-films-100-51)
-- [ ] [Stalker: in search of Tarkovsky’s Soviet sci-fi locations](https://www.bfi.org.uk/features/andrei-tarkovsky-stalker-locations)
+- [More classic movies to watch](https://www.the-classic-movies.com/)
+- ["Dune" (the movie), annotated](https://maxread.substack.com/p/dune-annotated)
+- [The 50 best films of 2021](https://www.bfi.org.uk/sight-and-sound/polls/50-best-films-2021)
+- [26 Brilliant Movies That Critics Were Wrong About](https://www.theatlantic.com/culture/archive/2021/09/26-movies-fall-watch-list/619975/)
+- [No More Movies](https://jayriverlong.github.io/2021/07/05/movies.html)
+- [100 Greatest Korean Films Ever](https://www.koreanscreen.com/100-greatest-korean-films-100-51)
+- [Stalker: in search of Tarkovsky’s Soviet sci-fi locations](https://www.bfi.org.uk/features/andrei-tarkovsky-stalker-locations)
 
 
 ## Collections

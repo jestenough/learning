@@ -5,35 +5,35 @@ TODO
 
 ## Articles
 
-- [ ] [How To Become a Data Engineer](https://khashtamov.com/en/how-to-become-a-data-engineer/)
-- [ ] [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
-- [ ] [The Rise of the Data Engineer](https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/)
-- [ ] [Amazon Data Science Interview](https://medium.com/acing-ai/amazon-ai-interview-questions-acing-the-ai-interview-3ed4e671920f)
-- [ ] [Modern Data Practice and the SQL Tradition](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
-- [ ] [The Modern Data Science Stack](https://fivetran.com/blog/modern-data-science-stack)
-- [ ] [Как стать Data Engineer](https://khashtamov.com/ru/data-engineer/) `RU`
-- [ ] [Самые востребованные навыки в профессии data engineer](https://habr.com/ru/company/productivity_inside/blog/484120/)
-- [ ] [Что такое Big data engineering, и как развиваться в этой сфере](https://habr.com/ru/company/skillfactory/blog/552432/)
-- [ ] [Кто такие дата-инженеры, и как ими становятся?](https://habr.com/ru/company/otus/blog/452670/)
-- [ ] [Любить и понимать данные: кто такие дата инженеры и как им расти](https://ain.ua/2021/10/19/lyubit-i-ponimat-dannye-kto-takie-data-inzhenery-i-kak-im-rasti/?utmsorce)
-- [ ] [Как начинающий Data Scientist может заработать на фрилансе?](https://proglib.io/p/kak-nachinayushchiy-data-scientist-mozhet-zarabotat-na-frilanse-2021-04-29)
+- [How To Become a Data Engineer](https://khashtamov.com/en/how-to-become-a-data-engineer/)
+- [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+- [The Rise of the Data Engineer](https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/)
+- [Amazon Data Science Interview](https://medium.com/acing-ai/amazon-ai-interview-questions-acing-the-ai-interview-3ed4e671920f)
+- [Modern Data Practice and the SQL Tradition](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
+- [The Modern Data Science Stack](https://fivetran.com/blog/modern-data-science-stack)
+- [Как стать Data Engineer](https://khashtamov.com/ru/data-engineer/) `RU`
+- [Самые востребованные навыки в профессии data engineer](https://habr.com/ru/company/productivity_inside/blog/484120/)
+- [Что такое Big data engineering, и как развиваться в этой сфере](https://habr.com/ru/company/skillfactory/blog/552432/)
+- [Кто такие дата-инженеры, и как ими становятся?](https://habr.com/ru/company/otus/blog/452670/)
+- [Любить и понимать данные: кто такие дата инженеры и как им расти](https://ain.ua/2021/10/19/lyubit-i-ponimat-dannye-kto-takie-data-inzhenery-i-kak-im-rasti/?utmsorce)
+- [Как начинающий Data Scientist может заработать на фрилансе?](https://proglib.io/p/kak-nachinayushchiy-data-scientist-mozhet-zarabotat-na-frilanse-2021-04-29)
 
 
 ## Book
 
-- [ ] Теоретический минимум по Big Data`[0/208]`
-- [ ] Работа с Big Data в облаках (Александр Сенько)`[0/448]`
+- Теоретический минимум по Big Data`[0/208]`
+- Работа с Big Data в облаках (Александр Сенько)`[0/448]`
 
 
 ## Courses
 
-- [ ] [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3) - (YouTube)
-- [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - (Coursera)
-- [x] [Data Engineering for Everyone](https://learn.datacamp.com/courses/data-engineering-for-everyone) - (DataCamp)
-- [ ] [Data Science, черные ящики – и почему вам сильно повезло](https://youtu.be/zvGeLvWZ7yQ) - (YouTube)
-- [ ] [Highload (Технополис, осень 2017)](https://youtube.com/playlist?list=PLrCZzMib1e9rZohs_FJg8MK52Ey494z40)
-- [ ] [Инфраструктура больших данных (семинары) (3 курс, весна 2021)](https://youtube.com/playlist?list=PL4_hYwCyhAvbI83zAjpg8EO52sBywa2rQ)
-- [ ] [Инфраструктура больших данных (лекции) (3 курс, весна 2021)](https://youtube.com/playlist?list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx)
+- [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3) - (YouTube)
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - (Coursera)
+- [Data Engineering for Everyone](https://learn.datacamp.com/courses/data-engineering-for-everyone) - (DataCamp)
+- [Data Science, черные ящики – и почему вам сильно повезло](https://youtu.be/zvGeLvWZ7yQ) - (YouTube)
+- [Highload (Технополис, осень 2017)](https://youtube.com/playlist?list=PLrCZzMib1e9rZohs_FJg8MK52Ey494z40)
+- [Инфраструктура больших данных (семинары) (3 курс, весна 2021)](https://youtube.com/playlist?list=PL4_hYwCyhAvbI83zAjpg8EO52sBywa2rQ)
+- [Инфраструктура больших данных (лекции) (3 курс, весна 2021)](https://youtube.com/playlist?list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx)
 
 
 ## Links

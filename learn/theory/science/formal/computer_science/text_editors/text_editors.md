@@ -5,23 +5,23 @@ TODO
 
 ## Articles
 
-- [ ] [Thoughts on Structured Editing: Breaking Away from Syntax](https://mbuffett.com/posts/structured-editing-syntax/)
-- [ ] [Code blocks, but better](https://ped.ro/blog/code-blocks-but-better)
-- [ ] [Text Editing Hates You Too](https://lord.io/text-editing-hates-you-too/)
-- [ ] [My 4 Favorite Cloud IDEs for 2021](https://betterprogramming.pub/my-4-favorite-cloud-ides-for-2021-2f3c09d78eaa)
-- [ ] [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
-- [ ] [Why an IDE?](https://matklad.github.io/2020/11/11/yde.html)
-- [ ] [My Text Editor Journey: Vim, Spacemacs, Atom and Sublime Text](https://thume.ca/2017/03/04/my-text-editor-journey-vim-spacemacs-atom-and-sublime-text/)
-- [ ] [From Vim to Ed](http://blog.cretaria.com/posts/from-vim-to-ed.html)
-- [ ] [My thoughts about editors in 2020](https://phaazon.net/blog/blog/editors-in-2020)
-- [ ] [Inside a Collaborative Text Editor](https://caolan.uk/articles/inside-a-collaborative-text-editor/)
-- [ ] [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
-- [ ] [Open source collaborative text editors](https://juretriglav.si/open-source-collaborative-text-editors/)
+- [Thoughts on Structured Editing: Breaking Away from Syntax](https://mbuffett.com/posts/structured-editing-syntax/)
+- [Code blocks, but better](https://ped.ro/blog/code-blocks-but-better)
+- [Text Editing Hates You Too](https://lord.io/text-editing-hates-you-too/)
+- [My 4 Favorite Cloud IDEs for 2021](https://betterprogramming.pub/my-4-favorite-cloud-ides-for-2021-2f3c09d78eaa)
+- [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
+- [Why an IDE?](https://matklad.github.io/2020/11/11/yde.html)
+- [My Text Editor Journey: Vim, Spacemacs, Atom and Sublime Text](https://thume.ca/2017/03/04/my-text-editor-journey-vim-spacemacs-atom-and-sublime-text/)
+- [From Vim to Ed](http://blog.cretaria.com/posts/from-vim-to-ed.html)
+- [My thoughts about editors in 2020](https://phaazon.net/blog/blog/editors-in-2020)
+- [Inside a Collaborative Text Editor](https://caolan.uk/articles/inside-a-collaborative-text-editor/)
+- [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
+- [Open source collaborative text editors](https://juretriglav.si/open-source-collaborative-text-editors/)
 
 
 ## Courses / Videos
 
-- [ ] [Which editor/IDE does Bisqwit use? Answers & some history](https://youtu.be/ZMBQmhO8KqI)
+- [Which editor/IDE does Bisqwit use? Answers & some history](https://youtu.be/ZMBQmhO8KqI)
 
 
 ## Links

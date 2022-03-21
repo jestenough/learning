@@ -5,8 +5,8 @@ TODO
 
 ## Articles
 
-- [ ] [Modern applications at AWS](https://www.allthingsdistributed.com/2019/08/modern-applications-at-aws.html)
-- [ ] [A Better Way to SSH in AWS](https://nullsweep.com/a-better-way-to-ssh-in-aws/)
+- [Modern applications at AWS](https://www.allthingsdistributed.com/2019/08/modern-applications-at-aws.html)
+- [A Better Way to SSH in AWS](https://nullsweep.com/a-better-way-to-ssh-in-aws/)
 
 
 ## Services

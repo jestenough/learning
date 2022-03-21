@@ -5,20 +5,20 @@ TODO
 
 ## Articles
 
-- [ ] [Backups and Corruption](https://www.collicutt.co.uk/notebook/backups.html)
-- [ ] [Резервное копирование для дома и малого офиса](https://habr.com/ru/post/189412/)
-- [ ] [Резервное копирование данных простым языком](https://habr.com/ru/post/136785/)
-- [ ] [Saving a restic backup the hard way](http://blog.pkh.me/p/30-saving-a-restic-backup-the-hard-way.html)
-- [ ] [Что такое «backup»?](https://habr.com/ru/post/162839/)
-- [ ] [How I store my files and why you should not rely on fancy tools for backup](https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html)
-- [ ] [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan)
-- [ ] [Back up your MacOS](https://dzx.cz/2021/05/23/back_up_your_macos/)
-- [ ] [Encrypted Backup Shootout](https://acha.ninja/blog/encrypted_backup_shootout/)
-- [ ] [Backing up data like the adult I supposedly am](https://magnusson.io/post/backups/)
-- [ ] [Organizing Data Through the Lens of Deduplication](https://www.anishathalye.com/2020/08/03/periscope/)
-- [ ] [Setting up your backup service](https://www.williamjbowman.com/blog/2020/06/30/setting-up-your-backup-service/)
-- [ ] [How to store data forever](https://drewdevault.com/2020/04/22/How-to-store-data-forever.html)
-- [ ] [Lessons learned when my SSD died](https://bsago.me/posts/lessons-learned-when-my-ssd-died)
+- [Backups and Corruption](https://www.collicutt.co.uk/notebook/backups.html)
+- [Резервное копирование для дома и малого офиса](https://habr.com/ru/post/189412/)
+- [Резервное копирование данных простым языком](https://habr.com/ru/post/136785/)
+- [Saving a restic backup the hard way](http://blog.pkh.me/p/30-saving-a-restic-backup-the-hard-way.html)
+- [Что такое «backup»?](https://habr.com/ru/post/162839/)
+- [How I store my files and why you should not rely on fancy tools for backup](https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html)
+- [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan)
+- [Back up your MacOS](https://dzx.cz/2021/05/23/back_up_your_macos/)
+- [Encrypted Backup Shootout](https://acha.ninja/blog/encrypted_backup_shootout/)
+- [Backing up data like the adult I supposedly am](https://magnusson.io/post/backups/)
+- [Organizing Data Through the Lens of Deduplication](https://www.anishathalye.com/2020/08/03/periscope/)
+- [Setting up your backup service](https://www.williamjbowman.com/blog/2020/06/30/setting-up-your-backup-service/)
+- [How to store data forever](https://drewdevault.com/2020/04/22/How-to-store-data-forever.html)
+- [Lessons learned when my SSD died](https://bsago.me/posts/lessons-learned-when-my-ssd-died)
 
 
 ## Links
