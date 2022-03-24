@@ -40,6 +40,7 @@ TODO
 
 ## Courses / Videos
 
+- [Learn HTML5 and CSS3 From Scratch](https://youtu.be/mU6anWqZJcc)
 - [HTML isn’t done! (Chrome Dev Summit 2019)](https://youtu.be/ZFvPLrKZywA)
 
 

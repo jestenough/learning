@@ -75,6 +75,8 @@ TODO
 - [Transport Protocols: TCP and UDP](https://youtu.be/37AFBZv4_6Y)
 - [Networking tutorial](https://youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) - (YouTube)
 - [Видео уроки Cisco Packet Tracer. Курс молодого бойца](https://youtube.com/playlist?list=PLd0epXmveHePxXIZWgDA0npyIkMO3gpmp) - (YouTube)
+- [Компьютерные сети, учебный курс.](https://youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)
+- [Практики по компьютерным сетям](https://youtube.com/playlist?list=PLtPJ9lKvJ4oiKPQ9GXOvntj44Eu8IGAJK)
 
 
 ## Links
