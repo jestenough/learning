@@ -31,6 +31,7 @@ TODO
 - [The Hidden Connection Between Sleep and Dementia](https://youtu.be/76z4UPt-OME)
 - [Сны - Кино подсознания / Dreams - Cinema of the Subconscious (2010)](https://youtu.be/RzRCBjPkCgI)
 - [Discovery: Тайны сна / The secrets of sleep (2006)](https://youtu.be/A1ukJiMO_70)
+- [Александр Панчин – Сон разума рождает чудовищ](https://youtu.be/QIAPf07tzQU)
 
 
 ## Links

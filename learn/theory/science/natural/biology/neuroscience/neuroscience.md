@@ -50,6 +50,8 @@ TODO
 - [Dr. David Berson: Your Brain's Logic & Function | Huberman Lab Podcast #50](https://youtu.be/oC3fhUjg30E)
 - [Татьяна Черниговская: как мозг нас обманывает, почему врут честные люди и как прокачать интеллект](https://youtu.be/Zda7-SQMfEU)
 - [Мозг и чтение. Татьяна Черниговская. Часть 1](https://youtu.be/Xs81zfgfcZE)
+- [Нейрокоммуникаторы — Александр Каплан](https://youtu.be/hOiA1wXwwDc)
+- [Александр Каплан - Нейроинтерфейс мозг-компьютер](https://youtu.be/GINJ-xks5r8)
 
 
 ## Links
