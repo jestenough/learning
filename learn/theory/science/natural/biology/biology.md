@@ -28,7 +28,9 @@ TODO
 - [Медицинская биология](https://meduniver.com/Medical/Biology/)
 - [Nature](https://www.nature.com/)
 - [bioRxiv](https://www.biorxiv.org/)
+- [NCBI](https://www.ncbi.nlm.nih.gov/) - National Center for Biotechnology Information
 - [Kappa Language](https://kappalanguage.org/) - A rule-based language for modeling interaction networks
 - [Cell Size and Scale](https://learn.genetics.utah.edu/content/cells/scale/)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - is a free search engine accessing primarily the MEDLINE DB of references and abstracts on life sciences and biomedical topics.
 - [Journey to the Microcosmos](https://www.youtube.com/c/microcosmos/) `[YouTube]`
 - [Awesome synthetic biology](https://github.com/websemantics/awesome-synthetic-biology) `[GitHub]`

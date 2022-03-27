@@ -16,11 +16,19 @@ TODO
 
 - [Principles of Modern Chemistry](https://www.goodreads.com/book/show/1081425)
 - [Chemistry: A Molecular Approach](https://www.goodreads.com/book/show/1492804)
+- Начала химии (Кузьменко Н.Е., Еремин В.В., Попков В.А.)
+- Общая и неорганическая химия (Ахметов Н.С.)
+- Неорганическая химия. Строение вещества и реакционная способность (Хьюи Дж.)
+- Неорганическая химия (Шрайвер Д., Эткинс П.)
+- Современная органическая химия (Терней А.Л.)
+- Металлоорганическая химия переходных металлов (Коллмен Дж., Хигедас Л., Нортон Дж., Финке Р.)
 
 
 ## Courses / Videos
 
 - [Beginners Guide to Understanding Chemistry](https://youtube.com/playlist?list=PLgJIUWVTPrnXLrP25h_UteuawBgb0SyVR)
+- [Making Chloroform](https://youtu.be/j-PrAczOGb0)
+- [Получение ацетона из зубного порошка и уксуса/Synthesis of acetone](https://youtu.be/Ho2d2XGJJo0)
 
 
 ## Links
