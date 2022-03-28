@@ -60,6 +60,7 @@ TODO
 
 ## Books
 
+- [Internet-introduction](http://www.cs.toronto.edu/~bor/199y09/internet-introduction.pdf)
 - [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book)
 - [Наука о Сетях](http://networksciencebook.com)
 - [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) `[0/36]`

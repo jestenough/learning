@@ -41,6 +41,7 @@ TODO
 
 ## Courses / Videos
 
+- [Mathematics (freecodecamp)](https://youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
 - [История математики](https://youtube.com/playlist?list=PLFTkMtYsMRIyj64_hzLoPAy64AtO7ztHo)
 - [100 уроков математики](https://youtube.com/playlist?list=PLqBfxn8OBMGrsA_YynaQWqHKhL7kEvL4X) - (YouTube)
 - [Вся математика за 20 уроков](https://youtube.com/playlist?list=PLp1o4TiOetLxxpi6Y8fB4_L5iOX_Ui5ss) - (YouTube)
@@ -75,6 +76,7 @@ TODO
 - [The Definitive Glossary of Higher Mathematical Jargon](https://mathvault.ca/math-glossary/)
 - [Mathematical Symbols](https://mathvault.ca/hub/higher-math/math-symbols/)
 - [Graph Toy](https://graphtoy.com/)
+- [Математика с нуля](http://spacemath.xyz/)
 - [Кафедра высшей математики МФТИ](https://www.youtube.com/channel/UC_ByV5irnAmCUZEGVZntFmQ) `[YouTube]`
 - [Mathematics roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) `[GitHub]`
 - [Understanding Mathematics](https://github.com/nbro/understanding-math) `[GitHub]`

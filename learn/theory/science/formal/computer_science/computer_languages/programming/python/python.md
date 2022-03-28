@@ -74,6 +74,7 @@ TODO
 - [Memory management in Python](https://rushter.com/blog/python-memory-managment/)
 - [Dismissing Python Garbage Collection at Instagram](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
 - [PEP 374 -- Choosing a distributed VCS for the Python project](https://www.python.org/dev/peps/pep-0374/)
+- [Python — серьезный язык для разработки backend](https://habr.com/ru/company/raiffeisenbank/blog/593047/)
 
 
 ## Books
@@ -94,30 +95,15 @@ TODO
 - Python Essential 2016 - (ITVDN)
 - [Object-Oriented Programming in Python](https://learn.datacamp.com/courses/object-oriented-programming-in-python) - (DataCamp)
 - [Python for Everybody Specialization ](https://www.coursera.org/specializations/python) - (Coursera)
-    - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
 - [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) - (YouTube)
 - [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe) - (YouTube)
-- [Introduction to Python (for data science)](https://learn.datacamp.com/courses/intro-to-python-for-data-science) - (DataCamp)
-- [Software Engineering for Data Scientists in Python](https://learn.datacamp.com/courses/software-engineering-for-data-scientists-in-python) - (DataCamp)
-- [Парсинг сайтов на Python](https://youtube.com/playlist?list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q) - (YouTube)
-- [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python) - (DataCamp)
-- [Data Types for Data Science in Python](https://learn.datacamp.com/courses/data-types-for-data-science-in-python) - (DataCamp)
-- [Writing Efficient Python Code](https://learn.datacamp.com/courses/writing-efficient-python-code) - (DataCamp)
-- [Working with Dates and Times in Python](https://learn.datacamp.com/courses/working-with-dates-and-times-in-python) - (DataCamp)
-- [Regular Expressions in Python](https://learn.datacamp.com/courses/regular-expressions-in-python) - (DataCamp)
-- [Web Scraping in Python](https://learn.datacamp.com/courses/web-scraping-with-python) - (DataCamp)
-- [Writing Functions in Python](https://learn.datacamp.com/courses/writing-functions-in-python) - (DataCamp)
-- [Developing Python Packages](https://learn.datacamp.com/courses/developing-python-packages) - (DataCamp)
-- [Unit Testing for Data Science in Python](https://learn.datacamp.com/courses/unit-testing-for-data-science-in-python) - (DataCamp)
-- [Python Data Science Toolbox (Part 1)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) - (DataCamp)
-- [Python Data Science Toolbox (Part 2)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-2) - (DataCamp)
-- [Introduction to Data Science in Python](https://learn.datacamp.com/courses/introduction-to-data-science-in-python) - (DataCamp)
 - [SciPy 2021 Tutorials](https://youtube.com/playlist?list=PLYx7XA2nY5Geb1XY6mZU-35lgIfkDqaem)
 - [Школа бэкенд-разработки 2019](https://youtube.com/playlist?list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s)
 - [Łukasz Langa / Designing With Immutability [eng]](https://youtu.be/0RInKZR8Weo)
 - [Creator of Python Programming Language, Guido van Rossum | Oxford Union](https://youtu.be/7kn7NtlV6g0)
 - [Python API Development - Comprehensive Course for Beginners](https://youtu.be/0sOvCWFmrtA)
 - [What's New in Python 3.10: featuring Brandt Bucher, Lukasz Llanga and Sebastian Ramirez](https://youtu.be/JteTO3EE7y0)
+- [Python Backend Web Development Course (with Django)](https://youtu.be/jBzwzrDvZ18)
 
 
 ## Links

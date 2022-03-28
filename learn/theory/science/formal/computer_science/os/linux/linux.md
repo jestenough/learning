@@ -120,6 +120,7 @@ TODO
 - [Stupid tricks with io_uring: a server that does zero syscalls per request](https://wjwh.eu/posts/2021-10-01-no-syscall-server-iouring.html)
 - [LinuxBoot](https://www.linuxboot.org/)
 - [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux/)
+- [Linux FAQ](https://github.com/for2ch/Linux-F.A.Q) `[GitHub]`
 - [Arch Installer](https://github.com/archlinux/archinstall) `[GitHub]`
 - [Linux networking examples and tutorials](https://github.com/knorrie/network-examples) `[GitHub]`
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) `[GitHub]`
