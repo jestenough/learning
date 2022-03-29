@@ -18,6 +18,9 @@ TODO
 ## Links
 
 - [Study buddhism](https://studybuddhism.com/)
+- [Палийский канон](https://suttacentral.net/)
+- [Махаянский канон](http://abhidharma.ru/A/Abhidharma.htm)
+- [Сото-сю](https://global.sotozen-net.or.jp/eng/index.html)
 - [The Buddhist Society](https://www.thebuddhistsociety.org/)
 - [Buddhanet](http://buddhanet.net/)
 - [Ассоциация "Буддизм в Интернете"](http://buddhist.ru/)

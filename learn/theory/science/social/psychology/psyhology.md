@@ -38,6 +38,9 @@ TODO
 - [Fundamentals of Psychology](https://www.edx.org/course/fundamentals-of-psychology)
 - [The Century of the Self (Full Documentary)](https://youtu.be/eJ3RzGoQC4s)
 - [Как избавиться от наших страхов и стать свободными от них. Часть 2. Егор Миронов. Психология](https://youtu.be/be9ybpcVue8)
+- [Вадим Лёвкин - Эмоциональный интеллект](https://youtu.be/WVuDNlYiKbU)
+- [Вадим Лёвкин - Управление эмоциональными состояниями](https://youtu.be/8zCsDRUNkls)
+- [Вадим Лёвкин - Развитие позитивного мышления](https://youtu.be/vuEtOdvzMXI)
 
 
 ## Links
