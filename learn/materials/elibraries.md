@@ -1,6 +1,7 @@
 ## Audio
 
 * [Russian abooks](http://abook-club.ru/)
+* [LibriVox](https://librivox.org/) - free public domain audiobooks
 * [Storytel](https://www.storytel.com/) - Audiobooks in your iPhone or Android mobile
 * [Downpour](https://www.downpour.com/) - DRM Free Audiobooks
 * [Lit2Go](https://etc.usf.edu/lit2go/) - is a free online collection of stories and poems in Mp3
@@ -8,10 +9,11 @@
 
 ## Libs
 
-* [Z Library](https://by1lib.org/) - world's largest ebook library
+* [Z Library](https://z-lib.org) - world's largest ebook library
 * [Ytalki](https://ytalki.com/) - find the book in English you like the most according to your language level
 * [RoyalLib](https://royallib.com/)
-* [Flibusta](https://www.flibusta.site/)
+* [The pirate bay](https://thepiratebay.org/index.html)
+* [Flibusta](https://flibusta.is)
 * [Litres](https://www.litres.ru/)
 * [Open library](https://openlibrary.org/)
 * [Librimood](https://librimood.com/) - Find books based on your mood
