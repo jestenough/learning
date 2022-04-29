@@ -41,6 +41,7 @@ TODO
 - [Loop Quantum Gravity Explained](https://youtu.be/L2suMPiuog4)
 - [Quantum Computers Explained – Limits of Human Technology](https://youtu.be/JhHMJCUmq28)
 - [How I Became A Quantum Computing Researcher | physics, code & startups](https://youtu.be/3BXZxh6rVlE)
+- [Введение в квантовую физику - Авакянц Лев Павлович](https://youtube.com/playlist?list=PLcsjsqLLSfNDAU_IXe0w1Kf2w9wbtEFR8)
 
 
 ## Links

@@ -52,6 +52,7 @@ TODO
 - [Мозг и чтение. Татьяна Черниговская. Часть 1](https://youtu.be/Xs81zfgfcZE)
 - [Нейрокоммуникаторы — Александр Каплан](https://youtu.be/hOiA1wXwwDc)
 - [Александр Каплан - Нейроинтерфейс мозг-компьютер](https://youtu.be/GINJ-xks5r8)
+- [Мозг: как он устроен и работает - Дубынин Вячеслав Альбертович](https://youtube.com/playlist?list=PLcsjsqLLSfNDrS8I27uf_ZFHoAADfLoFZ)
 
 
 ## Links

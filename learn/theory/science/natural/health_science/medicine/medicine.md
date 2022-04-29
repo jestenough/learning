@@ -25,8 +25,10 @@ TODO
 - [Programming Medicine](https://youtu.be/KjhXFLA_OlQ)
 - [Alzheimer's Disease - Pathology, Tangles, Beta Amyloids](https://youtu.be/oXKnc3OlTXo)
 - [24. Schizophrenia](https://youtu.be/nEnklxGAmak)
+- [Кровообращение | Медицина](https://youtube.com/playlist?list=PLxGo9dxQkqWAUkDS2xksvLRcjKfp529Bp)
 
 
 ## Links
 
 - [Medicosis Perfectionalis](https://www.youtube.com/channel/UCl-J-ovSJhA3or73Q2uVpow)
+- [World health organization (Model List of Essential Medicines)](https://list.essentialmeds.org/)
