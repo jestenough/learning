@@ -39,6 +39,7 @@ TODO
 - [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - (Katacoda)
 - [Введение в Kubernetes](https://youtu.be/L3tgJXsMUTU) - (YouTube)
 - [Open Source funding, Kim and Rancher Desktop with Matt Farina](https://youtu.be/l9j45bvv7Rk) - (YouTube)
+- [Kubernetes Full Course in 6 Hours | Kubernetes Tutorial | Kubernetes Training | Edureka](https://youtu.be/YXfLAWGTI38)
 
 
 ## Links

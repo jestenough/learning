@@ -9,6 +9,11 @@ TODO
 - [A Better Way to SSH in AWS](https://nullsweep.com/a-better-way-to-ssh-in-aws/)
 
 
+## Courses / Videos
+
+- [AWS Certification Training Videos](https://youtube.com/playlist?list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3)
+
+
 ## Services
 
 - [AWS Aurora](https://aws.amazon.com/rds/aurora/) - (MySQL & PostgreSQL)

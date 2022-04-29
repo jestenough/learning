@@ -16,13 +16,13 @@ TODO
 - [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/)
 - [Environmental drivers of systematicity and generalization in a situated agent](https://arxiv.org/abs/1910.00571)
 - [AI Research, Replicability and Incentives](https://dennybritz.com/blog/ai-replication-incentives/)
-- [What worries me about AI(https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
+- [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
 - [Can AI Become Conscious?](https://cacm.acm.org/news/244846-can-ai-become-conscious/fulltext)
 
 
 ## Books
 
-- Grokking Artificial Intelligence Algorithms`[0/392]`
+- Grokking Artificial Intelligence Algorithms
 - Paradigms of Artificial Intelligence Programming (Peter Norvig)
 
 
@@ -35,6 +35,7 @@ TODO
 
 ## Links
 
+- [AI google](https://ai.google/)
 - [Solve challenge (AI)](https://www.hackerrank.com/domains/ai)
 - [AI Myths](https://www.aimyths.org/)
 - [Bored humans](https://boredhumans.com/)

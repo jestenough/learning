@@ -58,6 +58,7 @@ TODO
 - [Docker для Data Science](https://youtube.com/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m) - (YouTube)
 - [Intro to Docker [with Java Examples]](https://youtu.be/FzwIs2jMESM) - (YouTube)
 - [Introduction to Docker](https://youtu.be/Q5POuMHxW-0) - (YouTube)
+- [Docker Tutorial Videos | DevOps Tool](https://youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5)
 
 
 ## Links

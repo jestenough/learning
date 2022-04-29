@@ -18,6 +18,8 @@ TODO
 ## Courses / Videos
 
 - [Митап "Apache Kafka в вопросах и ответах"](https://youtu.be/sQX6oUi2eQ4)
+- [Apache Kafka Tutorial Videos](https://youtube.com/playlist?list=PL9ooVrP1hQOG7-vTVK-hgiPwKJT6XOfO_)
+- [Apache Spark and Scala Tutorial Videos](https://youtube.com/playlist?list=PL9ooVrP1hQOGyFc60sExNX1qBWJyV5IMb)
 
 
 ## Links

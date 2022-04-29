@@ -48,6 +48,7 @@ TODO
 
 ## Links
 
+- [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers.
 - [MAT: Metadata Anonymisation Toolkit](https://zenway.ru/page/mat) - Инструментарий для удаления метаданных у файлов различных форматов
 - [Abertay Hacksoc Wiki!](https://wiki.hacksoc.co.uk/)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/)

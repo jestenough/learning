@@ -11,6 +11,7 @@ TODO
 ## Courses
 
 - [Google Cloud Digital Leader Certification Course - Pass the Exam!](https://youtu.be/UGRDM86MBIQ) - (YouTube)
+- [Google Cloud Platform Tutorials | Edureka](https://youtube.com/playlist?list=PL9ooVrP1hQOFUm7TmkH1zk5xy75GAxV44)
 
 
 ## Links

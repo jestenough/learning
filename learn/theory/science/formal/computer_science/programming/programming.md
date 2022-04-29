@@ -95,7 +95,7 @@ TODO
 ## Interactive learn
 
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/)
-- [Free MongoDb](https://university.mongodb.com/)
+- [Programiz](https://www.programiz.com/) - Learn to Code for Free
 - [DataMonkey](http://datamonkey.pro/)
 - [SoloLearn](https://www.sololearn.com/)
 - [W3School](https://www.w3schools.com/)

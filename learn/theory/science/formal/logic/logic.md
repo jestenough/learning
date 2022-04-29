@@ -14,12 +14,16 @@ TODO
 ## Books
 
 - [An Introduction to Non-Classical Logic](https://www.cambridge.org/ie/academic/subjects/philosophy/philosophy-science/introduction-non-classical-logic-if-2nd-edition?format=PB&isbn=9780521670265)
+- Введение в логику и научный метод (Коэн М., Нагель Э.)
 
 
 ## Courses / Videos
 
 - [Семантические аспекты интуиционистской логики](https://compsciclub.ru/courses/intuitionisticsemantics/2021-autumn/)
 - [Introduction to Logic and Critical Thinking](https://www.coursera.org/specializations/logic-critical-thinking-duke)
+- [Курс «Введение в логику»](https://youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
+- [Математическая логика](https://youtube.com/playlist?list=PLDrmKwRSNx7JW-pjDoo6gEFdvA4tFUYQB)
+- [Введение в логику](https://youtube.com/playlist?list=PLDrmKwRSNx7J68M1-xHVCtravxeQmarQ8)
 
 
 ## Links
