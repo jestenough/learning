@@ -152,6 +152,17 @@ TODO
 - Рождение клиники (Фуко)`[0/254]`
 - Надзирать и наказывать: Рождение тюрьмы (Фуко)
 
+
+## Courses / Videos
+
+- [Социальная философия - Момджян Карен Хачикович](https://youtube.com/playlist?list=PLcsjsqLLSfNDx5R21nYtqQup23QUqoudE)
+- [История русской философии - Козырев Алексей Павлович](https://youtube.com/playlist?list=PLcsjsqLLSfNBav1vdFJt0iGLw8_X8_bhY)
+- [Аристотель и философия поздней античности - Бугай Дмитрий Владимирович](https://youtube.com/playlist?list=PLcsjsqLLSfNAGF8trDL5rg1plyoFEZHwY)
+- [Философия физики и математики - Чусов Анатолий Витальевич](https://youtube.com/playlist?list=PLcsjsqLLSfNCA-U1alYu0lgSFNzZ9m-zw)
+- [Философия первой половины 20 века - Фалев Егор Валерьевич](https://youtube.com/playlist?list=PLcsjsqLLSfNACtnqbK0ViwR8IXPCtwE0e)
+- [Майкл Сэндел «Справедливость»](https://www.youtube.com/playlist?list=PL8YZyma552VeTCYPkkEisHKAHhNx3Psk-)
+
+
 <!--
 Макс Шелер (1874 - 1928)
 Бенедикт Спиноза (1632 - 1677)

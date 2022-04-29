@@ -41,7 +41,7 @@ TODO
 
 ## Courses
 
-- [Россия на крови | Сезон 1](https://youtube.com/playlist?list=PLWGgJHpZrYMqNm0waHyEwIKQAj_qK6DVc) - (YouTube)
+- [Россия на крови | Сезон 1](https://youtube.com/playlist?list=PLWGgJHpZrYMqNm0waHyEwIKQAj_qK6DVc)
 - [Крым. Путь на Родину. Документальный фильм Андрея Кондрашова](https://youtu.be/t42-71RpRgI)
 - [Власть Соловецкая - Свидетельства и документы - 1988](https://youtu.be/DNvYLTvy1jI)
 - [World History](https://youtube.com/playlist?list=PLBDA2E52FB1EF80C9)
@@ -52,6 +52,12 @@ TODO
 - [Итальянский фашизм. Муссолини и корпоративное государство.](https://youtu.be/nddkvl_qqBk)
 - [ЭКОНОМИКА ТРЕТЬЕГО РЕЙХА: Крупп](https://youtu.be/eNPHncu22Bk)
 - [Лекция А. Б. Зубова — «Рукотворная катастрофа: как пришла Россия к 22 июня 1941 года»](https://youtu.be/mJ4PmMbXGeI)
+- [Хронология эволюции человека | Всемирная История](https://youtube.com/playlist?list=PLxGo9dxQkqWAk9DICPRdmOktbKFJrn4V7)
+- [Древние цивилизации, 600 г. до н.э. - 600 г. н.э | Всемирная история](https://youtube.com/playlist?list=PLxGo9dxQkqWBU1gk7Vi7SXKY6T2l8sJXR)
+- [600 - 1450 | Всемирная история](https://youtube.com/playlist?list=PLxGo9dxQkqWAdSpsQFKB9T1YhQ-CcMA0q)
+- [1450-1750 | Всемирная история](https://youtube.com/playlist?list=PLxGo9dxQkqWB1yi4sSb5bkvZrEKThCfFk)
+- [Вторая мировая война | История XX века](https://youtube.com/playlist?list=PLxGo9dxQkqWB0fZCqw2Zfs4kjxw16Kbzr)
+- [История Древней Греции (все выпуски)](https://youtu.be/IApONW60aqo)
 
 
 ## Links
