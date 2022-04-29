@@ -105,3 +105,4 @@
 * [ФКН ВШЭ — дистанционные занятия](https://www.youtube.com/channel/UCV56iySuhfRQ1qSjXmAr1Yw) `T`
 * [Neso Academy](https://www.youtube.com/c/nesoacademy)
 * [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/)
+* [KhanAcademyRussian](https://www.youtube.com/c/KhanAcademyRussian/)
