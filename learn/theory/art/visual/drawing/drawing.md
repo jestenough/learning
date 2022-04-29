@@ -38,6 +38,7 @@
 
 - [Artchive](https://artchive.ru/) - social network for artists
 - [Illustration chronicles](https://illustrationchronicles.com/) - 175 Years. 175 Stories.
+- [OPENCLIPART](https://openclipart.org/) - free-content vector clip art
 - [Procreate Handbook](https://www.procreate.art/handbook/procreate)
 - [Earthdraw](https://earthdraw.org/) - buy art & help the planet
 - [drawdata.xyz](https://drawdata.xyz/) - Draw your Data and Download.

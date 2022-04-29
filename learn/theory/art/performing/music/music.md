@@ -38,6 +38,7 @@
 - [Radiohead: магия аккорда. Лекция Анны Виленской](https://youtu.be/dxHlcBH4eVc)
 - [Music And Measure Theory](https://youtu.be/cyW5z-M2yzw)
 - [How to Science [Part 1: Music]](https://youtu.be/d3mHfqd0VZY)
+- [Музыка (беседы с интересными героями)](https://youtube.com/playlist?list=PLKQxqJVnCqzFrKwWhpL385jUbaKLYUnBZ)
 
 
 ## Links

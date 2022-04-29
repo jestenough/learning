@@ -43,6 +43,7 @@
 - [Seth Rogen Explains How to Write a Movie](https://youtu.be/Ej7rfjORot4)
 - [The Most Beautiful Shots in Movie History II](https://youtu.be/AA3bJ74uIPI)
 - [The Beauty Of French Cinema](https://youtu.be/PZgamsxGtiM)
+- [Кинематограф (беседы с интересными героями)](https://youtube.com/playlist?list=PLKQxqJVnCqzFtRNkAXHdCGJ-0-QhMl9zK)
 
 
 ## Links

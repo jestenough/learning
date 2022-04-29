@@ -53,6 +53,7 @@
 - [Золотые страницы европейской литературы](https://youtube.com/playlist?list=PL-_cKNuVAYAU_Govo6JKvuw8DX86qPXx7) - (Лекториум)
 - [Write a Micro-Textbook](https://hyperlink.academy/courses/write-a-micro-textbook/14)
 - [How and Why We Read: Crash Course English Literature #1](https://youtu.be/MSYw502dJNY)
+- [Литература (беседы с интересными героями)](https://youtube.com/playlist?list=PLKQxqJVnCqzEI5n5CLNVk6b-nqzO_W4_c)
 
 
 ## Links

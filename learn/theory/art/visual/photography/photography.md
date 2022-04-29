@@ -69,6 +69,7 @@
 - [my full two-year film and photography journey | equipment, pricing, & crippling social anxiety!](https://youtu.be/iPV56hBnv4w)
 - [SomeМнение | Дима Малей про фотографию, веру и искушение творческих натур](https://youtu.be/fDeq422sXJc)
 - [Abstract: The Art of Design | Platon: Photography | FULL EPISODE | Netflix](https://youtu.be/BDpqt-haLLM)
+- [Фотография ((беседы с интересными героями))](https://youtube.com/playlist?list=PLKQxqJVnCqzG0L_7x5ctIkbmTrm1xyggb)
 
 
 ## Links
