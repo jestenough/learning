@@ -26,6 +26,7 @@
 * [Cosmolearning](https://cosmolearning.org/) `A-F/P`
 * [Academic Earth](https://academicearth.org/) `A-F`
 * [Michigan online](https://online.umich.edu/) `A-F`
+* [Univertv](http://univertv.ru/) `A-F`
 * [Arzamas](https://arzamas.academy/) `H-F/P`
 * [Лаборатория ненужных вещей](https://7seminarov.com/) `H-F`
 * [Eng Vid](https://www.engvid.com/) `H-F`
@@ -74,8 +75,13 @@
     * [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
     * [Wiki books](https://www.wikibooks.org/)
     * [Wiktionary](https://www.wiktionary.org/)
-* [Фокcфорд.Учебник](https://foxford.ru/wiki)
+* [Большая российская энциклопедия](https://bigenc.ru/)
+* [Энциклопедия Кругосвет](https://www.krugosvet.ru/)
+* [Мир энциклопедий](http://www.encyclopedia.ru/)
+* [Мегаэнциклопедия Кирилла и Мефодия](https://megabook.ru/)
+* [Britannica](https://www.britannica.com/)
 * [Словари и энциклопедии на Академике](https://academic.ru/)
+* [Фокcфорд.Учебник](https://foxford.ru/wiki)
 * [TheFreeDictionary](https://www.thefreedictionary.com/)
 * [Golden](https://golden.com/explore)
 * [Theory and practice](https://theoryandpractice.ru/)
