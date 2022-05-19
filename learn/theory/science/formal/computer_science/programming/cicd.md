@@ -5,6 +5,7 @@ TODO
 
 ## Articles
 
+- [What You Should Know Before Setting Up Your First CI/CD Pipeline](https://www.argonaut.dev/blog/2022/05/17/setup-first-ci-cd)
 - [What we learnt by migrating from CircleCI to Buildkite](https://hasura.io/blog/what-we-learnt-by-migrating-from-circleci-to-buildkite/)
 - [Zero Downtime Deployments](https://www.lpalmieri.com/posts/zero-downtime-deployments/)
 - [How to Learn CircleCI in Simple Words](https://towardsdatascience.com/how-to-learn-circleci-in-simple-words-2275e4299628)
