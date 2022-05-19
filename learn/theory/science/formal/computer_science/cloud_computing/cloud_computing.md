@@ -45,6 +45,7 @@ TODO
 
 ## Web
 
+- [Argonaut](https://argonaut.dev/)
 - [Deta](https://www.deta.sh/)
 - [Flightcontrol](https://flightcontrol.dev/)
 - [Mutable](https://mutable.io/)
