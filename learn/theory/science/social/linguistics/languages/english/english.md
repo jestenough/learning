@@ -120,4 +120,4 @@ TODO
 - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish/featured)
 - [English with Lucy](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA)
 - [Doing English](https://www.youtube.com/user/doingenglishDOTcom)
-- [EngVid](https://www.youtube.com/user/engvidenglish)
+- [EngVid](https://www.youtube.com/c/engvidJames)
