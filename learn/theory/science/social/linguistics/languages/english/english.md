@@ -43,7 +43,7 @@ TODO
 - [Visuwords](https://visuwords.com/) - Visual Dictionary; Visual Thesaurus; Interactive Lexicon
 
 
-### Interview
+## Interview
 
 - [TED](http://www.ted.com/)
 - [The Talks](https://the-talks.com/)
@@ -61,14 +61,14 @@ TODO
 - [Common Errors in English Usage](https://brians.wsu.edu/common-errors/)
 
 
-### Music
+## Music
 
 - [Letras](https://www.letras.mus.br/)
 - [Vagalume](http://www.vagalume.com.br/)
 - [Lyrics Training](http://lyricstraining.com)
 
 
-### Speaking Practice of Live communication
+## Speaking Practice of Live communication
 
 - [Italki](http://www.italki.com/)
 - [Chatroulette](http://chatroulette.com/)
@@ -76,7 +76,7 @@ TODO
 - [Rachel's English](http://rachelsenglish.com/) - описания и примеры произношения звуков и слов
 
 
-### Tests
+## Tests
 
 - [86 tests](http://english03.ru/testy)
 - [Test vocab](http://testyourvocab.com/)
@@ -84,7 +84,7 @@ TODO
 - [Level Tests](http://www.englishjet.com/english_courses_files/tests.htm)
 
 
-### Training texts
+## Training texts
 
 - [Newsela](https://newsela.com/)
 - [Voice of America](https://learningenglish.voanews.com/)
@@ -93,13 +93,13 @@ TODO
 - [BBC Newsround](https://www.bbc.co.uk/newsround)
 
 
-### TV/Radio
+## TV/Radio
 
 - [EnglishClub](https://www.englishclub.com/listening/radio.htm)
 - [ororo.tv](http://ororo.tv/)
 
 
-### Vocabulary
+## Vocabulary
 
 - [Parts of Speech and Vocab Rules](https://www.englishclub.com/vocabulary/parts-of-speech.htm) - (English club)
 - [Topic Vocabulary](https://www.englishclub.com/vocabulary/topic.htm) - (English club)
@@ -109,7 +109,7 @@ TODO
 - [Word of the Day](https://www.englishclub.com/vocabulary/word-of-the-day.htm) - (English club)
 
 
-### YouTube Channels
+## YouTube Channels
 
 - [English With Genifer!](http://www.youtube.com/user/JenniferESL)
 - [English for Beginners, Irina Shipilova](https://youtube.com/playlist?list=PLWZ63a6zsYpi5KB3pMeFBxofCQpx7ymPe)
