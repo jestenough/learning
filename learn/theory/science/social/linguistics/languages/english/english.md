@@ -121,3 +121,5 @@ TODO
 - [English with Lucy](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA)
 - [Doing English](https://www.youtube.com/user/doingenglishDOTcom)
 - [EngVid](https://www.youtube.com/user/engvidenglish)
+- [ENGLISH with James · engVid](https://www.youtube.com/c/engvidJames)
+- [Learn English with Bob the Canadian](https://www.youtube.com/c/LearnEnglishwithBobtheCanadian)
