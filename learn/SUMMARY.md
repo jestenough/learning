@@ -182,44 +182,21 @@
 
 - [Mathematics](theory/science/formal/mathematics/mathematics.md)
     - [Applied mathematics](theory/science/formal/mathematics/applied_mathematics/applied_mathematics.md)
-        <!-- - [Computational sciences](theory/science/formal/mathematics/applied_mathematics/computational_sciences/computational_sciences.md)
-            * [Computer algebra](theory/science/formal/mathematics/applied_mathematics/computational_sciences/computer_algebra.md)
-            * [Numerical analysis](theory/science/formal/mathematics/applied_mathematics/computational_sciences/numerical_analysis.md)
-        - [Mathematical physics](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/mathematical_physics.md)
-            * [Classical Mechanics](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/classical_mechanics.md)
-            * [Fluid mechanics](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/fluid_mechanics.md)
-            * [Mechanics of deformable solids](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/mechanics_of_deformable_solids.md)
-            * [Mechanics of structures](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/mechanics_of_structures.md)
-            * [Particle mechanics](theory/science/formal/mathematics/applied_mathematics/mathematical_physics/particle_mechanics.md) -->
         - [Probability and statistics](theory/science/formal/mathematics/applied_mathematics/probability_and_statistics/probability_and_statistics.md)
             * [Probability theory](theory/science/formal/mathematics/applied_mathematics/probability_and_statistics/probability_theory.md)
             * [Statistics](theory/science/formal/mathematics/applied_mathematics/probability_and_statistics/statistics.md)
     - [Pure mathematics](theory/science/formal/mathematics/pure_mathematics/pure_mathematics.md)
         - [Algebra](theory/science/formal/mathematics/pure_mathematics/algebra/algebra.md)
-            <!-- * [Algebraic systems](theory/science/formal/mathematics/pure_mathematics/algebra/algebraic_systems.md)
-            * [Commutative rings](theory/science/formal/mathematics/pure_mathematics/algebra/commutative_rings.md)
-            * [Field theory and polynomials](theory/science/formal/mathematics/pure_mathematics/algebra/field_theory.md) -->
             * [Linear algebra](theory/science/formal/mathematics/pure_mathematics/algebra/linear_algebra.md)
-            <!-- * [Order theory](theory/science/formal/mathematics/pure_mathematics/algebra/order_theory.md) -->
         - [Analysis](theory/science/formal/mathematics/pure_mathematics/analysis/analysis.md)
-        <!-- - [Combinatorics](theory/science/formal/mathematics/pure_mathematics/combinatorics/combinatorics.md) -->
         - [Foundations](theory/science/formal/mathematics/pure_mathematics/foundations/foundations.md)
             * [Fractal](theory/science/formal/mathematics/pure_mathematics/foundations/fractal.md)
             * [Graph theory](theory/science/formal/mathematics/pure_mathematics/foundations/graph_theory.md)
             * [Lambda calculus](theory/science/formal/mathematics/pure_mathematics/foundations/lambda_calculus.md)
-            <!-- * [Model theory](theory/science/formal/mathematics/pure_mathematics/foundations/model_theory.md)
-            * [Proof theory](theory/science/formal/mathematics/pure_mathematics/foundations/proof_theory.md)
-            * [Set theory](theory/science/formal/mathematics/pure_mathematics/foundations/set_theory.md) -->
             * [Type theory](theory/science/formal/mathematics/pure_mathematics/foundations/type_theory.md)
         - [Geometry](theory/science/formal/mathematics/pure_mathematics/geometry/geometry.md)
             * [Algebraic geometry](theory/science/formal/mathematics/pure_mathematics/geometry/algebraic_geometry.md)
-            <!-- * [Arithmetic geometry](theory/science/formal/mathematics/pure_mathematics/geometry/arithmetic_geometry.md)
-            * [Convex geometry](theory/science/formal/mathematics/pure_mathematics/geometry/convex_geometry.md)
-            * [Differential geometry](theory/science/formal/mathematics/pure_mathematics/geometry/differential_geometry.md)
-            * [Diophantine geometry](theory/science/formal/mathematics/pure_mathematics/geometry/diophantine_geometry.md)
-            * [Discrete geometry](theory/science/formal/mathematics/pure_mathematics/geometry/discrete_geometry.md) -->
         - [Number theory](theory/science/formal/mathematics/pure_mathematics/number_theory/number_theory.md)
-            <!-- * [Arithmetic](theory/science/formal/mathematics/pure_mathematics/number_theory/arithmetic.md) -->
         - [Recreational mathematics](theory/science/formal/mathematics/pure_mathematics/recreational_mathematics/recreational_mathematics.md)
         - [Topology](theory/science/formal/mathematics/pure_mathematics/topology/topology.md)
 
@@ -227,201 +204,55 @@
 ## Natural science
 
 - [Agricultural science](theory/science/natural/agricultural_science/agricultural_science.md)
-    <!-- - [Agriculture](theory/science/natural/agricultural_science/agriculture/agriculture.md)
-        * [Cuniculture](theory/science/natural/agricultural_science/agriculture/cuniculture.md)
-        * [Fungiculture](theory/science/natural/agricultural_science/agriculture/fungiculture.md)
-        * [Heliciculture](theory/science/natural/agricultural_science/agriculture/heliciculture.md)
-        * [Olericulture](theory/science/natural/agricultural_science/agriculture/olericulture.md)
-        * [Sericulture](theory/science/natural/agricultural_science/agriculture/sericulture.md)
-    - [Agronomy](theory/science/natural/agricultural_science/agronomy.md)
-    - [Animal husbandry](theory/science/natural/agricultural_science/animal_husbandry.md)
-    - [Algaculture](theory/science/natural/agricultural_science/aquaculture/aquaculture.md)
-        * [Mariculture](theory/science/natural/agricultural_science/aquaculture/mariculture.md)
-    - [Food science](theory/science/natural/agricultural_science/food_science.md)
-    - [Forestry](theory/science/natural/agricultural_science/forestry/forestry.md)
-        * [Arboriculture](theory/science/natural/agricultural_science/forestry/arboriculture.md)
-        * [Silviculture](theory/science/natural/agricultural_science/forestry/silviculture.md)
-    - [Horticulture](theory/science/natural/agricultural_science/horticulture/horticulture.md)
-        * [Floriculture](theory/science/natural/agricultural_science/horticulture/floriculture.md)
-        * [Hydroculture](theory/science/natural/agricultural_science/horticulture/hydroculture.md)
-    - [Permaculture](theory/science/natural/agricultural_science/permaculture.md)  -->
 - [Astronomy](theory/science/natural/astronomy/astronomy.md)
-    <!-- * [Astrobiology](theory/science/natural/astronomy/astrobiology.md)
-    * [Astrodynamics](theory/science/natural/astronomy/astrodynamics.md)
-    * [Astrometry](theory/science/natural/astronomy/astrometry.md) -->
     * [Astrophysics](theory/science/natural/astronomy/astrophysics.md)
     * [Cosmology](theory/science/natural/astronomy/cosmology.md)
-    <!-- * [Extragalactic astronomy](theory/science/natural/astronomy/extragalactic_astronomy.md) -->
     * [Galactic astronomy](theory/science/natural/astronomy/galactic_astronomy.md)
     * [Physical cosmology](theory/science/natural/astronomy/physical_cosmology.md)
     * [Planetary science](theory/science/natural/astronomy/planetary_science.md)
-    <!-- * [Stellar astronomy](theory/science/natural/astronomy/stellar_astronomy.md) -->
 - [Biology](theory/science/natural/biology/biology.md)
     - [Anatomy](theory/science/natural/biology/anatomy/anatomy.md)
-    <!-- - [Biotechnology](theory/science/natural/biology/biotechnology/biotechnology.md) -->
     - [Botany](theory/science/natural/biology/botany/botany.md)
-    <!-- - [Cell biology](theory/science/natural/biology/cell_biology/cell_biology.md) -->
     - [Ecology](theory/science/natural/biology/ecology/ecology.md)
     - [Evolutionary biology](theory/science/natural/biology/evolutionary_biology/evolutionary_biology.md)
     - [Genetics](theory/science/natural/biology/genetics/genetics.md)
         * [DNA](theory/science/natural/biology/genetics/dna.md)
         * [Genomics](theory/science/natural/biology/genetics/genomics.md)
-    <!-- - [Marine biology](theory/science/natural/biology/marine_biology/marine_biology.md) -->
     - [Microbiology](theory/science/natural/biology/microbiology/microbiology.md)
-    <!-- - [Molecular biology](theory/science/natural/biology/molecular_biology/molecular_biology.md)
-    - [Mycology](theory/science/natural/biology/mycology/mycology.md) -->
     - [Neuroscience](theory/science/natural/biology/neuroscience/neuroscience.md)
         - [Somnology](theory/science/natural/biology/neuroscience/somnology/somnology.md)
-    <!-- - [Paleontology](theory/science/natural/biology/paleontology/paleontology.md)
-    - [Phycology](theory/science/natural/biology/phycology/phycology.md)
-    - [Physiology](theory/science/natural/biology/physiology/physiology.md)
-    - [Protistology](theory/science/natural/biology/protistology/protistology.md)
-    - [Virology](theory/science/natural/biology/virology/virology.md) -->
     - [Zoology](theory/science/natural/biology/zoology/zoology.md)
 - [Chemistry](theory/science/natural/chemistry/chemistry.md)
-    <!-- - [Analytical chemistry biochemistry](theory/science/natural/chemistry/analytical_chemistry/analytical_chemistry.md)
-    - [Biochemistry](theory/science/natural/chemistry/biochemistry/biochemistry.md)
-    - [Organic chemistry](theory/science/natural/chemistry/organic_chemistry/organic_chemistry.md)
-    - [Inorganic chemistry](theory/science/natural/chemistry/inorganic_chemistry/inorganic_chemistry.md)
-    - [Physical chemistry](theory/science/natural/chemistry/physical_chemistry/physical_chemistry.md) -->
 - [Earth Science](theory/science/natural/earth_science/earth_science.md)
     - [Atmospheric science](theory/science/natural/earth_science/atmospheric_science/atmospheric_science.md)
-    <!-- - [Cartography](theory/science/natural/earth_science/cartography/cartography.md)
-    - [Geology](theory/science/natural/earth_science/geology/geology.md)
-    - [Oceanography](theory/science/natural/earth_science/oceanography/oceanography.md) -->
     - [Physical geography](theory/science/natural/earth_science/physical_geography/physical_geography.md)
-    <!-- - [Planetary science](theory/science/natural/earth_science/planetary_science/planetary_science.md) -->
 - [Engineering](theory/science/natural/engineering/engineering.md)
-    <!-- - [Bioengineering](theory/science/natural/engineering/bioengineering/bioengineering.md)
-    - [Chemical engineering](theory/science/natural/engineering/chemical_engineering/chemical_engineering.md)
-    - [Civil engineering](theory/science/natural/engineering/civil_engineering/civil_engineering.md)
-    - [Electrical engineering](theory/science/natural/engineering/electrical_engineering/electrical_engineering.md)
-    - [Mechanical engineering](theory/science/natural/engineering/mechanical_engineering/mechanical_engineering.md) -->
 - [Health science](theory/science/natural/health_science/health_science.md)
-    <!-- * [Conservation medicine](theory/science/natural/health_science/conservation_medicine.md)
-    * [Dentistry](theory/science/natural/health_science/dentistry.md) -->
     * [Ergonomics](theory/science/natural/health_science/ergonomics.md)
     - [Fitness](theory/science/natural/health_science/fitness/fitness.md)
         * [Running](theory/science/natural/health_science/fitness/running.md)
         * [Yoga](theory/science/natural/health_science/fitness/yoga.md)
     - [Medicine](theory/science/natural/health_science/medicine/medicine.md)
-    <!-- * [Nursing](theory/science/natural/health_science/nursing.md) -->
     * [Nutrition](theory/science/natural/health_science/nutrition.md)
     * [Optometry](theory/science/natural/health_science/optometry.md)
-    <!-- * [Pharmacology](theory/science/natural/health_science/pharmacology.md)
-    * [Physical therapy](theory/science/natural/health_science/physical_therapy.md)
-    * [Veterinary medicine](theory/science/natural/health_science/veterinary_medicine.md) -->
-<!-- - [Materials science](theory/science/natural/materials_science/materials_science.md)
-    - [Endeavors](theory/science/natural/materials_science/endeavors/endeavors.md)
-        * [Computational materials science](theory/science/natural/materials_science/endeavors/computational_materials_science.md)
-        * [Materials characterization](theory/science/natural/materials_science/endeavors/materials_characterization.md)
-        * [Materials informatics](theory/science/natural/materials_science/endeavors/materials_informatics.md)
-    - [Materials](theory/science/natural/materials_science/materials/materials.md)
-        * [Ceramic engineering](theory/science/natural/materials_science/materials/ceramics.md)
-        * [Metallurgy](theory/science/natural/materials_science/materials/metallurgy.md)
-        * [Polymer science and polymer engineering](theory/science/natural/materials_science/materials/polymers.md)
-    - [Phenomena and techniques](theory/science/natural/materials_science/phenomena_and_techniques/phenomena_and_techniques.md)
-        * [Crystallography](theory/science/natural/materials_science/phenomena_and_techniques/crystallography.md)
-        * [Nuclear spectroscopy](theory/science/natural/materials_science/phenomena_and_techniques/nuclear_spectroscopy.md)
-        * [Surface science](theory/science/natural/materials_science/phenomena_and_techniques/surface_science.md)
-        * [Tribology](theory/science/natural/materials_science/phenomena_and_techniques/tribology.md) -->
 - [Physics](theory/science/natural/physics/physics.md)
-    <!-- - [Classical mechanics](theory/science/natural/physics/classical_mechanics/classical_mechanics.md)
-        * [Applied mechanics](theory/science/natural/physics/classical_mechanics/applied.md)
-        * [Celestial mechanics](theory/science/natural/physics/classical_mechanics/celestial.md)
-        * [Continuum mechanics](theory/science/natural/physics/classical_mechanics/continuum.md)
-        * [Dynamics](theory/science/natural/physics/classical_mechanics/dynamics.md)
-        * [Kinematics](theory/science/natural/physics/classical_mechanics/kinematics.md)
-        * [Kinetics](theory/science/natural/physics/classical_mechanics/kinetics.md)
-        * [Statics](theory/science/natural/physics/classical_mechanics/statics.md)
-        * [Statistical mechanics](theory/science/natural/physics/classical_mechanics/statistical.md)
-    - [Electromagnetism](theory/science/natural/physics/electromagnetism/electromagnetism.md)
-        * [Electrical network](theory/science/natural/physics/electromagnetism/electrical_network.md)
-        * [Electrodynamics](theory/science/natural/physics/electromagnetism/electrodynamics.md)
-        * [Electrostatics](theory/science/natural/physics/electromagnetism/electrostatics.md)
-        * [Magnetostatics](theory/science/natural/physics/electromagnetism/magnetostatics.md) -->
     - [Quantum mechanics](theory/science/natural/physics/quantum_mechanics/quantum_mechanics.md)
-    <!-- - [Theory of relativity](theory/science/natural/physics/theory_of_relativity/theory_of_relativity.md)
-    - [Thermodynamics](theory/science/natural/physics/thermodynamics/thermodynamics.md)
-        * [Chemical](theory/science/natural/physics/thermodynamics/chemical.md)
-        * [Classical](theory/science/natural/physics/thermodynamics/classical.md)
-        * [Equilibrium](theory/science/natural/physics/thermodynamics/equilibrium.md)
-        * [Non-equilibrium](theory/science/natural/physics/thermodynamics/non_equilibrium.md)
-        * [Quantum thermodynamics](theory/science/natural/physics/thermodynamics/quantum_thermodynamics.md)
-        * [Statistical](theory/science/natural/physics/thermodynamics/statistical.md) -->
 
 
 ## Social science
 
 - [Human geography](theory/science/social/anthropogeography/anthropogeography.md)
     - [Cultural geography](theory/science/social/anthropogeography/cultural_geography/cultural_geography.md)
-    <!-- - [Development geography](development_geography/development_geography.md)
-    - [Economic geography](economic_geography/economic_geography.md)
-        * [Marketing geography]()
-        * [Transportation geography]()
-    - [Health geography](health_geography/health_geography.md)
-    - [Historical geography](historical_geography/historical_geography.md)
-    - [Political geography](political_geography/political_geography.md)
-        * [Electoral geography]()
-        * [Geopolitics]()
-        * [Strategic geography]()
-        * [Military geography]()
-    - [Population geography](population_geography/population_geography.md)
-    - [Settlement geography](settlement_geography/settlement_geography.md)
-    - [Urban geography](urban_geography/urban_geography.md)
-        * [Economic geography]()
-        * [Population geography]()
-        * [Settlement geography]() -->
 - [Anthropology](theory/science/social/anthropology/anthropology.md)
-    <!-- - [Archaeology](archaeology/archaeology.md)
-    - [Biological anthropology](biological_anthropology/biological_anthropology.md)
-    - [Cultural anthropology](cultural_anthropology/cultural_anthropology.md)
-    - [Linguistic anthropology](linguistic_anthropology/linguistic_anthropology.md)
-    - [Social anthropology](social_anthropology/social_anthropology.md) -->
-<!-- - [Communication science](communication_studies/communication_studies.md)
-    - [Intercultural communication](intercultural_communication/intercultural_communication.md)
-    - [International communication](international_communication/international_communication.md)
-    - [Interpersonal communication](interpersonal_communication/interpersonal_communication.md)
-    - [Intrapersonal communication](intrapersonal_communication/intrapersonal_communication.md)
-    - [Mass communication](mass_communication/mass_communication.md)
-    - [Nonverbal communication](nonverbal_communication/nonverbal_communication.md)
-    - [Organizational communication](organizational_communication/organizational_communication.md) -->
 - [Business studies](theory/science/social/business_studies/business_studies.md)
     * [Finance](theory/science/social/business_studies/finance.md)
     * [Investing](theory/science/social/business_studies/investing.md)
 - [Cultural studies](theory/science/social/cultural_studies/cultural_studies.md)
 - [Economics](theory/science/social/economics/economics.md)
-    <!-- - [Applied economics](applied_economics/applied_economics.md)
-    - [Econometrics](econometrics/econometrics.md)
-    - [Economic methodology](economic_methodology/economic_methodology.md)
-    - [Economic theory](economic_theory/economic_theory.md)
-    - [Heterodox economics](heterodox_economics/heterodox_economics.md)
-    - [International economics](international_economics/international_economics.md)
-    - [JEL classification codes](jel_classification_codes/jel_classification_codes.md)
-    - [Macroeconomics](macroeconomics/macroeconomics.md)
-    - [Mainstream economics](mainstream_economics/mainstream_economics.md)
-    - [Mathematical economics](mathematical_economics/mathematical_economics.md)
-    - [Microeconomics](microeconomics/microeconomics.md)
-    - [Political economy](political_economy/political_economy.md)
-    - [Schools of economics](schools_of_economics/schools_of_economics.md) -->
 - [Education](theory/science/social/education/education.md)
     - [Learning](theory/science/social/education/learning/learning.md)
-    <!-- - [Library](library/library.md)
-    - [Study skills](study_skills/study_skills.md) -->
 - [History](theory/science/social/history/history.md)
 - [Law](theory/science/social/law/law.md)
-    <!-- - [Civil law](law/civil_law/civil_law.md)
-        * [Civil procedure](law/civil_law/civil_procedure.md)
-        * [Civil rights](law/civil_law/civil_rights.md)
-        * [Common law](law/civil_law/common_law.md)
-        * [Environmental law](law/civil_law/environmental_law.md)
-        * [Family law](law/civil_law/family_law.md)
-    - [Person law](law/person_law.md)
-    - [Procedural law](law/procedural_law.md)
-    - [Public law](law/public_law/public_law.md)
-        * [Administrative](law/public_law/administrative.md)
-        * [Criminal](law/public_law/criminal.md)
-    - [Substantive law](law/substantive_law.md) -->
 - [Linguistics](theory/science/social/linguistics/linguistics.md)
     - [Arabic](theory/science/social/linguistics/languages/arabic/arabic.md)
     - [Aramaic](theory/science/social/linguistics/languages/aramaic/aramaic.md)
@@ -430,37 +261,8 @@
 - [Management](theory/science/social/management/management.md)
     - [Product management](theory/science/social/management/product_management.md)
 - [Marketing](theory/science/social/marketing/marketing.md)
-    <!-- - [B2B](b2b/b2b.md)
-    - [Consumer marketing](consumer_marketing/consumer_marketing.md)
-    - [Global marketing](global_marketing/global_marketing.md)
-    - [Services marketing](services_marketing/services_marketing.md)
-    - [Social marketing](social_marketing/social_marketing.md) -->
-<!-- - [Pedagogy](pedagogy/pedagogy.md) -->
 - [Philosophy](theory/science/social/philosophy/philosophy.md)
-    <!-- - [Aesthetics]()
-    - [Axiology]()
-    - [Epistemology]()
-    - [Ethics]()
-    - [Philosophy of law]()
-    - [Philosophy of language]()
-    - [Logic]()
-    - [Philosophy of mind]()
-    - [Metaphilosophy]()
-    - [Metaphysics]()
-    - [Political philosophy]()
-    - [Philosophy of religion]()
-    - [Philosophy of science]()
-    - [Social philosophy]() -->
 - [Political science](theory/science/social/political_science/political_science.md)
-    <!-- - [Comparative politics](comparative_politics/comparative_politics.md)
-    - [Development studies](development_studies/development_studies.md)
-    - [Gender and politics](gender_and_politics/gender_and_politics.md)
-    - [Geopolitics](geopolitics/geopolitics.md)
-    - [Institutional theory](institutional_theory/institutional_theory.md)
-    - [International relations](international_relations/international_relations.md)
-    - [Nationalism studies](nationalism_studies/nationalism_studies.md)
-    - [Political behavior](political_behavior/political_behavior.md)
-    - [Strategic studies](strategic_studies/strategic_studies.md) -->
 - [Psychology](theory/science/social/psychology/psychology.md)
     * [Consciousness](theory/science/social/psychology/consciousness.md)
     - [Mindfulness](theory/science/social/psychology/mindfulness/mindfulness.md)
@@ -505,22 +307,17 @@
 
 ## Performing art
 
-<!-- - [Dance](theory/art/performing/dance/dance.md) -->
 - [Music](theory/art/performing/music/music.md)
     * [Production music](theory/art/performing/music/production_music.md)
-<!-- - [Opera](theory/art/performing/opera/opera.md) -->
-<!-- - [Theatre](theory/art/performing/theatre/theatre.md) -->
 
 
 ## Visual art
 
 - [Architecture](theory/art/visual/architecture/architecture.md)
 - [Calligraphy](theory/art/visual/calligraphy/calligraphy.md)
-<!-- - [Ceramic art](theory/art/visual/ceramic/ceramic.md) -->
 - [Cinematography](theory/art/visual/cinematography/cinematography.md)
     * [Movies](theory/art/visual/cinematography/movies.md)
     * [TV series](theory/art/visual/cinematography/tv_series.md)
-<!-- - [Conceptual art](theory/art/visual/conceptual_art/conceptual_art.md) -->
 - [Design](theory/art/visual/design/design.md)
     * [Color](theory/art/visual/design/color.md)
     * [Figma](theory/art/visual/design/figma.md)
@@ -530,4 +327,3 @@
 - [Painting](theory/art/visual/painting/painting.md)
     * [Painters](theory/art/visual/painting/painters.md)
 - [Photography](theory/art/visual/photography/photography.md)
-<!-- - [Sculpture](theory/art/visual/sculpture/sculpture.md) -->
