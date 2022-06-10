@@ -14,6 +14,7 @@ TODO
 
 ## Books
 
+- [Vocabulary for Children](https://en.by1lib.org/booklist/337935/0d3d12)
 - Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
 - Полный курс английского языка - учебник-самоучитель (М.Г.Рубцова)`[0/276]`
 - Английский язык. Новый самоучитель (Ирина Орлова, А. Петрова)`[35/800]`
@@ -22,10 +23,10 @@ TODO
 
 ## Courses / Videos
 
-- [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation) - (Coursera)
-- [Audio-lessons](https://english-globe.ru/index.php?option=com_content&task=view&id=13&Itemid=17) - (English Globe)
-- [Business English](https://english-globe.ru/index.php?option=com_content&task=category&sectionid=19&id=71&Itemid=92) - (English Globe)
-- [Writing in English at University](https://www.coursera.org/learn/writing-english-university) - (Coursera)
+- [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation)
+- [Audio-lessons](https://english-globe.ru/index.php?option=com_content&task=view&id=13&Itemid=17)
+- [Business English](https://english-globe.ru/index.php?option=com_content&task=category&sectionid=19&id=71&Itemid=92)
+- [Writing in English at University](https://www.coursera.org/learn/writing-english-university)
 - [Online English Courses](http://www.1-language.com/englishcourse/index.htm)
 - [Correct English](http://www.correctenglish.ru/exercises/)
 - [Полиглот](https://rutracker.org/forum/viewtopic.php?t=3918150)
@@ -33,6 +34,8 @@ TODO
 - [100 Английских Сокращений Слов с Примерами.Английских Сокращений и Сленг.](https://youtu.be/LVhcyGBLTEg)
 - [Как улучшить разговорный американский английский - Говорите как носитель языка](https://youtu.be/m3g51xfopIE)
 - [Learn English with Movies | Will Smith - The Pursuit of Happyness](https://youtu.be/pKoH9GkEKxQ)
+- [Грамматика Английского Языка](https://stepik.org/course/70675)
+- [Математический английский](https://openedu.ru/course/hse/MATHENG/)
 
 
 ## Dictionaries
@@ -56,6 +59,7 @@ TODO
 
 ## Links
 
+- [Pronunciation of words in English](https://en.wikipedia.org/wiki/Help:IPA/English)
 - [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
 - [History of english podcast](https://historyofenglishpodcast.com/)
 - [Common Errors in English Usage](https://brians.wsu.edu/common-errors/)
