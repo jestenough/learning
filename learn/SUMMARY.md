@@ -272,6 +272,8 @@
     - [Buddhism](theory/science/social/theology/buddhism/buddhism.md)
     - [Christianity](theory/science/social/theology/christianity/christianity.md)
         * [Authors](theory/science/social/theology/christianity/authors.md)
+    - [Islam](theory/science/social/theology/islam/islam.md)
+    - [Judaism](theory/science/social/theology/judaism/judaism.md)
 
 
 <!-- Art -->

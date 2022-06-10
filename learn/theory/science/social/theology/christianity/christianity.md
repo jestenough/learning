@@ -18,15 +18,17 @@ TODO
 
 ## Courses / Videos
 
-- [Отвечают сирийские мистики](https://arzamas.academy/radio/announcements/naturalmystic) - (Arzamas) [(YouTube)](https://youtube.com/playlist?list=PLeNbGOow-rncob_D6FkQNubAiBA0At3aU)
+- [Отвечают сирийские мистики](https://arzamas.academy/radio/announcements/naturalmystic)
 - [Что каждый православный должен знать о причастии. 10 правил](https://youtu.be/2NgE-FFcHt4)
 - [Perry Robinson on Becoming Orthodox, Christology, and Personhood](https://youtu.be/gdHSWmfkdgg)
+- [All Popes of the Catholic Church: St Peter - Francis](https://youtu.be/305OOQGc2yY)
 
 
 ## Links
 
 - [Jesus portal (RU)](https://jesus-portal.ru/) - Православный портал о Христе и христианстве
 - [Азбука веры](https://azbyka.ru/) - Православный портал
+- [BibleGateway](https://www.biblegateway.com/) - easy reading, listening, studying, searching, and sharing of the Bible in many different versions and translations
 - [Библия с комментариями](http://bible.optina.ru/)
 - [КАТЕХИЗИС КАТОЛИЧЕСКОЙ ЦЕРКВИ](http://catholic.tomsk.ru/catechism/index.htm)
 - [Vatican.va](https://www.vatican.va/)
