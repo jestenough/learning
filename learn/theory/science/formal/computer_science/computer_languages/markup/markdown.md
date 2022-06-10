@@ -12,6 +12,7 @@ TODO
 - [Typesetting Markdown – Part 1: Build Script](https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/)
 - [6 Things Markdown Got Wrong](https://www.swyx.io/markdown-mistakes/)
 - [From Markdown to Video](https://www.narakeet.com/docs/script/)
+- [Markdown в науке](https://habr.com/ru/company/macloud/blog/553804/)
 
 
 ## Books

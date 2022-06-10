@@ -30,6 +30,11 @@ TODO
 - [Profiling Django with DTrace and cProfile](https://wiedi.frubar.net/blog/2019/11/18/django-performance/)
 
 
+## Books
+
+- Django RESTful Web Services (By Gastón C. Hillar)
+
+
 ## Courses / Videos
 
 - [Python Django Web Framework - Full Course for Beginners](https://youtu.be/F5mRW0jo-U4)

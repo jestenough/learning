@@ -75,24 +75,24 @@ TODO
 - [Dismissing Python Garbage Collection at Instagram](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
 - [PEP 374 -- Choosing a distributed VCS for the Python project](https://www.python.org/dev/peps/pep-0374/)
 - [Python — серьезный язык для разработки backend](https://habr.com/ru/company/raiffeisenbank/blog/593047/)
+- [Как PyPy ускоряет Python до уровня C?](https://nuancesprog.ru/p/14989/)
 
 
 ## Books
 
-- Как устроен python. Гид для разработчиков, программистов и интересующихся. (Харрисон М.) (2019)`[272/272]`
-- Программирование на Python, том 1, 4-е издание. Марк Лутц`[0/992]`
+- Как устроен python. Гид для разработчиков, программистов и интересующихся. (Харрисон М.) (2019)
+- Программирование на Python, том 1, 4-е издание. Марк Лутц
 - Чистый питон`[0/288]`
-- Программируем на Python (Майкл Доусон)`[0/416]`
-- Прикладной анализ текстовых данных на Python`[0/368]`
-- A Byte of Python (Russian)`[0/164]`
+- Программируем на Python (Майкл Доусон)
+- Прикладной анализ текстовых данных на Python
+- A Byte of Python (Russian)
 - [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
-- Data Engineering with Python (Paul Crickard)`[0/357]`
+- Data Engineering with Python (Paul Crickard)
 - Algorithmic Trading with Python (Chris Conlan)
 
 
 ## Courses / Videos
 
-- Python Essential 2016 - (ITVDN)
 - [Object-Oriented Programming in Python](https://learn.datacamp.com/courses/object-oriented-programming-in-python) - (DataCamp)
 - [Python for Everybody Specialization ](https://www.coursera.org/specializations/python) - (Coursera)
 - [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) - (YouTube)
@@ -104,6 +104,7 @@ TODO
 - [Python API Development - Comprehensive Course for Beginners](https://youtu.be/0sOvCWFmrtA)
 - [What's New in Python 3.10: featuring Brandt Bucher, Lukasz Llanga and Sebastian Ramirez](https://youtu.be/JteTO3EE7y0)
 - [Python Backend Web Development Course (with Django)](https://youtu.be/jBzwzrDvZ18)
+- [__new__ vs __init__ in Python](https://youtu.be/-zsV0_QrfTw)
 
 
 ## Links
@@ -112,6 +113,7 @@ TODO
 - [Python 3 docs](https://docs.python.org/3/)
 - [Pythontutor](https://pythontutor.com/visualize.html#mode=edit) - VISUALIZE CODE EXECUTION
 - [Moscow Python Podcast](https://podcast.python.ru/)
+- [Full stack python](https://www.fullstackpython.com/)
 - [Learning Python Test Automation](https://automationpanda.com/2020/11/09/learning-python-test-automation/amp/)
 - [Coding Patterns for Python Extensions](https://pythonextensionpatterns.readthedocs.io/en/latest/index.html)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
