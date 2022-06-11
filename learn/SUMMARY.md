@@ -34,7 +34,7 @@
             - [TeX](theory/science/formal/computer_science/computer_languages/markup/tex/tex.md)
                 * [LaTeX](theory/science/formal/computer_science/computer_languages/markup/tex/latex.md)
             * [XML](theory/science/formal/computer_science/computer_languages/markup/xml.md)
-        - [Programming languages](theory/science/formal/computer_science/computer_languages/programming/programming.md)
+        - [Programming languages](theory/science/formal/computer_science/computer_languages/programming_languages/programming_languages.md)
             - [Assembler](theory/science/formal/computer_science/computer_languages/programming/assembler/assembler.md)
             - [C](theory/science/formal/computer_science/computer_languages/programming/c/c_language.md)
                 * [C libraries](theory/science/formal/computer_science/computer_languages/programming/c/c_libraries.md)
