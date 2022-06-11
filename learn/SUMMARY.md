@@ -27,7 +27,7 @@
     - [Computer graphics](theory/science/formal/computer_science/computer_graphics/computer_graphics.md)
         * [Image processing](theory/science/formal/computer_science/computer_graphics/image_processing.md)
         * [SVG](theory/science/formal/computer_science/computer_graphics/svg.md)
-    - [Computer languages](theory/science/formal/computer_science/computer_languages/languages.md)
+    - [Computer languages](theory/science/formal/computer_science/computer_languages/computer_languages.md)
         - [Markup languages](theory/science/formal/computer_science/computer_languages/markup/markup.md)
             * [HTML](theory/science/formal/computer_science/computer_languages/markup/html.md)
             * [Markdown](theory/science/formal/computer_science/computer_languages/markup/markdown.md)
