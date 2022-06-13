@@ -28,9 +28,10 @@ TODO
 - [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 - [Алгоритмы. Просто как дважды два](https://1lib.eu/book/2881801/bdf9dc?regionChanged=&redirect=537745)`[0/245]`
 - [Numerical Algorithms](http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf)`[0/397]`
+- Алгоритмические трюки для программистов. 2-е издание (Генри С.Уоррен)
 
 
-## Courses
+## Courses / Videos
 
 - [Algorithms](https://www.coursera.org/specializations/algorithms)
 - [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - (YouTube)
@@ -43,11 +44,14 @@ TODO
 - [Алгоритмы и структуры данных, часть 1(осень 2019)](https://youtube.com/playlist?list=PLlb7e2G7aSpTZN_zRrbpVJUvB-pTuM_VL) - (YouTube)
 - [Алгоритмы и структуры данных, часть 2 (весна 2020)](https://youtube.com/playlist?list=PLlb7e2G7aSpRMDLGXOYutKAsDc6rrIrbl) - (YouTube)
 - [Intro to Algorithms: Crash Course Computer Science #13](https://youtu.be/rL8X2mlNHPM)
+- [Data Structures and Algorithms in 15 Minutes](https://youtu.be/oz9cEqFynHU)
+- [Курс по алгоритмам, Школа анализа данных](https://youtube.com/playlist?list=PLJOzdkh8T5koY39DBaUhD7_GlOfcMJqyZ)
 
 
 ## Links
 
 - [Algorithms](http://e-maxx.ru/algo/)
+- [Алгоритмика](https://ru.algorithmica.org/)
 - [Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall13/cos521/)
 - [Binary Search (Learn Algorithms Together)](https://binarysearch.com/)
 - [Data Structures and Algorithms Problems](https://www.techiedelight.com/data-structures-and-algorithms-problems/)
