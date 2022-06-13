@@ -37,6 +37,7 @@ TODO
 - [Notes on the Plan 9tm 3rd edition Kernel Source (Francisco J Ballesteros)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.5409&rep=rep1&type=pdf)
 - [The little book about OS development](https://littleosbook.github.io/)
 - [The intermezzOS book](http://intermezzos.github.io/book/)
+- BIOS - Дизассемблирование, модификация, программирование (Дармаван Салихан)
 
 
 ## Courses / Videos

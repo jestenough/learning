@@ -26,8 +26,6 @@ TODO
 - [Containers from first principles](https://fzakaria.com/2020/05/31/containers-from-first-principles.html)
 - [How to Run a Container Without an Image](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)
 - [Linux containers in a few lines of code](https://zserge.com/posts/containers/)
-- []()
-- []()
 
 
 ## Courses / Videos

@@ -63,6 +63,7 @@ TODO
 - [Почему Linux не пользуется популярностью на десктопе и как это исправить?](https://proglib.io/p/pochemu-linux-ne-polzuetsya-populyarnostyu-na-desktope-i-kak-eto-ispravit-2021-10-26)
 - [Разбираемся с UEFI и GPT: установка Windows и Kubuntu на один диск](https://habr.com/ru/post/259283/)
 - [Анатомия GNU/Linux](https://habr.com/ru/post/531872/)
+- [what are init 0 init 1 init 2 init 3 init 4 init 5 init 6?](https://linuxonfire.wordpress.com/2012/10/19/what-are-init-0-init-1-init-2-init-3-init-4-init-5-init-6-2/)
 
 
 ## Books
@@ -98,6 +99,8 @@ TODO
 - [LISA19 - Linux Systems Performance](https://youtu.be/fhBHvsi0Ql0) - (YouTube)
 - [The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE) - (YouTube)
 - [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4) - (YouTube)
+- [Структура файлов и каталогов в Linux](https://youtu.be/WL2Xbndqy0k)
+- [Разжёванный курс по Linux для чайников](https://youtu.be/fbP2gyy5aE0)
 
 
 ## Links
