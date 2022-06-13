@@ -42,6 +42,8 @@ TODO
 - [Quantum Computers Explained – Limits of Human Technology](https://youtu.be/JhHMJCUmq28)
 - [How I Became A Quantum Computing Researcher | physics, code & startups](https://youtu.be/3BXZxh6rVlE)
 - [Введение в квантовую физику - Авакянц Лев Павлович](https://youtube.com/playlist?list=PLcsjsqLLSfNDAU_IXe0w1Kf2w9wbtEFR8)
+- [Введение в квантовую физику. Лекции - Рубцов Алексей Николаевич](https://youtube.com/playlist?list=PLcsjsqLLSfNDqvcsTsKJM1Ee6V8Aaobl0)
+- [How to learn Quantum Mechanics on your own (a self-study guide)](https://youtu.be/Rs572Cf4zkk)
 
 
 ## Links

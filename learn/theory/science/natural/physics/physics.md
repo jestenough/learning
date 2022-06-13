@@ -38,6 +38,9 @@ TODO
 - [How does Hawking Radiation REALLY work?](https://youtu.be/rrUvLlrvgxQ)
 - [Are all forces illusions?](https://youtu.be/YRgBLVI3suM)
 - [The Biggest Ideas in the Universe!](https://youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
+- [Еще об энтропии](https://youtu.be/FkWgzyA7n_E)
+- [Физика. Теоретический минимум](https://stepik.org/course/155/)
+- [Физика без формул](https://stepik.org/course/70490/)
 
 
 ## Links
