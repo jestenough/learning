@@ -23,6 +23,7 @@ TODO
 
 - Теоретический минимум по Big Data`[0/208]`
 - Работа с Big Data в облаках (Александр Сенько)`[0/448]`
+- Applied data science with python and jupyter (Alex Galea)
 
 
 ## Courses
