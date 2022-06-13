@@ -34,11 +34,13 @@ TODO
 - [The Doubly Warped World of Binary Black Holes](https://youtu.be/rQcKIN9vj3U)
 - [The Largest Black Hole in the Universe - Size Comparison](https://youtu.be/0FH9cgRhQ-k)
 - [Сравнение размеров звёзд 3 (Vortex V1)](https://youtu.be/KEHCCsFFIuY)
+- [Сравнение размеров Вселенной 3D](https://youtu.be/i93Z7zljQ7I)
 - [97% of Galaxies Are Moving Faster Than Light, HOW IS THIS POSSIBLE?](https://youtu.be/cadNZJvfl7s)
 - [What Happens After the Universe Ends?](https://youtu.be/PC2JOQ7z5L0)
 - [The Origin Of The Universe Just Got WAY Weirder | Answers With Joe](https://youtu.be/__0Y5SyEVUI)
 - [Is the Universe REALLY a Hologram?](https://youtu.be/T4DAGabiGms)
 - [Powers of Ten™ (1977)](https://youtu.be/0fKBhvDjuy0)
+- [Владимир Сурдин: Заблуждения и мифы о Вселенной](https://youtu.be/sYV0FlWf-fU)
 
 
 ## Links
