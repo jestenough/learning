@@ -17,11 +17,15 @@ TODO
 - [Inside a Collaborative Text Editor](https://caolan.uk/articles/inside-a-collaborative-text-editor/)
 - [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
 - [Open source collaborative text editors](https://juretriglav.si/open-source-collaborative-text-editors/)
+- [A Brief Glance at How Various Text Editors Manage Their Textual Data](https://ecc-comp.blogspot.com/2015/05/a-brief-glance-at-how-5-text-editors.html)
+- [Building a Text Editor for a Digital-First Newsroom](https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21)
+- [Why I Deleted My IDE; and How It Changed My Life For the Better](https://dev.to/overopshq/why-i-deleted-my-ide-and-how-it-changed-my-life-for-the-better-hli)
 
 
 ## Courses / Videos
 
 - [Which editor/IDE does Bisqwit use? Answers & some history](https://youtu.be/ZMBQmhO8KqI)
+- [Xi: an editor for the next 20 years – Raph Levien](https://youtu.be/4FbQre9VQLI)
 
 
 ## Links

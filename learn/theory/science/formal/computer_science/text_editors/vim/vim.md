@@ -59,6 +59,7 @@ TODO
 
 ## Links
 
+- [VimAwesome](https://vimawesome.com/)
 - [Learn X in Y minutes Where X=vim](https://learnxinyminutes.com/docs/vim/)
 - [Learn X in Y minutes Where X=Vimscript](https://learnxinyminutes.com/docs/vimscript/)
 - [Learn Vim fast](https://vim.is/)

@@ -29,8 +29,6 @@ TODO
 - [surround.vim](https://github.com/tpope/vim-surround) - Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [fzf.vim](https://github.com/junegunn/fzf.vim)
 - [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
-- []()
-
 
 
 ## Themes
