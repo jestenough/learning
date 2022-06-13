@@ -16,8 +16,6 @@ TODO
 - [Cross-database queries in SQLite (and weeknotes)](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
 - [Many Small Queries Are Efficient In SQLite](https://sqlite.org/np1queryprob.html)
 - [Working with SQLite using Go and Python](https://www.ardanlabs.com/blog/2020/11/working-with-sqlite-using-go-python.html)
-- []()
-- []()
 
 
 ## Links

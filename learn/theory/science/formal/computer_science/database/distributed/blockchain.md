@@ -12,6 +12,11 @@ TODO
 - [You Don’t Need a Blockchain, You Need a Time-Series Database](https://thenewstack.io/you-dont-need-a-blockchain-you-need-a-time-series-database/)
 
 
+## Books
+
+- Блокчейн от А до Я. Все о технологии десятилетия (Лоран Лелу)
+
+
 ## Courses
 
 - [Blockchain 101 - Визуальная демонстрация](https://youtu.be/_160oMzblY8) - (YouTube)
