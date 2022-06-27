@@ -163,6 +163,12 @@ TODO
 - [Майкл Сэндел «Справедливость»](https://www.youtube.com/playlist?list=PL8YZyma552VeTCYPkkEisHKAHhNx3Psk-)
 
 
+## Links
+
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+- [Стэнфордская философская энциклопедия: переводы избранных статей](https://www.philosophy.ru/)
+
+
 <!--
 Макс Шелер (1874 - 1928)
 Бенедикт Спиноза (1632 - 1677)
