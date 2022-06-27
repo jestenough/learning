@@ -39,6 +39,7 @@ TODO
 - [The Stock Market vs. The Economy](https://youtu.be/0ECqDaPjjV0)
 - [Как работает рынок и что такое обмен – Сергей Гуриев](https://youtu.be/L9MpLpN4yZE)
 - [How South Korea Experiments With Universal Basic Income | WSJ](https://youtu.be/EbWv_1NbWyw)
+- [Видеолекции по финансовой грамотности](https://youtube.com/playlist?list=PL-U1Z5tJ1i-aYDIzC1tW9stDXN4pVt704)
 
 
 ## Links
