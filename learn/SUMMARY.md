@@ -63,7 +63,7 @@
         * [Hadoop](theory/science/formal/computer_science/data_science/hadoop.md)
         * [Kafka](theory/science/formal/computer_science/data_science/kafka.md)
         * [Spark](theory/science/formal/computer_science/data_science/spark.md)
-    - [Databases](theory/science/formal/computer_science/database/databases.md)
+    - [Database](theory/science/formal/computer_science/database/database.md)
         - [NoSQL](theory/science/formal/computer_science/database/nosql/nosql.md)
             * [MongoDB](theory/science/formal/computer_science/database/nosql/mongodb.md)
         - [Relational](theory/science/formal/computer_science/database/relational/relational.md)
