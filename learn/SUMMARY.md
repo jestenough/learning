@@ -205,7 +205,8 @@
 
 - [Agricultural science](theory/science/natural/agricultural_science/agricultural_science.md)
 - [Astronomy](theory/science/natural/astronomy/astronomy.md)
-    * [Astrophysics](theory/science/natural/astronomy/astrophysics.md)
+    - [Astrophysics](theory/science/natural/astronomy/astrophysics/astrophysics.md)
+        * [Cosmogony](theory/science/natural/astronomy/astrophysics/cosmogony.md)
     * [Cosmology](theory/science/natural/astronomy/cosmology.md)
     * [Galactic astronomy](theory/science/natural/astronomy/galactic_astronomy.md)
     * [Physical cosmology](theory/science/natural/astronomy/physical_cosmology.md)
