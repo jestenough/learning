@@ -32,6 +32,8 @@
             * [HTML](theory/science/formal/computer_science/computer_languages/markup/html.md)
             * [Markdown](theory/science/formal/computer_science/computer_languages/markup/markdown.md)
             - [TeX](theory/science/formal/computer_science/computer_languages/markup/tex/tex.md)
+                - [BibTeX](theory/science/formal/computer_science/computer_languages/markup/tex/bibtex/bibtex.md)
+                    * [JabRef](theory/science/formal/computer_science/computer_languages/markup/tex/bibtex/jabref.md)
                 * [LaTeX](theory/science/formal/computer_science/computer_languages/markup/tex/latex.md)
             * [XML](theory/science/formal/computer_science/computer_languages/markup/xml.md)
         - [Programming languages](theory/science/formal/computer_science/computer_languages/programming_languages/programming_languages.md)
