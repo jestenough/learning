@@ -53,9 +53,9 @@
 
 ## Collections
 
-* [Open culture](https://www.openculture.com/freeonlinecourses)
-* [Class central](https://www.classcentral.com/)
-* [arXiv](https://arxiv.org/)
+* [Open culture](https://www.openculture.com/freeonlinecourses) - The best free cultural & educational media on the web
+* [Class central](https://www.classcentral.com/) - listing of online courses
+* [arXiv](https://arxiv.org/) - articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics
 * [Vos ucsb edu](http://sites.reformal.ru/vos.ucsb.edu/)
 * [Ресурсы открытого доступа](https://www.nlb.by/content/informatsionnye-resursy/elektronnye-informatsionnye-resursy/informatsionnye-resursy-otkrytogo-dostupa/)
 * [Maps of Music / Paintings / English texts / Русские тексты](https://artinfuser.com/artquiz/)
@@ -65,20 +65,21 @@
 
 ## Sites
 
-* [Encyclopedia](https://www.encyclopedia.com/)
+* [Encyclopedia](https://www.encyclopedia.com/) - Search over 200 individual encyclopedias and reference books from the worlds most trusted publishers.
+* [WorldCat](https://www.worldcat.org/) - The World's Largest Library Catalog
 * [Tandfonline](https://www.tandfonline.com/) - Search peer-reviewed journals and articles
-* [Google scholar](https://scholar.google.com/)
+* [Google scholar](https://scholar.google.com/) - provides a simple way to broadly search for scholarly literature
 * [Curlie](https://curlie.org/) - The Collector of URLs
-* [Wikipedia org](https://www.wikipedia.org/)
+* [Wikipedia org](https://www.wikipedia.org/) - is a free online encyclopedia, created and edited by volunteers around the world
     * [Wikipedia:Contents/Portals](https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals)
     * [Портал:Обзор](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80)
     * [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
     * [Wiki books](https://www.wikibooks.org/)
     * [Wiktionary](https://www.wiktionary.org/)
-* [Большая российская энциклопедия](https://bigenc.ru/)
-* [Энциклопедия Кругосвет](https://www.krugosvet.ru/)
-* [Мир энциклопедий](http://www.encyclopedia.ru/)
-* [Мегаэнциклопедия Кирилла и Мефодия](https://megabook.ru/)
+* [Мир энциклопедий](http://www.encyclopedia.ru/) - преимущественно русскоязычные энциклопедические и псевдоэнциклопедические издания (энциклопедии, энциклопедические словари, энциклопедические справочники).
+* [Большая российская энциклопедия](https://bigenc.ru/) - Научное издательство "Большая российская энциклопедия"
+* [Энциклопедия Кругосвет](https://www.krugosvet.ru/) - универсальная научно-популярная энциклопедия
+* [Мегаэнциклопедия Кирилла и Мефодия](https://megabook.ru/) - энциклопедический мультимедийный интернет-ресурс
 * [Britannica](https://www.britannica.com/)
 * [Словари и энциклопедии на Академике](https://academic.ru/)
 * [Фокcфорд.Учебник](https://foxford.ru/wiki)
@@ -90,6 +91,7 @@
 * [Культура.рф](https://www.culture.ru/)
 * [СИГНУМ](https://signummsk.ru/)
 * [Artifex](https://artifex.ru/)
+* [Успехи физических наук](https://ufn.ru/ru/) - is a peer-reviewed scientific journal
 * [The Purdue Writing Lab](https://owl.purdue.edu/)
 * [Timeline index](https://www.timelineindex.com/)
 
@@ -104,11 +106,11 @@
 * [YaleCourses](https://www.youtube.com/user/YaleCourses) `A`
 * [Фоксфорд](https://www.youtube.com/user/MADreval) `A`
 * [Лекториум](https://www.youtube.com/user/OpenLektorium) `A`
+* [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/) `A`
+* [KhanAcademyRussian](https://www.youtube.com/c/KhanAcademyRussian/) `A`
 * [Arzamas](https://www.youtube.com/channel/UCVgvnGSFU41kIhEc09aztEg) `H`
 * [Лаборатория Ненужных Вещей](https://www.youtube.com/channel/UCiJSoD98uPDhcNRGNk16iaw) `H`
 * [Дистанционные занятия МФТИ](https://www.youtube.com/channel/UCEEhbFAvl3fOW5geICQbMcg) `T`
 * [Лекторий ФПМИ](https://www.youtube.com/c/%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D0%A4%D0%9F%D0%9C%D0%98) `T`
 * [ФКН ВШЭ — дистанционные занятия](https://www.youtube.com/channel/UCV56iySuhfRQ1qSjXmAr1Yw) `T`
-* [Neso Academy](https://www.youtube.com/c/nesoacademy)
-* [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/)
-* [KhanAcademyRussian](https://www.youtube.com/c/KhanAcademyRussian/)
+* [Neso Academy](https://www.youtube.com/c/nesoacademy) `T`
