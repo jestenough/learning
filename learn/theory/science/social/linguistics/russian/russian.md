@@ -12,8 +12,13 @@ TODO
 
 ## Links
 
+- [Learn russian lessons](https://learnrussian.rt.com/lessons/)
 - [Грамота.ру](http://gramota.ru/) - Справочно-информационный портал
 - [Teкcтoлoгия.py](https://www.textologia.ru/) - Oбpaзoвaтeльный мeдиa-пopтaл Пoдpoбнee нa: https://www.textologia.ru/
 - [Правила русского языка](https://therules.ru/)
 - [Русский язык. Ударения](https://где-ударение.рф) - онлайн-словарь ударений русского языка (+ тест)
 - [Словарь синонимов русского языка](https://text.ru/synonym)
+- [Business Russian Podcasts](https://international.ucla.edu/cwl/news/businessrussian)
+- [Russian Literature Podcasts](https://international.ucla.edu/cwl/news/russianliterature)
+- [Russian grammar](https://www.youtube.com/user/russiangrammar/videos) `[YouTube]`
+- [One Minute Russian](https://youtube.com/playlist?list=PLwX3o6xqc_JgRlgXGOMhHUaOO10tpGOgx) `[YouTube]`
