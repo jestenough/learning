@@ -36,6 +36,8 @@ TODO
 - [Learn English with Movies | Will Smith - The Pursuit of Happyness](https://youtu.be/pKoH9GkEKxQ)
 - [Грамматика Английского Языка](https://stepik.org/course/70675)
 - [Математический английский](https://openedu.ru/course/hse/MATHENG/)
+- [English for Science, Technology, Engineering, and Mathematics](https://www.coursera.org/learn/stem) - this course is designed for non-native English speakers who are interested in improving their English skills in the sciences.
+- [English for Business Networking](https://tidd.ly/3ud49U3) - Introduce yourself in English, keep a conversation going, and leave the conversation
 
 
 ## Dictionaries
@@ -59,6 +61,7 @@ TODO
 
 ## Links
 
+- [USA learns](https://www.usalearns.org/) - A free website that helps adults learn English online by providing engaging videos and educational activities
 - [Pronunciation of words in English](https://en.wikipedia.org/wiki/Help:IPA/English)
 - [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
 - [History of english podcast](https://historyofenglishpodcast.com/)
