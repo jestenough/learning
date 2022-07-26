@@ -260,6 +260,7 @@
     - [Arabic](theory/science/social/linguistics/arabic/arabic.md)
     - [Aramaic](theory/science/social/linguistics/aramaic/aramaic.md)
     - [English](theory/science/social/linguistics/english/english.md)
+    - [German](theory/science/social/linguistics/german/german.md)
     - [Russian](theory/science/social/linguistics/russian/russian.md)
 - [Management](theory/science/social/management/management.md)
     - [Product management](theory/science/social/management/product_management.md)
