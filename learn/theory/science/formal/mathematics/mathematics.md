@@ -54,10 +54,13 @@ TODO
 - [What is the difference between a theorem, a lemma, and a corollary?](https://divisbyzero.com/2008/09/22/what-is-the-difference-between-a-theorem-a-lemma-and-a-corollary/)
 - [Learn Mathematics from START to FINISH](https://youtu.be/pTnEG_WGd2Q)
 - [How (and why) to raise e to the power of a matrix | DE6](https://youtu.be/O85OWBJ2ayo)
+- [ЕГЭ по базовой математике](https://stepik.org/course/19059/)
+- [What is Mathematics?](https://youtu.be/fdJOv6iirfU)
 
 
 ## Links
 
+- [Math.ru](https://math.ru/)
 - [Ximera](https://ximera.osu.edu/) - free interactive mathematics textbooks (Ohio State University)
 - [Almost Fun](https://www.almostfun.org/lessons/) - Math lessons explain Math concepts using non-Math concepts you're already familiar with.
 - [Математика с нуля](http://spacemath.xyz/)
