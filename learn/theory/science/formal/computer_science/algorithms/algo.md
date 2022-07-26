@@ -29,6 +29,7 @@ TODO
 - [Алгоритмы. Просто как дважды два](https://1lib.eu/book/2881801/bdf9dc?regionChanged=&redirect=537745)`[0/245]`
 - [Numerical Algorithms](http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf)`[0/397]`
 - Алгоритмические трюки для программистов. 2-е издание (Генри С.Уоррен)
+- Совершенный алгоритм (Тим Рафгарден)
 
 
 ## Courses / Videos
@@ -51,6 +52,7 @@ TODO
 ## Links
 
 - [Algorithms](http://e-maxx.ru/algo/)
+- [Visualgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
 - [Алгоритмика](https://ru.algorithmica.org/)
 - [Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall13/cos521/)
 - [Binary Search (Learn Algorithms Together)](https://binarysearch.com/)
