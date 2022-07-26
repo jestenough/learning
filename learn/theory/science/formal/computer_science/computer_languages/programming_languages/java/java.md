@@ -61,6 +61,7 @@ TODO
 
 ## Links
 
+- [Official website of Java language](https://java.com)
 - [Inside Java](https://inside.java/)
 - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
 - [Learn X in Y minutes Where X=java](https://learnxinyminutes.com/docs/java/)

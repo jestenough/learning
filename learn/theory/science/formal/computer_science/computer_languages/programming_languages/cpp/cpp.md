@@ -68,15 +68,6 @@ TODO
 ## Courses / Videos
 
 - [Школа 1514](https://youtube.com/playlist?list=PLRDzFCPr95fLMvdcV-hEl-42x8LIyjvHA) - (YouTube)
-    - [Лекция №1](https://youtu.be/wcPpp1jz-y4)
-    - [Лекция №2](https://youtu.be/Q4WR6r8kxBw)
-    - [Лекция №3](https://youtu.be/oGJ7VOJdksc)
-    - [Лекция №4](https://youtu.be/kptgQZx4Wu8)
-    - [Лекция №5](https://youtu.be/C5b-BXuU1sU)
-    - [Лекция №6](https://youtu.be/tREmp9KdRjw)
-    - [Лекция №7](https://youtu.be/w8AzgNAuV_c)
-    - [Лекция №8](https://youtu.be/sydfviK1GpA)
-    - [Лекция №9](https://youtu.be/w8YB3UAoBlM)
 - [Алгоритмы и структуры данных C++ (2020)](https://youtube.com/playlist?list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr) - (YouTube)
 - [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - (Udacity)
 - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - (YouTube)
@@ -98,6 +89,7 @@ TODO
 
 ## Links
 
+- [Official website of C++ language](https://isocpp.org)
 - [Learn X in Y minutes Where X=c++](https://learnxinyminutes.com/docs/c++/)
 - [Solve challenge (C++)](https://www.hackerrank.com/domains/cpp)
 - [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg) `[YouTube Channel]`

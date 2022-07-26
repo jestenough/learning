@@ -109,7 +109,7 @@ TODO
 
 ## Links
 
-- [Python org](https://www.python.org/)
+- [Official website of Python language](https://www.python.org/)
 - [Python 3 docs](https://docs.python.org/3/)
 - [Pythontutor](https://pythontutor.com/visualize.html#mode=edit) - VISUALIZE CODE EXECUTION
 - [Moscow Python Podcast](https://podcast.python.ru/)

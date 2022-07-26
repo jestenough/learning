@@ -67,6 +67,7 @@ TODO
 
 ## Links
 
+- [Official website of C language](https://open-std.org/)
 - [Learn X in Y minutes Where X=c](https://learnxinyminutes.com/docs/c/)
 - [Solve challenge (C)](https://www.hackerrank.com/domains/c)
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/)
