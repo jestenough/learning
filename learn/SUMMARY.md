@@ -6,6 +6,7 @@
 ## Materials
 
 * [Elibraries](materials/elibraries.md)
+* [Videos](materials/videos.md)
 * [Websites](materials/websites.md)
 
 
