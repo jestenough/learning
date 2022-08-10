@@ -258,6 +258,8 @@
     - [Learning](theory/science/social/education/learning/learning.md)
 - [History](theory/science/social/history/history.md)
 - [Law](theory/science/social/law/law.md)
+    - [Privacy](theory/science/social/law/privacy/privacy.md)
+        * [TOR](theory/science/social/law/privacy/tor.md)
 - [Linguistics](theory/science/social/linguistics/linguistics.md)
     - [Arabic](theory/science/social/linguistics/arabic/arabic.md)
     - [Aramaic](theory/science/social/linguistics/aramaic/aramaic.md)
