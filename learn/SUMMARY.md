@@ -100,6 +100,8 @@
         * [Domains](theory/science/formal/computer_science/networking/domains.md)
         * [HTTP](theory/science/formal/computer_science/networking/http.md)
         * [Nginx](theory/science/formal/computer_science/networking/nginx.md)
+        - [Peer-to-peer](theory/science/formal/computer_science/networking/p2p/p2p.md)
+            * [BitTorrent](theory/science/formal/computer_science/networking/p2p/bit_torrent.md)
         * [REST](theory/science/formal/computer_science/networking/rest.md)
         * [SSH](theory/science/formal/computer_science/networking/ssh.md)
         * [TCP](theory/science/formal/computer_science/networking/tcp.md)
