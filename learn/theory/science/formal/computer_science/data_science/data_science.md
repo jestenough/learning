@@ -11,7 +11,7 @@ TODO
 - [Amazon Data Science Interview](https://medium.com/acing-ai/amazon-ai-interview-questions-acing-the-ai-interview-3ed4e671920f)
 - [Modern Data Practice and the SQL Tradition](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
 - [The Modern Data Science Stack](https://fivetran.com/blog/modern-data-science-stack)
-- [Как стать Data Engineer](https://khashtamov.com/ru/data-engineer/) `RU`
+- [Как стать Data Engineer](https://khashtamov.com/ru/data-engineer/)
 - [Самые востребованные навыки в профессии data engineer](https://habr.com/ru/company/productivity_inside/blog/484120/)
 - [Что такое Big data engineering, и как развиваться в этой сфере](https://habr.com/ru/company/skillfactory/blog/552432/)
 - [Кто такие дата-инженеры, и как ими становятся?](https://habr.com/ru/company/otus/blog/452670/)
@@ -21,17 +21,17 @@ TODO
 
 ## Book
 
-- Теоретический минимум по Big Data`[0/208]`
-- Работа с Big Data в облаках (Александр Сенько)`[0/448]`
+- Теоретический минимум по Big Data
+- Работа с Big Data в облаках (Александр Сенько)
 - Applied data science with python and jupyter (Alex Galea)
 
 
 ## Courses
 
-- [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3) - (YouTube)
-- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - (Coursera)
-- [Data Engineering for Everyone](https://learn.datacamp.com/courses/data-engineering-for-everyone) - (DataCamp)
-- [Data Science, черные ящики – и почему вам сильно повезло](https://youtu.be/zvGeLvWZ7yQ) - (YouTube)
+- [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3)
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+- [Data Engineering for Everyone](https://learn.datacamp.com/courses/data-engineering-for-everyone)
+- [Data Science, черные ящики – и почему вам сильно повезло](https://youtu.be/zvGeLvWZ7yQ)
 - [Highload (Технополис, осень 2017)](https://youtube.com/playlist?list=PLrCZzMib1e9rZohs_FJg8MK52Ey494z40)
 - [Инфраструктура больших данных (семинары) (3 курс, весна 2021)](https://youtube.com/playlist?list=PL4_hYwCyhAvbI83zAjpg8EO52sBywa2rQ)
 - [Инфраструктура больших данных (лекции) (3 курс, весна 2021)](https://youtube.com/playlist?list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx)
@@ -46,16 +46,16 @@ TODO
 - [Data Engineers: материалы для самоподготовки](https://training.by/#!/News/131?lang=ru)
 - [Awesome Data Engineering (best version IMHO)](https://awesomedataengineering.com/)
 - [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/)
-- [Data Zen Community](https://www.youtube.com/c/DataZenCommunity/featured) `[YouTube]`
-- [itversity](https://www.youtube.com/c/itversityin) `[YouTube]`
-- [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) `[GitHub]`
-- [Awesome Data Science](https://github.com/academic/awesome-datascience) `[GitHub]`
-- [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) `[GitHub]`
-- [Data scientist roadmap](https://github.com/MrMimic/data-scientist-roadmap) `[GitHub]`
-- [Data engineer roadmap](https://github.com/datastacktv/data-engineer-roadmap) `[GitHub]`
-- [Data science blogs](https://github.com/rushter/data-science-blogs) `[GitHub]`
-- [Data Science cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet) `[GitHub]`
-- [List of Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) `[GitHub]`
-- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo) `[GitHub]`
-- [Data Science Learning Resources](https://github.com/rebecca-vickery/data-science-learning-resources) `[GitHub]`
-- [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners) `[GitHub]`
+- [Data Zen Community](https://www.youtube.com/c/DataZenCommunity/featured)
+- [itversity](https://www.youtube.com/c/itversityin)
+- [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+- [Awesome Data Science](https://github.com/academic/awesome-datascience)
+- [Awesome Big Data](https://github.com/0xnr/awesome-bigdata)
+- [Data scientist roadmap](https://github.com/MrMimic/data-scientist-roadmap)
+- [Data engineer roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+- [Data science blogs](https://github.com/rushter/data-science-blogs)
+- [Data Science cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
+- [List of Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
+- [Data Science Learning Resources](https://github.com/rebecca-vickery/data-science-learning-resources)
+- [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)

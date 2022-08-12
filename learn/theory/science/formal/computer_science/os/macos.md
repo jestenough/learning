@@ -54,20 +54,20 @@ TODO
 - [Creating a macOS App](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
 - [My 2021 New Mac Setup](https://www.swyx.io/new-mac-setup-2021/)
 - [macOS defaults list](https://macos-defaults.com/)
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM `[GitHub]`
-- [diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes `[GitHub]`
-- [lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS `[GitHub]`
-- [dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup `[GitHub]`
-- [macOS/iOS system security](https://github.com/houjingyi233/macOS-iOS-system-security) `[GitHub]`
-- [macos_security](https://github.com/usnistgov/macos_security) `[GitHub]`
-- [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS `[GitHub]`
-- [OS X app in plain C](https://github.com/jimon/osx_app_in_plain_c) - A simple showcase how to create a simple OS X app in plain C without any Objective-C `[GitHub]`
-- [React Native for macOS](https://github.com/microsoft/react-native-macos) `[GitHub]`
-- [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) `[GitHub]`
-- [mas CLI](https://github.com/mas-cli/mas) - Mac App Store command line interface `[GitHub]`
-- [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! `[GitHub]`
-- [macOS virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS `[GitHub]`
-- [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) `[GitHub]`
-- [macOS dotfiles](https://github.com/mathiasbynens/dotfiles) `[GitHub]`
-- [Awesome macos command line](https://github.com/herrbischoff/awesome-macos-command-line) `[GitHub]`
-- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) `[GitHub]`
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM
+- [diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes
+- [lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS
+- [dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup
+- [macOS/iOS system security](https://github.com/houjingyi233/macOS-iOS-system-security)
+- [macos_security](https://github.com/usnistgov/macos_security)
+- [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS
+- [OS X app in plain C](https://github.com/jimon/osx_app_in_plain_c) - A simple showcase how to create a simple OS X app in plain C without any Objective-C
+- [React Native for macOS](https://github.com/microsoft/react-native-macos)
+- [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
+- [mas CLI](https://github.com/mas-cli/mas) - Mac App Store command line interface
+- [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [macOS virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+- [macOS dotfiles](https://github.com/mathiasbynens/dotfiles)
+- [Awesome macos command line](https://github.com/herrbischoff/awesome-macos-command-line)
+- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)

@@ -74,12 +74,12 @@ TODO
 - [Scholars stage](https://scholars-stage.org/) - is a place to discuss the intersections of history, politics, culture, behavioral science, and strategic thought—often with a focus on East and Southeast Asian affairs
 - [Fallen ww2](http://www.fallen.io/ww2/) - interactive documentary that examines the human cost of the second World War and the decline in battle deaths in the years since the war
 - [Rare Historical Photos](https://rarehistoricalphotos.com/)
-- [EmperorTigerstar](https://www.youtube.com/c/EmperorTigerstar) `[YouTube]`
-- [Redroom](https://www.youtube.com/user/RedRoomLIMB) `[YouTube]`
-- [Маховик Истории](https://www.youtube.com/channel/UCeLixjhQNU6cGTNv_ECaooQ) `[YouTube]`
-- [Эпичная История](https://www.youtube.com/c/%D0%AD%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/) `[YouTube]`
-- [History Matters](https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg) `[YouTube]`
-- [The Armchair Historian](https://www.youtube.com/c/TheArmchairHistorian/) `[YouTube]`
-- [Vlogging Through History](https://www.youtube.com/channel/UCN-p-fxcoKT4Ltg1vPZIxGQ) `[YouTube]`
-- [OverSimplified](https://www.youtube.com/c/OverSimplified/) `[YouTube]`
-- [Awesome Computer History](https://github.com/watson/awesome-computer-history) `[GitHub]`
+- [EmperorTigerstar](https://www.youtube.com/c/EmperorTigerstar) 
+- [Redroom](https://www.youtube.com/user/RedRoomLIMB)
+- [Маховик Истории](https://www.youtube.com/channel/UCeLixjhQNU6cGTNv_ECaooQ)
+- [Эпичная История](https://www.youtube.com/c/%D0%AD%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/)
+- [History Matters](https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg)
+- [The Armchair Historian](https://www.youtube.com/c/TheArmchairHistorian/)
+- [Vlogging Through History](https://www.youtube.com/channel/UCN-p-fxcoKT4Ltg1vPZIxGQ)
+- [OverSimplified](https://www.youtube.com/c/OverSimplified/)
+- [Awesome Computer History](https://github.com/watson/awesome-computer-history)

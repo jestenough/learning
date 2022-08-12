@@ -34,5 +34,5 @@ TODO
 ## Links
 
 - [World Health Organization](https://www.who.int/en)
-- [Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health) `[GitHub]`
-- [Awesome Health](https://github.com/evexoio/awesome-health) `[GitHub]`
+- [Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health)
+- [Awesome Health](https://github.com/evexoio/awesome-health)

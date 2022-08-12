@@ -1,23 +1,23 @@
 ## Other
 
-- [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back `[GitHub]`
-- [HikariCP](https://github.com/brettwooldridge/HikariCP) - A solid, high-performance, JDBC connection pool at last `[GitHub]`
-- [quarkus](https://github.com/quarkusio/quarkus) - Supersonic Subatomic Java `[GitHub]`
-- [byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine `[GitHub]`
-- [lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language `[GitHub]`
-- [jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java `[GitHub]`
-- [skija](https://github.com/JetBrains/skija) - Java bindings for Skia `[GitHub]`
-- [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier `[GitHub]`
-- [Feign makes writing java http clients easier](https://github.com/ben-manes/caffeine) - A high performance caching library for Java `[GitHub]`
-- [spring boot](https://github.com/spring-projects/spring-boot) `[GitHub]`
-- [netty](https://github.com/netty/netty) - an event-driven asynchronous network application framework `[GitHub]`
+- [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
+- [HikariCP](https://github.com/brettwooldridge/HikariCP) - A solid, high-performance, JDBC connection pool at last
+- [quarkus](https://github.com/quarkusio/quarkus) - Supersonic Subatomic Java
+- [byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine
+- [lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language
+- [jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
+- [skija](https://github.com/JetBrains/skija) - Java bindings for Skia
+- [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
+- [Feign makes writing java http clients easier](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
+- [spring boot](https://github.com/spring-projects/spring-boot)
+- [netty](https://github.com/netty/netty) - an event-driven asynchronous network application framework
 
 
 ## Testing
 
-- [mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java `[GitHub]`
-- [jbehave](https://github.com/jbehave) `[GitHub]`
-- [JUnit 5](https://github.com/junit-team/junit5) `[GitHub]`
+- [mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
+- [jbehave](https://github.com/jbehave)
+- [JUnit 5](https://github.com/junit-team/junit5) 
 
 
 ## Links

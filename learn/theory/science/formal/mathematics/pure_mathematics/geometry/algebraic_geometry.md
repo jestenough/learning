@@ -19,4 +19,4 @@ TODO
 ## Links
 
 - [Awesome Geometric Algebra/Calculus](https://awesome-geometric-algebra.readthedocs.io/en/latest/)
-- [clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python `[GitHub]`
+- [clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python

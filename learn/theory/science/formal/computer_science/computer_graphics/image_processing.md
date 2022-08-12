@@ -31,8 +31,8 @@ TODO
 - [Background remover](https://backgroundremover.app/)
 - [Microlink](https://cards.microlink.io/editor) - create and share dynamic images at scale
 - [Geometrize](https://www.geometrize.co.uk/) - Transform images into geometric primitives
-- [Jimp](https://github.com/oliver-moran/jimp) `[GitHub]`
-- [Rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background `[GitHub]`
-- [Mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. `[GitHub]`
-- [Triangler](https://github.com/tdh8316/triangler) - Convert images to Low-Poly art using Python and Delaunay triangulation. `[GitHub]`
-- [Primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. `[GitHub]`
+- [Jimp](https://github.com/oliver-moran/jimp)
+- [Rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+- [Mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
+- [Triangler](https://github.com/tdh8316/triangler) - Convert images to Low-Poly art using Python and Delaunay triangulation.
+- [Primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.

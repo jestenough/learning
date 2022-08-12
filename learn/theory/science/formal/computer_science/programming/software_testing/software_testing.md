@@ -70,11 +70,11 @@ TODO
 
 - [Reflect](https://reflect.run/) - Blazing fast automated testing
 - [Software Testing: From Theory to Practice](https://sttp.site/)
-- [Software Quality Wiki](https://github.com/ligurio/software-quality-wiki) `[GitHub]`
-- [Appium](https://github.com/appium/appium) `[GitHub]`
-- [Headless Recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script `[GitHub]`
-- [Awesome TAP](https://github.com/sindresorhus/awesome-tap) `[GitHub]`
-- [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) `[GitHub]`
-- [Awesome Testing Courses & Tutorials](https://github.com/upgundecha/awesome-testing-courses) `[GitHub]`
-- [Awesome Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools) `[GitHub]`
-- [Awesome Testing](https://github.com/TheJambo/awesome-testing#awesome-testing-) `[GitHub]`
+- [Software Quality Wiki](https://github.com/ligurio/software-quality-wiki)
+- [Appium](https://github.com/appium/appium)
+- [Headless Recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script
+- [Awesome TAP](https://github.com/sindresorhus/awesome-tap)
+- [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices)
+- [Awesome Testing Courses & Tutorials](https://github.com/upgundecha/awesome-testing-courses)
+- [Awesome Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools)
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing#awesome-testing-)

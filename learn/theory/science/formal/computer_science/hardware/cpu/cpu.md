@@ -66,9 +66,9 @@ TODO
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
 - [corellium](https://www.corellium.com/) - Virtual devices. Real-world accuracy
 - [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) - Build a functional computer through challenging logic puzzles `[Steam]`
-- [v86](https://github.com/copy/v86/) - x86 virtualization in your browser, recompiling x86 to wasm on the fly `[GitHub]`
-- [x86-info-term](https://github.com/zwegner/x86-info-term) - A terminal viewer for x86 instruction/intrinsic information using Python 3 + curses `[GitHub]`
-- [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer `[GitHub]`
-- [NEON intrinsics guide](https://github.com/thenifty/neon-guide) - Makes ARM NEON documentation accessible (with examples) `[GitHub]`
-- [haxm](https://github.com/intel/haxm) - Intel Hardware Accelerated Execution Manager (Intel® HAXM) `[GitHub]`
-- [Awesome CPUs](https://github.com/larsbrinkhoff/awesome-cpus) `[GitHub]`
+- [v86](https://github.com/copy/v86/) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+- [x86-info-term](https://github.com/zwegner/x86-info-term) - A terminal viewer for x86 instruction/intrinsic information using Python 3 + curses
+- [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
+- [NEON intrinsics guide](https://github.com/thenifty/neon-guide) - Makes ARM NEON documentation accessible (with examples)
+- [haxm](https://github.com/intel/haxm) - Intel Hardware Accelerated Execution Manager (Intel® HAXM)
+- [Awesome CPUs](https://github.com/larsbrinkhoff/awesome-cpus)

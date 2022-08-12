@@ -60,10 +60,10 @@ TODO
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
 - [Resources for learning distributed systems](https://lobste.rs/s/vuevqu/resources_for_learning_distributed)
-- [Jepsen](https://github.com/jepsen-io/jepsen) `[GitHub]`
-- [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) `[GitHub]`
-- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) `[GitHub]`
-- [Awesome distributed systems](https://github.com/theanalyst/awesome-distributed-systems) `[GitHub]`
-- [Awesome distributed transactions](https://github.com/rystsov/awesome-distributed-transactions) `[GitHub]`
-- [Distributed Consensus Reading List](https://github.com/heidihoward/distributed-consensus-reading-list) `[GitHub]`
-- [DistSys Reading Group](https://www.youtube.com/channel/UCMKIroHVXvMQRIBhENE6RhQ/videos) `[YouTube]`
+- [Jepsen](https://github.com/jepsen-io/jepsen)
+- [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class)
+- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
+- [Awesome distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
+- [Awesome distributed transactions](https://github.com/rystsov/awesome-distributed-transactions)
+- [Distributed Consensus Reading List](https://github.com/heidihoward/distributed-consensus-reading-list)
+- [DistSys Reading Group](https://www.youtube.com/channel/UCMKIroHVXvMQRIBhENE6RhQ/videos)

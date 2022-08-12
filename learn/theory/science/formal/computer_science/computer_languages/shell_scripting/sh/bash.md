@@ -25,9 +25,9 @@ TODO
 
 ## Courses
 
-- [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790) - (YouTube)
-- [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) - (YouTube)
-- [Introduction to Shell](https://learn.datacamp.com/courses/introduction-to-shell) - (DataCamp)
+- [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
+- [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
+- [Introduction to Shell](https://learn.datacamp.com/courses/introduction-to-shell)
 
 
 ## Books
@@ -39,7 +39,7 @@ TODO
 - Google Shell Style Guide (Paul Armstrong)
 - Writing Shell Scripts (William E. Shotts, Jr.)
 - The Bash Academy (Maarten Billemont)
-- [Introduction to bash scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) `[GitHub]`
+- [Introduction to bash scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) 
 - Mastering Linux Shell Scripting (Mokhtar Ebrahim, Andrew Mallett)
 
 
@@ -50,11 +50,11 @@ TODO
 - [The Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 - [Bash scripting cheatsheet](https://devhints.io/bash)
 - [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
-- [bash boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs `[GitHub]`
-- [bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator `[GitHub]`
-- [bash_unit](https://github.com/pgrange/bash_unit) - bash unit testing enterprise edition framework for professionals `[GitHub]`
-- [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) `[GitHub]`
-- [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System `[GitHub]`
-- [oh my bash](https://github.com/ohmybash/oh-my-bash) `[GitHub]`
-- [Bash Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users `[GitHub]`
-- [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes `[GitHub]`
+- [bash boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs
+- [bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bash_unit](https://github.com/pgrange/bash_unit) - bash unit testing enterprise edition framework for professionals
+- [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
+- [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+- [oh my bash](https://github.com/ohmybash/oh-my-bash)
+- [Bash Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+- [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes

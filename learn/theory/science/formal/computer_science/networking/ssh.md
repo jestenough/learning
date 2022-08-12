@@ -29,5 +29,5 @@ TODO
 
 ## Links
 
-- [Awesome SSH Awesome](https://github.com/moul/awesome-ssh) `[GitHub]`
-- [WebSSH](https://github.com/huashengdun/webssh) `[GitHub]`
+- [Awesome SSH Awesome](https://github.com/moul/awesome-ssh)
+- [WebSSH](https://github.com/huashengdun/webssh)

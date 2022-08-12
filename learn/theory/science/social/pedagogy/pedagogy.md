@@ -5,4 +5,4 @@ TODO
 
 ## Links
 
-- [Dima Zicer](https://www.youtube.com/c/dimazicer/) `[YouTube]`
+- [Dima Zicer](https://www.youtube.com/c/dimazicer/)

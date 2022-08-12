@@ -45,10 +45,10 @@
 - [Pianobook](https://www.pianobook.co.uk/) - Peer-to-peer community of composers, producers and sound smiths sharing their sounds for all to use for free
 - [Music Theory for Musicians and Normal](https://tobyrush.com/theorypages/index.html)
 - [How Music Works](https://www.lightnote.co/) - Interactive Music Theory Lessons
-- [LabSound](https://github.com/LabSound/LabSound) - graph-based audio engine `[GitHub]`
-- [VCV Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio `[GitHub]`
-- [muzic](https://github.com/microsoft/muzic) - Music Understanding and Generation with Artificial Intelligence `[GitHub]`
-- [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music) `[GitHub]`
-- [Awesome Audio DSP](https://github.com/BillyDM/Awesome-Audio-DSP) `[GitHub]`
-- [Awesome MusicInfomatics](https://github.com/yamathcy/Awesome-MusicInfomatics) `[GitHub]`
-- [Awesome deep learning music](https://github.com/ybayle/awesome-deep-learning-music) `[GitHub]`
+- [LabSound](https://github.com/LabSound/LabSound) - graph-based audio engine
+- [VCV Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio
+- [muzic](https://github.com/microsoft/muzic) - Music Understanding and Generation with Artificial Intelligence
+- [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music)
+- [Awesome Audio DSP](https://github.com/BillyDM/Awesome-Audio-DSP)
+- [Awesome MusicInfomatics](https://github.com/yamathcy/Awesome-MusicInfomatics)
+- [Awesome deep learning music](https://github.com/ybayle/awesome-deep-learning-music)

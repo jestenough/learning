@@ -31,12 +31,12 @@ TODO
 
 ## Courses / Videos
 
-- [Characters, Symbols and the Unicode Miracle - Computerphile](https://youtu.be/MijmeoH9LT4) - (YouTube)
-- [Understanding ASCII and Unicode (GCSE)](https://youtu.be/5aJKKgSEUnY) - (YouTube)
+- [Characters, Symbols and the Unicode Miracle - Computerphile](https://youtu.be/MijmeoH9LT4)
+- [Understanding ASCII and Unicode (GCSE)](https://youtu.be/5aJKKgSEUnY)
 
 
 ## Links
 
 - [UTF-8 illustrator](https://utf-8-illustrator.com/#)
-- [ANSI Escape Sequences](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) `[GitHub]`
-- [Awesome Code Points](https://github.com/Codepoints/awesome-codepoints) `[GitHub]`
+- [ANSI Escape Sequences](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
+- [Awesome Code Points](https://github.com/Codepoints/awesome-codepoints)

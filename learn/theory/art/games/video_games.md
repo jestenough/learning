@@ -48,8 +48,8 @@
 
 ## Links
 
-- [Gameboy.Live](https://github.com/HFO4/gameboy.live) `[GitHub]`
-- [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8) `[GitHub]`
-- [Awesome Programming Games](https://github.com/readyready15728/awesome-programming-games) `[GitHub]`
-- [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games) `[GitHub]`
-- [Games on GitHub](https://github.com/leereilly/games) `[GitHub]`
+- [Gameboy.Live](https://github.com/HFO4/gameboy.live)
+- [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
+- [Awesome Programming Games](https://github.com/readyready15728/awesome-programming-games)
+- [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)
+- [Games on GitHub](https://github.com/leereilly/games)

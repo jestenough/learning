@@ -32,4 +32,4 @@ TODO
 ## Links
 
 - [Qt for Beginners](https://wiki.qt.io/Qt_for_Beginners)
-- [qtbase](https://github.com/qt/qtbase) `[GitHub]`
+- [qtbase](https://github.com/qt/qtbase)

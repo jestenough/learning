@@ -61,18 +61,18 @@ TODO
 - [School of SRE](https://linkedin.github.io/school-of-sre/)
 - [DevOps Дефлопе (Podcasts)](https://devopsdeflope.ru/)
 - [DevOps Kitchen Talks](https://www.youtube.com/channel/UCXJ196NygANaBHg_KznKXag) `[YouTube]`
-- [werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism `[GitHub]`
-- [Dev Lake](https://github.com/merico-dev/lake) - the data lake for dev & dashboard for your DevOps tools `[GitHub]`
-- [Plunder](https://github.com/plunder-app/plunder) - A Modern automation platform `[GitHub]`
-- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool `[GitHub]`
-- [How they SRE](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE) `[GitHub]`
-- [SRE Interview Preparation Guide]() `[GitHub]`
-- [DevOps resources](https://github.com/bregman-arie/devops-resources) `[GitHub]`
-- [DevOps exercises](https://github.com/bregman-arie/devops-exercises) `[GitHub]`
-- [Bitnami](https://github.com/bitnami/charts) - Packaged Applications for Any Platform - Cloud, Container, Virtual Machine `[GitHub]`
-- [DevOps recommended Books](https://github.com/stack72/ops-books) `[GitHub]`
-- [Postmortem Templates](https://github.com/dastergon/postmortem-templates) `[GitHub]`
-- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) `[GitHub]`
-- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) `[GitHub]`
-- [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) `[GitHub]`
-- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) `[GitHub]`
+- [werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism
+- [Dev Lake](https://github.com/merico-dev/lake) - the data lake for dev & dashboard for your DevOps tools
+- [Plunder](https://github.com/plunder-app/plunder) - A Modern automation platform
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [How they SRE](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [SRE Interview Preparation Guide]()
+- [DevOps resources](https://github.com/bregman-arie/devops-resources)
+- [DevOps exercises](https://github.com/bregman-arie/devops-exercises)
+- [Bitnami](https://github.com/bitnami/charts) - Packaged Applications for Any Platform - Cloud, Container, Virtual Machine
+- [DevOps recommended Books](https://github.com/stack72/ops-books)
+- [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
+- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
+- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
+- [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)

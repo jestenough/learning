@@ -25,4 +25,4 @@ TODO
 - [NumPy Tutorial (W3Schools)](https://www.w3schools.com/python/numpy/default.asp)
 - [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 - [Mathtocode](https://mathtocode.com/) - interactive Python tutorial to teach engineers how to read and implement math using the NumPy library.
-- [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions) `[GitHub]`
+- [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)

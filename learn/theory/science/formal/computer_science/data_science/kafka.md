@@ -26,5 +26,5 @@ TODO
 ## Links
 
 - [Conduktor (Apache Kafka Desktop Client)](https://www.conduktor.io/)
-- [Apache Kafka [CLI]](https://github.com/birdayz/kaf) `[GitHub]`
-- [Fully automated Kafka and Confluent Docker based examples](https://github.com/vdesabou/kafka-docker-playground) `[GitHub]`
+- [Apache Kafka [CLI]](https://github.com/birdayz/kaf)
+- [Fully automated Kafka and Confluent Docker based examples](https://github.com/vdesabou/kafka-docker-playground)

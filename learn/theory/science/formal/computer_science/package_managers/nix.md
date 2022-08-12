@@ -59,13 +59,13 @@ TODO
 ## Links
 
 - [Learn X in Y minutes Where X=nix](https://learnxinyminutes.com/docs/nix/)
-- [A Tutorial Introduction to Nix](https://rgoswami.me/posts/ccon-tut-nix/) `[YouTube]`
+- [A Tutorial Introduction to Nix](https://rgoswami.me/posts/ccon-tut-nix/)
 - [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
 - [Confidently build and deploy to the cloud, stadium, or stock exchange.](https://determinate.systems/)
-- [Nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy `[GitHub]`
-- [TodoMVC-Nix](https://github.com/nix-community/todomvc-nix) `[GitHub]`
-- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection `[GitHub]`
-- [Nix - A One Pager](https://github.com/tazjin/nix-1p) `[GitHub]`
-- [nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager `[GitHub]`
-- [NixCon](https://www.youtube.com/channel/UCjqkNrQ8F3OhKSCfCgagWLg) `[GitHub]`
-- [Awesome Nix](https://github.com/nix-community/awesome-nix) `[GitHub]`
+- [Nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
+- [TodoMVC-Nix](https://github.com/nix-community/todomvc-nix)
+- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [Nix - A One Pager](https://github.com/tazjin/nix-1p)
+- [nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager
+- [NixCon](https://www.youtube.com/channel/UCjqkNrQ8F3OhKSCfCgagWLg)
+- [Awesome Nix](https://github.com/nix-community/awesome-nix)

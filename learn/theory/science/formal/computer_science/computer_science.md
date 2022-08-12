@@ -27,10 +27,10 @@ TODO
 
 ## Books
 
-- Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман, Джули Сассман)`[0/608]`
-- Информатика. 5-11 классы (Справочник школьника)`[0/113]`
-- Теоретический минимум по Computer Science`[224/224]`
-- Самое главное...Электронная почта (А.Орлов)`[128/128]`
+- Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман, Джули Сассман)
+- Информатика. 5-11 классы (Справочник школьника)
+- Теоретический минимум по Computer Science
+- Самое главное...Электронная почта (А.Орлов)
 - Digital Design and Computer Architecture, Second Edition (David Harris)
 - Flow based Programming (J Paul Morrison)
 - Making Sense of Stream Processing (Martin Kleppmann)
@@ -45,34 +45,34 @@ TODO
 
 ## Courses / Videos
 
-- [Что должен знать и уметь пользователь ПК](https://foxford.ru/courses/2493/landing) - (Foxford)
-- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - (Udacity)
-- [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124) - (EPAM)
-- [Computer Architecture](https://www.coursera.org/learn/comparch) - (Coursera)
+- [Что должен знать и уметь пользователь ПК](https://foxford.ru/courses/2493/landing)
+- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+- [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124)
+- [Computer Architecture](https://www.coursera.org/learn/comparch)
 - Learn IDE Features for Python - (Pycharm)
-- [Pycharm уроки](https://youtube.com/playlist?list=PLF-NY6ldwAWrpTuu4oqU2zYzkYmQkiQ2-) - (YouTube)
-- [Информатика за пределами ЕГЭ](https://foxford.ru/courses/3608/landing) - (Foxford)
-- [Map of CS](https://youtu.be/SzJ46YA_RaA) - (YouTube)
-- [Theory of Computation in 12 Hours](https://youtube.com/playlist?list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn) - (YouTube)
-- [Exploring How Computers Work](https://youtu.be/QZwneRb-zqA) - (YouTube)
-- [Solutions for EVERY GATE Theory of Computation Question!](https://youtu.be/g_ZdcHSFGv0) - (YouTube)
-- [Richard Feynman Computer Heuristics Lecture](https://youtu.be/EKWGGDXe5MA) - (YouTube)
-- [What Is Abstraction in Computer Science](https://youtu.be/_y-5nZAbgt4) - (YouTube)
-- [Making a computer Turing complete](https://youtu.be/AqNDk_UJW4k) - (YouTube)
-- [The Church-Turing Thesis: Story and Recent Progress](https://youtu.be/QlYJz1B5XLU) - (YouTube)
-- [Donald E. Knuth Lectures](https://online.stanford.edu/donald-e-knuth-lectures) - (YouTube)
-- [Missing Semester IAP 2020](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) - (YouTube)
-- [How do computers read code?](https://youtu.be/QXjU9qTsYCc) - (YouTube)
+- [Pycharm уроки](https://youtube.com/playlist?list=PLF-NY6ldwAWrpTuu4oqU2zYzkYmQkiQ2-)
+- [Информатика за пределами ЕГЭ](https://foxford.ru/courses/3608/landing)
+- [Map of CS](https://youtu.be/SzJ46YA_RaA)
+- [Theory of Computation in 12 Hours](https://youtube.com/playlist?list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn)
+- [Exploring How Computers Work](https://youtu.be/QZwneRb-zqA)
+- [Solutions for EVERY GATE Theory of Computation Question!](https://youtu.be/g_ZdcHSFGv0)
+- [Richard Feynman Computer Heuristics Lecture](https://youtu.be/EKWGGDXe5MA)
+- [What Is Abstraction in Computer Science](https://youtu.be/_y-5nZAbgt4)
+- [Making a computer Turing complete](https://youtu.be/AqNDk_UJW4k)
+- [The Church-Turing Thesis: Story and Recent Progress](https://youtu.be/QlYJz1B5XLU)
+- [Donald E. Knuth Lectures](https://online.stanford.edu/donald-e-knuth-lectures)
+- [Missing Semester IAP 2020](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+- [How do computers read code?](https://youtu.be/QXjU9qTsYCc)
 - [Как измерить количество информации?](https://youtu.be/zl_rXFb1eSM)
 - [Introduction to Programming and Computer Science - Full Course](https://youtu.be/zOjov-2OZ0E)
 
 
 ## Links
 
-- [Informatics](https://informatics.msk.ru/) `RU`
-- [Prog lib](https://proglib.io/) `RU`
-- [Tproger](https://tproger.ru/) `RU`
-- [CS FAQ (2ch)](https://pastebin.com/3xNpju3M) `RU`
+- [Informatics](https://informatics.msk.ru/)
+- [Prog lib](https://proglib.io/)
+- [Tproger](https://tproger.ru/)
+- [CS FAQ (2ch)](https://pastebin.com/3xNpju3M)
 - [Dev hints](https://devhints.io/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [Self defense](https://ssd.eff.org/ru)
@@ -83,26 +83,26 @@ TODO
 - [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 - [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [CoderLessons](https://coderlessons.com/) - Уроки по программированию, DevOps и другим IT-технологиям
-- [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov) `[YouTube]`
-- [Computerphile](https://www.youtube.com/user/Computerphile/featured) `[YouTube]`
-- [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured) `[YouTube]`
-- [edureka](https://www.youtube.com/c/edurekaIN) `[YouTube]`
-- [Слёрм](https://www.youtube.com/c/slurm_io) `[YouTube]`
-- [Khan Academy Computing](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA) `[YouTube]`
-- [IBM Technology](https://www.youtube.com/c/IBMTechnology) `[YouTube]`
-- [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform/) `[YouTube]`
-- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) `[YouTube]`
-- [Teach Yourself CS Russian Translation](https://github.com/ilmoi/teachyourselfCS-RU) `[GitHub]`
-- [Free programming books](https://github.com/EbookFoundation/free-programming-books) `[GitHub]`
-- [CS video courses](https://github.com/Developer-Y/cs-video-courses) `[GitHub]`
-- [Learn Computer Science in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months) `[GitHub]`
-- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs) `[GitHub]`
-- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) `[GitHub]`
-- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs) `[GitHub]`
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer) `[GitHub]`
-- [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) -  A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more `[GitHub]`
-- [Awesome](https://github.com/sindresorhus/awesome) `[GitHub]`
-- [Awesome cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) `[GitHub]`
-- [Build your own x](https://github.com/danistefanovic/build-your-own-x) `[GitHub]`
-- [Computer science (OSSU)](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science! `[GitHub]`
-- [Cheatsheets](https://github.com/rstacruz/cheatsheets) `[GitHub]`
+- [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
+- [Computerphile](https://www.youtube.com/user/Computerphile/featured)
+- [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured) 
+- [edureka](https://www.youtube.com/c/edurekaIN)
+- [Слёрм](https://www.youtube.com/c/slurm_io)
+- [Khan Academy Computing](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
+- [IBM Technology](https://www.youtube.com/c/IBMTechnology)
+- [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform/)
+- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Teach Yourself CS Russian Translation](https://github.com/ilmoi/teachyourselfCS-RU)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [CS video courses](https://github.com/Developer-Y/cs-video-courses)
+- [Learn Computer Science in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) -  A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [Build your own x](https://github.com/danistefanovic/build-your-own-x)
+- [Computer science (OSSU)](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
+- [Cheatsheets](https://github.com/rstacruz/cheatsheets)

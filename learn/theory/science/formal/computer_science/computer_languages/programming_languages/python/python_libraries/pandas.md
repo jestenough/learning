@@ -20,11 +20,11 @@ TODO
 
 ## Courses
 
-- [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas) - (DataCamp)
+- [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
 
 
 ## Links
 
 - [Pandas Tutorial (W3Schools)](https://www.w3schools.com/python/pandas/default.asp)
-- [pandas src](https://github.com/pandas-dev/pandas) `[GitHub]`
-- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills! `[GitHub]`
+- [pandas src](https://github.com/pandas-dev/pandas)
+- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills!

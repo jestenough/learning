@@ -49,4 +49,4 @@ TODO
 
 - [Udemus](https://udemus.com/)
 - [Moodle](https://moodle.org/) - Open-source learning platform
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) `[GitHub]`
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)

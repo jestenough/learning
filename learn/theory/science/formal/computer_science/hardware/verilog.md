@@ -25,8 +25,8 @@ TODO
 
 ## Links
 
-- [Verilog Ethernet Components Readme](https://github.com/alexforencich/verilog-ethernet) - Verilog Ethernet components for FPGA implementation `[GitHub]`
-- [Wyre](https://github.com/nickmqb/wyre) - Hardware definition language that compiles to Verilog `[GitHub]`
-- [Clash](https://github.com/clash-lang/clash-compiler) - A functional hardware description language `[GitHub]`
-- [Verilator](https://github.com/verilator/verilator) - open-source SystemVerilog simulator and lint system `[GitHub]`
-- [Verilog PCIe](https://github.com/alexforencich/verilog-pcie) - verilog PCI express components `[GitHub]`
+- [Verilog Ethernet Components Readme](https://github.com/alexforencich/verilog-ethernet) - Verilog Ethernet components for FPGA implementation
+- [Wyre](https://github.com/nickmqb/wyre) - Hardware definition language that compiles to Verilog
+- [Clash](https://github.com/clash-lang/clash-compiler) - A functional hardware description language
+- [Verilator](https://github.com/verilator/verilator) - open-source SystemVerilog simulator and lint system
+- [Verilog PCIe](https://github.com/alexforencich/verilog-pcie) - verilog PCI express components

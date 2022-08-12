@@ -61,12 +61,12 @@ TODO
 
 - [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [Full Stack Deep Learning - Spring 2021](https://fullstackdeeplearning.com/spring2021/)
-- [Arsenii Ashukha: Ensemble Generation](https://youtu.be/bj933t6rqFw) - (YouTube)
-- [MLSys Seminars](https://youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq) - (YouTube)
-- [Understanding Deep Learning](https://youtube.com/playlist?list=PLFE-LjWAAP9Q74cGaUF3yqUhqo2kOYY20) - (YouTube)
-- [How Machine Language Works](https://youtu.be/HWpi9n2H3kE) - (YouTube)
-- [Optimization Methods for Machine Learning and Engineering (KIT Winter Term 20/21)](https://youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5) - (YouTube)
-- [Deep Learning на пальцах - 2019](https://youtube.com/playlist?list=PL5FkQ0AF9O_o2Eb5Qn8pwCDg7TniyV1Wb) - (YouTube)
+- [Arsenii Ashukha: Ensemble Generation](https://youtu.be/bj933t6rqFw)
+- [MLSys Seminars](https://youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+- [Understanding Deep Learning](https://youtube.com/playlist?list=PLFE-LjWAAP9Q74cGaUF3yqUhqo2kOYY20)
+- [How Machine Language Works](https://youtu.be/HWpi9n2H3kE)
+- [Optimization Methods for Machine Learning and Engineering (KIT Winter Term 20/21)](https://youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5)
+- [Deep Learning на пальцах - 2019](https://youtube.com/playlist?list=PL5FkQ0AF9O_o2Eb5Qn8pwCDg7TniyV1Wb)
 - [2020 Machine Learning Roadmap (95% valid for 2022)](https://youtu.be/pHiMN_gy9mk)
 
 
@@ -78,16 +78,16 @@ TODO
 - [Deep Learning wiki](https://wiki.kourouklides.com/wiki/Deep_Learning)
 - [Дорожная карта математических дисциплин для машинного обучения, часть 1](https://habr.com/ru/post/432670/)
 - [Machine Learning Guide (Podcasts)](https://podcasts.apple.com/us/podcast/machine-learning-guide/id1204521130)
-- [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) `[Steam]`
-- [Learn Machine Learning in 3 Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) `[GitHub]`
-- [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) `[GitHub]`
-- [Machine Learning Engineer Roadmap in 2021](https://github.com/chris-chris/ml-engineer-roadmap) `[GitHub]`
-- [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) `[GitHub]`
-- [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) `[GitHub]`
-- [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) `[GitHub]`
-- [Awesome Normalizing Flows](https://github.com/janosh/awesome-normalizing-flows) `[GitHub]`
-- [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) `[GitHub]`
-- [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) `[GitHub]`
-- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) `[GitHub]`
-- [The Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan) `[GitHub]`
-- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk/videos) `[YouTube]`
+- [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)
+- [Learn Machine Learning in 3 Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
+- [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses)
+- [Machine Learning Engineer Roadmap in 2021](https://github.com/chris-chris/ml-engineer-roadmap)
+- [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
+- [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
+- [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)
+- [Awesome Normalizing Flows](https://github.com/janosh/awesome-normalizing-flows)
+- [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
+- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+- [The Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan)
+- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk/videos)

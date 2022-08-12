@@ -62,9 +62,9 @@ TODO
 
 - [List of FP resources](https://themattchan.com/blog/fp-resources.html)
 - [Functional christmas](https://functional.christmas/2020)
-- [Typed FP - Good Reads](https://github.com/dewey92/typed-fp-good-reads) `[GitHub]`
-- [Functional programming great resources](https://github.com/mmenestret/fp-resources) `[GitHub]`
-- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) `[GitHub]`
-- [Functional Programming Course](https://github.com/tonymorris/fp-course) `[GitHub]`
-- [Functional Design and Architecture](https://github.com/graninas/Functional-Design-and-Architecture) `[GitHub]`
-- [Applied Functional Programming Course](https://github.com/qfpl/applied-fp-course) `[GitHub]`
+- [Typed FP - Good Reads](https://github.com/dewey92/typed-fp-good-reads)
+- [Functional programming great resources](https://github.com/mmenestret/fp-resources)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [Functional Programming Course](https://github.com/tonymorris/fp-course)
+- [Functional Design and Architecture](https://github.com/graninas/Functional-Design-and-Architecture)
+- [Applied Functional Programming Course](https://github.com/qfpl/applied-fp-course)

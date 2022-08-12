@@ -52,7 +52,7 @@ TODO
 - [Django antipatterns](https://www.django-antipatterns.com/)
 - [Django Chat](https://djangochat.com/) - A podcast on the Django Web Framework by William Vincent and Carlton Gibson.
 - [Django rules](https://github.com/dfunckt/django-rules)
-- [Cookiecutter Django](https://github.com/cookiecutter/cookiecutter-django) - framework for jumpstarting production-ready Django projects quickly `[GitHub]`
-- [Django REST framework](https://github.com/encode/django-rest-framework) `[GitHub]`
-- [Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) `[GitHub]`
-- [Awesome django](https://github.com/wsvincent/awesome-django) `[GitHub]`
+- [Cookiecutter Django](https://github.com/cookiecutter/cookiecutter-django) - framework for jumpstarting production-ready Django projects quickly
+- [Django REST framework](https://github.com/encode/django-rest-framework)
+- [Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
+- [Awesome django](https://github.com/wsvincent/awesome-django)

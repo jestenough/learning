@@ -38,8 +38,8 @@ TODO
 - [Reddit Chemistry](https://www.reddit.com/r/chemistry/wiki/)
 - [Illustrated Glossary of Organic Chemistry](http://www.chem.ucla.edu/~harding/IGOC/IGOC.html)
 - [Chemistry Development Kit](https://cdk.github.io/) - Open Source modular Java libraries for Cheminformatics
-- [TMP Chem](https://www.youtube.com/c/TMPChem/) `[YouTube]`
-- [OpenChem](https://github.com/Mariewelt/OpenChem) - Deep Learning toolkit for Computational Chemistry and Drug Design Research `[GitHub]`
-- [moldoc](https://github.com/lukasturcani/moldoc) - Make better chemistry documentation `[GitHub]`
-- [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry) `[GitHub]`
-- [Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) `[GitHub]`
+- [TMP Chem](https://www.youtube.com/c/TMPChem/)
+- [OpenChem](https://github.com/Mariewelt/OpenChem) - Deep Learning toolkit for Computational Chemistry and Drug Design Research
+- [moldoc](https://github.com/lukasturcani/moldoc) - Make better chemistry documentation
+- [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry)
+- [Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics)

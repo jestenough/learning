@@ -37,10 +37,10 @@ TODO
 
 ## Links
 
-- [Chrome Extensions samples](https://github.com/GoogleChrome/chrome-extensions-samples) `[GitHub]`
-- [Chrome remote interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js `[GitHub]`
-- [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API `[GitHub]`
-- [Chrome Flags for Tooling](https://github.com/GoogleChrome/chrome-launcher/blob/master/docs/chrome-flags-for-tools.md) `[GitHub]`
-- [Chrome extensions](https://github.com/learn-anything/chrome-extensions) `[GitHub]`
-- [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools) `[GitHub]`
-- [Awesome Chrome](https://github.com/xyNNN/awesome-chrome) `[GitHub]`
+- [Chrome Extensions samples](https://github.com/GoogleChrome/chrome-extensions-samples)
+- [Chrome remote interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
+- [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [Chrome Flags for Tooling](https://github.com/GoogleChrome/chrome-launcher/blob/master/docs/chrome-flags-for-tools.md)
+- [Chrome extensions](https://github.com/learn-anything/chrome-extensions)
+- [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+- [Awesome Chrome](https://github.com/xyNNN/awesome-chrome)

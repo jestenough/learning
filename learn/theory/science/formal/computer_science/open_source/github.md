@@ -37,22 +37,22 @@ TODO
 - [GitHub metrics](https://metrics.lecoq.io/)
 - [Badgen](https://badgen.net/)
 - [badges](https://badges.aleen42.com/)
-- [badges](https://github.com/Naereen/badges) `[GitHub]`
-- [shields](https://github.com/badges/shields) `[GitHub]`
-- [org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization `[GitHub]`
-- [github-artifact-exporter](https://github.com/github/github-artifact-exporter) - A set of packages to make exporting artifacts from GitHub easier `[GitHub]`
-- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code `[GitHub]`
-- [pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs `[GitHub]`
-- [github-email](https://github.com/paulirish/github-email) -  Get a GitHub user's email `[GitHub]`
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) `[GitHub]`
-- [Git History](https://github.com/pomber/git-history) `[GitHub]`
-- [Issues Triaging](https://github.com/microsoft/vscode/wiki/Issues-Triaging) `[GitHub]`
-- [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart) `[GitHub]`
-- [GitHub public roadmap](https://github.com/github/roadmap) `[GitHub]`
-- [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE) `[GitHub]`
-- [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users) `[GitHub]`
-- [Your GitHub story in 3D](https://skyline.github.com/) `[GitHub]`
-- [1990-script](https://github.com/antfu/1990-script) - Make your GitHub history back to 1990 `[GitHub]`
-- [gerda](https://github.com/sijeko/gerda) - скрипт для создания любой картины активности пользовательского профиля на Гитхабе `[GitHub]`
-- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) `[GitHub]`
-- [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) `[GitHub]`
+- [badges](https://github.com/Naereen/badges)
+- [shields](https://github.com/badges/shields)
+- [org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization
+- [github-artifact-exporter](https://github.com/github/github-artifact-exporter) - A set of packages to make exporting artifacts from GitHub easier
+- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code
+- [pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs
+- [github-email](https://github.com/paulirish/github-email) -  Get a GitHub user's email
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Git History](https://github.com/pomber/git-history)
+- [Issues Triaging](https://github.com/microsoft/vscode/wiki/Issues-Triaging)
+- [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
+- [GitHub public roadmap](https://github.com/github/roadmap)
+- [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE)
+- [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users)
+- [Your GitHub story in 3D](https://skyline.github.com/)
+- [1990-script](https://github.com/antfu/1990-script) - Make your GitHub history back to 1990
+- [gerda](https://github.com/sijeko/gerda) - скрипт для создания любой картины активности пользовательского профиля на Гитхабе
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)

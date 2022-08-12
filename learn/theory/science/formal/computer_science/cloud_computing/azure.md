@@ -16,5 +16,5 @@ TODO
 ## Linkcs
 
 - [Azure docs](https://docs.microsoft.com/en-us/azure/?product=featured)
-- [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) `[GitHub]`
-- [Azure CLI](https://github.com/Azure/azure-cli) `[GitHub]`
+- [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
+- [Azure CLI](https://github.com/Azure/azure-cli)

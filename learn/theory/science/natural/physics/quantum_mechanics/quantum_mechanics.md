@@ -20,9 +20,9 @@ TODO
 
 ## Books
 
-- Майкл Файер: Абсолютный минимум. Как квантовая теория объясняет наш мир`[0/384]`
-- Квантовая механика теоретический минимум`[0/400]`
-- Квантовая физика. Для тех, кто хочет все успеть`[0/128]`
+- Майкл Файер: Абсолютный минимум. Как квантовая теория объясняет наш мир
+- Квантовая механика теоретический минимум
+- Квантовая физика. Для тех, кто хочет все успеть
 - [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime (Sean Carroll)](https://www.goodreads.com/book/show/44065062)
 
 
@@ -50,4 +50,4 @@ TODO
 
 - [Amazon Braket](https://aws.amazon.com/ru/braket/) - Ускорьте исследования в области квантовых вычислений
 - [Xanadu Quantum Cloud](https://www.xanadu.ai/) - Start building quantum applications today.
-- [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) `[GitHub]`
+- [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)

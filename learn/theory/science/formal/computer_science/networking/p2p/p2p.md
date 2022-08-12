@@ -16,5 +16,5 @@ TODO
 ## Links
 
 - [PeerTube](https://joinpeertube.org/) - free and decentralized alternative to video platforms
-- [p2p-faq](https://github.com/hackergrrl/p2p-faq) `[GitHub]` - commonly asked questions about peer-to-peer networks & programs.
-- [P2P Projects List](https://github.com/moshest/p2p-index) `[GitHub]` - A collection of peer-to-peer decentralized projects.
+- [p2p-faq](https://github.com/hackergrrl/p2p-faq) - commonly asked questions about peer-to-peer networks & programs.
+- [P2P Projects List](https://github.com/moshest/p2p-index) - A collection of peer-to-peer decentralized projects.

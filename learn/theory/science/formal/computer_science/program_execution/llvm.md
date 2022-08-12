@@ -54,7 +54,7 @@ TODO
 - [LLVM Discourse](https://llvm.discourse.group/)
 - [LLVM](https://discord.com/invite/xS7Z362) `[Discord]`
 - [LLVM](https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ) `[YouTube]
-- [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers `[GitHub]`
-- [Sericum](https://github.com/maekawatoshiki/sericum) - (Toy) Compiler Infrastructure influenced by LLVM written in Rust `[GitHub]`
-- [Alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations `[GitHub]`
-- [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Compiler Infrastructure `[GitHub]`
+- [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
+- [Sericum](https://github.com/maekawatoshiki/sericum) - (Toy) Compiler Infrastructure influenced by LLVM written in Rust
+- [Alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations
+- [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Compiler Infrastructure

@@ -34,5 +34,5 @@ TODO
 - [Reverso context](https://context.reverso.net/translation/) - Translation in context
 - [Want words](https://wantwords.thunlp.org/) - Open-source online reverse dictionary
 - [This word does not exist](https://www.thisworddoesnotexist.com/)
-- [trunk](https://github.com/theiceshelf/trunk) - Language learning application `[GitHub]`
-- [Awesome Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) `[GitHub]`
+- [trunk](https://github.com/theiceshelf/trunk) - Language learning application 
+- [Awesome Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)

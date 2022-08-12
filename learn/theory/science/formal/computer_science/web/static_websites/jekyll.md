@@ -21,11 +21,11 @@ TODO
 ## Links
 
 - [Как завести блог на Jekyll](https://guides.hexlet.io/jekyll/)
-- [Jekyll Sitemap Generator Plugin](https://github.com/jekyll/jekyll-sitemap) `[GitHub]`
-- [Awesome Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors) `[GitHub]`
-- [Awesome (Gem-Packaged) Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) `[GitHub]`
-- [Awesome Jekyll](https://github.com/planetjekyll/awesome-jekyll) `[GitHub]`
-- [Jekyll src](https://github.com/jekyll/jekyll) `[GitHub]`
+- [Jekyll Sitemap Generator Plugin](https://github.com/jekyll/jekyll-sitemap)
+- [Awesome Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
+- [Awesome (Gem-Packaged) Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
+- [Awesome Jekyll](https://github.com/planetjekyll/awesome-jekyll)
+- [Jekyll src](https://github.com/jekyll/jekyll)
 
 
 ## Themes

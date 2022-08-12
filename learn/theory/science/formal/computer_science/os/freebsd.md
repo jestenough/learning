@@ -54,5 +54,5 @@ TODO
 - [OpenBSD Router Guide](https://openbsdrouterguide.net/)
 - [NetBSD Table of Contents](https://yeti.tilde.institute/brain/netbsd.html)
 - [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
-- [FreeBSD Source](https://github.com/freebsd/freebsd-src) `[GitHub]`
-- [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) `[GitHub]`
+- [FreeBSD Source](https://github.com/freebsd/freebsd-src)
+- [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)

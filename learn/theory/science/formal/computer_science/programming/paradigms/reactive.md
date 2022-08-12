@@ -27,5 +27,5 @@ TODO
 
 ## Links
 
-- [xstream](https://github.com/staltz/xstream) `[GitHub]`
-- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) `[GitHub]`
+- [xstream](https://github.com/staltz/xstream)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)

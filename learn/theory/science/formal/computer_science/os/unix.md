@@ -69,7 +69,7 @@ TODO
 - [A COMMENTARY ON THE SIXTH EDITION UNIX OPERATING SYSTEM](https://warsus.github.io/lions-/)
 - [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 - [Bell Labs Employee List](http://cm.bell-labs.co/who/)
-- [Supervisor](https://github.com/Supervisor/supervisor) - client/server system that allows its users to control a number of processes on UNIX-like operating systems `[GitHub]`
-- [History of UNIX Design and Interfaces](https://github.com/penberg/unix-history) `[GitHub]`
-- [Unix History Repository](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today `[GitHub]`
-- [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) `[GitHub]`
+- [Supervisor](https://github.com/Supervisor/supervisor) - client/server system that allows its users to control a number of processes on UNIX-like operating systems
+- [History of UNIX Design and Interfaces](https://github.com/penberg/unix-history)
+- [Unix History Repository](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
+- [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX)

@@ -42,4 +42,4 @@ TODO
 
 ## Links
 
-- [Grokking the Object Oriented Design Interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview) `[GitHub]`
+- [Grokking the Object Oriented Design Interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)

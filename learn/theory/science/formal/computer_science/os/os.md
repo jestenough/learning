@@ -43,7 +43,7 @@ TODO
 ## Courses / Videos
 
 - [Revolution OS - 2001 - Multilingual (16 languages)](https://youtu.be/Eluzi70O-P4)
-- [16-Bit Virtual Machine](https://youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b) - (YouTube)
+- [16-Bit Virtual Machine](https://youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
 - [DLS: Functional Foundations for Operating Systems](https://blogs.cs.st-andrews.ac.uk/csblog/2018/01/24/dls-functional-foundations-for-operating-systems/)
 - [Commute talk: How to start building an OS?](https://youtu.be/fqllFKjEZAo)
 - [Write your own Operating System](https://youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
@@ -63,9 +63,9 @@ TODO
 - [Awesome Virtualization Awesome](https://github.com/Wenzel/awesome-virtualization)
 - [OSDev.org](https://wiki.osdev.org/Main_Page)
 - [Distrowatch](https://distrowatch.com/) - news, distribution pages hit rankings, etc. about various Linux distributions as well as other free software/open source Unix-like operating systems.
-- [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) `[GitHub]`
-- [Awesome Plan9](https://github.com/henesy/awesome-plan9) `[GitHub]`
-- [Build your own: linker](https://github.com/andrewhalle/byo-linker) `[GitHub]`
-- [Write Your Own 64-bit Operating System Kernel From Scratch](https://github.com/davidcallanan/os-series) `[GitHub]`
-- [bootOS](https://github.com/nanochess/bootOS) `[GitHub]`
-- [Test your sysadmin skills](https://github.com/trimstray/test-your-sysadmin-skills) `[GitHub]`
+- [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
+- [Awesome Plan9](https://github.com/henesy/awesome-plan9)
+- [Build your own: linker](https://github.com/andrewhalle/byo-linker)
+- [Write Your Own 64-bit Operating System Kernel From Scratch](https://github.com/davidcallanan/os-series)
+- [bootOS](https://github.com/nanochess/bootOS)
+- [Test your sysadmin skills](https://github.com/trimstray/test-your-sysadmin-skills)

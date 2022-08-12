@@ -57,9 +57,9 @@ TODO
 
 - [Python web libs](../computer_languages/programming/python/python_libraries.md#Web)
 - [Wikidata or scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia)
-- [GoSpider](https://github.com/jaeles-project/gospider) `[GitHub]`
-- [trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction `[GitHub]`
-- [Browser fingerprinting](https://github.com/niespodd/browser-fingerprinting) `[GitHub]`
-- [Scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web `[GitHub]`
-- [A guide to preventing Webscraping](https://github.com/JonasCz/How-To-Prevent-Scraping) `[GitHub]`
-- [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) `[GitHub]`
+- [GoSpider](https://github.com/jaeles-project/gospider)
+- [trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction
+- [Browser fingerprinting](https://github.com/niespodd/browser-fingerprinting)
+- [Scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web
+- [A guide to preventing Webscraping](https://github.com/JonasCz/How-To-Prevent-Scraping)
+- [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)

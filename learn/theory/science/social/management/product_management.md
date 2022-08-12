@@ -29,4 +29,4 @@ TODO
 - [Becoming a Product designer: requirements](https://paper.dropbox.com/published/Becoming-a-Product-designer-requirements-T2TC8MP45MlCG7sqrPhofQw)
 - [50 Short Product Lessons](https://cutle.fish/blog/50-product-lessons)
 - [A product management reading list](https://mikehudack.substack.com/p/a-product-management-reading-list)
-- [Awesome Product Management](https://github.com/dend/awesome-product-management) `[GitHub]`
+- [Awesome Product Management](https://github.com/dend/awesome-product-management)

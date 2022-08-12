@@ -52,14 +52,13 @@ TODO
 
 - [Terraforge vercel app](https://terraforge.vercel.app/) - Graphical Terraform cofiguration generator
 - [Terraform Registry](https://registry.terraform.io/)
-- []()
-- [Anton Babenko](https://www.youtube.com/user/cyberbob37/playlists) `[YouTube]`
-- [Rover](https://github.com/im2nguyen/rover) - Terraform Visualizer `[GitHub]`
-- [infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests. Love your cloud bill! `[GitHub]`
-- [Atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation `[GitHub]`
-- [CDK for Terraform](https://github.com/hashicorp/terraform-cdk) `[GitHub]`
-- [Terraform](https://github.com/hashicorp/terraform) `[GitHub]`
-- [Terraform docs](https://github.com/terraform-docs/terraform-docs) `[GitHub]`
-- [Terraform Provider for AWS](https://github.com/hashicorp/terraform-provider-aws) `[GitHub]`
-- [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code `[GitHub]`
-- [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform) `[GitHub]`
+- [Anton Babenko](https://www.youtube.com/user/cyberbob37/playlists)
+- [Rover](https://github.com/im2nguyen/rover) - Terraform Visualizer
+- [infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests. Love your cloud bill!
+- [Atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+- [CDK for Terraform](https://github.com/hashicorp/terraform-cdk)
+- [Terraform](https://github.com/hashicorp/terraform)
+- [Terraform docs](https://github.com/terraform-docs/terraform-docs)
+- [Terraform Provider for AWS](https://github.com/hashicorp/terraform-provider-aws)
+- [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)

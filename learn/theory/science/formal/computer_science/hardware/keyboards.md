@@ -59,10 +59,10 @@ TODO
 - [Use the keyboard](https://usethekeyboard.com/) - Collection of keyboard shortcuts for Mac apps, Windows programs, and websites
 - [Keebio](https://keeb.io/) - Mechanical Keyboard Parts and Other Goodies
 - [Split keyboards gallery](https://aposymbiont.github.io/split-keyboards/)
-- [F.A.Q. по механическим клавиатурам](https://github.com/for2ch/keyboard) `[GitHub]`
-- [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave `[GitHub]`
-- [ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux `[GitHub]`
-- [kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager `[GitHub]`
-- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) `[GitHub]`
-- [Mechanical Keyboard and where to find them](https://github.com/help-14/mechanical-keyboard) `[GitHub]`
-- [Awesome Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards) `[GitHub]`
+- [F.A.Q. по механическим клавиатурам](https://github.com/for2ch/keyboard)
+- [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave
+- [ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
+- [kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
+- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide)
+- [Mechanical Keyboard and where to find them](https://github.com/help-14/mechanical-keyboard)
+- [Awesome Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards)

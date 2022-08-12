@@ -16,5 +16,5 @@ TODO
 ## Links
 
 - [Apache thrift](https://thrift.apache.org/) - Allows you to define data types and service interfaces in a simple definition file
-- [FlatBuffers](https://github.com/google/flatbuffers) - Memory Efficient Serialization Library `[GitHub]`
-- [Binn](https://github.com/liteserver/binn) - Binary data serialization format designed to be compact, fast and easy to use `[GitHub]`
+- [FlatBuffers](https://github.com/google/flatbuffers) - Memory Efficient Serialization Library
+- [Binn](https://github.com/liteserver/binn) - Binary data serialization format designed to be compact, fast and easy to use

@@ -50,8 +50,7 @@
 
 - [The Modern and the Postmodern](https://www.coursera.org/learn/modern-postmodern-1)
 - [How to Read a Novel - The University of Edinburgh](https://www.onlinestudies.com/How-to-Read-a-Novel-The-University-of-Edinburgh/United-Kingdom/FutureLearn/)
-- [Золотые страницы европейской литературы](https://youtube.com/playlist?list=PL-_cKNuVAYAU_Govo6JKvuw8DX86qPXx7) - (Лекториум)
-- [Write a Micro-Textbook](https://hyperlink.academy/courses/write-a-micro-textbook/14)
+- [Золотые страницы европейской литературы](https://youtube.com/playlist?list=PL-_cKNuVAYAU_Govo6JKvuw8DX86qPXx7)
 - [How and Why We Read: Crash Course English Literature #1](https://youtu.be/MSYw502dJNY)
 - [Литература (беседы с интересными героями)](https://youtube.com/playlist?list=PLKQxqJVnCqzEI5n5CLNVk6b-nqzO_W4_c)
 
@@ -81,10 +80,10 @@
 - [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
 - [ePubViewer](https://pgaskin.net/ePubViewer/)
 - [Книжный чел](https://www.youtube.com/c/%D0%9A%D0%BD%D0%B8%D0%B6%D0%BD%D1%8B%D0%B9%D1%87%D0%B5%D0%BB/) - канал о чтении, рациональном мышлении, трендах развития общества и искусстве `[YouTube]`
-- [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools) `[GitHub]`
-- [Books](https://github.com/learn-anything/books) `[GitHub]`
-- [Awesome Programming Books](https://github.com/zero-equals-false/awesome-programming-books) `[GitHub]`
-- [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books) `[GitHub]`
+- [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools)
+- [Books](https://github.com/learn-anything/books)
+- [Awesome Programming Books](https://github.com/zero-equals-false/awesome-programming-books)
+- [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
 
 
 ## Stores

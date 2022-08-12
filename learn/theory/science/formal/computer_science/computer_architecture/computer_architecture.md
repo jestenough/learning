@@ -22,5 +22,5 @@ TODO
 
 - [Computer Architecture - Fall 2019](https://youtube.com/playlist?list=PL5Q2soXY2Zi-DyoI3HbqcdtUm9YWRR_z-)
 - [Computer Organization and Architecture](https://youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
-- [КАК РАБОТАЕТ ПРОЦЕССОР](https://youtu.be/RwSLO953anc) - (YouTube)
+- [КАК РАБОТАЕТ ПРОЦЕССОР](https://youtu.be/RwSLO953anc) 
 - [Inside your computer](https://youtu.be/AkFi90lZmXA)

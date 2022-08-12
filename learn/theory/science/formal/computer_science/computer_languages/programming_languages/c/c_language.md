@@ -48,9 +48,9 @@ TODO
 
 ## Courses / Videos
 
-- [Harvard CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) - (YouTube)
-- [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - (YouTube)
-- [Реализация ООП на чистом C](https://youtu.be/QyjTJ98iOWI) - (YouTube)
+- [Harvard CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
+- [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+- [Реализация ООП на чистом C](https://youtu.be/QyjTJ98iOWI)
 - [Why is C Faster Than My Language?](https://youtu.be/vFB0Ot-ZdIM)
 - [Modern C and What We Can Learn From It - Luca Sas [ ACCU 2021 ]](https://youtu.be/QpAhX-gsHMs)
 - [Programming Language Development in C](https://youtube.com/playlist?list=PLvdK1vRmp8wMzH4w_8sQ30NKU3Bt4Cc-M)
@@ -59,7 +59,7 @@ TODO
 
 ## Books
 
-- C A Software Engineering Approach 3rd Edition`[0/498]`
+- C A Software Engineering Approach 3rd Edition
 - Системное программирование на языке Си
 - [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
 - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
@@ -78,15 +78,15 @@ TODO
 - [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html)
 - [Building Your Own C Interpreter](https://www.drdobbs.com/cpp/building-your-own-c-interpreter/184408184)
 - [Using Clang as a Compiler](https://clang.llvm.org/docs/index.html)
-- [8cc](https://github.com/rui314/8cc) - A Small C Compiler `[GitHub]`
-- [chibicc](https://github.com/rui314/chibicc) - A small C compiler `[GitHub]`
-- [SmallerC](https://github.com/alexfru/SmallerC) -  Simple C compiler `[GitHub]`
-- [banned.h](https://github.com/git/git/blob/master/banned.h) - git's list of banned C functions `[GitHub]`
-- [banned.h](https://github.com/x509cert/banned/blob/master/banned.h) - list of Microsoft Security Development Lifecycle (SDL) banned APIs `[GitHub]`
-- [Linked list good taste](https://github.com/mkirchner/linked-list-good-taste) `[GitHub]`
-- [pycparser](https://github.com/eliben/pycparser) - Complete C99 parser in pure Python `[GitHub]`
-- [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C) `[GitHub]`
-- [The Algorithms - C](https://github.com/TheAlgorithms/C) `[GitHub]`
-- [Awesome Clang](https://github.com/ingve/awesome-clang) `[GitHub]`
-- [Awesome C](https://github.com/oz123/awesome-c) `[GitHub]`
-- [Awesome C](https://github.com/Bfgeshka/awesome-c) `[GitHub]`
+- [8cc](https://github.com/rui314/8cc) - A Small C Compiler
+- [chibicc](https://github.com/rui314/chibicc) - A small C compiler
+- [SmallerC](https://github.com/alexfru/SmallerC) -  Simple C compiler
+- [banned.h](https://github.com/git/git/blob/master/banned.h) - git's list of banned C functions
+- [banned.h](https://github.com/x509cert/banned/blob/master/banned.h) - list of Microsoft Security Development Lifecycle (SDL) banned APIs
+- [Linked list good taste](https://github.com/mkirchner/linked-list-good-taste)
+- [pycparser](https://github.com/eliben/pycparser) - Complete C99 parser in pure Python 
+- [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
+- [The Algorithms - C](https://github.com/TheAlgorithms/C)
+- [Awesome Clang](https://github.com/ingve/awesome-clang)
+- [Awesome C](https://github.com/oz123/awesome-c)
+- [Awesome C](https://github.com/Bfgeshka/awesome-c)

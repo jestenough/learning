@@ -13,7 +13,7 @@
 * [Timeline index](https://www.timelineindex.com/)
 * [Vos ucsb edu](http://sites.reformal.ru/vos.ucsb.edu/) - the Collector of URLs
 * [Curlie](https://curlie.org/) - the Collector of URLs
-* [Courses](https://github.com/learn-anything/courses) `[GitHub]`
+* [Courses](https://github.com/learn-anything/courses)
 
 
 ## Encyclopedias

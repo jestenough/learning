@@ -19,6 +19,6 @@ TODO
 ## Links
 
 - [Cap'n proto](https://capnproto.org/)
-- [Go Tools for Recording and Replaying RPCs](https://github.com/google/go-replayers) `[GitHub]`
-- [Go Plugin System over RPC](https://github.com/hashicorp/go-plugin) `[GitHub]`
-- [Apache Dubbo Project](https://github.com/apache/dubbo) `[GitHub]`
+- [Go Tools for Recording and Replaying RPCs](https://github.com/google/go-replayers)
+- [Go Plugin System over RPC](https://github.com/hashicorp/go-plugin)
+- [Apache Dubbo Project](https://github.com/apache/dubbo)

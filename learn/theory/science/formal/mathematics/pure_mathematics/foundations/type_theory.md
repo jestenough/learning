@@ -21,4 +21,4 @@ TODO
 ## Links
 
 - [What I Wish I Knew When Learning HoTT](https://abooij.github.io/wiwikwlhott/)
-- [learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields `[GitHub]`
+- [learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields

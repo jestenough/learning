@@ -40,10 +40,10 @@ TODO
 
 - [Information Security](https://www.freecodecamp.org/learn/information-security/)
 - [Discover the best kept secret in cybersecurity](https://www.hackerone.com/security-at/2021)
-- [HotMobile 2020 - Listen to Your Key: Towards Acoustics-based Physical Key Inference](https://youtu.be/bxyAa_txM34) - (YouTube)
-- [Hackfest 2015: Theo de Raadt presented "Pledge: A new security technology in openbsd"](https://youtu.be/F_7S1eqKsFk) - (YouTube)
-- [DEF CON 26 - Christopher Domas - GOD MODE UNLOCKED Hardware Backdoors in redacted x86](https://youtu.be/jmTwlEh8L7g) - (YouTube)
-- [SSL/TLS Deployment Best Practices](https://youtu.be/AYNtH7JMlAQ) - (YouTube)
+- [HotMobile 2020 - Listen to Your Key: Towards Acoustics-based Physical Key Inference](https://youtu.be/bxyAa_txM34) 
+- [Hackfest 2015: Theo de Raadt presented "Pledge: A new security technology in openbsd"](https://youtu.be/F_7S1eqKsFk)
+- [DEF CON 26 - Christopher Domas - GOD MODE UNLOCKED Hardware Backdoors in redacted x86](https://youtu.be/jmTwlEh8L7g)
+- [SSL/TLS Deployment Best Practices](https://youtu.be/AYNtH7JMlAQ)
 
 
 ## Links
@@ -54,14 +54,14 @@ TODO
 - [Abertay Hacksoc Wiki!](https://wiki.hacksoc.co.uk/)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
 - [HackTricks](https://book.hacktricks.xyz/)
-- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) `[GitHub]`
-- [Web Security Basics](https://github.com/vasanthk/web-security-basics) `[GitHub]`
-- [Depix](https://github.com/beurtschipper/Depix) -  Recovers passwords from pixelized screenshots `[GitHub]`
-- [Awesome Security](https://github.com/sbilly/awesome-security) `[GitHub]`
-- [Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) `[GitHub]`
-- [Awesome Hacking](https://github.com/jekil/awesome-hacking) `[GitHub]`
-- [Awesome mobile security](https://github.com/vaib25vicky/awesome-mobile-security) `[GitHub]`
-- [Hacker roadmap](https://github.com/sundowndev/hacker-roadmap) `[GitHub]`
-- [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) `[GitHub]`
-- [Awesome CTF](https://github.com/apsdehal/awesome-ctf) `[GitHub]`
-- [pam-duress](https://github.com/nuvious/pam-duress) - which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password. `[GitHub]`
+- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
+- [Web Security Basics](https://github.com/vasanthk/web-security-basics)
+- [Depix](https://github.com/beurtschipper/Depix) -  Recovers passwords from pixelized screenshots
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups)
+- [Awesome Hacking](https://github.com/jekil/awesome-hacking)
+- [Awesome mobile security](https://github.com/vaib25vicky/awesome-mobile-security)
+- [Hacker roadmap](https://github.com/sundowndev/hacker-roadmap)
+- [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+- [pam-duress](https://github.com/nuvious/pam-duress) - which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.

@@ -43,9 +43,9 @@ TODO
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 - [Werft](https://werft.dev/) - Kubernetes-native CI system
 - [Bitrise](https://www.bitrise.io/) - Build better mobile applications, faster
-- [Bitrise (offline) CLI](https://github.com/bitrise-io/bitrise) - run your automations on your Mac or Linux machine `[GitHub]`
-- [tbls](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database `[GitHub]`
-- [buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit `[GitHub]`
-- [Concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go `[GitHub]`
-- [Tekton Pipelines](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource `[GitHub]`
-- [Awesome CI](https://github.com/ligurio/awesome-ci) `[GitHub]`
+- [Bitrise (offline) CLI](https://github.com/bitrise-io/bitrise) - run your automations on your Mac or Linux machine
+- [tbls](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database
+- [buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
+- [Concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go
+- [Tekton Pipelines](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource
+- [Awesome CI](https://github.com/ligurio/awesome-ci)

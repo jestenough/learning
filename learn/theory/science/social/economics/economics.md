@@ -24,7 +24,7 @@ TODO
 
 ## Books
 
-- Игра на понижение. Тайные пружины финансовой катастрофы (Майкл Льюис)`[0/280]`
+- Игра на понижение. Тайные пружины финансовой катастрофы (Майкл Льюис)
 - [Basic Economics: A Citizen's Guide to the Economy](https://www.goodreads.com/book/show/3023)
 - [Debt: The First 5,000 Years](https://www.goodreads.com/book/show/6617037)
 - [The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy](https://www.goodreads.com/en/book/show/45731395)
@@ -48,4 +48,4 @@ TODO
 - [Stripe Press Ideas for progress](https://press.stripe.com/)
 - [Naked capitalism](https://www.nakedcapitalism.com/)
 - [Index mundi](https://www.indexmundi.com/)
-- [Сергей Гуриев](https://www.youtube.com/c/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%D0%93%D1%83%D1%80%D0%B8%D0%B5%D0%B21/) `[YouTube]`
+- [Сергей Гуриев](https://www.youtube.com/c/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%D0%93%D1%83%D1%80%D0%B8%D0%B5%D0%B21/)

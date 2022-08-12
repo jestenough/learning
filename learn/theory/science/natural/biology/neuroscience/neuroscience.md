@@ -66,4 +66,4 @@ TODO
 - [THE COGNITIVE BIAS CODEX](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
 - [Computational neuroscience resources](http://neural-reckoning.org/comp-neuro-resources.html)
 - [Neurokernel](http://neurokernel.github.io/) - open software platform for the emulation of the entire brain of the fruit fly Drosophila melanogaster on multiple GPUs
-- [Awesome neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) `[GitHub]`
+- [Awesome neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)

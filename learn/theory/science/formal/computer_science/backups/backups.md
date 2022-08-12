@@ -25,13 +25,13 @@ TODO
 
 - [nFreezer](https://github.com/josephernest/nfreezer) - nFreezer is an encrypted-at-rest backup tool
 - [hashbackup](http://www.hashbackup.com/)
-- [Rsync time backup](https://github.com/laurent22/rsync-time-backup) `[GitHub]`
-- [awsbackup.sh](https://github.com/keisentraut/awsbackup) - Bash script for personal backup with Amazon Web Services S3 Glacier Deep Archive `[GitHub]`
-- [autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic `[GitHub]`
-- [zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution `[GitHub]`
-- [unison](https://github.com/bcpierce00/unison) - Unison file synchronizer `[GitHub]`
-- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication `[GitHub]`
-- [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption `[GitHub]`
-- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program `[GitHub]`
-- [kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included `[GitHub]`
-- [rclone](https://github.com/rclone/rclone) - is a command-line program to sync files and directories to and from different cloud storage providers `[GitHub]`
+- [Rsync time backup](https://github.com/laurent22/rsync-time-backup)
+- [awsbackup.sh](https://github.com/keisentraut/awsbackup) - Bash script for personal backup with Amazon Web Services S3 Glacier Deep Archive
+- [autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic
+- [zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
+- [unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication
+- [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
+- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included
+- [rclone](https://github.com/rclone/rclone) - is a command-line program to sync files and directories to and from different cloud storage providers

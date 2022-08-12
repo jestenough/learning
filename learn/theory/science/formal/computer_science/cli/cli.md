@@ -27,21 +27,21 @@ TODO
 - [Terminals Are Sexy](https://terminalsare.sexy/)
 - [Writing Programs with NCURSES](https://invisible-island.net/ncurses/ncurses-intro.html)
 - [Command Line Interface Guidelines](https://clig.dev/)
-- [dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package `[GitHub]`
-- [rust recommendations and alternatives](https://gist.github.com/Phate6660/76779693f654d48c5c410be658c53f02) `[GitHub]`
-- [Structured text tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data `[GitHub]`
-- [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder `[GitHub]`
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore `[GitHub]`
-- [hyperfine](https://github.com/sharkdp/hyperfine) `[GitHub]`
-- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils `[GitHub]`
-- [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather `[GitHub]`
-- [cheat.sh](https://github.com/chubin/cheat.sh) `[GitHub]`
-- [tldr-pages](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands `[GitHub]`
-- [Modern Unix](https://github.com/ibraheemdev/modern-unix) `[GitHub]`
-- [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) `[GitHub]`
-- [Awesome console services](https://github.com/chubin/awesome-console-services) `[GitHub]`
-- [Awesome jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources `[GitHub]`
-- [Awesome TUIs](https://github.com/rothgar/awesome-tuis) `[GitHub]`
-- [Awesome CLI apps](https://github.com/agarrharr/awesome-cli-apps) `[GitHub]`
-- [The art of command line](https://github.com/jlevy/the-art-of-command-line) `[GitHub]`
-- [cli](https://github.com/cli/cli) - GitHub’s official command line tool `[GitHub]`
+- [dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package
+- [rust recommendations and alternatives](https://gist.github.com/Phate6660/76779693f654d48c5c410be658c53f02)
+- [Structured text tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
+- [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [hyperfine](https://github.com/sharkdp/hyperfine)
+- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather
+- [cheat.sh](https://github.com/chubin/cheat.sh)
+- [tldr-pages](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands
+- [Modern Unix](https://github.com/ibraheemdev/modern-unix)
+- [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
+- [Awesome console services](https://github.com/chubin/awesome-console-services)
+- [Awesome jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources
+- [Awesome TUIs](https://github.com/rothgar/awesome-tuis)
+- [Awesome CLI apps](https://github.com/agarrharr/awesome-cli-apps)
+- [The art of command line](https://github.com/jlevy/the-art-of-command-line)
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool

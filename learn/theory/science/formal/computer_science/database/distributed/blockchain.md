@@ -19,9 +19,9 @@ TODO
 
 ## Courses
 
-- [Blockchain 101 - Визуальная демонстрация](https://youtu.be/_160oMzblY8) - (YouTube)
+- [Blockchain 101 - Визуальная демонстрация](https://youtu.be/_160oMzblY8)
 
 
 ## Links
 
-- [Learn Blockchain in 2 Months](https://github.com/llSourcell/Learn_Blockchain_in_2_months) `[GitHub]`
+- [Learn Blockchain in 2 Months](https://github.com/llSourcell/Learn_Blockchain_in_2_months)

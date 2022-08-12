@@ -28,4 +28,4 @@
 ## Links
 
 - [Figma Community collections](https://www.figma.com/community/collections/config2021-sessions)
-- [Awesome Figma](https://github.com/react-figma/awesome-figma) `[GitHub]`
+- [Awesome Figma](https://github.com/react-figma/awesome-figma)

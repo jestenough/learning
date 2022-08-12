@@ -53,9 +53,9 @@ TODO
 - [Space Engine](https://spaceengine.org/) - Universe simulator
 - [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
 - [Melodysheep](https://www.melodysheep.com/)
-- [PBS Space Time](https://www.youtube.com/c/pbsspacetime/) `[YouTube]`
-- [NASASpaceflight](https://www.youtube.com/channel/UCSUu1lih2RifWkKtDOJdsBA) `[YouTube]`
-- [It's Just Astronomical!](https://www.youtube.com/c/ItsJustAstronomical/) `[YouTube]`
-- [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q) `[YouTube]`
-- [Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space `[GitHub]`
-- [Awesome Space](https://github.com/orbitalindex/awesome-space) `[GitHub]`
+- [PBS Space Time](https://www.youtube.com/c/pbsspacetime/)
+- [NASASpaceflight](https://www.youtube.com/channel/UCSUu1lih2RifWkKtDOJdsBA)
+- [It's Just Astronomical!](https://www.youtube.com/c/ItsJustAstronomical/)
+- [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q)
+- [Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space
+- [Awesome Space](https://github.com/orbitalindex/awesome-space) 

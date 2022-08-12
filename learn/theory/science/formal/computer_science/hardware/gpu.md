@@ -47,13 +47,13 @@ TODO
 ## Links
 
 - [Let’s build a video card!](https://eater.net/vga)
-- [nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication `[GitHub]`
-- [gdrcopy](https://github.com/NVIDIA/gdrcopy) - A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology `[GitHub]`
-- [triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler `[GitHub]`
-- [gpustat](https://github.com/wookayin/gpustat) - A simple command-line utility for querying and monitoring GPU status `[GitHub]`
-- [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool `[GitHub]`
-- [vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs `[GitHub]`
-- [harlan](https://github.com/eholk/harlan) - A language for GPU computing `[GitHub]`
-- [GPU monitoring tools](https://github.com/NVIDIA/gpu-monitoring-tools) `[GitHub]`
-- [basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec `[GitHub]`
-- [gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens! `[GitHub]`
+- [nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
+- [gdrcopy](https://github.com/NVIDIA/gdrcopy) - A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
+- [triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
+- [gpustat](https://github.com/wookayin/gpustat) - A simple command-line utility for querying and monitoring GPU status
+- [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
+- [vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs
+- [harlan](https://github.com/eholk/harlan) - A language for GPU computing
+- [GPU monitoring tools](https://github.com/NVIDIA/gpu-monitoring-tools)
+- [basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
+- [gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!

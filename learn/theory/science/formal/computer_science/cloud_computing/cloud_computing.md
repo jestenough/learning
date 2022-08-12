@@ -26,8 +26,8 @@ TODO
 
 ## Links
 
-- [The Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words) `[GitHub]`
-- [A curated list of resources about all things Google Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild) `[GitHub]`
+- [The Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words)
+- [A curated list of resources about all things Google Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
 
 
 ## Servers

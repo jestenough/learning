@@ -151,21 +151,21 @@ TODO
 - [Web2Img](https://etherdream.github.io/web2img/)
 - [Polyfill](https://polyfill.io/v3/) - It's a service which accepts a request for a set of browser features and returns only the polyfills that are needed by the requesting browser
 - [Personal sites](https://personalsit.es/) - Little directory of people's personal sites
-- [timefind](https://github.com/Cykelero/timefind) - Search a website's history `[GitHub]`
-- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) `[GitHub]`
-- [TC39 Meeting Notes](https://github.com/tc39/notes) `[GitHub]`
+- [timefind](https://github.com/Cykelero/timefind) - Search a website's history
+- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+- [TC39 Meeting Notes](https://github.com/tc39/notes)
 - [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [1000 feeds for web developers](https://github.com/simevidas/web-dev-feeds) `[GitHub]`
-- [Principles for making things for the web](https://github.com/veltman/principles) `[GitHub]`
-- [RealWorld example apps](https://github.com/gothinkster/realworld) `[GitHub]`
-- [How Web Works](https://github.com/vasanthk/how-web-works) `[GitHub]`
-- [Web skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer `[GitHub]`
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open-source self-hosted web archiving. `[GitHub]`
-- [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) `[GitHub]`
-- [Web Development Resources](https://github.com/mtdvio/web-development-resources) `[GitHub]`
-- [Web frameworks](https://github.com/the-benchmarker/web-frameworks) `[GitHub]`
-- [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) `[GitHub]`
-- [Awesome web effect](https://github.com/lindelof/awesome-web-effect) `[GitHub]`
-- [Awesome Landing Page](https://github.com/nordicgiant2/awesome-landing-page) `[GitHub]`
-- [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) `[GitHub]`
+- [1000 feeds for web developers](https://github.com/simevidas/web-dev-feeds)
+- [Principles for making things for the web](https://github.com/veltman/principles)
+- [RealWorld example apps](https://github.com/gothinkster/realworld)
+- [How Web Works](https://github.com/vasanthk/how-web-works)
+- [Web skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open-source self-hosted web archiving.
+- [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Web Development Resources](https://github.com/mtdvio/web-development-resources)
+- [Web frameworks](https://github.com/the-benchmarker/web-frameworks)
+- [Awesome Stacks](https://github.com/stackshareio/awesome-stacks)
+- [Awesome web effect](https://github.com/lindelof/awesome-web-effect)
+- [Awesome Landing Page](https://github.com/nordicgiant2/awesome-landing-page)
+- [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web)
 - [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)

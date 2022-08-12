@@ -53,5 +53,5 @@ TODO
 - [Lecture speedrun](https://zznidar.github.io/lecture-speedrun/)
 - [Cheat sheet maker](https://cheatsheet-maker.herokuapp.com/)
 - [Quantamagazine](https://www.quantamagazine.org/)
-- [Awesome Tips](https://github.com/jbhuang0604/awesome-tips) `[GitHub]`
-- [Awesome learning](https://github.com/curlpipe/awesome-learning) `[GitHub]`
+- [Awesome Tips](https://github.com/jbhuang0604/awesome-tips)
+- [Awesome learning](https://github.com/curlpipe/awesome-learning)

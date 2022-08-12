@@ -45,5 +45,5 @@
 - [Charter Cities Reading List](https://www.chartercitiesinstitute.org/reading)
 - [Styldod](https://www.styldod.com/) - Virtual Home Staging & Interior Design Solutions
 - [Floorplanner](https://floorplanner.com/) - Create 2D & 3D floorplans
-- [Architecture](https://t.me/Architecture2021) `[Telegram]`
-- [Sverchok](https://github.com/nortikin/sverchok) - tool for architects, allowing geometry to be programmed visually with nodes `[GitHub]`
+- [Architecture](https://t.me/Architecture2021)
+- [Sverchok](https://github.com/nortikin/sverchok) - tool for architects, allowing geometry to be programmed visually with nodes

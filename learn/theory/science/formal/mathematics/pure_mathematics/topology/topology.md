@@ -25,4 +25,4 @@ TODO
 
 - [Learning Topology](https://github.com/prathyvsh/learning-topology)
 - [Computational Algebraic Topology](http://people.maths.ox.ac.uk/nanda/cat/)
-- [Pure Mathematics Topic D: Algebraic Topology](https://github.com/DavidMichaelRoberts/AlgebraicTopology2019) `[GitHub]`
+- [Pure Mathematics Topic D: Algebraic Topology](https://github.com/DavidMichaelRoberts/AlgebraicTopology2019)

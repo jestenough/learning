@@ -36,7 +36,7 @@ TODO
 
 ## Books
 
-- Git internals (Scott Chacon)`[0/121]`
+- Git internals (Scott Chacon)
 - Pro Git (Scott Chacon)
 - Git Notes for Professionals
 - Happy Git and GitHub for the useR
@@ -44,10 +44,10 @@ TODO
 
 ## Courses
 
-- [Git. Полный курс для начинающих и не только](https://www.udemy.com/course/git-alishev/) - (Udemy)
-- [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - (YouTube)
-- [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
-- [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - (Coursera)
+- [Git. Полный курс для начинающих и не только](https://www.udemy.com/course/git-alishev/)
+- [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 - [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8)
 
 
@@ -83,7 +83,7 @@ TODO
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [questions about git commits](https://questions.wizardzines.com/git-commits.html)
 - [questions about git branches](https://questions.wizardzines.com/git-branches.html)
-- [On Git Commit Messages](https://github.com/michaeljones/on-commit-messages) `[GitHub]`
-- [.gitignore Templates](https://github.com/github/gitignore) `[GitHub]`
-- [.gitattributes Templates](https://github.com/alexkaratarakis/gitattributes) `[GitHub]`
-- [GitHub CLI](https://github.com/cli/cli) `[GitHub]`
+- [On Git Commit Messages](https://github.com/michaeljones/on-commit-messages) 
+- [.gitignore Templates](https://github.com/github/gitignore)
+- [.gitattributes Templates](https://github.com/alexkaratarakis/gitattributes)
+- [GitHub CLI](https://github.com/cli/cli)

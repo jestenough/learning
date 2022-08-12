@@ -30,7 +30,7 @@ TODO
 
 - [Francois Chollet - Intelligence and Generalisation](https://youtu.be/J0p_thJJnoo)
 - [CS50's Introduction to Artificial Intelligence with Python 2020](https://youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
-- [AI DEBATE : Yoshua Bengio | Gary Marcus](https://youtu.be/EeqwFjqFvJA) - (YouTube)
+- [AI DEBATE : Yoshua Bengio | Gary Marcus](https://youtu.be/EeqwFjqFvJA)
 
 
 ## Links
@@ -45,4 +45,4 @@ TODO
 - [The Evolution of Artificial Intelligence](https://achievements.ai/)
 - [Artificial Intelligence Wiki](https://docs.paperspace.com/machine-learning/)
 - [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction)
-- [Открытая лаборатория ИИ МФТИ](https://www.youtube.com/c/AIMIPT) `[YouTube]`
+- [Открытая лаборатория ИИ МФТИ](https://www.youtube.com/c/AIMIPT)

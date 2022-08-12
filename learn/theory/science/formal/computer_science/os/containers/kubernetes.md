@@ -37,9 +37,9 @@ TODO
 
 ## Courses / Videos
 
-- [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - (Katacoda)
-- [Введение в Kubernetes](https://youtu.be/L3tgJXsMUTU) - (YouTube)
-- [Open Source funding, Kim and Rancher Desktop with Matt Farina](https://youtu.be/l9j45bvv7Rk) - (YouTube)
+- [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) 
+- [Введение в Kubernetes](https://youtu.be/L3tgJXsMUTU)
+- [Open Source funding, Kim and Rancher Desktop with Matt Farina](https://youtu.be/l9j45bvv7Rk)
 - [Kubernetes Full Course in 6 Hours | Kubernetes Tutorial | Kubernetes Training | Edureka](https://youtu.be/YXfLAWGTI38)
 
 
@@ -47,8 +47,8 @@ TODO
 
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 - [Kubernetes README](https://kubernetesreadme.com/)
-- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) `[GitHub]`
-- [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s) `[GitHub]`
-- [Awesome Kubernetes (K8s) Security](https://github.com/magnologan/awesome-k8s-security) `[GitHub]`
-- [Learning Kubernetes](https://github.com/codeaprendiz/kubernetes-kitchen) `[GitHub]`
-- [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices) `[GitHub]`
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s)
+- [Awesome Kubernetes (K8s) Security](https://github.com/magnologan/awesome-k8s-security)
+- [Learning Kubernetes](https://github.com/codeaprendiz/kubernetes-kitchen)
+- [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)

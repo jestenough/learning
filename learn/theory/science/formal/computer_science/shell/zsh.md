@@ -22,19 +22,19 @@ TODO
 ## Links
 
 - [zsh cheatsheet](https://devhints.io/zsh)
-- [A User's Guide to the Z-Shell](https://zsh.sourceforge.io/Guide/zshguide.html) `[GitHub]`
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) `[GitHub]`
-- [ZSH History Database](https://github.com/larkery/zsh-histdb) `[GitHub]`
-- [Prezto — Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto) `[GitHub]`
+- [A User's Guide to the Z-Shell](https://zsh.sourceforge.io/Guide/zshguide.html) 
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+- [ZSH History Database](https://github.com/larkery/zsh-histdb)
+- [Prezto — Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
 
 
 ## Plugins
 
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) `[GitHub]`
-- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) `[GitHub]`
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) `[GitHub]`
-- [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) `[GitHub]`
-- [starship](https://github.com/starship/starship) `[GitHub]`
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k) `[GitHub]`
-- [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) `[GitHub]`
-- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) `[GitHub]`
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting)
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
+- [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode)
+- [starship](https://github.com/starship/starship)
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)

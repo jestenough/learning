@@ -67,6 +67,6 @@ TODO
 - [Clone Wars - Open source clones of popular sites](https://gourav.io/clone-wars)
 - [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://press.stripe.com/#working-in-public)
 - [Google open source](https://cs.opensource.google/)
-- [Awesome Software Patreons](https://github.com/uraimo/awesome-software-patreons) `[GitHub]`
-- [Open source promotion cheat sheet](https://github.com/zenika-open-source/promote-open-source-project/blob/master/README.md) `[GitHub]`
-- [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives/) `[GitLab]`
+- [Awesome Software Patreons](https://github.com/uraimo/awesome-software-patreons)
+- [Open source promotion cheat sheet](https://github.com/zenika-open-source/promote-open-source-project/blob/master/README.md)
+- [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives/)

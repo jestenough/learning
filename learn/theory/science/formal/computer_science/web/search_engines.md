@@ -49,8 +49,8 @@ TODO
 - [How search engines work](https://youtu.be/3CgJRdJetiw)
 - [The Internet: How Search Works](https://youtu.be/LVV_93mBfSU)
 - [Search engine basics](https://youtu.be/Y2J7sVpmeq8)
-- [КАК ИСКАТЬ В GOOGLE: Фишки и Секреты Как Правильно Гуглить!](https://youtu.be/Zi3GY0CopZQ) - (YouTube)
-- [[CVPR20 Tutorial] Billion-scale Approximate Nearest Neighbor Search](https://youtu.be/SKrHs03i08Q) - (YouTube)
+- [КАК ИСКАТЬ В GOOGLE: Фишки и Секреты Как Правильно Гуглить!](https://youtu.be/Zi3GY0CopZQ) 
+- [[CVPR20 Tutorial] Billion-scale Approximate Nearest Neighbor Search](https://youtu.be/SKrHs03i08Q)
 
 
 ## Links
@@ -62,12 +62,12 @@ TODO
 - [Unofficial Google Advanced Search](http://jwebnet.net/advancedgooglesearch.html)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 - [SeekStorm](https://seekstorm.com/) - Affordable high-performance search API
-- [liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine `[GitHub]`
-- [jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data `[GitHub]`
-- [datahub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack `[GitHub]`
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine `[GitHub]`
-- [The Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) `[GitHub]`
-- [Search Engine Parser](https://github.com/bisohns/search-engine-parser) `[GitHub]`
-- [googler](https://github.com/jarun/googler) - Google from the terminal `[GitHub]`
-- [Awesome Semantic-Search](https://github.com/Agrover112/awesome-semantic-search) `[GitHub]`
-- [Awesome Search Engine Optimization Ideas](https://github.com/thospfuller/awesome-search-engine-optimization) `[GitHub]`
+- [liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser and search engine
+- [jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
+- [datahub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [The Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering)
+- [Search Engine Parser](https://github.com/bisohns/search-engine-parser)
+- [googler](https://github.com/jarun/googler) - Google from the terminal
+- [Awesome Semantic-Search](https://github.com/Agrover112/awesome-semantic-search)
+- [Awesome Search Engine Optimization Ideas](https://github.com/thospfuller/awesome-search-engine-optimization)

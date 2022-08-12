@@ -27,7 +27,7 @@ TODO
 ## Links
 
 - [r/personalfinance](https://www.reddit.com/r/personalfinance/wiki/index)
-- [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) `[GitHub]`
-- [Awesome deep trading](https://github.com/cbailes/awesome-deep-trading) `[GitHub]`
-- [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance) `[GitHub]`
-- [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) `[GitHub]`
+- [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase)
+- [Awesome deep trading](https://github.com/cbailes/awesome-deep-trading)
+- [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance) 
+- [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)

@@ -45,7 +45,7 @@
 - [paint.wtf](https://paint.wtf/) - Convince an AI that you're the best artist
 - [Dimensions](https://www.dimensions.com/) - ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces that make up our world
 - [Drawing References](https://longest.voyage/notes/drawing-references/)
-- [Telestrator](https://github.com/steveruizok/telestrator) - A disappearing drawing tool for your screen `[GitHub]`
+- [Telestrator](https://github.com/steveruizok/telestrator) - A disappearing drawing tool for your screen
 
 
 ## Painting program

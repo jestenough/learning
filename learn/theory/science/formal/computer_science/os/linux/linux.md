@@ -69,37 +69,37 @@ TODO
 ## Books
 
 - [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
-- Linux. Установка, настройка, администрирование (Кофлер)`[0/768]`
+- Linux. Установка, настройка, администрирование (Кофлер)
 - Just for Fun: The Story of an Accidental Revolutionary (Linus Torvalds)
 - [How Linux Works, 3rd Edition](https://nostarch.com/howlinuxworks3)
 - [The Wayland Protocol](https://wayland-book.com/)
 - [Major Linux Problems on the Desktop, 2021 edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
 - [The Linux Programming Interface](https://man7.org/tlpi/)
-- [Ядро Linux](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)`[0/496]`
+- [Ядро Linux](https://codernet.ru/books/linux/yadro_linux_opisanie_processa_razrabotki/)
 - [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg)
 - [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg)
-- Внутреннее устройство Linux`[0/384]`
+- Внутреннее устройство Linux
 - Pro Windows Subsystem for Linux (Hayden Barnes)
 - Linux Device Drivers, 3rd Edition (Jonathan CorbetAlessandro)
 
 
 ## Courses / Videos
 
-- [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - (Edx)
-- [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/) - (Udemy)
-- [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - (Udemy)
-- [Linux для начинающих](https://otus.ru/online/online-linux/) - (OTUS)
-- [Kernel Recipes 2017 - Perf in Netflix - Brendan Gregg](https://youtu.be/UVM3WX8Lq2k) - (YouTube)
-- [2021: Year of the Linux Gaming Desktop - Andrew Kelley](https://youtu.be/pq1XqP4-qOo) - (YouTube)
-- [Community Chat #1 - Asahi Linux Project](https://youtu.be/aMTfPSzrjXs) - (YouTube)
-- [Linux App Summit 2020](https://youtu.be/u8SI6AEwMnQ) - (YouTube)
-- [eBPF - Rethinking the Linux Kernel](https://youtu.be/f-oTe-dmfyI) - (YouTube)
-- [Embedded Linux Conference Europe 2020](https://youtube.com/playlist?list=PLZjq3una5SrDeo4RM5UZyZTisSuLd_3gb) - (YouTube)
-- [Before Main: How Executables Work on Linux](https://youtu.be/jR2hUhjcAXI) - (YouTube)
-- ["Kernel hacking like it's 2020" - Russell Currey (LCA 2020)](https://youtu.be/heib48KG-YQ) - (YouTube)
-- [LISA19 - Linux Systems Performance](https://youtu.be/fhBHvsi0Ql0) - (YouTube)
-- [The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE) - (YouTube)
-- [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4) - (YouTube)
+- [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/)
+- [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/)
+- [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/)
+- [Linux для начинающих](https://otus.ru/online/online-linux/)
+- [Kernel Recipes 2017 - Perf in Netflix - Brendan Gregg](https://youtu.be/UVM3WX8Lq2k)
+- [2021: Year of the Linux Gaming Desktop - Andrew Kelley](https://youtu.be/pq1XqP4-qOo)
+- [Community Chat #1 - Asahi Linux Project](https://youtu.be/aMTfPSzrjXs)
+- [Linux App Summit 2020](https://youtu.be/u8SI6AEwMnQ)
+- [eBPF - Rethinking the Linux Kernel](https://youtu.be/f-oTe-dmfyI)
+- [Embedded Linux Conference Europe 2020](https://youtube.com/playlist?list=PLZjq3una5SrDeo4RM5UZyZTisSuLd_3gb)
+- [Before Main: How Executables Work on Linux](https://youtu.be/jR2hUhjcAXI)
+- ["Kernel hacking like it's 2020" - Russell Currey (LCA 2020)](https://youtu.be/heib48KG-YQ)
+- [LISA19 - Linux Systems Performance](https://youtu.be/fhBHvsi0Ql0)
+- [The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE)
+- [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4)
 - [Структура файлов и каталогов в Linux](https://youtu.be/WL2Xbndqy0k)
 - [Разжёванный курс по Linux для чайников](https://youtu.be/fbP2gyy5aE0)
 
@@ -124,11 +124,11 @@ TODO
 - [Stupid tricks with io_uring: a server that does zero syscalls per request](https://wjwh.eu/posts/2021-10-01-no-syscall-server-iouring.html)
 - [LinuxBoot](https://www.linuxboot.org/)
 - [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux/)
-- [Linux FAQ](https://github.com/for2ch/Linux-F.A.Q) `[GitHub]`
-- [Arch Installer](https://github.com/archlinux/archinstall) `[GitHub]`
-- [Linux networking examples and tutorials](https://github.com/knorrie/network-examples) `[GitHub]`
-- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) `[GitHub]`
-- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) `[GitHub]`
-- [LinuxKit](https://github.com/linuxkit/linuxkit) `[GitHub]`
-- [My Linux machine setup](https://github.com/brpaz/my-linux-setup) `[GitHub]`
-- [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) `[GitHub]`
+- [Linux FAQ](https://github.com/for2ch/Linux-F.A.Q)
+- [Arch Installer](https://github.com/archlinux/archinstall)
+- [Linux networking examples and tutorials](https://github.com/knorrie/network-examples) 
+- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+- [LinuxKit](https://github.com/linuxkit/linuxkit)
+- [My Linux machine setup](https://github.com/brpaz/my-linux-setup)
+- [Linux Command Line](https://github.com/learnbyexample/Linux_command_line)

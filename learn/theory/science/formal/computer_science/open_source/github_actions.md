@@ -34,32 +34,32 @@ TODO
 
 - [28 Days of GitHub Action Tips](https://dev.to/github/28-days-of-github-action-tips-4opg)
 - [GitHub Actions Cheat Sheet](https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.pdf)
-- [Docker Github Actions Runner](https://github.com/myoung34/docker-github-actions-runner) `[GitHub]`
-- [GitHub Actions Virtual Environments](https://github.com/actions/virtual-environments) `[GitHub]`
-- [act](https://github.com/nektos/act) - Run your GitHub Actions locally `[GitHub]`
-- [Apple Github Actions (iOS & macOS)](https://github.com/Apple-Actions) `[GitHub]`
-- [Google GitHub Actions](https://github.com/google-github-actions) `[GitHub]`
-- [GitHub Actions Toolkit](https://github.com/actions/toolkit) `[GitHub]`
-- [GitHub Actions Runner](https://github.com/actions/runner) `[GitHub]`
-- [Awesome Actions](https://github.com/sdras/awesome-actions) `[GitHub]`
+- [Docker Github Actions Runner](https://github.com/myoung34/docker-github-actions-runner)
+- [GitHub Actions Virtual Environments](https://github.com/actions/virtual-environments)
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally
+- [Apple Github Actions (iOS & macOS)](https://github.com/Apple-Actions)
+- [Google GitHub Actions](https://github.com/google-github-actions)
+- [GitHub Actions Toolkit](https://github.com/actions/toolkit)
+- [GitHub Actions Runner](https://github.com/actions/runner)
+- [Awesome Actions](https://github.com/sdras/awesome-actions)
 
 
 ## Actions
 
-- [Install NIX action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions `[GitHub]`
-- [build push action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx `[GitHub]`
-- [setup java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java `[GitHub]`
-- [setup kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action `[GitHub]`
-- [setup buildx action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx `[GitHub]`
-- [setup python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python `[GitHub]`
-- [setup poetry](https://github.com/Gr1N/setup-poetry) - Set up your GitHub Actions workflow with a specific version of Poetry `[GitHub]`
-- [PyPI publish GitHub Action](https://github.com/pypa/gh-action-pypi-publish) - GitHub Action, for publishing distribution files to PyPI `[GitHub]`
-- [github script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript `[GitHub]`
-- [create pull request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace `[GitHub]`
-- [image actions](https://github.com/calibreapp/image-actions) `[GitHub]`
-- [GitHub Pages Action](https://github.com/peaceiris/actions-gh-pages) `[GitHub]`
-- [GitHub Pages Deploy Action](https://github.com/JamesIves/github-pages-deploy-action) `[GitHub]`
-- [Checkout](https://github.com/actions/checkout) `[GitHub]`
-- [Publishes docker containers](https://github.com/elgohr/Publish-Docker-Github-Action) `[GitHub]`
-- [SSH for GitHub Actions](https://github.com/appleboy/ssh-action) `[GitHub]`
-- [Super Linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action `[GitHub]`
+- [Install NIX action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions
+- [build push action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
+- [setup java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
+- [setup kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
+- [setup buildx action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
+- [setup python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python
+- [setup poetry](https://github.com/Gr1N/setup-poetry) - Set up your GitHub Actions workflow with a specific version of Poetry
+- [PyPI publish GitHub Action](https://github.com/pypa/gh-action-pypi-publish) - GitHub Action, for publishing distribution files to PyPI
+- [github script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
+- [create pull request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
+- [image actions](https://github.com/calibreapp/image-actions)
+- [GitHub Pages Action](https://github.com/peaceiris/actions-gh-pages)
+- [GitHub Pages Deploy Action](https://github.com/JamesIves/github-pages-deploy-action)
+- [Checkout](https://github.com/actions/checkout)
+- [Publishes docker containers](https://github.com/elgohr/Publish-Docker-Github-Action)
+- [SSH for GitHub Actions](https://github.com/appleboy/ssh-action)
+- [Super Linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action

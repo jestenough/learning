@@ -58,7 +58,7 @@
 - [Programming fonts](https://www.programmingfonts.org/)
 - [Google fonts](https://fonts.google.com/)
 - [Fonts for Apple Platforms](https://developer.apple.com/fonts/)
-- [Operator Mono Ligatures](https://github.com/kiliman/operator-mono-lig) `[GitHub`]
-- [Web Font Loader](https://github.com/typekit/webfontloader) `[GitHub`]
-- [Awesome OSS Fonts](https://github.com/drwpow/awesome-oss-fonts) `[GitHub`]
-- [Awesome Typography](https://github.com/Jolg42/awesome-typography) `[GitHub`]
+- [Operator Mono Ligatures](https://github.com/kiliman/operator-mono-lig)
+- [Web Font Loader](https://github.com/typekit/webfontloader)
+- [Awesome OSS Fonts](https://github.com/drwpow/awesome-oss-fonts)
+- [Awesome Typography](https://github.com/Jolg42/awesome-typography)

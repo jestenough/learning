@@ -34,8 +34,8 @@ TODO
 - [Finviz](https://finviz.com/) - financial visualizations
 - [Bogleheads wiki](https://www.bogleheads.org/wiki/Main_Page)
 - [r/investing](https://www.reddit.com/r/investing/wiki/index)
-- [The Swedish Investor](https://www.youtube.com/c/TheSwedishInvestor/) `[YouTube]`
-- [MoneyWeek](https://www.youtube.com/user/MoneyWeekVideos/) - help our viewers become better investors `[YouTube]`
-- [Download market data from Yahoo! Finance's API](https://github.com/ranaroussi/yfinance) `[GitHub]`
-- [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking `[GitHub]`
-- [Awesome Investing](https://github.com/mr-karan/awesome-investing) `[GitHub]`
+- [The Swedish Investor](https://www.youtube.com/c/TheSwedishInvestor/)
+- [MoneyWeek](https://www.youtube.com/user/MoneyWeekVideos/) - help our viewers become better investors
+- [Download market data from Yahoo! Finance's API](https://github.com/ranaroussi/yfinance)
+- [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
+- [Awesome Investing](https://github.com/mr-karan/awesome-investing)

@@ -63,19 +63,19 @@ TODO
 - [Internet-introduction](http://www.cs.toronto.edu/~bor/199y09/internet-introduction.pdf)
 - [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book)
 - [Наука о Сетях](http://networksciencebook.com)
-- [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) `[0/36]`
-- Компьютерные сети (Таненбаум) `[0/947]`
-- Сети предприяти на основе Windows NT (М.Стерн, Г.Монти, В.Бэчманн) `[0/442]`
-- Введение в программирование. Том 3: системы и сети (Столяров А.)`[0/403]`
+- [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true)
+- Компьютерные сети (Таненбаум)
+- Сети предприяти на основе Windows NT (М.Стерн, Г.Монти, В.Бэчманн)
+- Введение в программирование. Том 3: системы и сети (Столяров А.)
 - [Unix Network Programming](https://www.goodreads.com/book/show/26850562-unix-network-programming)
 
 
 ## Courses
 
-- [Installing A Home Network Ep.100](https://youtu.be/zC_naXcfTIE) - (YouTube)
+- [Installing A Home Network Ep.100](https://youtu.be/zC_naXcfTIE)
 - [Transport Protocols: TCP and UDP](https://youtu.be/37AFBZv4_6Y)
-- [Networking tutorial](https://youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) - (YouTube)
-- [Видео уроки Cisco Packet Tracer. Курс молодого бойца](https://youtube.com/playlist?list=PLd0epXmveHePxXIZWgDA0npyIkMO3gpmp) - (YouTube)
+- [Networking tutorial](https://youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
+- [Видео уроки Cisco Packet Tracer. Курс молодого бойца](https://youtube.com/playlist?list=PLd0epXmveHePxXIZWgDA0npyIkMO3gpmp)
 - [Компьютерные сети, учебный курс.](https://youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)
 - [Практики по компьютерным сетям](https://youtube.com/playlist?list=PLtPJ9lKvJ4oiKPQ9GXOvntj44Eu8IGAJK)
 
@@ -92,12 +92,12 @@ TODO
 - [Curl Cookbook](https://catonmat.net/cookbooks/curl)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 - [Network Cheat Sheets](https://cheatography.com/tag/network/)
-- [Awesome Networking](https://github.com/clowwindy/Awesome-Networking) `[GitHub]`
-- [NetworkX](https://github.com/networkx/networkx) -  Network Analysis in Python `[GitHub]`
-- [Wi-Fi QR Code generator](https://github.com/reugn/wifiqr) `[GitHub]`
-- [Project V](https://github.com/v2fly/v2ray-core) -  A platform for building proxies to bypass network restrictions. `[GitHub]`
-- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) `[GitHub]`
-- [Awesome Networking](https://github.com/clowwindy/Awesome-Networking) `[GitHub]`
+- [Awesome Networking](https://github.com/clowwindy/Awesome-Networking)
+- [NetworkX](https://github.com/networkx/networkx) -  Network Analysis in Python
+- [Wi-Fi QR Code generator](https://github.com/reugn/wifiqr)
+- [Project V](https://github.com/v2fly/v2ray-core) -  A platform for building proxies to bypass network restrictions.
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Awesome Networking](https://github.com/clowwindy/Awesome-Networking)
 
 
 ## Standards

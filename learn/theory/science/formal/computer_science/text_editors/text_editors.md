@@ -32,10 +32,10 @@ TODO
 
 - [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
 - [Your powerful rich text editor](https://quilljs.com/)
-- [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. `[GitHub]`
-- [slate](https://github.com/ianstormtaylor/slate) -  A completely customizable framework for building rich text editors. (Currently in beta.) `[GitHub]`
-- [plate](https://github.com/udecode/plate) -  A plugin framework for building rich text editors with slate. `[GitHub]`
-- [milkdown](https://github.com/Saul-Mirone/milkdown) - Plugin driven WYSIWYG markdown editor framework. `[GitHub]`
-- [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors. `[GitHub]`
+- [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [slate](https://github.com/ianstormtaylor/slate) -  A completely customizable framework for building rich text editors. (Currently in beta.)
+- [plate](https://github.com/udecode/plate) -  A plugin framework for building rich text editors with slate.
+- [milkdown](https://github.com/Saul-Mirone/milkdown) - Plugin driven WYSIWYG markdown editor framework.
+- [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [awesome-online-ide](https://github.com/styfle/awesome-online-ide)
-- [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS `[GitHub]`
+- [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS

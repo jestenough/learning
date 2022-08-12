@@ -40,15 +40,15 @@ TODO
 - [Nginx Cheatsheet](https://vishnu.hashnode.dev/nginx-cheatsheet)
 - [NGINX Wiki](https://www.nginx.com/resources/wiki/)
 - [nginx playground](https://nginx-playground.wizardzines.com/) - Paste a Nginx config and play with it
-- [lua nginx module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers `[GitHub]`
-- [ngx dynamic upstream](https://github.com/cubicdaiya/ngx_dynamic_upstream) `[GitHub]`
-- [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT `[GitHub]`
-- [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features `[GitHub]`
-- [nginx proxy](https://github.com/nginx-proxy/nginx-proxy) `[GitHub]`
-- [NGINX Tuning For Best Performance](https://github.com/denji/nginx-tuning) `[GitHub]`
-- [docker nginx](https://github.com/nginxinc/docker-nginx) `[GitHub]`
-- [kubernetes ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and NGINX Plus Ingress Controllers for Kubernetes `[GitHub]`
-- [gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer `[GitHub]`
-- [nginx src](https://github.com/nginx/nginx) `[GitHub]`
-- [NGINX Config](https://github.com/digitalocean/nginxconfig.io) - NGINX config generator on steroids `[GitHub]`
-- [Awesome Nginx](https://github.com/agile6v/awesome-nginx) `[GitHub]`
+- [lua nginx module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
+- [ngx dynamic upstream](https://github.com/cubicdaiya/ngx_dynamic_upstream)
+- [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
+- [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
+- [nginx proxy](https://github.com/nginx-proxy/nginx-proxy)
+- [NGINX Tuning For Best Performance](https://github.com/denji/nginx-tuning)
+- [docker nginx](https://github.com/nginxinc/docker-nginx)
+- [kubernetes ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and NGINX Plus Ingress Controllers for Kubernetes
+- [gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
+- [nginx src](https://github.com/nginx/nginx)
+- [NGINX Config](https://github.com/digitalocean/nginxconfig.io) - NGINX config generator on steroids
+- [Awesome Nginx](https://github.com/agile6v/awesome-nginx)

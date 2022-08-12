@@ -27,5 +27,5 @@ TODO
 
 ## Links
 
-- [Dynamic Programming](https://github.com/nobodyme/dynamic-programming) `[GitHub]`
+- [Dynamic Programming](https://github.com/nobodyme/dynamic-programming)
 - [Learn X in Y minutes Where X=Dynamic Programming](https://learnxinyminutes.com/docs/dynamic-programming/)

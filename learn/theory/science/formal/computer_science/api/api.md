@@ -5,24 +5,24 @@ TODO
 
 ## APIs
 
-- [The Rick and Morty API](https://github.com/afuh/rick-and-morty-api) `[GitHub]`
-- [Bing Web Search API](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api) `[GitHub]`
-- [Azure REST API Specifications](https://github.com/Azure/azure-rest-api-specs) `[GitHub]`
-- [Medium’s API documentation](https://github.com/Medium/medium-api-docs) `[GitHub]`
-- [GitLab GO](https://github.com/xanzy/go-gitlab) `[GitHub]`
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) `[GitHub]`
-- [TikTok-Api](https://github.com/davidteather/TikTok-Api) `[GitHub]`
-- [Spotify Python](https://github.com/plamere/spotipy) `[GitHub]`
-- [AWS SDK for Rust](https://github.com/rusoto/rusoto) `[GitHub]`
-- [Google Cloud Python Client](https://github.com/googleapis/google-cloud-python) `[GitHub]`
-- [Notion Python](https://github.com/jamalex/notion-py) `[GitHub]`
-- [Twitter Python](https://github.com/ryanmcgrath/twython) `[GitHub]`
-- [Twitter GO CLI](https://github.com/mattn/twty) `[GitHub]`
-- [Dropbox SDK for Javascript](https://github.com/dropbox/dropbox-sdk-js) `[GitHub]`
-- [Dropbox CLI GO](https://github.com/dropbox/dbxcli) `[GitHub]`
-- [GitHub Python](https://github.com/PyGithub/PyGithub) `[GitHub]`
-- [GitHub REST API](https://docs.github.com/en/rest) `[GitHub]`
-- [Google Drive CLI Client](https://github.com/prasmussen/gdrive) `[GitHub]`
+- [The Rick and Morty API](https://github.com/afuh/rick-and-morty-api)
+- [Bing Web Search API](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api)
+- [Azure REST API Specifications](https://github.com/Azure/azure-rest-api-specs)
+- [Medium’s API documentation](https://github.com/Medium/medium-api-docs)
+- [GitLab GO](https://github.com/xanzy/go-gitlab)
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
+- [TikTok-Api](https://github.com/davidteather/TikTok-Api)
+- [Spotify Python](https://github.com/plamere/spotipy)
+- [AWS SDK for Rust](https://github.com/rusoto/rusoto)
+- [Google Cloud Python Client](https://github.com/googleapis/google-cloud-python)
+- [Notion Python](https://github.com/jamalex/notion-py)
+- [Twitter Python](https://github.com/ryanmcgrath/twython)
+- [Twitter GO CLI](https://github.com/mattn/twty)
+- [Dropbox SDK for Javascript](https://github.com/dropbox/dropbox-sdk-js)
+- [Dropbox CLI GO](https://github.com/dropbox/dbxcli)
+- [GitHub Python](https://github.com/PyGithub/PyGithub)
+- [GitHub REST API](https://docs.github.com/en/rest)
+- [Google Drive CLI Client](https://github.com/prasmussen/gdrive)
 
 
 ## Articles
@@ -85,15 +85,15 @@ TODO
 - [appwrite](https://appwrite.io/) - is a self-hosted solution that provides developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.
 - [M3O](https://m3o.com/) - public APIs
 - [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface. Here's what you should know before you start
-- [gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks `[GitHub]`
-- [apistar](https://github.com/encode/apistar) - The Web API toolkit `[GitHub]`
-- [schemathesis](https://github.com/schemathesis/schemathesis) - A modern API testing tool for web applications built with Open API and GraphQL specifications `[GitHub]`
-- [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet) `[GitHub]`
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API `[GitHub]`
-- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js `[GitHub]`
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem `[GitHub]`
-- [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway `[GitHub]`
-- [hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers `[GitHub]`
-- [roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for static datasets without writing a single line of code `[GitHub]`
-- [Unofficial APIs](https://github.com/Rolstenhouse/unofficial-apis) `[GitHub]`
-- [Public APIs](https://github.com/public-apis/public-apis) `[GitHub]`
+- [gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks
+- [apistar](https://github.com/encode/apistar) - The Web API toolkit
+- [schemathesis](https://github.com/schemathesis/schemathesis) - A modern API testing tool for web applications built with Open API and GraphQL specifications
+- [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem
+- [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+- [hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers
+- [roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for static datasets without writing a single line of code
+- [Unofficial APIs](https://github.com/Rolstenhouse/unofficial-apis)
+- [Public APIs](https://github.com/public-apis/public-apis)

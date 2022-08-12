@@ -35,9 +35,9 @@ TODO
 
 ## Books
 
-- Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.) `[0/325]`
-- Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)`[0/305]`
-- [Программирование на языке ассемблера NASM для ОС Unix, 2011 г.](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)`[0/190]`
+- Ассемблер – это просто. Учимся программировать, 2011 г. (Калашников О.)
+- Программирование на ассемблере на платформе x86-64, 2011 г. (Аблязов Р.)
+- [Программирование на языке ассемблера NASM для ОС Unix, 2011 г.](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
 - [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 - [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 
@@ -55,6 +55,6 @@ TODO
 
 - [Learn X in Y minutes Where X=MIPS Assembly](https://learnxinyminutes.com/docs/mips/)
 - [Learn X in Y minutes Where X=WebAssembly](https://learnxinyminutes.com/docs/wasm/)
-- [Learn Assembly by Writing Entirely Too Many Brainfuck Compilers](https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md) `[GitHub]`
-- [Zen of Assembly Language: Volume I, Knowledge](https://github.com/jagregory/abrash-zen-of-asm) `[GitHub]`
-- []() `[GitHub]`
+- [Learn Assembly by Writing Entirely Too Many Brainfuck Compilers](https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md)
+- [Zen of Assembly Language: Volume I, Knowledge](https://github.com/jagregory/abrash-zen-of-asm)
+- []()

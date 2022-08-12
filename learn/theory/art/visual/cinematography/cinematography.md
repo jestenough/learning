@@ -55,4 +55,4 @@
 - [DVDs release dates](https://www.dvdsreleasedates.com/)
 - [Sensor sizes](https://sensorsizes.com/) - Camera Sensor Size Comparison Tool.
 - [Web Resources for Cinematographers](https://sites.google.com/view/webresource/home)
-- [Wandering DP](https://www.youtube.com/c/wanderingdp) `[YouTube]`
+- [Wandering DP](https://www.youtube.com/c/wanderingdp)

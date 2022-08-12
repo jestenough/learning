@@ -10,5 +10,5 @@ TODO
 
 ## Links
 
-- [DVC (Data Version Control)](https://github.com/iterative/dvc) `[GitHub]`
-- [Gource](https://github.com/acaudwell/Gource) - software version control visualization `[GitHub]`
+- [DVC (Data Version Control)](https://github.com/iterative/dvc)
+- [Gource](https://github.com/acaudwell/Gource) - software version control visualization

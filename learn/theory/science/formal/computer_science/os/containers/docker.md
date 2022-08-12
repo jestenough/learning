@@ -52,12 +52,12 @@ TODO
 
 ## Courses / Videos
 
-- [Основы Docker. Большой практический выпуск](https://youtu.be/QF4ZF857m44) - (YouTube)
-- [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - (YouTube)
-- [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE) - (YouTube)
-- [Docker для Data Science](https://youtube.com/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m) - (YouTube)
-- [Intro to Docker [with Java Examples]](https://youtu.be/FzwIs2jMESM) - (YouTube)
-- [Introduction to Docker](https://youtu.be/Q5POuMHxW-0) - (YouTube)
+- [Основы Docker. Большой практический выпуск](https://youtu.be/QF4ZF857m44) 
+- [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
+- [Docker для Data Science](https://youtube.com/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m)
+- [Intro to Docker [with Java Examples]](https://youtu.be/FzwIs2jMESM)
+- [Introduction to Docker](https://youtu.be/Q5POuMHxW-0)
 - [Docker Tutorial Videos | DevOps Tool](https://youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5)
 - [Что такое docker за 200 секунд](https://youtu.be/HqhgsmThmwA)
 
@@ -73,9 +73,9 @@ TODO
 - [Bret's Udemy Courses: Get Some!](https://www.bretfisher.com/courses/)
 - [DevOps with Docker](https://devopswithdocker.com/)
 - [Docker Containers on the Desktop](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/)
-- [Lazydocker](https://github.com/jesseduffield/lazydocker) `[GitHub]`
-- [Awesome Compose](https://github.com/docker/awesome-compose) `[GitHub]`
-- [Docker Getting Started Tutorial](https://github.com/docker/getting-started) `[GitHub]`
-- [Dockerfile best practices Hexops logo](https://github.com/hexops/dockerfile) `[GitHub]`
-- [Please-Contain-Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) `[GitHub]`
-- [Docker Roadmap](https://github.com/docker/roadmap) `[GitHub]`
+- [Lazydocker](https://github.com/jesseduffield/lazydocker)
+- [Awesome Compose](https://github.com/docker/awesome-compose)
+- [Docker Getting Started Tutorial](https://github.com/docker/getting-started)
+- [Dockerfile best practices Hexops logo](https://github.com/hexops/dockerfile)
+- [Please-Contain-Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself)
+- [Docker Roadmap](https://github.com/docker/roadmap)

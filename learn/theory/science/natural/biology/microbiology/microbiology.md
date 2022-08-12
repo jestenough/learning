@@ -35,4 +35,4 @@ TODO
 - [COVID-19 Dashboards](https://covid19dashboards.com/)
 - [Covid Tracking](https://covidtracking.com/)
 - [Your Local Epidemiologist](https://yourlocalepidemiologist.substack.com)
-- [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) `[GitHub]`
+- [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)

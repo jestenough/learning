@@ -28,4 +28,4 @@ TODO
 ## Links
 
 - [The Mandelbrot Set](http://tilde.club/~david/m/#)
-- [Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map `[GitHub]`
+- [Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map

@@ -49,10 +49,10 @@ TODO
 - [317 Free Resources for Product Management](https://nira.com/templates/roadmap-templates/)
 - [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers)
 - [The Leadership Library for Engineers](https://leadership-library.dev/)
-- [Teamlead roadmap](https://github.com/tlbootcamp/tlroadmap) `[GitHub]`
-- [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) `[GitHub]`
-- [Awesome CTO](https://github.com/kuchin/awesome-cto) `[GitHub]`
-- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) `[GitHub]`
-- [Awesome Project Management](https://github.com/shahedbd/awesome-project-management) `[GitHub]`
-- [Awesome engineering management](https://github.com/ixaxaar/awesome-engineering-management) `[GitHub]`
-- [Awesome engineering team management](https://github.com/kdeldycke/awesome-engineering-team-management) `[GitHub]`
+- [Teamlead roadmap](https://github.com/tlbootcamp/tlroadmap)
+- [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)
+- [Awesome CTO](https://github.com/kuchin/awesome-cto)
+- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
+- [Awesome Project Management](https://github.com/shahedbd/awesome-project-management)
+- [Awesome engineering management](https://github.com/ixaxaar/awesome-engineering-management)
+- [Awesome engineering team management](https://github.com/kdeldycke/awesome-engineering-team-management)

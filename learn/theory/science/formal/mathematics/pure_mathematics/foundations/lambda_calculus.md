@@ -23,6 +23,6 @@ TODO
 ## Links
 
 - [Lambda Calculus and Lambda Calculators](https://okmij.org/ftp/Computation/lambda-calc.html)
-- [History of Lambda Calculus](https://github.com/prathyvsh/history-of-lambda-calculus) `[GitHub]`
-- [Lambda Calculus Visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations) `[GitHub]`
-- [pLam](https://github.com/slovnicki/pLam) - An interpreter for learning and exploring pure λ-calculus `[GitHub]`
+- [History of Lambda Calculus](https://github.com/prathyvsh/history-of-lambda-calculus)
+- [Lambda Calculus Visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations)
+- [pLam](https://github.com/slovnicki/pLam) - An interpreter for learning and exploring pure λ-calculus

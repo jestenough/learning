@@ -49,14 +49,14 @@ TODO
 - [MyST - Markedly Structured Tex](https://myst-parser.readthedocs.io/en/latest/)
 - [Make a README](https://www.makeareadme.com/)
 - [Dash](https://kapeli.com/dash)
-- [Zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash `[GitHub]`
-- [Just the Docs](https://github.com/pmarsceill/just-the-docs) `[GitHub]`
+- [Zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [Just the Docs](https://github.com/pmarsceill/just-the-docs)
 - [Documentation Guide](https://www.writethedocs.org/guide/index.html)
-- [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium) `[GitHub]`
-- [Docuowl](https://github.com/docuowl/docuowl) - A documentation generator `[GitHub]`
-- [Mkdocs material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works `[GitHub]`
-- [docz](https://github.com/doczjs/docz) `[GitHub]`
-- [MkDocs](https://github.com/mkdocs/mkdocs) `[GitHub]`
-- [Docusaurus](https://github.com/facebook/docusaurus) `[GitHub]`
-- [Beautiful Docs](https://github.com/PharkMillups/beautiful-docs) `[GitHub]`
-- [Go wiki (example)](https://github.com/golang/go/wiki) `[GitHub]`
+- [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
+- [Docuowl](https://github.com/docuowl/docuowl) - A documentation generator
+- [Mkdocs material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
+- [docz](https://github.com/doczjs/docz)
+- [MkDocs](https://github.com/mkdocs/mkdocs)
+- [Docusaurus](https://github.com/facebook/docusaurus)
+- [Beautiful Docs](https://github.com/PharkMillups/beautiful-docs)
+- [Go wiki (example)](https://github.com/golang/go/wiki)

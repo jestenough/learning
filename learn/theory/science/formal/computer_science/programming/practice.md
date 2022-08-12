@@ -5,8 +5,8 @@ TODO
 
 ## Books
 
-- [Программирование: теоремы и задачи](https://hal.archives-ouvertes.fr/hal-01480636/document)`[0/320]`
-- [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)`[0/142]`
+- [Программирование: теоремы и задачи](https://hal.archives-ouvertes.fr/hal-01480636/document)
+- [1000 задач по программированию](http://k504.khai.edu/attachments/article/762/Zadachnik_Abramyan.pdf)
 - [80 задач с IT-собеседований с разбором решений](https://cmsmagazine.ru/journal/items-80-problems-with-it-interviews/)
 - 1400 задач по программированию (Златопольский Д.)
 
@@ -26,8 +26,8 @@ TODO
 - [CodeWars](https://www.codewars.com/dashboard)
 - [Kattis Problem Archive](https://open.kattis.com/)
 - [Code golf](https://code.golf/)
-- [Python Interview Questions](https://github.com/learning-zone/python-interview-questions) `[GitHub]`
-- [Coding Problems](https://github.com/MTrajK/coding-problems) `[GitHub]`
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university) `[GitHub]`
-- [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges) `[GitHub]`
-- [RU Test assignments](https://github.com/Hexlet/ru-test-assignments) `[GitHub]`
+- [Python Interview Questions](https://github.com/learning-zone/python-interview-questions)
+- [Coding Problems](https://github.com/MTrajK/coding-problems)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges)
+- [RU Test assignments](https://github.com/Hexlet/ru-test-assignments)

@@ -40,5 +40,5 @@ TODO
 
 - [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/) - Firefox Add-ons linter
 - [Switch from Chrome to Firefox in just a few minutes](https://www.mozilla.org/en-US/firefox/switch/)
-- [Webextensions examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API `[GitHub]`
-- [Tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl `[GitHub]`
+- [Webextensions examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
+- [Tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl

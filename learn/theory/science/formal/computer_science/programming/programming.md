@@ -64,14 +64,14 @@ TODO
 ## Books
 
 - [A PRACTICAL THEORY OF PROGRAMMING (Eric C.R. Hehner)](http://www.cs.toronto.edu/~hehner/aPToP/)
-- Оформление программного кода. Методическое пособие (Столяров А.)`[0/118]`
+- Оформление программного кода. Методическое пособие (Столяров А.)
 - Программирование: введение в профессию (Столяров А.)
-  - Том 1: азы программирования (2016)`[0/467]`
-  - Том 2: низкоуровневое программирования (2016)`[0/499]`
-  - Том 4: парадигмы (2020)`[0/659]`
-- Код: тайный язык информатики (Чарльз Петцольд)`[0/448]`
-- Совершенный код (Стив МакКоннелл)`[0/914]`
-- Чистый код (Роберт Мартин)`[0/466]`
+  - Том 1: азы программирования (2016)
+  - Том 2: низкоуровневое программирования (2016)
+  - Том 4: парадигмы (2020)
+- Код: тайный язык информатики (Чарльз Петцольд)
+- Совершенный код (Стив МакКоннелл)
+- Чистый код (Роберт Мартин)
 - Refactoring: Improving the Design of Existing Code, Second Edition (Kent Beck, Martin Fowler)
 - [The Debugging Book (Andreas Zeller)](https://www.debuggingbook.org/)
 - The Missing README: A Guide for the New Software Engineer (Chris Riccomini, Dmitriy Ryaboy)
@@ -107,16 +107,16 @@ TODO
 - [OMG: Our Machinery Guidebook](https://ourmachinery.com/files/guidebook.md.html)
 - [Fundamentals of Optimal Code Style](https://optimal-codestyle.github.io/)
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
-- [Code Review Checklist](https://github.com/mgreiler/code-review-checklist) `[GitHub]`
-- [Programming Guidelines](https://github.com/guettli/programming-guidelines) `[GitHub]`
-- [You don't (may not) need loops](https://github.com/you-dont-need/You-Dont-Need-Loops) `[GitHub]`
-- [Awesome Code Review](https://github.com/joho/awesome-code-review) `[GitHub]`
-- [Awesome livecoding](https://github.com/toplap/awesome-livecoding) `[GitHub]`
-- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) `[GitHub]`
-- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) `[GitHub]`
-- [Best Practices Checklist](https://github.com/palash25/best-practices-checklist) `[GitHub]`
-- [Programming talks](https://github.com/hellerve/programming-talks) `[GitHub]`
-- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) `[GitHub]`
-- [Programming Principles](https://github.com/webpro/programming-principles) `[GitHub]`
-- [Словарь-индекс понятий со ссылками](https://github.com/HowProgrammingWorks/Dictionary) `[GitHub]`
-- [Professional programming](https://github.com/charlax/professional-programming) `[GitHub]`
+- [Code Review Checklist](https://github.com/mgreiler/code-review-checklist)
+- [Programming Guidelines](https://github.com/guettli/programming-guidelines)
+- [You don't (may not) need loops](https://github.com/you-dont-need/You-Dont-Need-Loops)
+- [Awesome Code Review](https://github.com/joho/awesome-code-review)
+- [Awesome livecoding](https://github.com/toplap/awesome-livecoding)
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+- [Best Practices Checklist](https://github.com/palash25/best-practices-checklist)
+- [Programming talks](https://github.com/hellerve/programming-talks)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [Programming Principles](https://github.com/webpro/programming-principles)
+- [Словарь-индекс понятий со ссылками](https://github.com/HowProgrammingWorks/Dictionary)
+- [Professional programming](https://github.com/charlax/professional-programming)

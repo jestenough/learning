@@ -30,23 +30,23 @@ TODO
 - [Zero: The Biography of a Dangerous Idea](https://www.goodreads.com/book/show/329336)
 - [Math books list](https://2ch.hk/un/res/810326.html)
 - 50 идей о которых нужно знать. Математика (Тони Крилли)
-- Удовольствие от x (Стивен Строгац)`[25/293]`
-- Красота в квадрате (Алекс Беллос)`[0/368]`
-- Что такое математика? (Р. Курант, Г.Роббинс)`[0/568]`
-- Любовь и математика. Сердце скрытой реальности`[0/352]`
-- Модельное мышление (Скотт Пейдж)`[0/528]`
-- Математические изюминки (Р.Хонсбергер)`[0/256]`
-- Математический калейдоскоп (Г.Штейнгауз)`[0/160]`
-- Обобщение чисел (Л.С. Понтрягин)`[0/224]`
+- Удовольствие от x (Стивен Строгац)
+- Красота в квадрате (Алекс Беллос)
+- Что такое математика? (Р. Курант, Г.Роббинс)
+- Любовь и математика. Сердце скрытой реальности
+- Модельное мышление (Скотт Пейдж)
+- Математические изюминки (Р.Хонсбергер)
+- Математический калейдоскоп (Г.Штейнгауз)
+- Обобщение чисел (Л.С. Понтрягин)
 
 
 ## Courses / Videos
 
 - [Mathematics (freecodecamp)](https://youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
 - [История математики](https://youtube.com/playlist?list=PLFTkMtYsMRIyj64_hzLoPAy64AtO7ztHo)
-- [100 уроков математики](https://youtube.com/playlist?list=PLqBfxn8OBMGrsA_YynaQWqHKhL7kEvL4X) - (YouTube)
-- [Вся математика за 20 уроков](https://youtube.com/playlist?list=PLp1o4TiOetLxxpi6Y8fB4_L5iOX_Ui5ss) - (YouTube)
-- [Математика для всех](https://youtube.com/playlist?list=PLlx2izuC9gjhc6TOzoeL-ovXXsvjJi22f) - (YouTube)
+- [100 уроков математики](https://youtube.com/playlist?list=PLqBfxn8OBMGrsA_YynaQWqHKhL7kEvL4X)
+- [Вся математика за 20 уроков](https://youtube.com/playlist?list=PLp1o4TiOetLxxpi6Y8fB4_L5iOX_Ui5ss)
+- [Математика для всех](https://youtube.com/playlist?list=PLlx2izuC9gjhc6TOzoeL-ovXXsvjJi22f) 
 - [Learn Mathematics from START to FINISH](https://youtu.be/pTnEG_WGd2Q)
 - [What does it feel like to invent math?](https://youtu.be/XFDM1ip5HdU)
 - [The map of mathematics](https://youtu.be/OmJ-4B-mS-Y)
@@ -83,9 +83,9 @@ TODO
 - [Approach Zero](https://approach0.xyz/search/) - Math-aware search engine
 - [Graph Toy](https://graphtoy.com/) - easy graphing of functions.
 - [Proofwiki](https://proofwiki.org/wiki/Main_Page) - online compendium of mathematical proofs!
-- [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics) `[YouTube]`
-- [Кафедра высшей математики МФТИ](https://www.youtube.com/channel/UC_ByV5irnAmCUZEGVZntFmQ) `[YouTube]`
-- [Eddie Woo](https://www.youtube.com/c/misterwootube/) `[YouTube]`
-- [Mathematics roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) `[GitHub]`
-- [Understanding Mathematics](https://github.com/nbro/understanding-math) `[GitHub]`
-- [Awesome Math](https://github.com/llSourcell/learn_math_fast) `[GitHub]`
+- [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
+- [Кафедра высшей математики МФТИ](https://www.youtube.com/channel/UC_ByV5irnAmCUZEGVZntFmQ)
+- [Eddie Woo](https://www.youtube.com/c/misterwootube/)
+- [Mathematics roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap)
+- [Understanding Mathematics](https://github.com/nbro/understanding-math)
+- [Awesome Math](https://github.com/llSourcell/learn_math_fast)

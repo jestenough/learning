@@ -49,5 +49,5 @@ TODO
 - [COMPUTER GRAPHICS (CMU 15-462/662)](http://15462.courses.cs.cmu.edu/fall2020/)
 - [NPMs: Neural Parametric Models](https://pablopalafox.github.io/npms/)
 - [Rastel scroll](https://rasterscroll.com/mdgraphics/)
-- [Graphics Programming Virtual Meetup Meeting Notes](https://github.com/Graphics-Programming-Virtual-Meetup/meeting-notes) `[GitHub]`
-- [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) `[GitHub]`
+- [Graphics Programming Virtual Meetup Meeting Notes](https://github.com/Graphics-Programming-Virtual-Meetup/meeting-notes)
+- [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) 

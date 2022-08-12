@@ -58,16 +58,16 @@ TODO
 - [Software architecture patterns](https://www.oreilly.com/content/software-architecture-patterns/)
 - [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
 - [Data Oriented Design Resources](https://github.com/dbartolini/data-oriented-design)
-- [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap) `[GitHub]`
-- [Backend development best practices](https://github.com/futurice/backend-best-practices) `[GitHub]`
+- [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap)
+- [Backend development best practices](https://github.com/futurice/backend-best-practices)
 - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
-- [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) `[GitHub]`
-- [Solution Architecture](https://github.com/unlight/solution-architecture) `[GitHub]`
-- [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) `[GitHub]`
-- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) `[GitHub]`
-- [Awesome system design](https://github.com/madd86/awesome-system-design) `[GitHub]`
-- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books) `[GitHub]`
-- [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns) `[GitHub]`
-- [Full-Stack JavaScript Architecture](https://github.com/atulmy/fullstack-javascript-architecture) `[GitHub]`
-- [How I write backends](https://github.com/fpereiro/backendlore) `[GitHub]`
-- [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) `[GitHub]`
+- [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+- [Solution Architecture](https://github.com/unlight/solution-architecture)
+- [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture)
+- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+- [Awesome system design](https://github.com/madd86/awesome-system-design)
+- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
+- [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns)
+- [Full-Stack JavaScript Architecture](https://github.com/atulmy/fullstack-javascript-architecture)
+- [How I write backends](https://github.com/fpereiro/backendlore)
+- [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)

@@ -27,4 +27,4 @@ TODO
 - [Workout prep](https://www.julian.com/guide/muscle/workout-supplements)
 - [Building muscle](https://www.julian.com/guide/muscle/intro)
 - [r/Fitness Basic Beginner Routine](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/)
-- [Ivan Rusakov](https://www.youtube.com/channel/UCvc-pPptgEGfrbzQTa1CaVg) `[YouTube]`
+- [Ivan Rusakov](https://www.youtube.com/channel/UCvc-pPptgEGfrbzQTa1CaVg)

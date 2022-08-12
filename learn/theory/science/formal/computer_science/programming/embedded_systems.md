@@ -40,12 +40,12 @@ TODO
 ## Links
 
 - [KiCad EDA](https://www.kicad.org/)
-- [PcbDraw](https://github.com/yaqwsx/PcbDraw) `[GitHub]`
-- [Embedded scripting languages](https://github.com/dbohdan/embedded-scripting-languages) `[GitHub]`
-- [EMBA](https://github.com/e-m-b-a/emba) - The security analyzer for embedded device firmware. `[GitHub]`
-- [fprime](https://github.com/nasa/fprime) - A flight software and embedded systems framework `[GitHub]`
-- [SwiftIO](https://github.com/madmachineio/SwiftIO) - A Swift framework for microcontrollers. `[GitHub]`
-- [Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter `[GitHub]`
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader `[GitHub]`
-- [RouterSploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices `[GitHub]`
-- [MicroPython](https://github.com/micropython/micropython) - a lean and efficient Python implementation for microcontrollers and constrained systems `[GitHub]`
+- [PcbDraw](https://github.com/yaqwsx/PcbDraw)
+- [Embedded scripting languages](https://github.com/dbohdan/embedded-scripting-languages)
+- [EMBA](https://github.com/e-m-b-a/emba) - The security analyzer for embedded device firmware.
+- [fprime](https://github.com/nasa/fprime) - A flight software and embedded systems framework
+- [SwiftIO](https://github.com/madmachineio/SwiftIO) - A Swift framework for microcontrollers.
+- [Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
+- [RouterSploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
+- [MicroPython](https://github.com/micropython/micropython) - a lean and efficient Python implementation for microcontrollers and constrained systems

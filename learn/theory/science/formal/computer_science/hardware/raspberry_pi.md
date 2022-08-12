@@ -72,13 +72,13 @@ TODO
 - [Raspberry Pi PCIe Devices](https://pipci.jeffgeerling.com/)
 - [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)
 - [Raspberry Pi OS](https://www.raspberrypi.com/software/)
-- [Raspberry Pi, Static HTTPS site with Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9) `[GitHub]`
-- [MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero `[GitHub]`
-- [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit) `[GitHub]`
-- [Raspberry Pi Atomic Nixie Clock](https://github.com/will127534/RaspberryPiAtomicNixieClock/wiki) `[GitHub]`
-- [Raspberry Pi 1U Server](https://github.com/pawl/raspberry-pi-1u-server) - A low power 1U Raspberry Pi cluster server for inexpensive colocation `[GitHub]`
-- [Internet Pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet `[GitHub]`
-- [TinyPilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM `[GitHub]`
-- [rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi `[GitHub]`
-- [Raspberry Pi Webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam `[GitHub]`
-- [Raspberry Pi on Internet via reverse SSH tunnel](https://gist.github.com/nileshtrivedi/4c615e8d3c1bf053b0d31176b9e69e42) `[GitHub]`
+- [Raspberry Pi, Static HTTPS site with Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
+- [MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
+- [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
+- [Raspberry Pi Atomic Nixie Clock](https://github.com/will127534/RaspberryPiAtomicNixieClock/wiki)
+- [Raspberry Pi 1U Server](https://github.com/pawl/raspberry-pi-1u-server) - A low power 1U Raspberry Pi cluster server for inexpensive colocation
+- [Internet Pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet
+- [TinyPilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM
+- [rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
+- [Raspberry Pi Webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
+- [Raspberry Pi on Internet via reverse SSH tunnel](https://gist.github.com/nileshtrivedi/4c615e8d3c1bf053b0d31176b9e69e42)

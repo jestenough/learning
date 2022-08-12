@@ -22,7 +22,7 @@
 - [Compare TV Show Ratings](https://phiresky.github.io/tv-show-ratings/)
 - [Next season of.com](https://next-season-of.com/)
 - [Global Top 10 (Netflix)](https://top10.netflix.com/tv.html)
-- [Lessons from the Screenplay](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw) `[YouTube]`
-- [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Show `[GitHub]`
-- [subify](https://github.com/matcornic/subify) - Download subtitles for your favorite TV shows and movies `[GitHub]`
-- [Awesome TV series](https://github.com/learn-anything/tv-series) `[GitHub]`
+- [Lessons from the Screenplay](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw)
+- [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Show
+- [subify](https://github.com/matcornic/subify) - Download subtitles for your favorite TV shows and movies
+- [Awesome TV series](https://github.com/learn-anything/tv-series)

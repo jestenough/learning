@@ -80,13 +80,13 @@
 - [ICP](https://www.icp.org/school)
 - [Flickr](https://www.flickr.org/)
 - [Ente](https://ente.io/) - Encrypted backups for your gallery
-- [Vitaly Rubtsov](https://www.youtube.com/channel/UCUHeg2C_KSLJ3IZmyOcsr2w) `[YouTube]`
-- [Jamie Windsor](https://www.youtube.com/jamiewindsor) `[YouTube]`
-- [Sean Tucker](https://www.youtube.com/user/seantuckermerge) `[YouTube]`
-- [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud `[GitHub]`
-- [LibrePhotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service `[GitHub]`
-- [PhotoPrism](https://github.com/photoprism/photoprism) `[GitHub]` - is an AI-powered app for browsing, organizing & sharing your photo collection
-- [Awesome OpenSource Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography) `[GitHub]`
+- [Vitaly Rubtsov](https://www.youtube.com/channel/UCUHeg2C_KSLJ3IZmyOcsr2w)
+- [Jamie Windsor](https://www.youtube.com/jamiewindsor)
+- [Sean Tucker](https://www.youtube.com/user/seantuckermerge)
+- [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
+- [LibrePhotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service
+- [PhotoPrism](https://github.com/photoprism/photoprism) - is an AI-powered app for browsing, organizing & sharing your photo collection
+- [Awesome OpenSource Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 
 
 ## Stock photos

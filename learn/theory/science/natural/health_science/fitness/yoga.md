@@ -18,4 +18,4 @@ TODO
 ## Links
 
 - [r/yoga](https://www.reddit.com/r/yoga/wiki/index)
-- [Yoga With Adriene](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA) `[YouTube]`
+- [Yoga With Adriene](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA)

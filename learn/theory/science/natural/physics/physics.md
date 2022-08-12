@@ -18,13 +18,13 @@ TODO
 
 ## Books
 
-- Вечность. В поисках окончательной теории времени`[0/512]`
-- Физика. 5-11 классы (Справочник школьника)`[0/124]`
+- Вечность. В поисках окончательной теории времени
+- Физика. 5-11 классы (Справочник школьника)
 
 
 ## Courses / Videos
 
-- [Начинаем изучать физику](https://youtube.com/playlist?list=PL1Us50cZo25ng_lR6WvoFtkqnphzNASUX) - (YouTube)
+- [Начинаем изучать физику](https://youtube.com/playlist?list=PL1Us50cZo25ng_lR6WvoFtkqnphzNASUX)
 - [Physics](https://youtube.com/playlist?list=PLF71B362214423F9D)
 - [Lectures on Geometrical Anatomy of Theoretical Physics](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 - [The map of physics](https://youtu.be/ZihywtixUYo)
@@ -54,6 +54,6 @@ TODO
 - [r/Physics_olympiad](https://www.reddit.com/r/Physics_olympiad/wiki/index)
 - [Theoretical Physics Reference](https://www.theoretical-physics.com/dev/index.html)
 - [Einstein Papers Project](https://www.einstein.caltech.edu/)
-- [ScienceClic English](https://www.youtube.com/c/ScienceClicEN/) `[YouTube]`
-- [Physics Explained](https://www.youtube.com/c/PhysicsExplainedVideos/) `[YouTube]`
-- [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky) `[YouTube]`
+- [ScienceClic English](https://www.youtube.com/c/ScienceClicEN/)
+- [Physics Explained](https://www.youtube.com/c/PhysicsExplainedVideos/)
+- [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky)

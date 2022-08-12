@@ -21,7 +21,7 @@ TODO
 
 ## Books
 
-- [Сверстай диплом красиво: LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf)`[101/101]`
+- [Сверстай диплом красиво: LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf)
 - [Набор и верстка в системе LaTeX (Львовский С. М.)](https://www.mccme.ru/free-books/llang/newllang.pdf)
 - [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
 
@@ -41,7 +41,7 @@ TODO
 - [LaTeX News](https://www.latex-project.org/news/)
 - [The LaTeX font catalogue](https://tug.org/FontCatalogue/)
 - [Overleaf](https://www.overleaf.com/)
-- [LaTeX Best Practices](https://github.com/simonharrer/latex-best-practices) `[GitHub]`
-- [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex. `[GitHub]`
-- [Image to LaTeX](https://github.com/kingyiusuen/image-to-latex) `[GitHub]`
+- [LaTeX Best Practices](https://github.com/simonharrer/latex-best-practices)
+- [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
+- [Image to LaTeX](https://github.com/kingyiusuen/image-to-latex)
 - [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)

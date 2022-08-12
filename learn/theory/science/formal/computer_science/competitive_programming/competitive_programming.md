@@ -13,7 +13,7 @@ TODO
 
 ## Books
 
-- Комбинаторные задачи: Олимпиады по программированию (Ю.В.Корженевич)`[0/116]`
+- Комбинаторные задачи: Олимпиады по программированию (Ю.В.Корженевич)
 - Principles of Algorithmic Problem Solving (Johan Sannemo)
 - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
@@ -23,8 +23,8 @@ TODO
 - [USA competitive programming](http://usaco.org/)
 - [CodeForces](https://codeforces.com/)
 - [AtCoder](https://atcoder.jp/)
-- [Awesome competitive programming](https://github.com/lnishan/awesome-competitive-programming) `[GitHub]`
-- [Competitive-Programming](https://github.com/manishbisht/Competitive-Programming) `[GitHub]`
-- [Programming Challenges](https://github.com/michelbernardods/programming-challenges) `[GitHub]`
-- [Competitive-programming](https://github.com/omonimus1/competitive-programming) `[GitHub]`
-- [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources) `[GitHub]`
+- [Awesome competitive programming](https://github.com/lnishan/awesome-competitive-programming)
+- [Competitive-Programming](https://github.com/manishbisht/Competitive-Programming)
+- [Programming Challenges](https://github.com/michelbernardods/programming-challenges)
+- [Competitive-programming](https://github.com/omonimus1/competitive-programming)
+- [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)

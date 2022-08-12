@@ -28,8 +28,8 @@ TODO
 - [My AWS toolbox – tools, plugins and applications](https://betterdev.blog/my-aws-toolbox/)
 - [AWS Poster](https://moca.computingarchitectures.com/en/~hello-world/)
 - [AWS CLI cheatsheet](https://devhints.io/awscli)
-- [AWS Samples](https://github.com/aws-samples) `[GitHub]`
-- [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) `[GitHub]`
-- [AWS Serverless Application Model](https://github.com/aws/serverless-application-model) `[GitHub]`
-- [CloudMapper](https://github.com/duo-labs/cloudmapper) `[GitHub]`
-- [A fully functional local AWS cloud stack](https://github.com/localstack/localstack) `[GitHub]`
+- [AWS Samples](https://github.com/aws-samples)
+- [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+- [AWS Serverless Application Model](https://github.com/aws/serverless-application-model)
+- [CloudMapper](https://github.com/duo-labs/cloudmapper)
+- [A fully functional local AWS cloud stack](https://github.com/localstack/localstack)

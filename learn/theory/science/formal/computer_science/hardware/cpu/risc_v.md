@@ -53,9 +53,9 @@ TODO
 ## Links
 
 - [RISC-V - Getting Started Guide](https://risc-v-getting-started-guide.readthedocs.io/en/latest/)
-- [opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface `[GitHub]`
-- [Building a RISC-V CPU Core](https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core) `[GitHub]`
-- [RVVM](https://github.com/lekkit/rvvm) - The RISC-V Virtual Machine `[GitHub]`
-- [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) `[GitHub]`
-- [RISC-V Assembly Programmer's Manual](https://github.com/riscv-non-isa/riscv-asm-manual/blob/master/riscv-asm.md) `[GitHub]`
-- [Awesome RISC-V](https://github.com/drom/awesome-riscv) `[GitHub]`
+- [opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
+- [Building a RISC-V CPU Core](https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core)
+- [RVVM](https://github.com/lekkit/rvvm) - The RISC-V Virtual Machine
+- [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual)
+- [RISC-V Assembly Programmer's Manual](https://github.com/riscv-non-isa/riscv-asm-manual/blob/master/riscv-asm.md)
+- [Awesome RISC-V](https://github.com/drom/awesome-riscv)

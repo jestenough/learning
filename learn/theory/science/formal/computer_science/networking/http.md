@@ -38,4 +38,4 @@ TODO
 ## Links
 
 - [Ddosify](https://ddosify.com/)
-- [HTTP Prompt](https://github.com/httpie/http-prompt) - interactive command-line HTTP client `[GitHub]`
+- [HTTP Prompt](https://github.com/httpie/http-prompt) - interactive command-line HTTP client

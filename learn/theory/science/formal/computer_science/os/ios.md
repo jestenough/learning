@@ -41,11 +41,11 @@ TODO
 - [Apple Developer Documentation](https://developer.apple.com/documentation/)
 - [Traf — iOS Icons](https://icons.tr.af/)
 - [Awesome iOS](https://github.com/vsouza/awesome-ios)
-- [iOS developer tools](https://github.com/LeoMobileDeveloper/ios-developer-tools) `[GitHub]`
-- [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps) `[GitHub]`
-- [iOS Hacking Resources](https://github.com/Siguza/ios-resources) `[GitHub]`
-- [Machine Learning for iOS](https://github.com/alexsosn/iOS_ML) `[GitHub]`
-- [Awesome iOS architecture](https://github.com/onmyway133/awesome-ios-architecture) `[GitHub]`
-- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) `[GitHub]`
-- [Awesome iOS UI](https://github.com/cjwirth/awesome-ios-ui) `[GitHub]`
-- [IOS learning materials Awesome](https://github.com/jVirus/ios-learning-materials) `[GitHub]`
+- [iOS developer tools](https://github.com/LeoMobileDeveloper/ios-developer-tools)
+- [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps)
+- [iOS Hacking Resources](https://github.com/Siguza/ios-resources)
+- [Machine Learning for iOS](https://github.com/alexsosn/iOS_ML)
+- [Awesome iOS architecture](https://github.com/onmyway133/awesome-ios-architecture)
+- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [Awesome iOS UI](https://github.com/cjwirth/awesome-ios-ui)
+- [IOS learning materials Awesome](https://github.com/jVirus/ios-learning-materials)

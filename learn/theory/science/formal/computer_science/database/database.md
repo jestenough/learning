@@ -37,14 +37,14 @@ TODO
 
 ## Courses
 
-- [Intro to Database Systems (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) - (YouTube)
-- [Advanced Database Systems (Spring 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) - (YouTube)
+- [Intro to Database Systems (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
+- [Advanced Database Systems (Spring 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
 - [Databases](https://www.coursera.org/learn/data-bases-intr) - (Coursera)
-- [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
-- [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
-- [Базы данных (R class)](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb) - (YouTube) `RU`
-- [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw) - (YouTube)
-- [Database Design Course - Learn how to design and plan a database for beginners](https://youtu.be/ztHopE5Wnpc) - (YouTube)
+- [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
+- [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about)
+- [Базы данных (R class)](https://youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb)
+- [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
+- [Database Design Course - Learn how to design and plan a database for beginners](https://youtu.be/ztHopE5Wnpc)
 - [Advanced Database Systems course by Andy Pavlo (2020)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
 
 
@@ -54,7 +54,7 @@ TODO
 - [dbdocs (Build a database documentation easily)](https://dbdocs.io/)
 - [DBML - Database Markup Language](https://www.dbml.org/home/)
 - [Database of Databases](https://dbdb.io/)
-- [CMU Database Group](https://www.youtube.com/c/CMUDatabaseGroup/featured) `[YouTube]`
-- [Introduction to Graph Databases](https://github.com/threatgrid/asami/wiki/2.-Introduction) `[GitHub]`
-- [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools) `[GitHub]`
-- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) `[GitHub]`
+- [CMU Database Group](https://www.youtube.com/c/CMUDatabaseGroup/featured)
+- [Introduction to Graph Databases](https://github.com/threatgrid/asami/wiki/2.-Introduction)
+- [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools)
+- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)

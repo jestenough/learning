@@ -15,9 +15,9 @@ TODO
 ## Books
 
 - [Vocabulary for Children](https://en.by1lib.org/booklist/337935/0d3d12)
-- Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)`[0/136]`
-- Полный курс английского языка - учебник-самоучитель (М.Г.Рубцова)`[0/276]`
-- Английский язык. Новый самоучитель (Ирина Орлова, А. Петрова)`[35/800]`
+- Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)
+- Полный курс английского языка - учебник-самоучитель (М.Г.Рубцова)
+- Английский язык. Новый самоучитель (Ирина Орлова, А. Петрова)
 - Английский язык. 5-11 классы (Справочник школьника)
 
 
@@ -110,12 +110,12 @@ TODO
 
 ## Vocabulary
 
-- [Parts of Speech and Vocab Rules](https://www.englishclub.com/vocabulary/parts-of-speech.htm) - (English club)
-- [Topic Vocabulary](https://www.englishclub.com/vocabulary/topic.htm) - (English club)
-- [Vocab Reference](https://www.englishclub.com/vocabulary/reference.htm) - (English club)
-- [Formation Active Vocabulary](http://www.english-globe.ru/index.php?option=com_content&task=category&sectionid=18&id=72&Itemid=88) - (English globe)
+- [Parts of Speech and Vocab Rules](https://www.englishclub.com/vocabulary/parts-of-speech.htm)
+- [Topic Vocabulary](https://www.englishclub.com/vocabulary/topic.htm)
+- [Vocab Reference](https://www.englishclub.com/vocabulary/reference.htm)
+- [Formation Active Vocabulary](http://www.english-globe.ru/index.php?option=com_content&task=category&sectionid=18&id=72&Itemid=88)
 - [First 1000 words](http://english03.ru/knigi/first1000words.html)
-- [Word of the Day](https://www.englishclub.com/vocabulary/word-of-the-day.htm) - (English club)
+- [Word of the Day](https://www.englishclub.com/vocabulary/word-of-the-day.htm)
 
 
 ## YouTube Channels

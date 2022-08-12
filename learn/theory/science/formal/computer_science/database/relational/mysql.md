@@ -5,7 +5,7 @@ TODO
 
 ## Courses
 
-- [Изучение MySQL для начинающих с нуля!](https://youtube.com/playlist?list=PLDyJYA6aTY1lPhlF2iHiLlkDW6bd39VmE) - (YouTube)
+- [Изучение MySQL для начинающих с нуля!](https://youtube.com/playlist?list=PLDyJYA6aTY1lPhlF2iHiLlkDW6bd39VmE)
 
 
 ## Books
@@ -20,5 +20,5 @@ TODO
 
 - [MySql docs (RU)](http://www.mysql.ru/docs/)
 - [MySQL cheatsheet](https://devhints.io/mysql)
-- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting `[GitHub]`
-- [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql) `[GitHub]`
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting
+- [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)

@@ -34,8 +34,8 @@ TODO
 ## Links
 
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
-- [CUSTOM GAME ENGINES: A Small Study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) `[GitHub]`
-- [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform rendering library `[GitHub]`
-- [Game Engines](https://github.com/collections/game-engines) `[GitHub]`
-- [GameDev Resources](https://github.com/Kavex/GameDev-Resources) `[GitHub]`
-- [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) `[GitHub]`
+- [CUSTOM GAME ENGINES: A Small Study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74)
+- [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform rendering library
+- [Game Engines](https://github.com/collections/game-engines)
+- [GameDev Resources](https://github.com/Kavex/GameDev-Resources)
+- [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev)

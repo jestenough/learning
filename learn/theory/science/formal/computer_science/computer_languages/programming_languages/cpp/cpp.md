@@ -56,21 +56,21 @@ TODO
 
 ## Books
 
-- C++ для инженерных и научных расчетов (Питер Готтшлинг)`[0/512]`
-- Введение в язык программирования С++ (Бьерн Страуструп)`[0/369]`
-- Введение в язык Си++ (Андрей Столяров)`[0/159]`
-- C++ notes for professionals`[0/708]`
-- [Веревка достаточной длины, чтобы выстрелить себе в ногу](http://e-maxx.ru/bookz/files/golub_cord.pdf)`[0/171]`
+- C++ для инженерных и научных расчетов (Питер Готтшлинг)
+- Введение в язык программирования С++ (Бьерн Страуструп)
+- Введение в язык Си++ (Андрей Столяров)
+- C++ notes for professionals
+- [Веревка достаточной длины, чтобы выстрелить себе в ногу](http://e-maxx.ru/bookz/files/golub_cord.pdf)
 - [Thriving in a Crowded and Changing World: C++ 2006–2020](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)
 - [Deep C (and C++)](https://pvv.ntnu.no/~oma/DeepC_slides_oct2011.pdf)
 
 
 ## Courses / Videos
 
-- [Школа 1514](https://youtube.com/playlist?list=PLRDzFCPr95fLMvdcV-hEl-42x8LIyjvHA) - (YouTube)
-- [Алгоритмы и структуры данных C++ (2020)](https://youtube.com/playlist?list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr) - (YouTube)
-- [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - (Udacity)
-- [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - (YouTube)
+- [Школа 1514](https://youtube.com/playlist?list=PLRDzFCPr95fLMvdcV-hEl-42x8LIyjvHA)
+- [Алгоритмы и структуры данных C++ (2020)](https://youtube.com/playlist?list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr)
+- [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
+- [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 - [C++Now 2019: Odin Holmes “Tacit DSL All the Things”](https://youtu.be/J0jwUEyrvQM)
 - [CppCon 2018: Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://youtu.be/2olsGf6JIkU)
 - [Some Things C++ Does Right - Patrice Roy - CppCon 2020](https://youtu.be/bMSrNBcir4Y)
@@ -92,24 +92,24 @@ TODO
 - [Official website of C++ language](https://isocpp.org)
 - [Learn X in Y minutes Where X=c++](https://learnxinyminutes.com/docs/c++/)
 - [Solve challenge (C++)](https://www.hackerrank.com/domains/cpp)
-- [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg) `[YouTube Channel]`
-- [corehard](https://www.youtube.com/c/corehard/featured) `[YouTube Channel]`
+- [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg) 
+- [corehard](https://www.youtube.com/c/corehard/featured)
 - [C++ reference](https://en.cppreference.com/w/)
 - [C/C++ Compiler Cheatsheet](http://www.dmulholl.com/notes/c-compiler-cheatsheet.html)
 - [CHERI C/C++ Programming Guide](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
 - [JetBrains Brings C++ Now to You](https://pages.jetbrains.com/cppnow2021)
-- [uftrace](https://github.com/namhyung/uftrace) -  Function graph tracer for C/C++/Rust `[GitHub]`
-- [The C++ Teaching Manifesto](https://github.com/jcelerier/cpp-teaching-manifesto) `[GitHub]`
-- [swig](https://github.com/swig/swig) - software development tool that connects programs `[GitHub]`
-- [C++ links](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources. `[GitHub]`
-- [Cling](https://github.com/root-project/cling) - The cling C++ interpreter `[GitHub]`
-- [Include What You Use](https://github.com/include-what-you-use/include-what-you-use) `[GitHub]`
-- [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp) `[GitHub]`
-- [Runtime Compiled C++ sample code](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) `[GitHub]`
-- [The comprehensive catalog of C++ books](https://github.com/yuchdev/CppBooks) `[GitHub]`
-- [C++ Roadmap](https://github.com/salmer/CppDeveloperRoadmap) `[GitHub]`
-- [Ружье достаточной огневой мощи, чтобы на нем повеситься](https://github.com/Nekrolm/ubbook) `[GitHub]`
-- [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) `[GitHub]`
-- [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree) `[GitHub]`
-- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) `[GitHub]`
-- [Awesome C++](https://github.com/fffaraz/awesome-cpp) `[GitHub]`
+- [uftrace](https://github.com/namhyung/uftrace) -  Function graph tracer for C/C++/Rust
+- [The C++ Teaching Manifesto](https://github.com/jcelerier/cpp-teaching-manifesto)
+- [swig](https://github.com/swig/swig) - software development tool that connects programs
+- [C++ links](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+- [Cling](https://github.com/root-project/cling) - The cling C++ interpreter
+- [Include What You Use](https://github.com/include-what-you-use/include-what-you-use)
+- [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+- [Runtime Compiled C++ sample code](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus)
+- [The comprehensive catalog of C++ books](https://github.com/yuchdev/CppBooks)
+- [C++ Roadmap](https://github.com/salmer/CppDeveloperRoadmap)
+- [Ружье достаточной огневой мощи, чтобы на нем повеситься](https://github.com/Nekrolm/ubbook)
+- [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
+- [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree)
+- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
+- [Awesome C++](https://github.com/fffaraz/awesome-cpp)

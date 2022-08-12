@@ -34,4 +34,4 @@ TODO
 - [GNU BRE/ERE cheatsheet](https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/)
 - [Regex cheatsheet](https://remram44.github.io/regex-cheatsheet/regex.html)
 - [Regexp cheatsheet](https://devhints.io/regexp)
-- [Learn regex](https://github.com/ziishaned/learn-regex) `[GitHub]`
+- [Learn regex](https://github.com/ziishaned/learn-regex)

@@ -33,16 +33,16 @@ TODO
 ## Links
 
 - [CMake](https://cmake.org/)
-- [blade-build](https://github.com/chen3feng/blade-build) `[GitHub]`
-- [xmake](https://github.com/xmake-io/xmake) `[GitHub]`
-- [gradle](https://github.com/gradle/gradle) `[GitHub]`
-- [Pants](https://github.com/pantsbuild/pants) `[GitHub]`
-- [Ekam](https://github.com/capnproto/ekam) `[GitHub]`
-- [ninja](https://github.com/ninja-build/ninja) `[GitHub]`
-- [buck](https://github.com/facebook/buck) `[GitHub]`
-- [Premake](https://github.com/premake/premake-core) - is a command line utility which reads a scripted definition of a software project, then uses it to perform build configuration tasks or generate project files for toolsets `[GitHub]`
-- [learning-cmake](https://github.com/Akagi201/learning-cmake) `[GitHub]`
-- [CMake scripts](https://github.com/StableCoder/cmake-scripts) `[GitHub]`
-- [CMake Examples](https://github.com/ttroy50/cmake-examples) `[GitHub]`
-- [Modern CMake projects](https://github.com/pr0g/cmake-examples) `[GitHub]`
-- [Awesome CMake](https://github.com/onqtam/awesome-cmake) `[GitHub]`
+- [blade-build](https://github.com/chen3feng/blade-build)
+- [xmake](https://github.com/xmake-io/xmake)
+- [gradle](https://github.com/gradle/gradle)
+- [Pants](https://github.com/pantsbuild/pants)
+- [Ekam](https://github.com/capnproto/ekam)
+- [ninja](https://github.com/ninja-build/ninja)
+- [buck](https://github.com/facebook/buck)
+- [Premake](https://github.com/premake/premake-core) - is a command line utility which reads a scripted definition of a software project, then uses it to perform build configuration tasks or generate project files for toolsets
+- [learning-cmake](https://github.com/Akagi201/learning-cmake)
+- [CMake scripts](https://github.com/StableCoder/cmake-scripts)
+- [CMake Examples](https://github.com/ttroy50/cmake-examples)
+- [Modern CMake projects](https://github.com/pr0g/cmake-examples)
+- [Awesome CMake](https://github.com/onqtam/awesome-cmake)

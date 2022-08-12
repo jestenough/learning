@@ -32,6 +32,6 @@ TODO
 
 - [SRI Hash Generator](https://www.srihash.org/)
 - [Hashmaps Benchmarks - Overview](https://martin.ankerl.com/2019/04/01/hashmap-benchmarks-01-overview/)
-- [Comparison with other hashers](https://github.com/tkaitchuck/aHash/blob/master/compare/readme.md) `[GitHub]`
-- [SHA-256 Animation](https://github.com/in3rsha/sha256-animation) `[GitHub]`
-- [xxHash](https://github.com/Cyan4973/xxHash) `[GitHub]`
+- [Comparison with other hashers](https://github.com/tkaitchuck/aHash/blob/master/compare/readme.md)
+- [SHA-256 Animation](https://github.com/in3rsha/sha256-animation)
+- [xxHash](https://github.com/Cyan4973/xxHash)

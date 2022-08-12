@@ -37,5 +37,5 @@ TODO
 - [Weather Spark](https://weatherspark.com/) - Climate reports with the weather by month, day, even hour. Great for event and trip planning!
 - [Extinctionclock](https://extinctionclock.org/) - the Internet's authoritative source for end of world climate and extinction predictions
 - [ClimateScape](https://climatescape.org/) - Discover the organizations solving climate change
-- [Planet earth](https://github.com/timothyclifford/planet-earth) - Personal list of interesting climate change & sustainability links `[GitHub]`
-- [Awesome Open Atmospheric, Ocean, and Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) `[GitHub]`
+- [Planet earth](https://github.com/timothyclifford/planet-earth) - Personal list of interesting climate change & sustainability links
+- [Awesome Open Atmospheric, Ocean, and Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)

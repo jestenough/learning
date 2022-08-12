@@ -31,17 +31,17 @@ TODO
 
 ## Courses / Videos
 
-- [Stephen Bourne: Early days of Unix and design of sh](https://youtu.be/2kEJoWfobpA) - (YouTube)
-- [Features of a Modern Terminal Emulator](https://youtu.be/9DgQqDnYNyQ) - (YouTube)
+- [Stephen Bourne: Early days of Unix and design of sh](https://youtu.be/2kEJoWfobpA)
+- [Features of a Modern Terminal Emulator](https://youtu.be/9DgQqDnYNyQ)
 
 
 ## Links
 
 - [Fish shell cheatsheet](https://devhints.io/fish-shell)
 - [GNU AWK](https://learnbyexample.github.io/learn_gnuawk/preface.html)
-- [autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. `[GitHub]`
-- [Terminals Are Sexy](https://terminalsare.sexy/) `[GitHub]`
-- [Kitty](https://github.com/kovidgoyal/kitty) `[GitHub]`
-- [Alacritty](https://github.com/alacritty/alacritty) `[GitHub]`
-- [svg-term-cli](https://github.com/marionebl/svg-term-cli) `[GitHub]`
-- [nushell](https://github.com/nushell/nushell) `[GitHub]`
+- [autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [Terminals Are Sexy](https://terminalsare.sexy/)
+- [Kitty](https://github.com/kovidgoyal/kitty)
+- [Alacritty](https://github.com/alacritty/alacritty)
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli)
+- [nushell](https://github.com/nushell/nushell)

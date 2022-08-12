@@ -29,6 +29,6 @@ TODO
 ## Links
 
 - [REST API Generator](https://retool.com/api-generator/)
-- [AutoRest](https://github.com/Azure/autorest) `[GitHub]`
-- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md) `[GitHub]`
-- [Awesome REST](https://github.com/marmelab/awesome-rest) `[GitHub]`
+- [AutoRest](https://github.com/Azure/autorest)
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+- [Awesome REST](https://github.com/marmelab/awesome-rest)

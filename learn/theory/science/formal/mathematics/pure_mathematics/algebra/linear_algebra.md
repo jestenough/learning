@@ -33,4 +33,4 @@ TODO
 - [Skill in ALGEBRA](https://www.themathpage.com/Alg/algebra.htm)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 - [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
-- [No bullshit guide to linear algebra notebooks](https://github.com/minireference/noBSLAnotebooks) `[GitHub]`
+- [No bullshit guide to linear algebra notebooks](https://github.com/minireference/noBSLAnotebooks)

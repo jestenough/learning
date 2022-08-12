@@ -11,7 +11,7 @@ TODO
 ## Courses
 
 - [MongoDB University](https://university.mongodb.com)
-- [MongoDB Crash Course](https://youtu.be/ofme2o29ngU) - (YouTube)
+- [MongoDB Crash Course](https://youtu.be/ofme2o29ngU)
 
 
 ## Books
@@ -23,6 +23,6 @@ TODO
 
 ## Links
 
-- [Awesome MongoDB Awesome](https://github.com/ramnes/awesome-mongodb) `[GitHub]`
-- [MongoDB Specifications](https://github.com/mongodb/specifications) `[GitHub]`
-- [MongoDB for VS Code PREVIEW](https://github.com/mongodb-js/vscode) `[GitHub]`
+- [Awesome MongoDB Awesome](https://github.com/ramnes/awesome-mongodb)
+- [MongoDB Specifications](https://github.com/mongodb/specifications)
+- [MongoDB for VS Code PREVIEW](https://github.com/mongodb-js/vscode)

@@ -12,9 +12,9 @@ TODO
 
 ## Links
 
-- [transmission-telegram](https://github.com/pyed/transmission-telegram) `[GitHub]`
-- [create-torrent](https://github.com/webtorrent/create-torrent) `[GitHub]`
-- [trackerslist](https://github.com/ngosang/trackerslist) `[GitHub]` - Updated list of public BitTorrent trackers
+- [transmission-telegram](https://github.com/pyed/transmission-telegram)
+- [create-torrent](https://github.com/webtorrent/create-torrent)
+- [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
 
 ## Torrent sites

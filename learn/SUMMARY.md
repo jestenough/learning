@@ -250,6 +250,7 @@
 
 - [Human geography](theory/science/social/anthropogeography/anthropogeography.md)
     - [Cultural geography](theory/science/social/anthropogeography/cultural_geography/cultural_geography.md)
+    - [Political geography](theory/science/social/anthropogeography/political_geography/political_geography.md)
 - [Anthropology](theory/science/social/anthropology/anthropology.md)
 - [Business studies](theory/science/social/business_studies/business_studies.md)
     * [Finance](theory/science/social/business_studies/finance.md)

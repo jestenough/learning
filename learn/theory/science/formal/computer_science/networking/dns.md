@@ -31,8 +31,8 @@ TODO
 
 ## Courses
 
-- [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo) - (YouTube)
-- [DNS Explained in 100 Seconds](https://youtu.be/UVR9lhUGAyU) - (YouTube)
+- [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
+- [DNS Explained in 100 Seconds](https://youtu.be/UVR9lhUGAyU)
 
 
 ## Links
@@ -44,5 +44,5 @@ TODO
 - [DNSTools](https://dnstools.ws/)
 - [DNSLink Standard](https://dnslink.io/)
 - [DNS questions](https://questions.wizardzines.com/dns.html)
-- [DOG (command-line DNS client](https://github.com/ogham/dog) `[GitHub`]
-- [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide) `[GitHub]`
+- [DOG (command-line DNS client](https://github.com/ogham/dog)
+- [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide)

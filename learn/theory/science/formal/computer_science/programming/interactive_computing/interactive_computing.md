@@ -36,5 +36,5 @@ TODO
 - [ColabCode](https://github.com/abhishekkrthakur/colabcode)
 - [Colab SSH](https://github.com/WassimBenzarti/colab-ssh)
 - [Paper Programs](https://paperprograms.org/)
-- [Mathics](https://github.com/mathics/Mathics) `[GitHub]`
-- [Jupyter Interactive Notebook](https://github.com/jupyter/notebook) `[GitHub]`
+- [Mathics](https://github.com/mathics/Mathics)
+- [Jupyter Interactive Notebook](https://github.com/jupyter/notebook)

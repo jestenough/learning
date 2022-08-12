@@ -34,5 +34,5 @@ TODO
 - [Sensu](https://sensu.io/) - Observability Pipeline that delivers monitoring as code on any cloud
 - [Opstrace](https://opstrace.com/) - Secure Observability Deployed in your Network
 - [DevOps observability tutorials](https://www.atlassian.com/devops/observability-tutorials)
-- [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md) `[GitHub]`
-- [Awesome Observability](https://github.com/adriannovegil/awesome-observability) `[GitHub]`
+- [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
+- [Awesome Observability](https://github.com/adriannovegil/awesome-observability)

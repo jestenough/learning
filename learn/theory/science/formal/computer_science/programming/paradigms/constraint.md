@@ -18,5 +18,5 @@ TODO
 ## Links
 
 - [Constraint programming](https://wiki2.org/en/Constraint_programming)
-- [kiwi](https://github.com/nucleic/kiwi) `[GitHub]`
-- [cpmpy](https://github.com/CPMpy/cpmpy) `[GitHub]`
+- [kiwi](https://github.com/nucleic/kiwi)
+- [cpmpy](https://github.com/CPMpy/cpmpy)

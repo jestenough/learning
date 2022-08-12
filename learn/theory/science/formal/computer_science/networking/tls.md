@@ -30,13 +30,13 @@ TODO
 - [OpenSSL](https://www.openssl.org/)
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [TLS has exactly one performance problem: it is not used widely enough](https://istlsfastyet.com/)
-- [tlsfuzzer](https://github.com/tlsfuzzer/tlsfuzzer) - SSL and TLS protocol test suite and fuzzer `[GitHub]`
-- [SSLsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception `[GitHub]`
-- [BoringSSL](https://github.com/google/boringssl) - Mirror of BoringSSL `[GitHub]`
-- [TLS Poison](https://github.com/jmdx/TLS-poison) - A tool that allows for generic SSRF via TLS, as well as CSRF via image tags in most browsers `[GitHub]`
-- [TLS-Attacker](https://github.com/tls-attacker/TLS-Attacker) - Java-based framework for analyzing TLS libraries `[GitHub]`
-- [s2n](https://github.com/aws/s2n-tls) - an implementation of the TLS/SSL protocols `[GitHub]`
-- [SSL Kill Switch 2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation `[GitHub]`
-- [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library `[GitHub]`
-- [Awesome TLS security](https://github.com/edelahozuah/awesome-tls-security) `[GitHub]`
-- [Awesome SSL/TLS Hacks](https://github.com/lennysec/awesome-tls-hacks) `[GitHub]`
+- [tlsfuzzer](https://github.com/tlsfuzzer/tlsfuzzer) - SSL and TLS protocol test suite and fuzzer
+- [SSLsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception
+- [BoringSSL](https://github.com/google/boringssl) - Mirror of BoringSSL
+- [TLS Poison](https://github.com/jmdx/TLS-poison) - A tool that allows for generic SSRF via TLS, as well as CSRF via image tags in most browsers
+- [TLS-Attacker](https://github.com/tls-attacker/TLS-Attacker) - Java-based framework for analyzing TLS libraries
+- [s2n](https://github.com/aws/s2n-tls) - an implementation of the TLS/SSL protocols
+- [SSL Kill Switch 2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation
+- [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library
+- [Awesome TLS security](https://github.com/edelahozuah/awesome-tls-security)
+- [Awesome SSL/TLS Hacks](https://github.com/lennysec/awesome-tls-hacks)

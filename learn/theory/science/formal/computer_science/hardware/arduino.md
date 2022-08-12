@@ -33,12 +33,12 @@ TODO
 
 - [Learn programming your Arduino](https://arduino-tutorials.net/)
 - [Arduino language Reference](https://www.arduino.cc/reference/en/)
-- [Заметки Ардуинщика](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA) `[YouTube]`
-- [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - A small Arduino library for GSM modules, that just works `[GitHub]`
-- [LED_CUBE](https://github.com/itsharryle/LED_CUBE) - 8x8x8 LED cube powered by an arduino `[GitHub]`
-- [arduino ESP32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 `[GitHub]`
-- [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) - MIDI for Arduino `[GitHub]`
-- [DarkArduinoTheme](https://github.com/jeffThompson/DarkArduinoTheme) - A dark theme for the Arduino IDE – no longer maintained `[GitHub]`
-- [Arduino CLI](https://github.com/arduino/arduino-cli) `[GitHub]`
-- [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino `[GitHub]`
-- [Arduino](https://github.com/arduino/Arduino) - open-source electronics platform `[GitHub]`
+- [Заметки Ардуинщика](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA)
+- [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - A small Arduino library for GSM modules, that just works
+- [LED_CUBE](https://github.com/itsharryle/LED_CUBE) - 8x8x8 LED cube powered by an arduino
+- [arduino ESP32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
+- [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) - MIDI for Arduino
+- [DarkArduinoTheme](https://github.com/jeffThompson/DarkArduinoTheme) - A dark theme for the Arduino IDE – no longer maintained
+- [Arduino CLI](https://github.com/arduino/arduino-cli)
+- [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
+- [Arduino](https://github.com/arduino/Arduino) - open-source electronics platform

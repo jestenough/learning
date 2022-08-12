@@ -79,7 +79,7 @@ TODO
 - [Is my host fast yet?](https://ismyhostfastyet.com/)
 - [The 250kb Club](https://250kb.club/)
 - [1MB Club](https://1mb.club/) - Collection of performance-focused web pages found across the internet
-- [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance `[GitHub]`
-- [Statping - Status Page & Monitoring Server](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment `[GitHub]`
-- [Awesome performance testing collection](https://github.com/andriisoldatenko/awesome-performance-testing) `[GitHub]`
-- [Awesome web performance list](https://github.com/geldmacher/awesome-performance) `[GitHub]`
+- [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance
+- [Statping - Status Page & Monitoring Server](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment
+- [Awesome performance testing collection](https://github.com/andriisoldatenko/awesome-performance-testing) 
+- [Awesome web performance list](https://github.com/geldmacher/awesome-performance)

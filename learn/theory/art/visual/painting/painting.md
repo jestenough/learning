@@ -25,8 +25,7 @@
 
 ## Books
 
-- Manifeste du surréalisme (André Breton) `FR`
-    - Манифест сюрреализма `RU`
+- Manifeste du surréalisme (André Breton)
 - Рафаэль. Жизнь и творчество в 500 картинах
 - Мировая живопись
 - Живопись и каллиграфия Китая (Вень У)
@@ -56,5 +55,5 @@
 - [Harvard Art museums](https://harvardartmuseums.org/)
 - [Deviant Art](https://www.deviantart.com/) - find images in the public domain from some of the museums in the world.
 - [Aesthetics_Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki)
-- [Альбом](https://vk.com/sea_like_me) `[VK]`
-- [История одного шедевра](https://vk.com/art_and_stories) `[VK]`
+- [Альбом](https://vk.com/sea_like_me)
+- [История одного шедевра](https://vk.com/art_and_stories)

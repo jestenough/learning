@@ -12,4 +12,4 @@
 ## Links
 
 - [r/bioinformatics](https://www.reddit.com/r/bioinformatics/)
-- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) `[GitHub]`
+- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)

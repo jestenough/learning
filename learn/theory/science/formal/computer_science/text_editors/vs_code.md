@@ -18,17 +18,17 @@ TODO
 
 ## Courses / Videos
 
-- [hacking VSCode - fun side projects that boost productivity](https://youtu.be/XY9MaaR1dRI) - (YouTube)
-- [VSCode Keyboard Shortcuts For Productivity](https://youtu.be/Xa5EU-qAv-I) - (YouTube)
+- [hacking VSCode - fun side projects that boost productivity](https://youtu.be/XY9MaaR1dRI)
+- [VSCode Keyboard Shortcuts For Productivity](https://youtu.be/Xa5EU-qAv-I)
 - [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 
 
 ## Links
 
-- [VSCode wiki](https://github.com/Microsoft/vscode/wiki) `[GitHub]`
-- [sshcode](https://github.com/cdr/sshcode) `[GitHub]`
-- [code-server](https://github.com/cdr/code-server) `[GitHub]`
-- [live-share](https://github.com/MicrosoftDocs/live-share) `[GitHub]`
-- [snippet-generator](https://github.com/pawelgrzybek/snippet-generator) `[GitHub]`
-- [OpenVSCode Server](https://github.com/gitpod-io/openvscode-server) `[GitHub]`
-- [Code 2020](https://www.youtube.com/channel/UCyYh-eAr74avLwOyPa1dDNg/videos) `[YouTube]`
+- [VSCode wiki](https://github.com/Microsoft/vscode/wiki)
+- [sshcode](https://github.com/cdr/sshcode)
+- [code-server](https://github.com/cdr/code-server)
+- [live-share](https://github.com/MicrosoftDocs/live-share)
+- [snippet-generator](https://github.com/pawelgrzybek/snippet-generator)
+- [OpenVSCode Server](https://github.com/gitpod-io/openvscode-server)
+- [Code 2020](https://www.youtube.com/channel/UCyYh-eAr74avLwOyPa1dDNg/videos)

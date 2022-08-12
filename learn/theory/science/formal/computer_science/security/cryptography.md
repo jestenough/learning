@@ -48,18 +48,18 @@ TODO
 
 ## Courses / Videos
 
-- [FROST: Flexible Round-Optimized Schnorr Threshold Signatures - Chelsea Komlo](https://youtu.be/ReN0kMzDFro) - (YouTube)
-- [Cryptography](https://www.coursera.org/learn/crypto) - (Coursera)
+- [FROST: Flexible Round-Optimized Schnorr Threshold Signatures - Chelsea Komlo](https://youtu.be/ReN0kMzDFro)
+- [Cryptography](https://www.coursera.org/learn/crypto)
 - [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)
-- [Webinar: Latest Developments in Cryptography](https://youtu.be/eQdkZRLD09M) - (YouTube)
-- [How Quantum Computers Break Encryption | Shor's Algorithm Explained](https://youtu.be/lvTqbM5Dq4Q) - (YouTube)
+- [Webinar: Latest Developments in Cryptography](https://youtu.be/eQdkZRLD09M)
+- [How Quantum Computers Break Encryption | Shor's Algorithm Explained](https://youtu.be/lvTqbM5Dq4Q)
 
 
 ## Links
 
-- [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - (YouTube)
+- [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 - [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
-- [Awesome Homomorphic Encryption](https://github.com/jonaschn/awesome-he) `[GitHub]`
-- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) `[GitHub]`
-- [Cryptocoding](https://github.com/veorq/cryptocoding) `[GitHub]`
-- [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources) `[GitHub]`
+- [Awesome Homomorphic Encryption](https://github.com/jonaschn/awesome-he)
+- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
+- [Cryptocoding](https://github.com/veorq/cryptocoding)
+- [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources)

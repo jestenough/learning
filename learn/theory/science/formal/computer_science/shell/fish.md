@@ -19,7 +19,7 @@ TODO
 ## Links
 
 - [fish shell](https://fishshell.com/)
-- [fish-shell](https://github.com/fish-shell/fish-shell) `[GitHub]`
-- [tide](https://github.com/IlanCosman/tide) `[GitHub]`
-- [VSCode Fish](https://github.com/bmalehorn/vscode-fish) `[GitHub]`
-- [awsm.fish](https://github.com/jorgebucaran/awsm.fish) `[GitHub]`
+- [fish-shell](https://github.com/fish-shell/fish-shell) 
+- [tide](https://github.com/IlanCosman/tide)
+- [VSCode Fish](https://github.com/bmalehorn/vscode-fish)
+- [awsm.fish](https://github.com/jorgebucaran/awsm.fish)

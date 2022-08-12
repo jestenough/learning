@@ -20,5 +20,5 @@ TODO
 - [Словарь синонимов русского языка](https://text.ru/synonym)
 - [Business Russian Podcasts](https://international.ucla.edu/cwl/news/businessrussian)
 - [Russian Literature Podcasts](https://international.ucla.edu/cwl/news/russianliterature)
-- [Russian grammar](https://www.youtube.com/user/russiangrammar/videos) `[YouTube]`
-- [One Minute Russian](https://youtube.com/playlist?list=PLwX3o6xqc_JgRlgXGOMhHUaOO10tpGOgx) `[YouTube]`
+- [Russian grammar](https://www.youtube.com/user/russiangrammar/videos)
+- [One Minute Russian](https://youtube.com/playlist?list=PLwX3o6xqc_JgRlgXGOMhHUaOO10tpGOgx) 

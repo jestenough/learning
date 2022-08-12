@@ -34,5 +34,5 @@ TODO
 - [Statistical Thinking for the 21st Century](https://statsthinking21.org/)
 - [Learning Statistics with R](https://learningstatisticswithr.com/)
 - [Understanding Statistical Power and Significance Testing (an interactive visualization)](https://rpsychologist.com/d3/nhst/)
-- [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) `[GitHub]`
-- [Awesome Bayesian Statistics](https://github.com/aayushmalik/awesome-bayesian-statistics) `[GitHub]`
+- [ThinkStats2](https://github.com/AllenDowney/ThinkStats2)
+- [Awesome Bayesian Statistics](https://github.com/aayushmalik/awesome-bayesian-statistics)

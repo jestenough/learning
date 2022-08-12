@@ -55,12 +55,12 @@
 - [Exegesis](https://www.exegesis.io/) - is a writing app for capturing and sharing disorganized, non-linear, creative thinking
 - [Category:Writers by nationality](https://en.wikipedia.org/wiki/Category:Writers_by_nationality)
 - [Writers timeline](https://www.timelineindex.com/content/select.php/581/1023,581)
-- [Talks about writing](https://www.youtube.com/c/ShaelinWrites) `[YouTube]`
-- [mdx](https://github.com/realworldocaml/mdx) `[GitHub]`
-- [Prose for Programmers (WIP)](https://github.com/joshuacc/prose-for-programmers) `[GitHub]`
-- [The Pocket Technical Writing List](https://github.com/rubymorillo/pocket-tech-writing-list) `[GitHub]`
-- [English Style Guide](https://github.com/raywenderlich/english-style-guide) `[GitHub]`
-- [Awesome Book Authoring](https://github.com/TalAter/awesome-book-authoring) `[GitHub]`
-- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) `[GitHub]`
-- [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) `[GitHub]`
-- [Awesome writing](https://github.com/jenniferlynparsons/awesome-writing) `[GitHub]`
+- [Talks about writing](https://www.youtube.com/c/ShaelinWrites)
+- [mdx](https://github.com/realworldocaml/mdx)
+- [Prose for Programmers (WIP)](https://github.com/joshuacc/prose-for-programmers)
+- [The Pocket Technical Writing List](https://github.com/rubymorillo/pocket-tech-writing-list)
+- [English Style Guide](https://github.com/raywenderlich/english-style-guide)
+- [Awesome Book Authoring](https://github.com/TalAter/awesome-book-authoring)
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)
+- [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
+- [Awesome writing](https://github.com/jenniferlynparsons/awesome-writing)

@@ -80,7 +80,7 @@ TODO
 
 ## Books
 
-- Как устроен python. Гид для разработчиков, программистов и интересующихся. (Харрисон М.) (2019)
+- Как устроен python. Гид для разработчиков, программистов и интересующихся. (Харрисон М.)
 - Программирование на Python, том 1, 4-е издание. Марк Лутц
 - Чистый питон`[0/288]`
 - Программируем на Python (Майкл Доусон)
@@ -93,10 +93,10 @@ TODO
 
 ## Courses / Videos
 
-- [Object-Oriented Programming in Python](https://learn.datacamp.com/courses/object-oriented-programming-in-python) - (DataCamp)
-- [Python for Everybody Specialization ](https://www.coursera.org/specializations/python) - (Coursera)
-- [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY) - (YouTube)
-- [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe) - (YouTube)
+- [Object-Oriented Programming in Python](https://learn.datacamp.com/courses/object-oriented-programming-in-python)
+- [Python for Everybody Specialization ](https://www.coursera.org/specializations/python)
+- [Практика программирования на Python 3 - 2019](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)
+- [Практика программирования на Python 3 - 2020](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe)
 - [SciPy 2021 Tutorials](https://youtube.com/playlist?list=PLYx7XA2nY5Geb1XY6mZU-35lgIfkDqaem)
 - [Школа бэкенд-разработки 2019](https://youtube.com/playlist?list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s)
 - [Łukasz Langa / Designing With Immutability [eng]](https://youtu.be/0RInKZR8Weo)
@@ -130,34 +130,34 @@ TODO
 - [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy/videos) `[YouTube]`
 - [Codebasics](https://www.youtube.com/c/codebasics/videos) `[YouTube]`
 - [PyCharm by JetBrains](https://www.youtube.com/c/PyCharmIDE/playlists) `[YouTube]`
-- [Python Multithreading without GIL](https://github.com/colesbury/nogil) `[GitHub]`
-- [Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined `[GitHub]`
-- [mypy](https://github.com/python/mypy) - Optional static typing for Python `[GitHub]`
-- [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) `[GitHub]`
-- [vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code `[GitHub]`
-- [pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments `[GitHub]`
-- [wtfpython](https://github.com/satwikkansal/wtfpython) `[GitHub]`
-- [Python reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things `[GitHub]`
-- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet) `[GitHub]`
-- [setup.py](https://github.com/navdeep-G/setup.py) `[GitHub]`
-- [Free Python Books](https://github.com/pamoroso/free-python-books) `[GitHub]`
-- [CPython Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation `[GitHub]`
-- [Python Mini Projects](https://github.com/Python-World/python-mini-projects) `[GitHub]`
-- [IPython](https://github.com/ipython/ipython) `[GitHub]`
-- [Ipython notebooks](https://github.com/jdwittenauer/ipython-notebooks) - A collection of IPython notebooks covering various topics `[GitHub]`
-- [Python is cool](https://github.com/chiphuyen/python-is-cool) `[GitHub]`
-- [Python Roadmap](https://github.com/GnuriaN/Python-Roadmap) `[GitHub]`
-- [30 seconds of python](https://github.com/30-seconds/30-seconds-of-python) `[GitHub]`
-- [Learn Python 3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3 `[GitHub]`
-- [Python patterns](https://github.com/faif/python-patterns) `[GitHub]`
-- [The Algorithms - Python](https://github.com/TheAlgorithms/Python) `[GitHub]`
-- [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio) `[GitHub]`
-- [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python) `[GitHub]`
-- [Awesome Flake8 Extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) `[GitHub]`
-- [Awesome Python Typing](https://github.com/typeddjango/awesome-python-typing) `[GitHub]`
-- [Awesome Python scientific audio](https://github.com/faroit/awesome-python-scientific-audio) `[GitHub]`
-- [Awesome Python in education](https://github.com/quobit/awesome-python-in-education) `[GitHub]`
-- [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) `[GitHub]`
-- [Awesome Python](https://github.com/vinta/awesome-python) `[GitHub]`
-- [cpython](https://github.com/python/cpython) - Python language src `[GitHub]`
-- [Peps](https://github.com/python/peps) - Python Enhancement Proposals `[GitHub]`
+- [Python Multithreading without GIL](https://github.com/colesbury/nogil)
+- [Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined
+- [mypy](https://github.com/python/mypy) - Optional static typing for Python
+- [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
+- [vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
+- [pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+- [wtfpython](https://github.com/satwikkansal/wtfpython)
+- [Python reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
+- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
+- [setup.py](https://github.com/navdeep-G/setup.py)
+- [Free Python Books](https://github.com/pamoroso/free-python-books)
+- [CPython Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
+- [Python Mini Projects](https://github.com/Python-World/python-mini-projects)
+- [IPython](https://github.com/ipython/ipython)
+- [Ipython notebooks](https://github.com/jdwittenauer/ipython-notebooks) - A collection of IPython notebooks covering various topics
+- [Python is cool](https://github.com/chiphuyen/python-is-cool)
+- [Python Roadmap](https://github.com/GnuriaN/Python-Roadmap)
+- [30 seconds of python](https://github.com/30-seconds/30-seconds-of-python)
+- [Learn Python 3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
+- [Python patterns](https://github.com/faif/python-patterns)
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
+- [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio)
+- [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python)
+- [Awesome Flake8 Extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
+- [Awesome Python Typing](https://github.com/typeddjango/awesome-python-typing)
+- [Awesome Python scientific audio](https://github.com/faroit/awesome-python-scientific-audio)
+- [Awesome Python in education](https://github.com/quobit/awesome-python-in-education)
+- [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [cpython](https://github.com/python/cpython) - Python language src
+- [Peps](https://github.com/python/peps) - Python Enhancement Proposals

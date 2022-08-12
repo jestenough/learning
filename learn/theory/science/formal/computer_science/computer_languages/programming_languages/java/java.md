@@ -46,16 +46,16 @@ TODO
 
 ## Courses / Videos
 
-- [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!) - (Edx)
-- [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial) - (Udemy)
+- [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!)
+- [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial)
 - [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
-- [Java Online Training \| Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s) - (YouTube)
-- [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) - (Coursera)
-- [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI) - (Coursera)
-- [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) - (Edx)
-- [Java с нуля до Junior + Подготовка к собеседованию](https://www.udemy.com/course/java_sumin/) - (Udemy)
-- [A Tour of the Modern Java Platform](https://youtu.be/y901lgIuRx0) - (YouTube)
-- [Amazon Corretto, A Journey into Latency Reduction](https://youtu.be/S4IrAZ5wT3c) - (YouTube)
+- [Java Online Training \| Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s)
+- [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming)
+- [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
+- [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
+- [Java с нуля до Junior + Подготовка к собеседованию](https://www.udemy.com/course/java_sumin/)
+- [A Tour of the Modern Java Platform](https://youtu.be/y901lgIuRx0)
+- [Amazon Corretto, A Journey into Latency Reduction](https://youtu.be/S4IrAZ5wT3c)
 - [Техническое интервью Java Developer - Сергей Гонтаренко](https://youtu.be/SX82OpGP0XE)
 
 
@@ -70,11 +70,11 @@ TODO
 - [Java Objects Inside Out](https://shipilev.net/jvm/objects-inside-out/)
 - [Java Rush](https://javarush.ru/)
 - [Javadoc](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
-- [jython](https://github.com/jython/jython) - Python for the Java Platform `[GitHub]`
-- [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries `[GitHub]`
-- [jdk](https://github.com/openjdk/jdk) - JDK main-line development `[GitHub]`
-- [jib](https://github.com/GoogleContainerTools/jib/) - Build container images for your Java applications `[GitHub]`
-- [Useful Java links](https://github.com/Vedenin/useful-java-links) `[GitHub]`
-- [TheAlgorithms - Java](https://github.com/TheAlgorithms/Java) `[GitHub]`
-- [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) `[GitHub]`
-- [Awesome Java](https://github.com/akullpp/awesome-java) `[GitHub]`
+- [jython](https://github.com/jython/jython) - Python for the Java Platform
+- [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries
+- [jdk](https://github.com/openjdk/jdk) - JDK main-line development
+- [jib](https://github.com/GoogleContainerTools/jib/) - Build container images for your Java applications
+- [Useful Java links](https://github.com/Vedenin/useful-java-links)
+- [TheAlgorithms - Java](https://github.com/TheAlgorithms/Java)
+- [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
+- [Awesome Java](https://github.com/akullpp/awesome-java)

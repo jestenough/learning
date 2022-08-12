@@ -21,8 +21,8 @@ TODO
 
 ## Courses
 
-- [Parallel programming](https://www.coursera.org/learn/scala-parallel-programming) - (Coursera)
-- [Параллельное программирование](https://youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT) - (YouTube)
+- [Parallel programming](https://www.coursera.org/learn/scala-parallel-programming)
+- [Параллельное программирование](https://youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT)
 
 
 ## Links

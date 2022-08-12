@@ -29,8 +29,8 @@
 - [codicon](https://microsoft.github.io/vscode-codicons/dist/codicon.html) - Icon font for Visual Studio Code
 - [Public Icons](https://publicicons.lllllllllllllllll.com/)
 - [Font Awesome](https://fontawesome.com/)
-- [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web `[GitHub]`
-- [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) `[GitHub]`
-- [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) `[GitHub]`
-- [Awesome Web Icons](https://github.com/vkarampinis/awesome-icons) `[GitHub]`
-- [Awesome Icons](https://github.com/notlmn/awesome-icons) `[GitHub]`
+- [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web
+- [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)
+- [Super Tiny Icons](https://github.com/edent/SuperTinyIcons)
+- [Awesome Web Icons](https://github.com/vkarampinis/awesome-icons)
+- [Awesome Icons](https://github.com/notlmn/awesome-icons)

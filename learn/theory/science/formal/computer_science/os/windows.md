@@ -28,7 +28,7 @@ TODO
 
 ## Links
 
-- [Win11 in React!](https://github.com/blueedgetechno/win11React) `[GitHub]`
-- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) `[GitHub]`
-- [Microsoft PowerToys](https://github.com/microsoft/PowerToys) `[GitHub]`
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) `[GitHub]`
+- [Win11 in React!](https://github.com/blueedgetechno/win11React)
+- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows)
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome)

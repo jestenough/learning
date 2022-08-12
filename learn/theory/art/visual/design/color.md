@@ -49,4 +49,4 @@
 - [Every color picker](https://everycolorpicker.com/)
 - [LCH Colour Picker](https://css.land/lch/)
 - [Towards richer colors on the Web](https://darker.ink/writings/Towards-richer-colors-on-the-Web)
-- [pywal](https://github.com/dylanaraps/pywal) `[GitHub]`
+- [pywal](https://github.com/dylanaraps/pywal)

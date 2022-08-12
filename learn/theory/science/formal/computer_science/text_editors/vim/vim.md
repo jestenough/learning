@@ -50,7 +50,7 @@ TODO
 - [VimRC 2021 (Jan): How to setup your Vim RC](https://youtu.be/DogKdiRx7ls)
 - [Vim Registers: What, How, and Macros](https://youtu.be/Q5eDxR7bU2k)
 - [Vim's Versatile CLI](https://youtu.be/pt36X1OJRG4)
-- [Vim Life](https://youtube.com/playlist?list=PLm323Lc7iSW9CtibHhhQErDh167XfL4EU) `0/16`
+- [Vim Life](https://youtube.com/playlist?list=PLm323Lc7iSW9CtibHhhQErDh167XfL4EU)
 - [Make Vim Amazing](https://youtube.com/playlist?list=PLm323Lc7iSW9kRCuzB3J_h7vPjIDedplM)
 - [We can have nice things](https://youtu.be/Bt-vmPC_-Ho)
 - [БОЖЕСТВЕННЫЙ nvim как IDE для Python, Rust и всех-всех-всех — встречаем LSP!](https://youtu.be/PA7zZNJXJEk)
@@ -69,10 +69,10 @@ TODO
 - [Tabular cheatsheet](https://devhints.io/tabular)
 - [The ABCs of vim](https://www.kovach.me/The_ABCs_of_vim.html)
 - [Big Pile of Vim-like](https://vim.reversed.top/)
-- [vim-galore](https://github.com/mhinz/vim-galore) - All things Vim! `[GitHub]`
-- [neovim](https://github.com/neovim/neovim) `[GitHub]`
-- [vim-plug](https://github.com/junegunn/vim-plug) `[GitHub]`
-- [coc.nvim](https://github.com/neoclide/coc.nvim) `[GitHub]`
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) `[GitHub]`
-- [nvui](https://github.com/rohit-px2/nvui) -  A modern frontend for Neovim. `[GitHub]`
-- [pyvim](https://github.com/prompt-toolkit/pyvim) - Pure Python Vim clone. `[GitHub]`
+- [vim-galore](https://github.com/mhinz/vim-galore) - All things Vim!
+- [neovim](https://github.com/neovim/neovim)
+- [vim-plug](https://github.com/junegunn/vim-plug)
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim)
+- [nvui](https://github.com/rohit-px2/nvui) -  A modern frontend for Neovim.
+- [pyvim](https://github.com/prompt-toolkit/pyvim) - Pure Python Vim clone.

@@ -18,4 +18,4 @@ TODO
 
 ## Courses
 
-- [Data Mining Foundations and Practice](https://www.coursera.org/specializations/data-mining-foundations-practice) - (Coursera)
+- [Data Mining Foundations and Practice](https://www.coursera.org/specializations/data-mining-foundations-practice)

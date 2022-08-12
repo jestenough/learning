@@ -30,4 +30,4 @@ TODO
 
 - [Logic Matters](https://www.logicmatters.net/)
 - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
-- [History of Logic](https://github.com/prathyvsh/history-of-logic) `[GitHub]`
+- [History of Logic](https://github.com/prathyvsh/history-of-logic) 

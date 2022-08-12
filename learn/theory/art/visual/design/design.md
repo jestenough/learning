@@ -69,13 +69,13 @@
 - [Themesberg](https://themesberg.com/) - Website Themes and Templates
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Name, Brand, Product design](http://pieratt.com/)
-- [Inclusive Web Design Checklist](https://github.com/Heydon/inclusive-design-checklist) `[GitHub]`
-- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor `[GitHub]`
-- [LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool `[GitHub]`
-- [Spark joy](https://github.com/sw-yx/spark-joy) - asy ways to add design flair, user delight, and whimsy to your product `[GitHub]`
-- [Design Inspiration & Resources](https://github.com/emmabostian/design-inspiration) `[GitHub]`
-- [Design Resources](https://github.com/MohamedYoussouf/Design-Resources) `[GitHub]`
-- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) `[GitHub]`
+- [Inclusive Web Design Checklist](https://github.com/Heydon/inclusive-design-checklist)
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor
+- [LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool
+- [Spark joy](https://github.com/sw-yx/spark-joy) - asy ways to add design flair, user delight, and whimsy to your product
+- [Design Inspiration & Resources](https://github.com/emmabostian/design-inspiration)
+- [Design Resources](https://github.com/MohamedYoussouf/Design-Resources)
+- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Awesome styleguides](https://github.com/streamich/awesome-styleguides)
-- [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) `[GitHub]`
-- [Awesome Design](https://github.com/gztchan/awesome-design) `[GitHub]`
+- [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
+- [Awesome Design](https://github.com/gztchan/awesome-design)

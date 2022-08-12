@@ -32,7 +32,7 @@ TODO
 
 - [Learn the Basics of FPGA Design](https://fpgatutorial.com/)
 - [FPGA Systems](https://www.youtube.com/channel/UCKQwNQlnXyagCuWy84Rg0XQ) `[YouTube]`
-- [Related Projects of Open Source FPGA Foundation](https://github.com/os-fpga/open-source-fpga-resource) -  A list of resources related to the open-source FPGA projects `[GitHub]`
-- [Open FPGA verilog tutorial](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Home_EN) `[GitHub]`
-- [learn FGPA](https://github.com/BrunoLevy/learn-fpga) `[GitHub]`
-- [AutoFPGA](https://github.com/ZipCPU/autofpga) - A utility for Composing FPGA designs from Peripherals `[GitHub]`
+- [Related Projects of Open Source FPGA Foundation](https://github.com/os-fpga/open-source-fpga-resource) -  A list of resources related to the open-source FPGA projects
+- [Open FPGA verilog tutorial](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Home_EN)
+- [learn FGPA](https://github.com/BrunoLevy/learn-fpga)
+- [AutoFPGA](https://github.com/ZipCPU/autofpga) - A utility for Composing FPGA designs from Peripherals

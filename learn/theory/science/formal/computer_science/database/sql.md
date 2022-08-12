@@ -40,22 +40,22 @@ TODO
 
 ## Courses / Videos
 
-- [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - (Udemy)
-- [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) - (Coursera)
-- [Introduction to SQL](https://learn.datacamp.com/courses/introduction-to-sql) - (DataCamp)
-- [Joining Data in SQL](https://learn.datacamp.com/courses/joining-data-in-postgresql) - (DataCamp)
+- [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/)
+- [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science)
+- [Introduction to SQL](https://learn.datacamp.com/courses/introduction-to-sql)
+- [Joining Data in SQL](https://learn.datacamp.com/courses/joining-data-in-postgresql)
 - [Intermediate SQL]() - (DataCamp)
-- [Advanced SQL Questions From Amazon (Handling complex logic in data science interviews)](https://youtu.be/VYeevsVj4fU) - (YouTube)
-- [SQL Tutorial for Beginners](https://youtu.be/tp_5c6jaNQE) - (YouTube)
-- [Cracking the SQL coding interview](https://youtu.be/y6CWIBKEw_g) - (YouTube)
-- [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY) - (YouTube)
+- [Advanced SQL Questions From Amazon (Handling complex logic in data science interviews)](https://youtu.be/VYeevsVj4fU)
+- [SQL Tutorial for Beginners](https://youtu.be/tp_5c6jaNQE)
+- [Cracking the SQL coding interview](https://youtu.be/y6CWIBKEw_g)
+- [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
 
 
 ## Books
 
 - [Руководство по SQL](http://proselyte.net/tutorials/sql)
-- [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer)`[0/336]`
-- SQL и реляционная теория. как грамотно писать код на sql (К.ДЖ.Дейт)`[0/476]`
+- [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer)
+- SQL и реляционная теория. как грамотно писать код на sql (К.ДЖ.Дейт)
 
 
 ## Links
@@ -73,6 +73,6 @@ TODO
 - [Learn X in Y minutes Where X=SQL](https://learnxinyminutes.com/docs/sql/)
 - [SQL joins cheatsheet](https://devhints.io/sql-join)
 - [Comparison of different SQL implementations](http://troels.arvin.dk/db/rdbms/)
-- [SQL linter](https://github.com/joereynolds/sql-lint) `[GitHub]`
-- [Falcon](https://github.com/plotly/falcon) -  Free, open-source SQL client for Windows and Mac `[GitHub]`
-- [Quick SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) `[GitHub]`
+- [SQL linter](https://github.com/joereynolds/sql-lint) 
+- [Falcon](https://github.com/plotly/falcon) -  Free, open-source SQL client for Windows and Mac
+- [Quick SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)

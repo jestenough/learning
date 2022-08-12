@@ -41,7 +41,7 @@ TODO
 
 ## Books
 
-- Компиляторы. Принципы, технологии и инструментарий (Ахо Альфред В., Лам Моника С.)`[0/1184]`
+- Компиляторы. Принципы, технологии и инструментарий (Ахо Альфред В., Лам Моника С.)
 - Crafting Interpreters (Bob Nystrom)
 - An Introduction to GCC (Brian Gough
 - [Compiler Construction](https://people.inf.ethz.ch/wirth/CompilerConstruction/index.html)
@@ -59,7 +59,7 @@ TODO
 
 ## Courses / Videos
 
-- [Введение в компиляторы](https://youtube.com/playlist?list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1) - (YouTube)
+- [Введение в компиляторы](https://youtube.com/playlist?list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1)
 - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [Grammar-Based Testing for Little Languages: An Experience Report with Student Compilers](https://youtu.be/wv6ftJNq92Q)
 - [ASPLOS'20 - Session 2B - Noise-Aware Dynamical System Compilation for Analog Devices with Legno](https://youtu.be/7PU-6cWQQkE)
@@ -72,13 +72,13 @@ TODO
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 - [Toolchains](https://www.toolchains.net/) - A collection of toolchain resources.
 - [Post-Modern Compiler Design](https://www.cs.purdue.edu/homes/rompf/pmca/vol1/index.html)
-- [Compiler-Development](https://github.com/true-grue/Compiler-Development) - Что читать о разработке компиляторов `[GitHub]`
-- [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial) `[GitHub]`
-- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) `[GitHub]`
-- [Compiler resources](https://github.com/yoshuawuyts/notes/blob/master/compilers/resources.md) `[GitHub]`
-- [The super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) `[GitHub]`
+- [Compiler-Development](https://github.com/true-grue/Compiler-Development) - Что читать о разработке компиляторов
+- [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial)
+- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+- [Compiler resources](https://github.com/yoshuawuyts/notes/blob/master/compilers/resources.md)
+- [The super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 - [graal](https://github.com/oracle/graal) - Run Programs Faster Anywhere
-- [Awesome Linters](https://github.com/caramelomartins/awesome-linters) `[GitHub]`
-- [Awesome decompilation](https://github.com/nforest/awesome-decompilation) `[GitHub]`
-- [Awesome JIT](https://github.com/wdv4758h/awesome-jit) `[GitHub]`
-- [Awesome compilers](https://github.com/aalhour/awesome-compilers) `[GitHub]`
+- [Awesome Linters](https://github.com/caramelomartins/awesome-linters)
+- [Awesome decompilation](https://github.com/nforest/awesome-decompilation)
+- [Awesome JIT](https://github.com/wdv4758h/awesome-jit)
+- [Awesome compilers](https://github.com/aalhour/awesome-compilers)

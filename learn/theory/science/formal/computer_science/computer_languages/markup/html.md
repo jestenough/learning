@@ -57,17 +57,17 @@ TODO
 - [HTML hint](https://htmlhint.com/)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 - [Can include](https://caninclude.glitch.me/)
-- [HTML to image](https://github.com/bubkoo/html-to-image) `[GitHub]`
-- [DOM Testing Library](https://github.com/testing-library/dom-testing-library) `[GitHub]`
-- [Marko](https://github.com/marko-js/marko) `[GitHub]`
-- [xPath Finder](https://github.com/trembacz/xpath-finder) `[GitHub]`
-- [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser `[GitHub]`
-- [htmlq](https://github.com/mgdm/htmlq) `[GitHub]`
-- [rehype](https://github.com/rehypejs/rehype) `[GitHub]`
-- [keen-slider](https://github.com/rcbyr/keen-slider) `[GitHub]`
-- [htmlparser2](https://github.com/fb55/htmlparser2) `[GitHub]`
-- [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX/) `[GitHub]`
-- [PostHTML](https://github.com/posthtml/posthtml) `[GitHub]`
-- [Konva](https://github.com/konvajs/konva) `[GitHub]`
-- [hyper(HTML)](https://github.com/WebReflection/hyperHTML) `[GitHub]`
-- [pup](https://github.com/ericchiang/pup) `[GitHub]`
+- [HTML to image](https://github.com/bubkoo/html-to-image)
+- [DOM Testing Library](https://github.com/testing-library/dom-testing-library)
+- [Marko](https://github.com/marko-js/marko)
+- [xPath Finder](https://github.com/trembacz/xpath-finder)
+- [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
+- [htmlq](https://github.com/mgdm/htmlq)
+- [rehype](https://github.com/rehypejs/rehype)
+- [keen-slider](https://github.com/rcbyr/keen-slider)
+- [htmlparser2](https://github.com/fb55/htmlparser2)
+- [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX/)
+- [PostHTML](https://github.com/posthtml/posthtml)
+- [Konva](https://github.com/konvajs/konva)
+- [hyper(HTML)](https://github.com/WebReflection/hyperHTML)
+- [pup](https://github.com/ericchiang/pup)

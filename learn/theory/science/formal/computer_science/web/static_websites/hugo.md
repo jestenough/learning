@@ -26,9 +26,9 @@ TODO
 - [Hugo Ranked](https://hugoranked.com/) - Hugo Themes ranked by GitHub Stars
 - [Hugo Themes](https://themes.gohugo.io/themes/paperesque/)
 - [Hugo Tutorial: Themeless & Gitless Introduction to the Hugo Static Site Generator](https://www.ii.com/themeless-gitless-intro-hugo/)
-- [GitHub Actions for Hugo](https://github.com/peaceiris/actions-hugo) `[GitHub]`
-- [Awesome Hugo](https://github.com/theNewDynamic/awesome-hugo) `[GitHub]`
-- [Hugo src](https://github.com/gohugoio/hugo) `[GitHub]`
+- [GitHub Actions for Hugo](https://github.com/peaceiris/actions-hugo)
+- [Awesome Hugo](https://github.com/theNewDynamic/awesome-hugo)
+- [Hugo src](https://github.com/gohugoio/hugo)
 
 
 ## Themes

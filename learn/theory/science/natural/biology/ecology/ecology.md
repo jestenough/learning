@@ -33,5 +33,5 @@ TODO
 - [Journal of Ecology](https://besjournals.onlinelibrary.wiley.com/journal/13652745)
 - [Journal of Animal Ecology](https://besjournals.onlinelibrary.wiley.com/journal/13652656?tabActivePane=undefined)
 - [Energypedia](https://energypedia.info/wiki/Main_Page)
-- [Awesome Nuclear](https://github.com/paulromano/awesome-nuclear) `[GitHub]`
-- [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) `[GitHub]`
+- [Awesome Nuclear](https://github.com/paulromano/awesome-nuclear)
+- [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech)

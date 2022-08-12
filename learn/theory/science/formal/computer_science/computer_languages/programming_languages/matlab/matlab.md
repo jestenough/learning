@@ -18,7 +18,7 @@ TODO
 ## Courses
 
 - [MATLAB Fundamentals](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe)
-- [MATLAB Programming for Engineers and Scientists](https://www.coursera.org/specializations/matlab-programming-engineers-scientists) - (Coursera)
+- [MATLAB Programming for Engineers and Scientists](https://www.coursera.org/specializations/matlab-programming-engineers-scientists)
 
 
 ## Books

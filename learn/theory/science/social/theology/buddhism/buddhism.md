@@ -26,4 +26,4 @@ TODO
 - [Ассоциация "Буддизм в Интернете"](http://buddhist.ru/)
 - [East Asian Buddhist Studies:  A Reference Guide](https://web.archive.org/web/20160808095741/http://alc.ucla.edu/refguide/refguide.htm)
 - [Future of Buddhism](https://www.patheos.com/topics/future-of-world-religions/buddhism)
-- [Awesome Buddhism](https://github.com/sirredbeard/Awesome-Buddhism) `[GitHub]`
+- [Awesome Buddhism](https://github.com/sirredbeard/Awesome-Buddhism)

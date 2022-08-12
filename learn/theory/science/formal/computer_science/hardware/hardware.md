@@ -101,18 +101,18 @@ TODO
 - [Build an 8-bit computer from scratch](https://eater.net/8bit)
 - [Major Tom Workshop](https://www.youtube.com/c/MajorTomWorkshop/featured) `[YouTube]`
 - [Hardware Unboxed](https://www.youtube.com/channel/UCI8iQa1hv7oV_Z8D35vVuSg) `[YouTube]`
-- [Titan M tools](https://github.com/quarkslab/titanm) - This repository contains the tools we used in our research on the Google Titan M chip `[GitHub]`
-- [caravel](https://github.com/efabless/caravel) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space `[GitHub]`
-- [Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification) - A List of Free and Open Source Hardware Verification Tools and Frameworks `[GitHub]`
-- [System Bus Radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware `[GitHub]`
-- [The Hacker's Hardware Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) `[GitHub]`
-- [chisel3](https://github.com/chipsalliance/chisel3) - Chisel 3: A Modern Hardware Design Language `[GitHub]`
-- [WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi `[GitHub]`
-- [From the Transistor to the Web Browser](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course `[GitHub]`
-- [UEFITool](https://github.com/LongSoft/UEFITool) `[GitHub]`
-- [Binwalk](https://github.com/ReFirmLabs/binwalk) `[GitHub]`
-- [Tasmota](https://github.com/arendst/tasmota/) `[GitHub]`
-- [hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform `[GitHub]`
-- [litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily! `[GitHub]`
-- [Awesome Firmware Security](https://github.com/PreOS-Security/awesome-firmware-security) `[GitHub]`
-- [Awesome Hardware Description Languages](https://github.com/drom/awesome-hdl) `[GitHub]`
+- [Titan M tools](https://github.com/quarkslab/titanm) - This repository contains the tools we used in our research on the Google Titan M chip
+- [caravel](https://github.com/efabless/caravel) - Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space
+- [Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification) - A List of Free and Open Source Hardware Verification Tools and Frameworks
+- [System Bus Radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware
+- [The Hacker's Hardware Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
+- [chisel3](https://github.com/chipsalliance/chisel3) - Chisel 3: A Modern Hardware Design Language
+- [WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi
+- [From the Transistor to the Web Browser](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
+- [UEFITool](https://github.com/LongSoft/UEFITool)
+- [Binwalk](https://github.com/ReFirmLabs/binwalk)
+- [Tasmota](https://github.com/arendst/tasmota/)
+- [hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
+- [litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
+- [Awesome Firmware Security](https://github.com/PreOS-Security/awesome-firmware-security)
+- [Awesome Hardware Description Languages](https://github.com/drom/awesome-hdl)

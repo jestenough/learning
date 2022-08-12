@@ -53,14 +53,14 @@
 - [MedleyDB: A Dataset of Multitrack Audio for Music Research](https://medleydb.weebly.com/)
 - [Natural music](https://www.naturalmusic.co/) - Help you discover your new favorite music
 - [Every Noise at Once](https://everynoise.com/)
-- [ZSpotify](https://github.com/Footsiefat/zspotify) - a Spotify downloader needing only a python interpreter and ffmpeg. `[GitHub]`
-- [Psst](https://github.com/jpochyla/psst) - fast and multi-platform Spotify client with native GUI  `[GitHub]`
-- [Savify](https://github.com/LaurenceRawlings/savify) - download Spotify songs to mp3 with full metadata and cover art! `[GitHub]`
-- [spotify_dl](https://github.com/SathyaBhat/spotify-dl) - downloads songs from your Spotify Playlist `[GitHub]`
-- [spotDL](https://github.com/spotDL/spotify-downloader) - download your Spotify playlists and songs along with album art and metadata `[GitHub]`
-- [Awesome microtonal](https://github.com/suhr/awesome-microtonal) `[GitHub]`
-- [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening) `[GitHub]`
-- [Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music) `[GitHub]`
+- [ZSpotify](https://github.com/Footsiefat/zspotify) - a Spotify downloader needing only a python interpreter and ffmpeg.
+- [Psst](https://github.com/jpochyla/psst) - fast and multi-platform Spotify client with native GUI
+- [Savify](https://github.com/LaurenceRawlings/savify) - download Spotify songs to mp3 with full metadata and cover art!
+- [spotify_dl](https://github.com/SathyaBhat/spotify-dl) - downloads songs from your Spotify Playlist
+- [spotDL](https://github.com/spotDL/spotify-downloader) - download your Spotify playlists and songs along with album art and metadata
+- [Awesome microtonal](https://github.com/suhr/awesome-microtonal)
+- [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening)
+- [Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music)
 
 
 ## Radio / Generators

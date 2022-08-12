@@ -23,10 +23,10 @@ TODO
 ## Links
 
 - [pkgsrc](https://www.pkgsrc.org/)
-- [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more `[GitHub]`
-- [upm](https://github.com/replit/upm) - Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp `[GitHub]`
-- [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity `[GitHub]`
-- [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers `[GitHub]`
-- [entropic](https://github.com/entropic-dev/entropic) - a package registry for anything, but mostly javascript `[GitHub]`
-- [topgrade](https://github.com/r-darwish/topgrade/) - Upgrade everything `[GitHub]`
-- [Awesome Package Manager](https://github.com/damon-kwok/awesome-package-manager) `[GitHub]`
+- [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [upm](https://github.com/replit/upm) - Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp
+- [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity
+- [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers
+- [entropic](https://github.com/entropic-dev/entropic) - a package registry for anything, but mostly javascript
+- [topgrade](https://github.com/r-darwish/topgrade/) - Upgrade everything
+- [Awesome Package Manager](https://github.com/damon-kwok/awesome-package-manager)

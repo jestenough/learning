@@ -28,14 +28,14 @@ TODO
 ## Links
 
 - [Learn Unity](https://learn.unity.com/)
-- [Brackeys](https://www.youtube.com/user/Brackeys/videos) `[YouTube]`
-- [Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337/videos) `[YouTube]`
-- [AI and Games](https://www.youtube.com/user/tthompso/videos) `[YouTube]`
-- [Школа разработки игр](https://www.youtube.com/user/4GameFree/videos) `[YouTube]`
-- [Unity](https://www.youtube.com/user/Unity3D/videos) `[YouTube]`
-- [Unity Open Project #1: Chop Chop](https://github.com/UnityTechnologies/open-project-1) `[GitHub]`
-- [Unity Actions](https://github.com/game-ci/unity-actions) `[GitHub]`
-- [Unity Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) `[GitHub]`
-- [GitHub for Unity](https://github.com/github-for-unity/Unity) `[GitHub]`
-- [Unity Library](https://github.com/UnityCommunity/UnityLibrary) `[GitHub]`
-- [Awesome Unity](https://github.com/RyanNielson/awesome-unity) `[GitHub]`
+- [Brackeys](https://www.youtube.com/user/Brackeys/videos)
+- [Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337/videos)
+- [AI and Games](https://www.youtube.com/user/tthompso/videos)
+- [Школа разработки игр](https://www.youtube.com/user/4GameFree/videos)
+- [Unity](https://www.youtube.com/user/Unity3D/videos)
+- [Unity Open Project #1: Chop Chop](https://github.com/UnityTechnologies/open-project-1)
+- [Unity Actions](https://github.com/game-ci/unity-actions)
+- [Unity Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
+- [GitHub for Unity](https://github.com/github-for-unity/Unity)
+- [Unity Library](https://github.com/UnityCommunity/UnityLibrary)
+- [Awesome Unity](https://github.com/RyanNielson/awesome-unity)

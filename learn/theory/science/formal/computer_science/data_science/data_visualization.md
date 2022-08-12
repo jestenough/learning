@@ -53,16 +53,16 @@ TODO
 - [Mermaid live](https://mermaid.live/) - Online FlowChart & Diagrams Editor
 - [Kroki](https://kroki.io/) - Creates diagrams from textual descriptions
 - [From data to viz](https://www.data-to-viz.com/) - Find the graphic you need
-- [Vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories `[GitHub]`
-- [clip](https://github.com/asmuth/clip#clip) - Create charts from the command line `[GitHub]`
-- [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python `[GitHub]`
-- [Railroad-diagram Generator](https://github.com/tabatkins/railroad-diagrams) `[GitHub]`
-- [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit `[GitHub]`
-- [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts `[GitHub]`
-- [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) `[GitHub]`
-- [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects `[GitHub]`
-- [Matplot++](https://github.com/alandefreitas/matplotplusplus) `[GitHub]`
-- [Apache ECharts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser `[GitHub]`
-- [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism) `[GitHub]`
-- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) `[GitHub]`
-- [Awesome charting](https://github.com/zingchart/awesome-charting) `[GitHub]`
+- [Vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories
+- [clip](https://github.com/asmuth/clip#clip) - Create charts from the command line
+- [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
+- [Railroad-diagram Generator](https://github.com/tabatkins/railroad-diagrams)
+- [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit
+- [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts
+- [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express)
+- [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [Matplot++](https://github.com/alandefreitas/matplotplusplus)
+- [Apache ECharts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research)
+- [Awesome charting](https://github.com/zingchart/awesome-charting)

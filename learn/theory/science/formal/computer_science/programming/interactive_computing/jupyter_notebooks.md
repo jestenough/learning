@@ -34,23 +34,23 @@ TODO
 
 ## Extensions
 
-- [Gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks `[GitHub]`
-- [Swift-Jupyter](https://github.com/google/swift-jupyter) `[GitHub]`
-- [Octave kernel](https://github.com/Calysto/octave_kernel) `[GitHub]`
-- [Ipycanvas](https://github.com/martinRenou/ipycanvas) `[GitHub]`
-- [Ipydatagrid](https://github.com/bloomberg/ipydatagrid) `[GitHub]`
-- [Jlab enhanced cell toolbar](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar) `[GitHub]`
-- [Jupyterlab filetree](https://github.com/youngthejames/jupyterlab_filetree) `[GitHub]`
-- [Jupyterlab commenting](https://github.com/jupyterlab/jupyterlab-commenting) `[GitHub]`
-- [jupyterlab drawio](https://github.com/QuantStack/jupyterlab-drawio) `[GitHub]`
-- [Elyra](https://github.com/elyra-ai/elyra) `[GitHub]`
-- [Jupyterlab gitplus](https://github.com/ReviewNB/jupyterlab-gitplus) `[GitHub]`
-- [Jupyterlab vim](https://github.com/jwkvam/jupyterlab-vim) `[GitHub]`
-- [Debugger](https://github.com/jupyterlab/debugger) `[GitHub]`
-- [Dask labextension](https://github.com/dask/dask-labextension) `[GitHub]`
-- [Jupyterlab variable inspector](https://github.com/lckr/jupyterlab-variableInspector) `[GitHub]`
-- [Ipympl](https://github.com/matplotlib/ipympl) - Matplotlib Jupyter Integration `[GitHub]`
-- [Jupyterlab execute time](https://github.com/deshaw/jupyterlab-execute-time) `[GitHub]`
+- [Gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
+- [Swift-Jupyter](https://github.com/google/swift-jupyter)
+- [Octave kernel](https://github.com/Calysto/octave_kernel)
+- [Ipycanvas](https://github.com/martinRenou/ipycanvas)
+- [Ipydatagrid](https://github.com/bloomberg/ipydatagrid)
+- [Jlab enhanced cell toolbar](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
+- [Jupyterlab filetree](https://github.com/youngthejames/jupyterlab_filetree)
+- [Jupyterlab commenting](https://github.com/jupyterlab/jupyterlab-commenting)
+- [jupyterlab drawio](https://github.com/QuantStack/jupyterlab-drawio)
+- [Elyra](https://github.com/elyra-ai/elyra)
+- [Jupyterlab gitplus](https://github.com/ReviewNB/jupyterlab-gitplus)
+- [Jupyterlab vim](https://github.com/jwkvam/jupyterlab-vim)
+- [Debugger](https://github.com/jupyterlab/debugger)
+- [Dask labextension](https://github.com/dask/dask-labextension)
+- [Jupyterlab variable inspector](https://github.com/lckr/jupyterlab-variableInspector)
+- [Ipympl](https://github.com/matplotlib/ipympl) - Matplotlib Jupyter Integration
+- [Jupyterlab execute time](https://github.com/deshaw/jupyterlab-execute-time)
 
 
 ## Links
@@ -61,25 +61,25 @@ TODO
 - [JupyterLite](https://jupyterlite.vercel.app/lab/index.html) - WASM powered Jupyter running in the browser.
 - [Curvenote](https://curvenote.com/)
 - [Juno](https://juno.sh/) - Complete Jupyter development environment for your iPad or iPhone
-- [jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts `[GitHub]`
-- [JupyterLab](https://github.com/jupyterlab/jupyterlab) `[GitHub]`
-- [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop) `[GitHub]`
-- [Jupyter React](https://github.com/datalayer/jupyter-react) `[GitHub]`
-- [ploomber](https://github.com/ploomber/ploomber) `[GitHub]`
-- [nbconvert](https://github.com/jupyter/nbconvert) `[GitHub]`
-- [Streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor `[GitHub]`
-- [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks. `[GitHub]`
-- [Jupyter Client](https://github.com/jupyter/jupyter_client) `[GitHub]`
-- [notebooker](https://github.com/man-group/notebooker) `[GitHub]`
-- [VS Code Jupyter extension](https://github.com/microsoft/vscode-jupyter) `[GitHub]`
-- [JupyterHub](https://github.com/jupyterhub/jupyterhub) `[GitHub]`
-- [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) `[GitHub]`
-- [papermill](https://github.com/nteract/papermill) `[GitHub]`
-- [Jupyter Book](https://github.com/executablebooks/jupyter-book) `[GitHub]`
-- [fastprogress](https://github.com/fastai/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console `[GitHub]`
-- [nbdime](nbdime) - Tools for diffing and merging of Jupyter notebooks. `[GitHub]`
-- [testbook](https://github.com/nteract/testbook) `[GitHub]`
-- [Best-of Jupyter](https://github.com/ml-tooling/best-of-jupyter) `[GitHub]`
-- [Naas templates](https://github.com/jupyter-naas/awesome-notebooks) - +100 awesome Jupyter Notebooks templates `[GitHub]`
-- [JupyterLab Extensions by Examples](https://github.com/jupyterlab/extension-examples) `[GitHub]`
-- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) `[GitHub]`
+- [jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab)
+- [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
+- [Jupyter React](https://github.com/datalayer/jupyter-react)
+- [ploomber](https://github.com/ploomber/ploomber)
+- [nbconvert](https://github.com/jupyter/nbconvert)
+- [Streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor
+- [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
+- [Jupyter Client](https://github.com/jupyter/jupyter_client)
+- [notebooker](https://github.com/man-group/notebooker)
+- [VS Code Jupyter extension](https://github.com/microsoft/vscode-jupyter)
+- [JupyterHub](https://github.com/jupyterhub/jupyterhub)
+- [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+- [papermill](https://github.com/nteract/papermill)
+- [Jupyter Book](https://github.com/executablebooks/jupyter-book)
+- [fastprogress](https://github.com/fastai/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console
+- [nbdime](nbdime) - Tools for diffing and merging of Jupyter notebooks.
+- [testbook](https://github.com/nteract/testbook)
+- [Best-of Jupyter](https://github.com/ml-tooling/best-of-jupyter)
+- [Naas templates](https://github.com/jupyter-naas/awesome-notebooks) - +100 awesome Jupyter Notebooks templates
+- [JupyterLab Extensions by Examples](https://github.com/jupyterlab/extension-examples)
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)

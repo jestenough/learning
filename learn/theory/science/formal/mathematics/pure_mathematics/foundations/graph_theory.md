@@ -15,4 +15,4 @@ TODO
 
 ## Links
 
-- [vis-network](https://github.com/visjs/vis-network) - Display dynamic, automatically organised, customizable network views `[GitHub]`
+- [vis-network](https://github.com/visjs/vis-network) - Display dynamic, automatically organised, customizable network views

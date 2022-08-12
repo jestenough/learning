@@ -104,15 +104,15 @@ TODO
 - [Charts.css](https://chartscss.org/)
 - [The Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
 - [Hell Yes! CSS!](https://wizardzines.com/zines/css/)
-- [normalize.css](https://github.com/necolas/normalize.css) `[GitHub]`
-- [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework `[GitHub]`
-- [rfs](https://github.com/twbs/rfs) - Automates responsive resizing `[GitHub]`
-- [sass](https://github.com/sass/sass) `[GitHub]`
-- [CSS Protips](https://github.com/AllThingsSmitty/css-protips) `[GitHub]`
-- [css only chat](https://github.com/kkuchta/css-only-chat) `[GitHub]`
-- [Rebass](https://github.com/rebassjs/rebass) `[GitHub]`
-- [CSS Modules](https://github.com/css-modules/css-modules) `[GitHub]`
-- [css-blocks](https://github.com/linkedin/css-blocks) `[GitHub]`
-- [Awesome CSS Variables](https://github.com/notoriousb1t/awesome-css-variables) `[GitHub]`
-- [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks) `[GitHub]`
-- [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) `[GitHub]`
+- [normalize.css](https://github.com/necolas/normalize.css)
+- [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
+- [rfs](https://github.com/twbs/rfs) - Automates responsive resizing
+- [sass](https://github.com/sass/sass)
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+- [css only chat](https://github.com/kkuchta/css-only-chat)
+- [Rebass](https://github.com/rebassjs/rebass)
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [css-blocks](https://github.com/linkedin/css-blocks)
+- [Awesome CSS Variables](https://github.com/notoriousb1t/awesome-css-variables)
+- [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
+- [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning)

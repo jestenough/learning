@@ -38,8 +38,8 @@ TODO
 
 - [Containers](https://bitnami.com/stacks/containers)
 - [Container security best practices: Comprehensive guide](https://sysdig.com/blog/container-security-best-practices/)
-- [Awesome Container](https://github.com/tcnksm/awesome-container) `[GitHub]`
-- [CNI - the Container Network Interface](https://github.com/containernetworking/cni) `[GitHub]`
-- [Containers Roadmap](https://github.com/aws/containers-roadmap) `[GitHub]`
-- [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) `[GitHub]`
-- [Buildah](https://github.com/containers/buildah) `[GitHub]`
+- [Awesome Container](https://github.com/tcnksm/awesome-container)
+- [CNI - the Container Network Interface](https://github.com/containernetworking/cni)
+- [Containers Roadmap](https://github.com/aws/containers-roadmap)
+- [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
+- [Buildah](https://github.com/containers/buildah)

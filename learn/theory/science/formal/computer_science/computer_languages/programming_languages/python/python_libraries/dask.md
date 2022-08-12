@@ -25,6 +25,6 @@ TODO
 ## Links
 
 - [Scale every important question](https://coiled.io/)
-- [dask-examples](https://github.com/dask/dask-examples) `[GitHub]`
-- [dask-sql](https://github.com/dask-contrib/dask-sql) `[GitHub]`
-- [distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask `[GitHub]`
+- [dask-examples](https://github.com/dask/dask-examples)
+- [dask-sql](https://github.com/dask-contrib/dask-sql)
+- [distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask

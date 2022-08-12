@@ -47,10 +47,10 @@ TODO
 - [Privacy Tests](https://privacytests.org/) - Open-source tests of web browser privacy
 - [Browser parrot](https://www.browserparrot.com/) - Save and search the full text of your browser history
 - [FingerPrintJS](https://fingerprintjs.com/) - Browser fingerprinting and fraud detection API.
-- [Redirector](https://github.com/einaregilsson/Redirector) - edirect urls based on regex patterns, like a client side mod_rewrite. `[GitHub]`
-- [broz](https://github.com/antfu/broz) - A simple, frameless browser for screenshots `[GitHub]`
-- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript `[GitHub]`
-- [Browser Rendering Optimization](https://github.com/vasanthk/browser-rendering-optimization) `[GitHub]`
-- [Brave Browser](https://github.com/brave/brave-browser) `[GitHub]`
+- [Redirector](https://github.com/einaregilsson/Redirector) - edirect urls based on regex patterns, like a client side mod_rewrite.
+- [broz](https://github.com/antfu/broz) - A simple, frameless browser for screenshots
+- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+- [Browser Rendering Optimization](https://github.com/vasanthk/browser-rendering-optimization)
+- [Brave Browser](https://github.com/brave/brave-browser)
 - [Awesome Web Browsers](https://github.com/cliffordfajardo/awesome-web-browsers)
-- [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) `[GitHub]`
+- [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)

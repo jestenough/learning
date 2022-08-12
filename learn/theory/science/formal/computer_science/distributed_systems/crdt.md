@@ -29,11 +29,11 @@ TODO
 
 ## Courses / Videos
 
-- [CRDTs: The Hard Parts](https://youtu.be/x7drE24geUw) `[GitHub]`
+- [CRDTs: The Hard Parts](https://youtu.be/x7drE24geUw)
 
 
 ## Links
 
-- [Conflict-free Replicated Data Types](https://github.com/ljwagerfield/crdt) `[GitHub]`
-- [CRDT notes](https://github.com/pfrazee/crdt_notes) `[GitHub]`
-- [Awesome CRDT](https://github.com/alangibson/awesome-crdt) `[GitHub]`
+- [Conflict-free Replicated Data Types](https://github.com/ljwagerfield/crdt)
+- [CRDT notes](https://github.com/pfrazee/crdt_notes)
+- [Awesome CRDT](https://github.com/alangibson/awesome-crdt)

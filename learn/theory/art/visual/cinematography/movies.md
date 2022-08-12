@@ -40,7 +40,7 @@
 - [Discover top-rated movies based on your mood](https://www.mood2movie.com/)
 - [Movie of the Night](https://www.movieofthenight.com/) - Movie/series recommendation engine
 - [Eastern European Movies](https://easterneuropeanmovies.com/)
-- [Awesome IT-films list](https://github.com/greybax/awesome-IT-films) `[GitHub]`
+- [Awesome IT-films list](https://github.com/greybax/awesome-IT-films)
 
 
 ## Timelines

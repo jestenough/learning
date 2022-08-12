@@ -30,6 +30,6 @@ TODO
 
 ## Links
 
-- [rpg-cli](https://github.com/facundoolano/rpg-cli) - your filesystem as a dungeon! `[GitHub]`
-- [GotenksFS](https://github.com/carlosgaldino/gotenksfs) -  A file system on top of your file system `[GitHub]`
-- [JuiceFS](https://github.com/juicedata/juicefs) `[GitHub]`
+- [rpg-cli](https://github.com/facundoolano/rpg-cli) - your filesystem as a dungeon!
+- [GotenksFS](https://github.com/carlosgaldino/gotenksfs) -  A file system on top of your file system
+- [JuiceFS](https://github.com/juicedata/juicefs)

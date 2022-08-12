@@ -35,6 +35,6 @@ TODO
 ## Links
 
 - [Jamstack generators](https://jamstack.org/generators/) - A List of Static Site Generators for Jamstack Sites
-- [hyperlink](https://github.com/untitaker/hyperlink) - A command-line tool to find broken links in your static site. `[GitHub]`
-- [Awesome Jamstack](https://github.com/automata/awesome-jamstack) `[GitHub]`
-- [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators) `[GitHub]`
+- [hyperlink](https://github.com/untitaker/hyperlink) - A command-line tool to find broken links in your static site.
+- [Awesome Jamstack](https://github.com/automata/awesome-jamstack)
+- [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
