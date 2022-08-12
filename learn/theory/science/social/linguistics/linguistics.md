@@ -2,6 +2,7 @@
 
 TODO
 
+
 ## Articles
 
 - [All World Languages in One Visualization](https://www.visualcapitalist.com/a-world-of-languages/)
@@ -25,21 +26,13 @@ TODO
 
 ## Links
 
-- [Google Books Ngram Viewer](https://books.google.com/ngrams)
+- [Google Books Ngram Viewer](https://books.google.com/ngrams) - is an online search engine that charts the frequencies of any set of search strings using a yearly count of n-grams found in printed sources
+- [TheFreeDictionary](https://www.thefreedictionary.com/) - is an American online dictionary and encyclopedia that aggregates information from various sources
 - [Learning with Texts](https://learningwithtexts.com/) - Free translation software
 - [Free Dictionary API](https://dictionaryapi.dev/)
 - [Divvun](https://divvun.org/) - Языковые инструменты для языков коренных народов и меньшинств
 - [Reverso context](https://context.reverso.net/translation/) - Translation in context
 - [Want words](https://wantwords.thunlp.org/) - Open-source online reverse dictionary
-- [Is that arabic](https://isthatarabic.com/)
 - [This word does not exist](https://www.thisworddoesnotexist.com/)
 - [trunk](https://github.com/theiceshelf/trunk) - Language learning application `[GitHub]`
 - [Awesome Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) `[GitHub]`
-
-
-<!--
-- [SELFSTUDYCLASSICS](https://selfstudyclassics.com/) - Online Latin course
-- [Speaking Latin brings an unmediated thrill to the Classics](https://psyche.co/ideas/speaking-latin-brings-an-unmediated-thrill-to-the-classics)
-- [How I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html)
-- [ЛАТИНСКИЙ ЯЗЫК (КЛАССИЧЕСКИЙ)](https://youtube.com/playlist?list=PLX5aw9V4Uo7P1vTQlMwTnsIhqNaGhfv9d)
--->

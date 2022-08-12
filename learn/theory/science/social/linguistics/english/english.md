@@ -61,8 +61,10 @@ TODO
 
 ## Links
 
+- [StudyEnglishWords](https://studyenglishwords.com/) - Изучение английских слов с помощью параллельных текстов методом Ильи Франка плюс интервальное повторение слов.
+- [2books](https://2books.su/) - Книги на английском языке с параллельным переводом
 - [USA learns](https://www.usalearns.org/) - A free website that helps adults learn English online by providing engaging videos and educational activities
-- [Pronunciation of words in English](https://en.wikipedia.org/wiki/Help:IPA/English)
+- [Pronunciation of words in English](https://en.wikipedia.org/wiki/Help:IPA/English) - Help:IPA/English
 - [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
 - [History of english podcast](https://historyofenglishpodcast.com/)
 - [Common Errors in English Usage](https://brians.wsu.edu/common-errors/)
