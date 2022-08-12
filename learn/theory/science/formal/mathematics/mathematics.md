@@ -56,11 +56,13 @@ TODO
 - [How (and why) to raise e to the power of a matrix | DE6](https://youtu.be/O85OWBJ2ayo)
 - [ЕГЭ по базовой математике](https://stepik.org/course/19059/)
 - [What is Mathematics?](https://youtu.be/fdJOv6iirfU)
+- [Как создавать математические анимации?](https://youtu.be/NsIakCeRETA)
 
 
 ## Links
 
 - [Math.ru](https://math.ru/)
+- [Свободно распространяемые издания](https://www.mccme.ru/free-books/)
 - [Ximera](https://ximera.osu.edu/) - free interactive mathematics textbooks (Ohio State University)
 - [Almost Fun](https://www.almostfun.org/lessons/) - Math lessons explain Math concepts using non-Math concepts you're already familiar with.
 - [Математика с нуля](http://spacemath.xyz/)
