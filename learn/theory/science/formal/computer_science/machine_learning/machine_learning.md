@@ -67,6 +67,7 @@ TODO
 - [How Machine Language Works](https://youtu.be/HWpi9n2H3kE) - (YouTube)
 - [Optimization Methods for Machine Learning and Engineering (KIT Winter Term 20/21)](https://youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5) - (YouTube)
 - [Deep Learning на пальцах - 2019](https://youtube.com/playlist?list=PL5FkQ0AF9O_o2Eb5Qn8pwCDg7TniyV1Wb) - (YouTube)
+- [2020 Machine Learning Roadmap (95% valid for 2022)](https://youtu.be/pHiMN_gy9mk)
 
 
 ## Links

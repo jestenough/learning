@@ -10,6 +10,7 @@ TODO
 - Hadoop in Practice (Alex Holmes)
 - MapReduce Design Patterns (Donald Miner and Adam Shook)
 - Hadoop for Dummies (Dirk Deroos)
+- Big Data Using Hadoop and Hive (KumarNitin)
 
 
 ## Courses / Videos

@@ -80,6 +80,7 @@ TODO
 - [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg)
 - Внутреннее устройство Linux`[0/384]`
 - Pro Windows Subsystem for Linux (Hayden Barnes)
+- Linux Device Drivers, 3rd Edition (Jonathan CorbetAlessandro)
 
 
 ## Courses / Videos

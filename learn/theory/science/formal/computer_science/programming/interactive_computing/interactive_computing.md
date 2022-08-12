@@ -13,6 +13,7 @@ TODO
 - [How to Use Google Colab with VS Code](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/amp/)
 - [Some Notes on Internal Implementation](https://reference.wolfram.com/language/tutorial/SomeNotesOnInternalImplementation.html)
 - [Dropping In on Gottfried Leibniz](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
+- [Forget about Jupyter Notebooks — showcase your research using Dashboards](https://blog.esciencecenter.nl/forget-about-jupyter-notebooks-showcase-your-research-using-dashboards-5d13451ba374)
 
 
 ## Books

@@ -74,6 +74,7 @@ TODO
 
 ## Links
 
+- [API list](https://apilist.fun/) - A collective list of APIs
 - [Rusty's API Design Manifesto](http://sweng.the-davies.net/Home/rustys-api-design-manifesto)
 - [Postman](https://www.postman.com/)
 - [Public APIs](https://public-apis.io/)

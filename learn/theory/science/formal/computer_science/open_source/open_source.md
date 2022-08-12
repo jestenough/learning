@@ -38,6 +38,7 @@ TODO
 ## Books
 
 - [The open source way](https://www.theopensourceway.org/)
+- [The Power of Open](https://thepowerofopen.org/downloads/)
 
 
 ## Courses / Videos

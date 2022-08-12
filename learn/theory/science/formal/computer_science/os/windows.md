@@ -16,6 +16,11 @@ TODO
 - [Как уронить Windows шестью строчками кода](https://habr.com/ru/post/179543/)
 
 
+## Books
+
+- Внутреннее устройство Windows (Марк Руссинович, Дэвид Соломон, Алекс Ионеску)
+
+
 ## Courses / Videos
 
 - [If Microsoft Designed macOS (Concept)](https://youtu.be/OtwHJwP-juo)

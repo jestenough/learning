@@ -32,6 +32,7 @@ TODO
 - [Networking and Kubernetes (James Strong, Vallery Lancey)](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/)
 - [Kubernetes Hardening Guidance](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 - [Kubernetes and Docker - An Enterprise Guide (Scott Surovich , Marc Boorshtein)](https://www.packtpub.com/product/kubernetes-and-docker-an-enterprise-guide/9781839213403)
+- KUBERNETES: A Simple Guide to Master Kubernetes for Beginners and Advanced Users (Brian Docker)
 
 
 ## Courses / Videos

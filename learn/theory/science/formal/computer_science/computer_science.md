@@ -82,6 +82,7 @@ TODO
 - [Computer Science without a computer](https://www.csunplugged.org/en/)
 - [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 - [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+- [CoderLessons](https://coderlessons.com/) - Уроки по программированию, DevOps и другим IT-технологиям
 - [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov) `[YouTube]`
 - [Computerphile](https://www.youtube.com/user/Computerphile/featured) `[YouTube]`
 - [Computer Science Center](https://www.youtube.com/c/CompscicenterRu/featured) `[YouTube]`
