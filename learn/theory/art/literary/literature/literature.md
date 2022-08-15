@@ -79,7 +79,12 @@
 - [Общий хронологический список авторов и произведений, упоминаемых в различных экзаменационных билетах по литературе для 9 и 11 классов](https://libren.org/d/lit/lit04.htm)
 - [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
 - [ePubViewer](https://pgaskin.net/ePubViewer/)
-- [Книжный чел](https://www.youtube.com/c/%D0%9A%D0%BD%D0%B8%D0%B6%D0%BD%D1%8B%D0%B9%D1%87%D0%B5%D0%BB/) - канал о чтении, рациональном мышлении, трендах развития общества и искусстве `[YouTube]`
+- [Книжный чел](https://www.youtube.com/c/%D0%9A%D0%BD%D0%B8%D0%B6%D0%BD%D1%8B%D0%B9%D1%87%D0%B5%D0%BB/) - канал о чтении, рациональном мышлении, трендах развития общества и искусстве
+- [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools)
+- [Books](https://github.com/learn-anything/books)
+- [Awesome Programming Books](https://github.com/zero-equals-false/awesome-programming-books)
+- [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
+- [Литература аудиокниги](https://www.youtube.com/channel/UClajMW4BcPsPFixj51IBd2w)
 - [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools)
 - [Books](https://github.com/learn-anything/books)
 - [Awesome Programming Books](https://github.com/zero-equals-false/awesome-programming-books)
