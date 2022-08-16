@@ -112,24 +112,22 @@ TODO
 - [Official website of Python language](https://www.python.org/)
 - [Python 3 docs](https://docs.python.org/3/)
 - [Pythontutor](https://pythontutor.com/visualize.html#mode=edit) - VISUALIZE CODE EXECUTION
-- [Moscow Python Podcast](https://podcast.python.ru/)
-- [Full stack python](https://www.fullstackpython.com/)
+- [Full stack python](https://www.fullstackpython.com/) - open source book that explains technical concepts in plain language.
 - [Learning Python Test Automation](https://automationpanda.com/2020/11/09/learning-python-test-automation/amp/)
 - [Coding Patterns for Python Extensions](https://pythonextensionpatterns.readthedocs.io/en/latest/index.html)
-- [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Real Python Tutorials (Articles)](https://realpython.com/)
-- [Python behind the scenes (Articles)](https://tenthousandmeters.com/)
+- [Python behind the scenes (Articles)](https://tenthousandmeters.com/) - series, which is a dive into the internals of CPython, Python's interpreter.
 - [Solve Challenge (Python)](https://www.hackerrank.com/domains/python)
+- [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
 - [Learn X in Y minutes Where X=Python](https://learnxinyminutes.com/docs/python/)
 - [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html)
 - [Futurecoder](https://futurecoder.io/) - Learn Python from scratch
 - [Python Tutorial (W3Schools)](https://www.w3schools.com/python/default.asp)
 - [Pypi](https://pypi.org/) - Find, install and publish Python packages with the Python Package Index
-- [MoscowPython](https://www.youtube.com/user/moscowdjangoru) `[YouTube]`
-- [Talk Python](https://www.youtube.com/channel/UCKPSmMfDsXTKrCZApukcJ7A) `[YouTube]`
-- [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy/videos) `[YouTube]`
-- [Codebasics](https://www.youtube.com/c/codebasics/videos) `[YouTube]`
-- [PyCharm by JetBrains](https://www.youtube.com/c/PyCharmIDE/playlists) `[YouTube]`
+- [Moscow Python Podcast](https://podcast.python.ru/) - подкасты для тех, кто хочет лучше разобраться в Python и не только!
+- [Talk Python](https://www.youtube.com/channel/UCKPSmMfDsXTKrCZApukcJ7A) - weekly podcast hosted by Michael Kennedy
+- [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy/videos)
+- [Codebasics](https://www.youtube.com/c/codebasics/videos)
 - [Python Multithreading without GIL](https://github.com/colesbury/nogil)
 - [Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined
 - [mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -143,21 +141,20 @@ TODO
 - [Free Python Books](https://github.com/pamoroso/free-python-books)
 - [CPython Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [Python Mini Projects](https://github.com/Python-World/python-mini-projects)
-- [IPython](https://github.com/ipython/ipython)
+- [IPython](https://github.com/ipython/ipython) - command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers introspection, rich media, shell syntax, tab completion, and history
 - [Ipython notebooks](https://github.com/jdwittenauer/ipython-notebooks) - A collection of IPython notebooks covering various topics
-- [Python is cool](https://github.com/chiphuyen/python-is-cool)
-- [Python Roadmap](https://github.com/GnuriaN/Python-Roadmap)
-- [30 seconds of python](https://github.com/30-seconds/30-seconds-of-python)
+- [Python is cool](https://github.com/chiphuyen/python-is-cool) - features for machine learning that I used to be too afraid to use.
+- [Python Roadmap](https://github.com/GnuriaN/Python-Roadmap) - Дорожная карта по изучению Python
+- [30 seconds of python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [Learn Python 3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
-- [Python patterns](https://github.com/faif/python-patterns)
-- [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
-- [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio)
-- [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python)
-- [Awesome Flake8 Extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-- [Awesome Python Typing](https://github.com/typeddjango/awesome-python-typing)
-- [Awesome Python scientific audio](https://github.com/faroit/awesome-python-scientific-audio)
-- [Awesome Python in education](https://github.com/quobit/awesome-python-in-education)
-- [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)
-- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Python patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+- [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
+- [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python) - A curated list of awesome scientific Python resources
+- [Awesome Flake8 Extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - A curated awesome list of flake8 extensions. Feel free to contribute
+- [Awesome Python Typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
+- [Awesome Python scientific audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio
+- [Awesome Python in education](https://github.com/quobit/awesome-python-in-education) - A curated list about Python in Education
+- [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - Free software that works great, and also happens to be open-source Python
+- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [cpython](https://github.com/python/cpython) - Python language src
 - [Peps](https://github.com/python/peps) - Python Enhancement Proposals

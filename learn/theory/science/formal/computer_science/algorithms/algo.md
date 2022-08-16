@@ -51,7 +51,8 @@ TODO
 
 ## Links
 
-- [Algorithms](http://e-maxx.ru/algo/)
+- [The Algorithms](https://the-algorithms.com/en) - GitHub's largest open-source algorithm library
+- [Algorithms](http://e-maxx.ru/algo/) - Russian version of popular e-maxx, An excellent set of study material for DS & ALgo.
 - [Visualgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
 - [Алгоритмика](https://ru.algorithmica.org/)
 - [Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall13/cos521/)
@@ -62,5 +63,3 @@ TODO
 - [Problem Solving (Data Structures)](https://www.hackerrank.com/domains/data-structures)
 - [100 days of algorithms](https://github.com/coells/100days)
 - [A collection of algorithms and data structures ](https://github.com/williamfiset/Algorithms)
-- [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-- [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)

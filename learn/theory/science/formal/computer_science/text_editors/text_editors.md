@@ -26,6 +26,7 @@ TODO
 
 - [Which editor/IDE does Bisqwit use? Answers & some history](https://youtu.be/ZMBQmhO8KqI)
 - [Xi: an editor for the next 20 years – Raph Levien](https://youtu.be/4FbQre9VQLI)
+- [PyCharm by JetBrains](https://www.youtube.com/c/PyCharmIDE/playlists)
 
 
 ## Links

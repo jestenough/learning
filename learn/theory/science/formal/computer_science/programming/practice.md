@@ -19,6 +19,7 @@ TODO
 
 ## Links
 
+- [InterviewBit](https://www.interviewbit.com/) - platform to learn skills that you need for technology jobs
 - [Leetcode](https://leetcode.com/)
 - [Exercism](https://exercism.org/)
 - [Project Euler](https://projecteuler.net/archives)

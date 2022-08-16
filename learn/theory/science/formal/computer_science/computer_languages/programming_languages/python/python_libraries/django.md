@@ -41,10 +41,12 @@ TODO
 - [Python Django Web Framework - Full Course for Beginners](https://youtu.be/F5mRW0jo-U4)
 - [Django Tutorial - Create a Digital Resume with a Python Backend](https://youtu.be/0oSsLbh_Kv4)
 - [How to build a simple Hacker News clone using Django 3 | Django tutorial](https://youtu.be/292GB6snFYo)
+- [Try DJANGO Tutorial Series](https://youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)
 
 
 ## Links
 
+- [Django documentation](https://docs.djangoproject.com/)
 - [Django Tutorials](https://learndjango.com/)
 - [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/)
 - [appliku](https://appliku.com/) - Deploy Django in 5 minutes
