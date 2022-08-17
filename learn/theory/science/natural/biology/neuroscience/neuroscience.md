@@ -53,6 +53,7 @@ TODO
 - [Нейрокоммуникаторы — Александр Каплан](https://youtu.be/hOiA1wXwwDc)
 - [Александр Каплан - Нейроинтерфейс мозг-компьютер](https://youtu.be/GINJ-xks5r8)
 - [Мозг: как он устроен и работает - Дубынин Вячеслав Альбертович](https://youtube.com/playlist?list=PLcsjsqLLSfNDrS8I27uf_ZFHoAADfLoFZ)
+- [How to learn Computational Neuroscience on your Own (a self-study guide)](https://youtu.be/MhF3R_0LWbk)
 
 
 ## Links

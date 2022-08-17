@@ -54,6 +54,13 @@ TODO
 - [r/Physics_olympiad](https://www.reddit.com/r/Physics_olympiad/wiki/index)
 - [Theoretical Physics Reference](https://www.theoretical-physics.com/dev/index.html)
 - [Einstein Papers Project](https://www.einstein.caltech.edu/)
+<<<<<<< Updated upstream
 - [ScienceClic English](https://www.youtube.com/c/ScienceClicEN/)
 - [Physics Explained](https://www.youtube.com/c/PhysicsExplainedVideos/)
 - [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky)
+=======
+- [15 минут Науки – Физика онлайн](http://15mscience.org/) - статьи, написанные на конкретную тему по физике с необычными задачами
+- [ScienceClic English](https://www.youtube.com/c/ScienceClicEN/) `[YouTube]`
+- [Physics Explained](https://www.youtube.com/c/PhysicsExplainedVideos/) `[YouTube]`
+- [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky) `[YouTube]`
+>>>>>>> Stashed changes

@@ -50,4 +50,9 @@ TODO
 
 - [Amazon Braket](https://aws.amazon.com/ru/braket/) - Ускорьте исследования в области квантовых вычислений
 - [Xanadu Quantum Cloud](https://www.xanadu.ai/) - Start building quantum applications today.
+<<<<<<< Updated upstream
 - [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
+=======
+- [Looking Glass Universe](https://www.youtube.com/user/LookingGlassUniverse/) `[YouTube]`
+- [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) `[GitHub]`
+>>>>>>> Stashed changes
