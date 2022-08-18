@@ -15,6 +15,7 @@ TODO
 
 - [An Introduction to Non-Classical Logic](https://www.cambridge.org/ie/academic/subjects/philosophy/philosophy-science/introduction-non-classical-logic-if-2nd-edition?format=PB&isbn=9780521670265)
 - Введение в логику и научный метод (Коэн М., Нагель Э.)
+- Logic Made Easy: How to Know When Language Deceives You (Deborah J. Bennett)
 
 
 ## Courses / Videos
