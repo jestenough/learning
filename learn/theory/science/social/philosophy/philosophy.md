@@ -11,6 +11,8 @@ TODO
 - [Философия физики и математики - Чусов Анатолий Витальевич](https://youtube.com/playlist?list=PLcsjsqLLSfNCA-U1alYu0lgSFNzZ9m-zw)
 - [Философия первой половины 20 века - Фалев Егор Валерьевич](https://youtube.com/playlist?list=PLcsjsqLLSfNACtnqbK0ViwR8IXPCtwE0e)
 - [Майкл Сэндел «Справедливость»](https://www.youtube.com/playlist?list=PL8YZyma552VeTCYPkkEisHKAHhNx3Psk-)
+- [The Map Of Philosophy](https://youtu.be/YxBShJU_CKs)
+- [Ethics](https://youtube.com/playlist?list=PLz0n_SjOttTfg6LW9Lgul9xxphc2ZRLKC)
 
 
 ## Links
