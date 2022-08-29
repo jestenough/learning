@@ -25,10 +25,12 @@ TODO
 - [Курс «Введение в логику»](https://youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
 - [Математическая логика](https://youtube.com/playlist?list=PLDrmKwRSNx7JW-pjDoo6gEFdvA4tFUYQB)
 - [Введение в логику](https://youtube.com/playlist?list=PLDrmKwRSNx7J68M1-xHVCtravxeQmarQ8)
+- [100 Days of Logic (Full)](https://youtube.com/playlist?list=PLz0n_SjOttTcjHsuebLrl0fjab5fdToui)
+- [Advanced Logic](https://youtube.com/playlist?list=PLz0n_SjOttTfubgY0h2AJhNyRSsog1X9P)
 
 
 ## Links
 
 - [Logic Matters](https://www.logicmatters.net/)
 - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
-- [History of Logic](https://github.com/prathyvsh/history-of-logic) 
+- [History of Logic](https://github.com/prathyvsh/history-of-logic)
