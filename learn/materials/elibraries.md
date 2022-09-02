@@ -28,6 +28,7 @@
 * [Tandfonline](https://www.tandfonline.com/) - Search peer-reviewed journals and articles
 * [Sci-Hub](https://sci-hub.se/) - shadow library website that provides free access to millions of research papers and books, without regard to copyright
 * [arXiv](https://arxiv.org/) - articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics
+* [dblp computer science bibliography](https://dblp.uni-trier.de/) - on-line reference for bibliographic information on major computer science publications
 * [Google scholar](https://scholar.google.com/) - provides a simple way to broadly search for scholarly literature
 * [Lib.Ru: Библиотека Максима Мошкова](http://lib.ru/) - is the oldest electronic library in the Russian Internet segment
 * [Librimood](https://librimood.com/) - Find books based on your mood
