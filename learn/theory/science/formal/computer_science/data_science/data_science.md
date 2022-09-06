@@ -24,9 +24,10 @@ TODO
 - Теоретический минимум по Big Data
 - Работа с Big Data в облаках (Александр Сенько)
 - Applied data science with python and jupyter (Alex Galea)
+- [Словарь Big Data (PDF)](https://www.itsumma.ru/dataops-mlops-support/big-data-dictionary?download=1)
 
 
-## Courses
+## Courses / Videos
 
 - [DevFest Siberia 2019 | Data Science](https://youtube.com/playlist?list=PLINg778NUJCr3gCksaJZCTMMDjH8GEQW3)
 - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)

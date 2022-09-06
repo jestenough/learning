@@ -36,6 +36,7 @@ TODO
 - [Fully Homomorphic Encryption Part One: A Gentle Intro](http://blog.higashi.tech/2020/06/16/fhe_01.html)
 - [Ask HN: Good Resources on Voice Encryption?](https://news.ycombinator.com/item?id=23712006)
 - [End-to-End Encryption in the Browser](https://blog.excalidraw.com/end-to-end-encryption/)
+- [Узнать хеш сумму файла стандартными средствами командная строка](http://itfound.ru/123-uznat-hash-sum-standart-sredstva-cmd.html)
 
 
 ## Books

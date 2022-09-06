@@ -29,6 +29,7 @@ TODO
 - [Testing Django Migrations](https://sobolevn.me/2019/10/testing-django-migrations)
 - [Profiling Django with DTrace and cProfile](https://wiedi.frubar.net/blog/2019/11/18/django-performance/)
 - [Six things I do every time I start a Django project](https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/)
+- [Деплой Django проекта на Heroku](https://habr.com/ru/post/683796/)
 
 
 ## Books
