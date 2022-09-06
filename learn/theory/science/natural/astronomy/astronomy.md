@@ -46,16 +46,17 @@ TODO
 ## Links
 
 - [SpacePlace](https://spaceplace.nasa.gov/nebula/en/) - explore Earth and Space
-- [Black-holes](https://www.black-holes.org/)
+- [Black-holes](https://www.black-holes.org/) - collaborative research effort involving multiple institutions
 - [Apollo in realtime](https://apolloinrealtime.org/) - A real-time journey through the Apollo missions.
-- [The Orbital Index](https://orbitalindex.com/)
+- [The Orbital Index](https://orbitalindex.com/) - concise and technical newsletter from Andrew Cantino and Ben Lachman highlighting developments in space science and exploration, NewSpace startups, and (mostly) related content
 - [Stars ChromeExperiment](http://stars.chromeexperiments.com/) - An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars.
 - [Space Engine](https://spaceengine.org/) - Universe simulator
 - [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
-- [Melodysheep](https://www.melodysheep.com/)
-- [PBS Space Time](https://www.youtube.com/c/pbsspacetime/)
-- [NASASpaceflight](https://www.youtube.com/channel/UCSUu1lih2RifWkKtDOJdsBA)
-- [It's Just Astronomical!](https://www.youtube.com/c/ItsJustAstronomical/)
+- [Melodysheep](https://www.melodysheep.com/) - John D. Boswell, a filmmaker, composer, VFX artist, and editor from the pacific northwest
+- [Eyes on the Solar System](https://eyes.nasa.gov/apps/solar-system/)
+- [PBS Space Time](https://www.youtube.com/c/pbsspacetime/) - explores the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi, and anything else you can think of beyond Planet Earth with our astrophysicist host: Matthew O’Dowd.
+- [NASASpaceflight](https://www.youtube.com/channel/UCSUu1lih2RifWkKtDOJdsBA) - is already a leading online news resource for everyone interested in space flight specific news, supplying our readership with the latest news, around the clock, with editors covering all the leading space-faring nations
+- [It's Just Astronomical!](https://www.youtube.com/c/ItsJustAstronomical/) - Interesting animations about astronomy.
 - [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q)
 - [Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space
-- [Awesome Space](https://github.com/orbitalindex/awesome-space) 
+- [Awesome Space](https://github.com/orbitalindex/awesome-space) - A list of awesome space-related packages and resources maintained by The Orbital Index 
