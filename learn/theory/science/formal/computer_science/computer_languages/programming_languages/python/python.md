@@ -76,6 +76,16 @@ TODO
 - [PEP 374 -- Choosing a distributed VCS for the Python project](https://www.python.org/dev/peps/pep-0374/)
 - [Python — серьезный язык для разработки backend](https://habr.com/ru/company/raiffeisenbank/blog/593047/)
 - [Как PyPy ускоряет Python до уровня C?](https://nuancesprog.ru/p/14989/)
+- [Введение в Data classes](https://habr.com/ru/post/415829/)
+- [Руководство к дескрипторам](https://habr.com/ru/post/122082/)
+- [Cython: более чем 30-кратное ускорение Python-кода](https://habr.com/ru/company/ruvds/blog/462487/)
+- [Как сделать ваш код в 80 раз быстрее](https://habr.com/ru/company/otus/blog/349230/)
+- [Введение в функциональное программирование на Python](https://habr.com/ru/post/257903/)
+- [Как хранить объекты Python со сложной структурой](https://proglib.io/p/kak-hranit-obekty-python-so-slozhnoy-strukturoy-moduli-pickle-i-dill-2020-04-30)
+- [Как опубликовать свою Python библиотеку на PyPI](https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28)
+- [Приоритетность и ассоциативность операторов / для начинающих](https://pythonru.com/uroki/29-prioritetnost-i-associativnost-operatorov-dlja-nachinajushhih)
+- [Building a full-text search engine in 150 lines of Python code](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
+- [Генераторы для самых маленьких](https://habr.com/ru/post/560300/)
 
 
 ## Books
@@ -83,10 +93,6 @@ TODO
 - Как устроен python. Гид для разработчиков, программистов и интересующихся. (Харрисон М.)
 - Программирование на Python, том 1, 4-е издание. Марк Лутц
 - Чистый питон`[0/288]`
-- Программируем на Python (Майкл Доусон)
-- Прикладной анализ текстовых данных на Python
-- A Byte of Python (Russian)
-- [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php)
 - Data Engineering with Python (Paul Crickard)
 - Algorithmic Trading with Python (Chris Conlan)
 
