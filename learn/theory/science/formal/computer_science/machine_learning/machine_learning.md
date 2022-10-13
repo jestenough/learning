@@ -45,6 +45,8 @@ TODO
 - [Learning Curve Theory](https://arxiv.org/abs/2102.04074)
 - [63 Machine Learning Algorithms — Introduction](https://medium.com/swlh/63-machine-learning-algorithms-introduction-5e8ea4129644)
 - [Can a neural network train other networks?](https://towardsdatascience.com/can-a-neural-network-train-other-networks-cf371be516c6)
+- [What is concept drift and why is it necessary to detect it?](https://censius.ai/blogs/what-is-concept-drift-and-why-does-it-go-undetected)
+- [Understand how data drift affects AI performance and how you can detect them](https://censius.ai/blogs/data-drift-barrier-to-ai-performance)
 
 
 ## Books
@@ -91,3 +93,5 @@ TODO
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 - [The Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan)
 - [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk/videos)
+- [A Curated list of tools for MLOps](https://censius.ai/mlops-tools)
+- [Explaination of common MLOps terms](https://censius.ai/wiki) 
