@@ -15,6 +15,7 @@ TODO
 ## Books
 
 - [Vocabulary for Children](https://en.by1lib.org/booklist/337935/0d3d12)
+- [2books](https://2books.su/) - Книги на английском языке с параллельным переводом
 - Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)
 - Полный курс английского языка - учебник-самоучитель (М.Г.Рубцова)
 - Английский язык. Новый самоучитель (Ирина Орлова, А. Петрова)
@@ -28,7 +29,6 @@ TODO
 - [Business English](https://english-globe.ru/index.php?option=com_content&task=category&sectionid=19&id=71&Itemid=92)
 - [Writing in English at University](https://www.coursera.org/learn/writing-english-university)
 - [Online English Courses](http://www.1-language.com/englishcourse/index.htm)
-- [Correct English](http://www.correctenglish.ru/exercises/)
 - [Полиглот](https://rutracker.org/forum/viewtopic.php?t=3918150)
 - [Как понимать на слух английскую речь? ПРОСТАЯ ТРЕНИРОВКА](https://youtu.be/AOVBrB8ypkQ)
 - [100 Английских Сокращений Слов с Примерами.Английских Сокращений и Сленг.](https://youtu.be/LVhcyGBLTEg)
@@ -62,12 +62,12 @@ TODO
 ## Links
 
 - [StudyEnglishWords](https://studyenglishwords.com/) - Изучение английских слов с помощью параллельных текстов методом Ильи Франка плюс интервальное повторение слов.
-- [2books](https://2books.su/) - Книги на английском языке с параллельным переводом
 - [USA learns](https://www.usalearns.org/) - A free website that helps adults learn English online by providing engaging videos and educational activities
 - [Pronunciation of words in English](https://en.wikipedia.org/wiki/Help:IPA/English) - Help:IPA/English
 - [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
-- [History of english podcast](https://historyofenglishpodcast.com/)
 - [Common Errors in English Usage](https://brians.wsu.edu/common-errors/)
+- [LEOnetowrk](https://www.learnenglish.de/) - Helping people to learn British English since 1999
+- [Perfect English Grammar](https://www.perfect-english-grammar.com/) - English grammar practice
 
 
 ## Music
@@ -90,7 +90,8 @@ TODO
 - [86 tests](http://english03.ru/testy)
 - [Test vocab](http://testyourvocab.com/)
 - [Test vocab2](https://my.vocabularysize.com/)
-- [Level Tests](http://www.englishjet.com/english_courses_files/tests.htm)
+- [Level Tests](http://www.englishjet.com/english_courses_files/tests.htm) - level tests will help you get a better view of your current level
+- [Correct English](http://www.correctenglish.ru/exercises/) - Интерактивные уроки английского языка
 
 
 ## Training texts
