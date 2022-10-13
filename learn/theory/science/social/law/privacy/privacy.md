@@ -11,6 +11,7 @@ TODO
 - [Number of journalists behind bars reaches global high](https://cpj.org/reports/2021/12/number-of-journalists-behind-bars-reaches-global-high/)
 - [17 расширений Chrome и Firefox для вашей приватности и безопасности](https://habr.com/ru/company/globalsign/blog/525290/)
 - [Как и чем обеспечить приватность и безопасность. Обзор инструментов 2019 года](https://habr.com/ru/company/edison/blog/478364/)
+- [Ваш компьютер на самом деле не ваш](https://habr.com/ru/post/528358/)
 
 
 ## Courses / Videos

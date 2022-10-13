@@ -40,7 +40,7 @@ TODO
 
 - [Information Security](https://www.freecodecamp.org/learn/information-security/)
 - [Discover the best kept secret in cybersecurity](https://www.hackerone.com/security-at/2021)
-- [HotMobile 2020 - Listen to Your Key: Towards Acoustics-based Physical Key Inference](https://youtu.be/bxyAa_txM34) 
+- [HotMobile 2020 - Listen to Your Key: Towards Acoustics-based Physical Key Inference](https://youtu.be/bxyAa_txM34)
 - [Hackfest 2015: Theo de Raadt presented "Pledge: A new security technology in openbsd"](https://youtu.be/F_7S1eqKsFk)
 - [DEF CON 26 - Christopher Domas - GOD MODE UNLOCKED Hardware Backdoors in redacted x86](https://youtu.be/jmTwlEh8L7g)
 - [SSL/TLS Deployment Best Practices](https://youtu.be/AYNtH7JMlAQ)
@@ -48,9 +48,11 @@ TODO
 
 ## Links
 
+- [Хакер](https://xakep.ru/) - крупнейший в России и Европе ресурс в области прикладной информационной безопасности
 - [ИТ-энциклопедия «Касперского»](https://encyclopedia.kaspersky.ru/)
 - [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers.
 - [MAT: Metadata Anonymisation Toolkit](https://zenway.ru/page/mat) - Инструментарий для удаления метаданных у файлов различных форматов
+- [OSINT Tools](https://infosecurity.by/osint-tools)
 - [Abertay Hacksoc Wiki!](https://wiki.hacksoc.co.uk/)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
 - [HackTricks](https://book.hacktricks.xyz/)
