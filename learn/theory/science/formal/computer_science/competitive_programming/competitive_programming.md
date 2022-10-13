@@ -18,6 +18,11 @@ TODO
 - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
 
+## Courses / Videos
+
+- [Intro to Competitive Programming](https://youtu.be/tZ5FBBnHfm4)
+
+
 ## Links
 
 - [USA competitive programming](http://usaco.org/)

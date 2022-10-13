@@ -83,6 +83,8 @@ TODO
 - [Hardware interrupts](https://youtu.be/DlEa8kd7n3Q)
 - [The future of computing: a conversation with John Hennessy (Google I/O '18)](https://youtu.be/Azt8Nc-mtKM)
 - [Neuromorphic Computing Is a Big Deal for A.I., But What Is It?](https://youtu.be/TetLY4gPDpo)
+- [Exploring How Computers Work](https://youtu.be/QZwneRb-zqA)
+- [How Do Computers Remember?](https://youtu.be/I0-izyq6q5s)
 
 
 ## Links

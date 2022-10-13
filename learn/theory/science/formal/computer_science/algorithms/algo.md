@@ -19,6 +19,7 @@ TODO
 - [Пара алгоритмических задач для успешного программиста: нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 - [Сложность алгоритмов и операций на примере Python](https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03)
 - [Введение в связанные списки](https://tproger.ru/translations/introduction-to-linked-lists/)
+- [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
 
 
 ## Books

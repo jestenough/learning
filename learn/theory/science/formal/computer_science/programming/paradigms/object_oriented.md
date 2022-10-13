@@ -24,6 +24,7 @@ TODO
 - [Case against OOP is understated, not overstated](http://boxbase.org/entries/2020/aug/3/case-against-oop/)
 - [Classes and Instances](http://craftinginterpreters.com/classes-and-instances.html)
 - [Вас неправильно учили объектно-ориентированному программированию](https://nuancesprog.ru/p/14662/)
+- [Наследование, композиция, агрегация](https://habr.com/ru/post/354046/)
 
 
 ## Books
@@ -34,6 +35,7 @@ TODO
 
 ## Courses / Videos
 
+- [Object-Oriented Programming is Bad](https://youtu.be/QM1iUe6IofM)
 - [Handmade Hero | Getting rid of the OOP mindset](https://youtu.be/GKYCA3UsmrU)
 - [OOPSLA 2020](https://youtube.com/playlist?list=PLyrlk8Xaylp5UkqDkIEMdtooA6Ktusc_x)
 - [RailsConf 2014 - All the Little Things by Sandi Metz](https://youtu.be/8bZh5LMaSmE)

@@ -32,6 +32,7 @@ TODO
 - [Ветвление Git с примерами из реальной жизни](https://proglib.io/p/vetvlenie-git-s-primerami-iz-realnoy-zhizni-2020-01-25)
 - [Всё, что нужно знать начинающему о Git: рассмотрим за 15 минут](https://proglib.io/p/vse-chto-nuzhno-znat-nachinayushchemu-o-git-rassmotrim-za-15-minut-2021-10-17)
 - [git rebase in depth](https://git-rebase.io/)
+- [7 малоизвестных команд и приемов Git](https://nuancesprog.ru/p/16309/)
 
 
 ## Books
@@ -83,7 +84,7 @@ TODO
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [questions about git commits](https://questions.wizardzines.com/git-commits.html)
 - [questions about git branches](https://questions.wizardzines.com/git-branches.html)
-- [On Git Commit Messages](https://github.com/michaeljones/on-commit-messages) 
+- [On Git Commit Messages](https://github.com/michaeljones/on-commit-messages)
 - [.gitignore Templates](https://github.com/github/gitignore)
 - [.gitattributes Templates](https://github.com/alexkaratarakis/gitattributes)
 - [GitHub CLI](https://github.com/cli/cli)
