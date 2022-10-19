@@ -86,6 +86,8 @@ TODO
 - [Приоритетность и ассоциативность операторов / для начинающих](https://pythonru.com/uroki/29-prioritetnost-i-associativnost-operatorov-dlja-nachinajushhih)
 - [Building a full-text search engine in 150 lines of Python code](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 - [Генераторы для самых маленьких](https://habr.com/ru/post/560300/)
+- [Разборки в террариуме. Изучаем виды интерпретаторов Python](https://xakep.ru/2015/02/04/python-interpretators/)
+- [Timsort (original explanation by Tim Peters)](https://bugs.python.org/file4451/timsort.txt)
 
 
 ## Books

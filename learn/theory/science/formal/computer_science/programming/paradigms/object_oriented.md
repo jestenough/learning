@@ -25,6 +25,9 @@ TODO
 - [Classes and Instances](http://craftinginterpreters.com/classes-and-instances.html)
 - [Вас неправильно учили объектно-ориентированному программированию](https://nuancesprog.ru/p/14662/)
 - [Наследование, композиция, агрегация](https://habr.com/ru/post/354046/)
+- [Productivity Analysis of Object-Oriented Software loped in a Commercial Environment (Potok, Thomas E. and Vouk, Mladen and Rindos, Andy)](https://sci-hub.se/10.1002/(sici)1097-024x(199908)29:10%3C833::aid-spe258%3E3.0.co;2-p)
+- [Object Oriented Programming is an expensive disaster which must end](https://medium.com/@jacobfriedman/object-oriented-programming-is-an-expensive-disaster-which-must-end-2cbf3ea4f89d)
+- [Bad Engineering Properties of Object-Oriented Languages](https://dl.acm.org/doi/fullHtml/10.1145/242224.242415)
 
 
 ## Books
