@@ -88,6 +88,7 @@ TODO
 - [Генераторы для самых маленьких](https://habr.com/ru/post/560300/)
 - [Разборки в террариуме. Изучаем виды интерпретаторов Python](https://xakep.ru/2015/02/04/python-interpretators/)
 - [Timsort (original explanation by Tim Peters)](https://bugs.python.org/file4451/timsort.txt)
+- [Сложность алгоритмов и операций на примере Python](https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03)
 
 
 ## Books
@@ -113,6 +114,7 @@ TODO
 - [What's New in Python 3.10: featuring Brandt Bucher, Lukasz Llanga and Sebastian Ramirez](https://youtu.be/JteTO3EE7y0)
 - [Python Backend Web Development Course (with Django)](https://youtu.be/jBzwzrDvZ18)
 - [__new__ vs __init__ in Python](https://youtu.be/-zsV0_QrfTw)
+- [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://youtu.be/MCs5OvhV9S4) - about multithreading and asynchrony, building your event loop from scratch
 
 
 ## Links

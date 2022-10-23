@@ -43,5 +43,6 @@ TODO
 - [Overleaf](https://www.overleaf.com/)
 - [LaTeX Best Practices](https://github.com/simonharrer/latex-best-practices)
 - [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
+- [latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
 - [Image to LaTeX](https://github.com/kingyiusuen/image-to-latex)
 - [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)

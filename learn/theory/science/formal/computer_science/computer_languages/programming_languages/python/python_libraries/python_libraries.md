@@ -35,15 +35,18 @@
 
 ## Other
 
-- [biopython](https://github.com/biopython/biopython)
-- [flask](https://github.com/pallets/flask)
-- [httpx](https://github.com/encode/httpx)
-- [dash](https://github.com/plotly/dash)
+- [biopython](https://github.com/biopython/biopython) - Python tools for computational molecular biology
+- [flask](https://github.com/pallets/flask) - micro framework for building web applications
+- [httpx](https://github.com/encode/httpx) - HTTP client for Python
+- [dash](https://github.com/plotly/dash) - for building ML & data science web apps
+- [isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 
 
 ## Testing
 
 - [pytest](https://github.com/pytest-dev/pytest)
+    - [Pytest – Введение](https://coderlessons.com/tutorials/python-technologies/uznaite-pytest/pytest-vvedenie)
+    - [pytest run testfiles with same name in different directory will fail #3151](https://github.com/pytest-dev/pytest/issues/3151)
 - [pytest mock](https://github.com/pytest-dev/pytest-mock)
 - [freezegun](https://github.com/spulec/freezegun)
 - [coveragepy](https://github.com/nedbat/coveragepy)
