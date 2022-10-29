@@ -54,6 +54,7 @@ TODO
 - [Introduction to HTML](https://lyty.dev/html/index.html)
 - [The web’s most popular front-end template](https://html5boilerplate.com/)
 - [Codepen](https://codepen.io/tejask/pen/OJJBLrq)
+- [HTML5 Security Cheatsheet](https://html5sec.org/)
 - [HTML hint](https://htmlhint.com/)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 - [Can include](https://caninclude.glitch.me/)

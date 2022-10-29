@@ -34,6 +34,7 @@ TODO
 
 ## Books
 
+- Django for beginners (William S. Vincent)
 - Django RESTful Web Services (By Gastón C. Hillar)
 
 
@@ -49,6 +50,8 @@ TODO
 
 - [Django documentation](https://docs.djangoproject.com/)
 - [Django Tutorials](https://learndjango.com/)
+- [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views
+- [Django Girls Tutorial](https://tutorial.djangogirls.org/)
 - [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/)
 - [appliku](https://appliku.com/) - Deploy Django in 5 minutes
 - [kolo](https://kolo.app/) - See  everything happening in your running Django app
