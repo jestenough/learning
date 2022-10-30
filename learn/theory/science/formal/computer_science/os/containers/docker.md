@@ -3,6 +3,8 @@
 TODO
 
 
+## Articles
+
 - [The hunt for a better Dockerfile](https://matduggan.com/the-hunt-for-a-better-dockerfile/)
 - [Using Podman with BuildKit, the better Docker image builder](https://pythonspeed.com/articles/podman-buildkit/)
 - [Are Dockerfiles good enough?](https://matduggan.com/are-dockerfiles-good-enough/)
@@ -52,7 +54,7 @@ TODO
 
 ## Courses / Videos
 
-- [Основы Docker. Большой практический выпуск](https://youtu.be/QF4ZF857m44) 
+- [Основы Docker. Большой практический выпуск](https://youtu.be/QF4ZF857m44)
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 - [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
 - [Docker для Data Science](https://youtube.com/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m)
