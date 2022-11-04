@@ -15,6 +15,7 @@ TODO
 - [5 Languages That Could Change the Way You See the World](https://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world)
 - [Rebuilding the most popular spellchecker. Part 1](https://zverok.github.io/blog/2021-01-05-spellchecker-1.html)
 - [Notes on Learning Languages](https://lukesmith.xyz/articles/learning-languages)
+- [Гипотеза лингвистической относительности](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0_%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8?)
 
 
 ## Courses / Videos
@@ -34,5 +35,5 @@ TODO
 - [Reverso context](https://context.reverso.net/translation/) - Translation in context
 - [Want words](https://wantwords.thunlp.org/) - Open-source online reverse dictionary
 - [This word does not exist](https://www.thisworddoesnotexist.com/)
-- [trunk](https://github.com/theiceshelf/trunk) - Language learning application 
+- [trunk](https://github.com/theiceshelf/trunk) - Language learning application
 - [Awesome Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)

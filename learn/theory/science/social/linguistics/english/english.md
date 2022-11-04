@@ -10,6 +10,8 @@ TODO
 - [English is not normal](https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages)
 - [An Interactive Guide to Ambiguous Grammar](https://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar)
 - [Why English actually is relatively easy to learn (but not to master)](http://christopherwink.com/2018/11/05/english-easy-learn-john-mcwhorter-history-magnificent-bastard-tongue/)
+- [Что читать на английском языке чтобы не умереть от скуки](https://habr.com/ru/post/562048/)
+- [Английский для собеседований в IT-компании: что нужно для старта карьеры?](https://habr.com/ru/company/englishdom/blog/328038/)
 
 
 ## Books
@@ -17,27 +19,20 @@ TODO
 - [Vocabulary for Children](https://en.by1lib.org/booklist/337935/0d3d12)
 - [2books](https://2books.su/) - Книги на английском языке с параллельным переводом
 - Курс разговорного английского в удобных формулах и диалогах (Н.Брель,Н.Пославская)
-- Полный курс английского языка - учебник-самоучитель (М.Г.Рубцова)
 - Английский язык. Новый самоучитель (Ирина Орлова, А. Петрова)
-- Английский язык. 5-11 классы (Справочник школьника)
+- Тренажер по английскому языку-2. Углубленный курс подготовки к централизованному тестированию и экзамену (А.К. Точилина, Л.Л. Кажемская)
 
 
 ## Courses / Videos
 
-- [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation)
-- [Audio-lessons](https://english-globe.ru/index.php?option=com_content&task=view&id=13&Itemid=17)
-- [Business English](https://english-globe.ru/index.php?option=com_content&task=category&sectionid=19&id=71&Itemid=92)
-- [Writing in English at University](https://www.coursera.org/learn/writing-english-university)
 - [Online English Courses](http://www.1-language.com/englishcourse/index.htm)
 - [Полиглот](https://rutracker.org/forum/viewtopic.php?t=3918150)
-- [Как понимать на слух английскую речь? ПРОСТАЯ ТРЕНИРОВКА](https://youtu.be/AOVBrB8ypkQ)
 - [100 Английских Сокращений Слов с Примерами.Английских Сокращений и Сленг.](https://youtu.be/LVhcyGBLTEg)
 - [Как улучшить разговорный американский английский - Говорите как носитель языка](https://youtu.be/m3g51xfopIE)
-- [Learn English with Movies | Will Smith - The Pursuit of Happyness](https://youtu.be/pKoH9GkEKxQ)
-- [Грамматика Английского Языка](https://stepik.org/course/70675)
 - [Математический английский](https://openedu.ru/course/hse/MATHENG/)
-- [English for Science, Technology, Engineering, and Mathematics](https://www.coursera.org/learn/stem) - this course is designed for non-native English speakers who are interested in improving their English skills in the sciences.
-- [English for Business Networking](https://tidd.ly/3ud49U3) - Introduce yourself in English, keep a conversation going, and leave the conversation
+- [A.J. Hoge - Effortless English](https://rutracker.org/forum/viewtopic.php?t=1097898) - Elementary (American English)
+- [A.J. Hoge - Power English](https://rutracker.org/forum/viewtopic.php?t=2075205) - Intermediate (American English)
+- [Raymond Murphy interview: 30 years of Grammar in Use](https://youtu.be/ndcAoHr1eVc)
 
 
 ## Dictionaries
@@ -46,6 +41,17 @@ TODO
 - [Cambridge Dictionary](https://dictionary.cambridge.org/)
 - [Word lists in Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/wordlist/)
 - [Visuwords](https://visuwords.com/) - Visual Dictionary; Visual Thesaurus; Interactive Lexicon
+- [ABBYY Lingvo](https://lingvolive.com)
+- [Oxford Advanced Learner's Dictionary 9th (Advanced)](https://oxfordlearnersdictionaries.com )
+- [Oxford Advanced American Dictionary (Advanced)](https://oxfordlearnersdictionaries.com/us )
+- [Pictures Word List](https://www.oxfordlearnersdictionaries.com/wordlist/american_english/pictures/) - Pictures from the Oxford Advanced American Dictionary
+
+
+## Grammar
+
+- [Essential English Grammar или Красный Мёрфи (уровень elementary A1-A2)](https://youtube.com/playlist?list=PLYB0SmefqEsniU1UbGzrfhNCV3noALHj7)
+- [English Grammar in Use или Синий Мёрфи (уровень intermediate B1-B2)](https://youtube.com/playlist?list=PLYB0SmefqEsk6b6PRR8mai1oetrWyH7j-)
+- [Advanced English Grammar (English C1-C2 IELTS TOEFL)](https://youtube.com/playlist?list=PLYB0SmefqEskabgi9CfLoYtXTA3U8VNKS)
 
 
 ## Interview
@@ -92,6 +98,7 @@ TODO
 - [Test vocab2](https://my.vocabularysize.com/)
 - [Level Tests](http://www.englishjet.com/english_courses_files/tests.htm) - level tests will help you get a better view of your current level
 - [Correct English](http://www.correctenglish.ru/exercises/) - Интерактивные уроки английского языка
+- [EF Standard English Test](https://www.efset.org/ru/)
 
 
 ## Training texts
@@ -133,3 +140,4 @@ TODO
 - [EngVid](https://www.youtube.com/user/engvidenglish)
 - [ENGLISH with James · engVid](https://www.youtube.com/c/engvidJames)
 - [Learn English with Bob the Canadian](https://www.youtube.com/c/LearnEnglishwithBobtheCanadian)
+- [Rachel's English](https://www.youtube.com/user/rachelsenglish)
