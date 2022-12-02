@@ -46,29 +46,17 @@ TODO
 
 ## Links
 
-- [HTML Recipes](https://htmlrecipes.dev/)
-- [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 - [W3 schools HTML](https://www.w3schools.com/html/default.asp)
+- [HTML Recipes](https://htmlrecipes.dev/)
 - [The Button Cheat Sheet](https://www.buttoncheatsheet.com/)
 - [All HTML Elements](https://elements.xz.style/)
-- [Introduction to HTML](https://lyty.dev/html/index.html)
-- [The web’s most popular front-end template](https://html5boilerplate.com/)
-- [Codepen](https://codepen.io/tejask/pen/OJJBLrq)
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
 - [HTML hint](https://htmlhint.com/)
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
-- [Can include](https://caninclude.glitch.me/)
-- [HTML to image](https://github.com/bubkoo/html-to-image)
+- [Can include](https://caninclude.glitch.me/) - CAN I INCLUDE one TAG to ANOTHER
+- [Html Checker](https://validator.w3.org/nu/)
 - [DOM Testing Library](https://github.com/testing-library/dom-testing-library)
 - [Marko](https://github.com/marko-js/marko)
 - [xPath Finder](https://github.com/trembacz/xpath-finder)
 - [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
-- [htmlq](https://github.com/mgdm/htmlq)
-- [rehype](https://github.com/rehypejs/rehype)
-- [keen-slider](https://github.com/rcbyr/keen-slider)
-- [htmlparser2](https://github.com/fb55/htmlparser2)
 - [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX/)
 - [PostHTML](https://github.com/posthtml/posthtml)
-- [Konva](https://github.com/konvajs/konva)
-- [hyper(HTML)](https://github.com/WebReflection/hyperHTML)
-- [pup](https://github.com/ericchiang/pup)
