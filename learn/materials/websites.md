@@ -25,6 +25,7 @@
     * [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
     * [Wiki books](https://www.wikibooks.org/)
     * [Wiktionary](https://www.wiktionary.org/)
+* [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) - texts on memory, learning, sleep, creativity, problem solving, brain science, health, and education
 * [Мир энциклопедий](http://www.encyclopedia.ru/) - преимущественно русскоязычные энциклопедические и псевдоэнциклопедические издания (энциклопедии, энциклопедические словари, энциклопедические справочники).
 * [Большая российская энциклопедия](https://bigenc.ru/) - научное издательство "Большая российская энциклопедия"
 * [Энциклопедия Кругосвет](https://www.krugosvet.ru/) - универсальная научно-популярная энциклопедия
