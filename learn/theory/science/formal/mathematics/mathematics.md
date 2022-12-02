@@ -38,6 +38,7 @@ TODO
 - Математические изюминки (Р.Хонсбергер)
 - Математический калейдоскоп (Г.Штейнгауз)
 - Обобщение чисел (Л.С. Понтрягин)
+- [Visual Math: See How Math Makes Sense (Jessika Sobanski)](https://www.amazon.com/Visual-Math-See-Makes-Sense/dp/1576854043)
 
 
 ## Courses / Videos
@@ -46,7 +47,7 @@ TODO
 - [История математики](https://youtube.com/playlist?list=PLFTkMtYsMRIyj64_hzLoPAy64AtO7ztHo)
 - [100 уроков математики](https://youtube.com/playlist?list=PLqBfxn8OBMGrsA_YynaQWqHKhL7kEvL4X)
 - [Вся математика за 20 уроков](https://youtube.com/playlist?list=PLp1o4TiOetLxxpi6Y8fB4_L5iOX_Ui5ss)
-- [Математика для всех](https://youtube.com/playlist?list=PLlx2izuC9gjhc6TOzoeL-ovXXsvjJi22f) 
+- [Математика для всех](https://youtube.com/playlist?list=PLlx2izuC9gjhc6TOzoeL-ovXXsvjJi22f)
 - [Learn Mathematics from START to FINISH](https://youtu.be/pTnEG_WGd2Q)
 - [What does it feel like to invent math?](https://youtu.be/XFDM1ip5HdU)
 - [The map of mathematics](https://youtu.be/OmJ-4B-mS-Y)
@@ -62,6 +63,7 @@ TODO
 ## Links
 
 - [Math.ru](https://math.ru/)
+- [Encyclopedia of mathematics](https://encyclopediaofmath.org/wiki/)
 - [Свободно распространяемые издания](https://www.mccme.ru/free-books/)
 - [Ximera](https://ximera.osu.edu/) - free interactive mathematics textbooks (Ohio State University)
 - [Almost Fun](https://www.almostfun.org/lessons/) - Math lessons explain Math concepts using non-Math concepts you're already familiar with.
