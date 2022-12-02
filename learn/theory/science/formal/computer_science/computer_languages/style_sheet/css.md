@@ -68,14 +68,10 @@ TODO
 ## Courses / Videos
 
 - [GUI Challenges](https://youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
-- [Keeping it simple with CSS that scales – Andy Bell | CSSCafe](https://youtu.be/Sb4Ae466xbs)
 - [CSS Café](https://youtube.com/playlist?list=PLIfpjYCKV3lVpwHYCExIUAl9tWB3UzcG6)
 - [Miriam Suzanne - Container Queries & The Future of CSS](https://youtu.be/ilR9KlsHMGk)
 - [CSS Card with hover animation and mobile fallback](https://youtu.be/5DEq5cWNYt8)
-- [Роман Дворнов — CSS definition syntax](https://youtu.be/8kjE1n6mQ2s)
-- [Artem Sapegin: Say Hello to Box, Flex and Stack: Layouts in the Component Era / React Boston 2019](https://youtu.be/zvuKuFgp96o)
 - [A real-life journey into the opinionated world of 'utility-first' CSS](https://youtu.be/2-q4asoHUqU)
-- [Artem Sapegin: Custom CSS is the Path to Inconsistent UI / React Boston 2018](https://youtu.be/t5VTLwAias8)
 - [CSS Standardization - The State of the Web](https://youtu.be/TQ7NqpFMbFs)
 - [Michael Chan - Inline Styles: themes, media queries, contexts, & when it's best to use CSS](https://youtu.be/ERB1TJBn32c)
 
@@ -83,36 +79,22 @@ TODO
 ## Links
 
 - [Learn CSS](https://web.dev/learn/css/)
-- [Introduction to CSS](https://lyty.dev/css/index.html)
 - [You need to know css](https://lhammer.cn/You-need-to-know-css/#/)
 - [State of CSS](https://2020.stateofcss.com/en-US/)
 - [Grainy Gradient playground](https://grainy-gradients.vercel.app/)
 - [Beautiful CSS buttons examples](https://getcssscan.com/css-buttons-examples)
-- [Glassmorphism CSS Generator](https://ui.glass/generator/)
 - [CSS Layout Generator](https://layout.bradwoods.io/)
-- [Animate.css](https://animate.style/)
-- [transition.css](https://www.transition.style/)
 - [cssbuttons.app](https://cssbuttons.app/)
-- [Easing functions](https://easings.net/#)
-- [Toggles.css](https://jnkkkk.github.io/MoreToggles.css/allToggles.html)
 - [React CSS Loaders](https://lucasbassetti.com.br/react-css-loaders/)
 - [Tasty CSS-animated hamburgers](https://jonsuh.com/hamburgers/)
-- [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
-- [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
 - [cssfx](https://cssfx.netlify.app/) - Beautifully simple click-to-copy CSS effects
 - [CSS Tips](https://markodenic.com/css-tips/)
-- [Charts.css](https://chartscss.org/)
+- [Автопрефиксер CSS онлайн](https://autoprefixer.github.io/ru/) - плагин для PostCSS для добавления вендорных префиксов в CSS
 - [The Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
-- [Hell Yes! CSS!](https://wizardzines.com/zines/css/)
-- [normalize.css](https://github.com/necolas/normalize.css)
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
-- [rfs](https://github.com/twbs/rfs) - Automates responsive resizing
-- [sass](https://github.com/sass/sass)
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
-- [css only chat](https://github.com/kkuchta/css-only-chat)
 - [Rebass](https://github.com/rebassjs/rebass)
 - [CSS Modules](https://github.com/css-modules/css-modules)
-- [css-blocks](https://github.com/linkedin/css-blocks)
 - [Awesome CSS Variables](https://github.com/notoriousb1t/awesome-css-variables)
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 - [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning)
