@@ -44,6 +44,7 @@
 - [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)
 - [Code combat](https://codecombat.com/)
 - [Scratch](https://scratch.mit.edu/)
+- [Nandgame](https://nandgame.com/) - Building a Modern Computer From First Principles
 
 
 ## Links
