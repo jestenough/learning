@@ -89,6 +89,7 @@ TODO
 - [Разборки в террариуме. Изучаем виды интерпретаторов Python](https://xakep.ru/2015/02/04/python-interpretators/)
 - [Timsort (original explanation by Tim Peters)](https://bugs.python.org/file4451/timsort.txt)
 - [Сложность алгоритмов и операций на примере Python](https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03)
+- [Введение в аннотации типов Python](https://habr.com/ru/company/lamoda/blog/432656/)
 
 
 ## Books

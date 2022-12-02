@@ -30,6 +30,9 @@ TODO
 - [Profiling Django with DTrace and cProfile](https://wiedi.frubar.net/blog/2019/11/18/django-performance/)
 - [Six things I do every time I start a Django project](https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/)
 - [Деплой Django проекта на Heroku](https://habr.com/ru/post/683796/)
+- [what does forward slash do in this django settings.py python list?](https://stackoverflow.com/questions/65620648/what-does-forward-slash-do-in-this-django-settings-py-python-list)
+- [The World’s Smallest Django Project](https://www.oreilly.com/library/view/lightweight-django/9781491946275/ch01.html)
+- [Working with AJAX, CSRF & CORS](https://www.django-rest-framework.org/topics/ajax-csrf-cors/#working-with-ajax-csrf-cors)
 
 
 ## Books
