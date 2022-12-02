@@ -194,6 +194,7 @@
     - [Pure mathematics](theory/science/formal/mathematics/pure_mathematics/pure_mathematics.md)
         - [Algebra](theory/science/formal/mathematics/pure_mathematics/algebra/algebra.md)
             * [Linear algebra](theory/science/formal/mathematics/pure_mathematics/algebra/linear_algebra.md)
+            * [Group theory](theory/science/formal/mathematics/pure_mathematics/algebra/group_theory.md)
         - [Analysis](theory/science/formal/mathematics/pure_mathematics/analysis/analysis.md)
         - [Foundations](theory/science/formal/mathematics/pure_mathematics/foundations/foundations.md)
             * [Fractal](theory/science/formal/mathematics/pure_mathematics/foundations/fractal.md)
