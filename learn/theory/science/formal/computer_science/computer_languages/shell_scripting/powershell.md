@@ -2,7 +2,6 @@
 
 TODO
 
-
 ## Articles
 
 - [PowerShell: инструмент не только для сисадмина](https://gb.ru/posts/advanced_powershell)
@@ -16,7 +15,6 @@ TODO
 - [Powershell настоящий язык программирования. Скрипт оптимизации рутины в техподдержке](https://habr.com/ru/post/563686/)
 - [10 крутых вещей, которые можно сделать с помощью Windows PowerShell](https://zen.yandex.ru/media/merion_networks/10-krutyh-vescei-kotorye-mojno-sdelat-s-pomosciu-windows-powershell-5ebc4056e15729167215a68e)
 
-
 ## Books
 
 - Why PowerShell? (The DevOps Collective, Inc.)
@@ -27,11 +25,12 @@ TODO
 - Mastering Windows PowerShell Scripting (Chris Dent)
 - PowerShell Pocket Reference (Lee Holmes)
 
-
 ## Links
 
 - [Learn X in Y minutes Where X=powershell](https://learnxinyminutes.com/docs/powershell/)
 - [PowerShell Practice and Style](https://poshcode.gitbook.io/powershell-practice-and-style/introduction/)
+- [Approved Verbs for PowerShell Commands](https://learn.microsoft.com/en-US/powershell/scripting/developer/cmdlet/approved-verbs-for-windows-powershell-commands)
+- [Bash to PowerShell Cheat Sheet](https://virtualizationreview.com/articles/2020/07/27/bash-powershell-cheat-sheet.aspx)
 - [PowerShell src](https://github.com/PowerShell/PowerShell)
 - [PowerShell Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) - The official PowerShell documentation sources
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
