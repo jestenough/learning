@@ -25,6 +25,7 @@ TODO
 
 - [Freeopenvpn](https://www.freeopenvpn.org/) - Stay anonymous on the Internet, have a secure connection, get a complete freedom and access to the region-locked online resources (access resources that are only available in Russia, the US, Europe, and Asia
 - [Openvpn](https://openvpn.net/)
-- [openvpn-install](https://github.com/Nyr/openvpn-install)
-- [radvpn](https://github.com/mehrdadrad/radvpn)
-- [Algo VPN](https://github.com/trailofbits/algo)
+- [shadowsocks-heroku](https://github.com/Snawoot/shadowsocks-heroku) - Personal vpn using v2ray and shadowsocks hosted on heroku
+- [openvpn-install](https://github.com/Nyr/openvpn-install) - road warrior installer for Linux distro
+- [radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
+- [Algo VPN](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud

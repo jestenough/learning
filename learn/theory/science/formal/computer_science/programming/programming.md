@@ -59,6 +59,7 @@ TODO
 - [What is wrong with using goto?](https://stackoverflow.com/questions/3517726/what-is-wrong-with-using-goto)
 - [Why programming is difficult](https://joearms.github.io/published/2014-02-07-why-programming-is-difficult.html)
 - [Software Engineering at Google](https://arxiv.org/abs/1702.01715)
+- [Off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error)
 
 
 ## Books
@@ -66,9 +67,6 @@ TODO
 - [A PRACTICAL THEORY OF PROGRAMMING (Eric C.R. Hehner)](http://www.cs.toronto.edu/~hehner/aPToP/)
 - Оформление программного кода. Методическое пособие (Столяров А.)
 - Программирование: введение в профессию (Столяров А.)
-  - Том 1: азы программирования (2016)
-  - Том 2: низкоуровневое программирования (2016)
-  - Том 4: парадигмы (2020)
 - Код: тайный язык информатики (Чарльз Петцольд)
 - Совершенный код (Стив МакКоннелл)
 - Чистый код (Роберт Мартин)

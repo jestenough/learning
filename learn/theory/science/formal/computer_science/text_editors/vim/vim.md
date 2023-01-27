@@ -69,6 +69,7 @@ TODO
 - [Tabular cheatsheet](https://devhints.io/tabular)
 - [The ABCs of vim](https://www.kovach.me/The_ABCs_of_vim.html)
 - [Big Pile of Vim-like](https://vim.reversed.top/)
+- [PacVim](https://github.com/jmoon018/PacVim) - is a game that teaches you vim commands
 - [vim-galore](https://github.com/mhinz/vim-galore) - All things Vim!
 - [neovim](https://github.com/neovim/neovim)
 - [vim-plug](https://github.com/junegunn/vim-plug)

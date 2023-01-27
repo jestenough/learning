@@ -32,10 +32,11 @@ TODO
 
 ## Books
 
-- [] [Writing  a  Fast  HTTP  Parser](https://httpwork.shop/workshop2015/presentations/oku-picohttpparser.pdf)
+- [Writing  a  Fast  HTTP  Parser](https://httpwork.shop/workshop2015/presentations/oku-picohttpparser.pdf)
 
 
 ## Links
 
 - [Ddosify](https://ddosify.com/)
 - [HTTP Prompt](https://github.com/httpie/http-prompt) - interactive command-line HTTP client
+- [HTTP Status Codes Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/)

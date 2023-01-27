@@ -51,6 +51,7 @@ TODO
 
 ## Links
 
+- [ZType](https://zty.pe/) - typing practice game
 - [Keybr](https://www.keybr.com/) - typing practice
 - [Monkeytype](https://monkeytype.com/) - typing test
 - [Keebhunter](https://keebhunter.com/) - Find keyboard

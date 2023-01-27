@@ -49,6 +49,7 @@ TODO
 - [SQL Tutorial for Beginners](https://youtu.be/tp_5c6jaNQE)
 - [Cracking the SQL coding interview](https://youtu.be/y6CWIBKEw_g)
 - [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
+- [SQL на котиках: Джоины (Joins)](https://youtu.be/PTAkqURmI0s)
 
 
 ## Books
@@ -73,6 +74,6 @@ TODO
 - [Learn X in Y minutes Where X=SQL](https://learnxinyminutes.com/docs/sql/)
 - [SQL joins cheatsheet](https://devhints.io/sql-join)
 - [Comparison of different SQL implementations](http://troels.arvin.dk/db/rdbms/)
-- [SQL linter](https://github.com/joereynolds/sql-lint) 
+- [SQL linter](https://github.com/joereynolds/sql-lint)
 - [Falcon](https://github.com/plotly/falcon) -  Free, open-source SQL client for Windows and Mac
 - [Quick SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)

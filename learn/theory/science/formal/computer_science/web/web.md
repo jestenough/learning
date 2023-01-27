@@ -93,6 +93,8 @@ TODO
 - [The Soviet web: the tale of how the USSR almost invented the internet](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov)
 - [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
 - [Архитектура веба: основы для начинающих разработчиков](https://tproger.ru/translations/web-architecture-101/)
+- [Почему ваш веб-сайт должен быть меньше 14 КБ](https://habr.com/ru/post/684836/)
+- [Mobile first](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive/Mobile_first)
 
 
 ## Books
@@ -105,8 +107,6 @@ TODO
 
 ## Courses / Videos
 
-- [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/da)
-- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 - [Web Platform Course](https://webplatformcourse.com/7XoqGASUulHqaQUWuqXR/)
 - [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 - [CORS in 100 Seconds](https://youtu.be/4KHiSt0oLJ0)
@@ -129,43 +129,31 @@ TODO
 - [Web criticism](https://www.circumlunar.space/~solderpunk/web.html) - A collection of articles criticising various facets of the web
 - [W3C on GitHub](https://w3c.github.io/)
 - [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке
+- [БЭМ методология](https://ru.bem.info/methodology/)
 - [Cloudflare docs](https://developers.cloudflare.com/docs)
 - [Cloudflare Learning Center](https://www.cloudflare.com/learning/)
 - [MDN web docs](https://mdn.dev/) - Resources for developers, by developers
 - [Weird Wide Webring](https://weirdwidewebring.net/) - The web needs a little more weird. These sites are helping.
-- [LOW TECH WEBRING DIRECTORY](https://emreed.net/LowTech_Directory.html)
 - [WEBBED BRIEFS](https://briefs.video/) - are brief videos about the web, its technologies, and how to make the most of them
-- [Schema.org](https://schema.org/)
 - [24 ways is the advent calendar for web geeks](https://24ways.org/)
 - [Vocabs (HTML & СSS)](http://apps.workflower.fi/vocabs/)
-- [Indie Web](https://indieweb.org/)
-- [The Indie Web](https://theindieweb.com/) - Hotspot for indie creations on the web
-- [IndieWeb Collection](https://boffosocko.com/research/indieweb/)
 - [Веб-стандарты](https://web-standards.ru/) - Сообщество разработчиков
-- [Bookmark OS](https://bookmarkos.com/every-bookmark-manager-ever-made/) - Every bookmark manager ever made
 - [Periodic Table of Web Browsers APIs/Technologies with tutorial links](https://wwwperiodictable.surge.sh/)
 - [Clean up the web!](https://cleanuptheweb.org/) - Help rid the web of privacy-invading tracking
 - [Permission site](http://permission.site/) - test permission-related UI for web APIs
-- [mmm page](https://mmm.page/) - Dead simple, drag & drop websites
 - [Sharkle](https://sharkle.com/) - Generator of random awesomeness
-- [Web2Img](https://etherdream.github.io/web2img/)
+- [Web2Img](https://etherdream.github.io/web2img/)- tool to bundle your web files into a single image, and extract them via Service Worker at runtime
 - [Polyfill](https://polyfill.io/v3/) - It's a service which accepts a request for a set of browser features and returns only the polyfills that are needed by the requesting browser
 - [Personal sites](https://personalsit.es/) - Little directory of people's personal sites
+- [BrowserStack](https://www.browserstack.com/guide/cross-browser-compatibility-testing-checklist) - Cross Browser Compatibility Testing Checklist
 - [timefind](https://github.com/Cykelero/timefind) - Search a website's history
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
-- [TC39 Meeting Notes](https://github.com/tc39/notes)
-- [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [1000 feeds for web developers](https://github.com/simevidas/web-dev-feeds)
-- [Principles for making things for the web](https://github.com/veltman/principles)
+- [Principles for making things for the web](https://github.com/veltman/principles) - Things to keep in mind when making stuff for the web
 - [RealWorld example apps](https://github.com/gothinkster/realworld)
-- [How Web Works](https://github.com/vasanthk/how-web-works)
+- [How Web Works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [Web skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open-source self-hosted web archiving.
-- [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-- [Web Development Resources](https://github.com/mtdvio/web-development-resources)
-- [Web frameworks](https://github.com/the-benchmarker/web-frameworks)
+- [Web frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [Awesome Stacks](https://github.com/stackshareio/awesome-stacks)
 - [Awesome web effect](https://github.com/lindelof/awesome-web-effect)
 - [Awesome Landing Page](https://github.com/nordicgiant2/awesome-landing-page)
-- [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web)
-- [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)

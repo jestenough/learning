@@ -56,6 +56,7 @@ TODO
 - [Abertay Hacksoc Wiki!](https://wiki.hacksoc.co.uk/)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
 - [HackTricks](https://book.hacktricks.xyz/)
+- [maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username from thousands of sites
 - [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
 - [Web Security Basics](https://github.com/vasanthk/web-security-basics)
 - [Depix](https://github.com/beurtschipper/Depix) -  Recovers passwords from pixelized screenshots
